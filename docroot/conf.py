@@ -48,7 +48,7 @@ source_parsers = {
 master_doc = 'index'
 
 # General information about the project.
-project = 'PATRIC'
+project = 'PATRIC Docs'
 copyright = '2017, PATRIC team'
 author = 'PATRIC team'
 
