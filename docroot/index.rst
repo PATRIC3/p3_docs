@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PATRIC's documentation!
+PATRIC documentation home
 ==================================
 
 .. toctree::
@@ -12,6 +12,8 @@ Welcome to PATRIC's documentation!
 
    tutorial/index
    user_guide/index
+   news/index
+   system_architecture/index
 
 Indices and tables
 ==================
