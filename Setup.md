@@ -15,3 +15,8 @@ Install readthedoc them
 pip install sphinx_rtd_theme
 ```
 See more detail https://github.com/rtfd/sphinx_rtd_theme
+
+Install newsfeed plugin
+```
+pip install sphinxcontrib-newsfeed
+```
