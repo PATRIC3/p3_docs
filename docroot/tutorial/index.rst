@@ -13,4 +13,5 @@ Website Tutorials
    genome_assembly_service.md
    genome_annotation_service.md
    expression_import/expression_import.md
+   excel_formatting/excel_formatting.md
    genome_groups.md
