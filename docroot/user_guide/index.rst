@@ -1,4 +1,4 @@
-PATRIC User Guides
+User Guides
 ==================================
 
 .. toctree::

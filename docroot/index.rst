@@ -11,6 +11,7 @@ PATRIC documentation home
    :caption: Contents:
 
    tutorial/index
+   cli_tutorial/index
    user_guide/index
    news/index
    system_architecture/index
