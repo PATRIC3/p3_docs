@@ -17,7 +17,7 @@ d. Scroll to the right and select this same column for each of the comparison ge
 e. Once all the columns of interest have been selected, click on the Conditional Formatting button.  This is found in the header for the excel table.
 ![Step 5](./images/image5.png)
 
-f. A drop-down box will open when the Conditional Formatting button is selected.  Click on Highlight Cell Rules.  This will open a list.  Click on the option that says "Text that Contains…"
+f. A drop-down box will open when the Conditional Formatting button is selected.  Click on Highlight Cell Rules.  This will open a list.  Click on the option that says "Text that Contains..."
 ![Step 6](./images/image6.png)
 
 g. This will open a pop-up window.  In the empty text box (the one that follows the boxes that say "Specific text" and "containing", type in uni.
@@ -78,7 +78,7 @@ d. Now scrolling can occur and the information in the top rows can be seen while
 a. Once the text file downloaded from the Proteome Comparison job results has been opened in excel, select the columns of interest.
 ![Step 1](./images/image23.png)
 
-b. Once all the columns of interest have been selected, click on the Conditional Formatting button.  This is found in the header for the excel table. This will open the same drop-down box.  Click on Highlight Cell Rules.  This will open a list.  Click on the option that says "Equal to…"
+b. Once all the columns of interest have been selected, click on the Conditional Formatting button.  This is found in the header for the excel table. This will open the same drop-down box.  Click on Highlight Cell Rules.  This will open a list.  Click on the option that says "Equal to..."
 ![Step 2](./images/image24.png)
 
 c. In the pop-up window, type "blank" into the text box underneath the words "Formal cells that are EQUAL to" in the pop-up window. Click OK, and this will color the blank cells with the selected color.
