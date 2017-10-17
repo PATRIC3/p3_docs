@@ -23,7 +23,7 @@ pip install sphinxcontrib-newsfeed
 ```
 
 # Local setting
-
+Install nginx and config like below. Set document root accordingly.
 ```
 # nginx conf
 
@@ -34,7 +34,7 @@ server {
 }
 ```
 
-Add record for docs.patric.local in `/etc/hosts`
+Add record for docs.patric.local in `/etc/hosts` with sudo
 ```
 127.0.0.1	localhost
 127.0.0.1	docs.patric.local
