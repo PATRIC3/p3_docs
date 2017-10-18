@@ -6,3 +6,4 @@ Genomics
    :caption: Contents:
 
    expression_import/expression_import.md
+   blast/blast.md
