@@ -1,7 +1,48 @@
-CLI Tutorials
+The PATRIC Command Line Interface
 ==================================
+
+What is the PATRIC Command-line Interface?
+------------------------------------------
+
+`PATRIC <https://www.patricbrc.org>`_ is an integration of different
+types of data and software tools that support research on bacterial
+pathogens. The typical biologist seeking access to the PATRIC data and
+tools will usually explore the web-based user interface. However, there
+are many instances in which programatic or command-line interfaces are
+more suitable. For users that wish command-line access to PATRIC, we
+provide the tools described in this document. We call these tools the
+*P3-scripts*. They are intended to run on your machine, going over the
+network to access the services provided by PATRIC.
+
+Installing the CLI Release
+--------------------------
+
+Since the CLI tools run on your computer, to use them you will need to
+download and install a software package in order to use them.
+
+We currently have macOS and Debian/Ubuntu releases of the PATRIC Command Line 
+Interface. A Windows version is in the works.
+
+The releases are available at the `PATRIC3 github
+site <https://github.com/PATRIC3/PATRIC-distribution/releases>`_. Full installation
+installations are available in :ref:`cli-installation`.
+
+Tutorials and Reference Documentation
+-------------------------------------
+
+In order to enable users to make the most of the PATRIC command line interface
+we have collected a number of tutorials and reference materials. This collection 
+is linked below.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: Tutorials:
 
+   cli_installation
+   cli_getting_started
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Reference documentation:
+
+   command_list/index
