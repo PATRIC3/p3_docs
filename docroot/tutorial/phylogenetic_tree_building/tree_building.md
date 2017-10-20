@@ -1,4 +1,4 @@
-# Building Phylogenetic trees in PATRIC
+# Building Phylogenetic Trees
 
 ## 1.	 Selecting an “ingroup” of genomes for the tree.
 1.1.	In the Global text box, which is found at the right side of the header on any PATRIC page, enter the genus of interest, then hit return.
