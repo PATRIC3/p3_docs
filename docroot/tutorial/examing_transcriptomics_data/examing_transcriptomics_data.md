@@ -2,10 +2,12 @@
 
 ## I. Finding Experimental Data available in PATRIC
 1. PATRIC has imported experimental data from several prominent genera, most notably Escherichia and Mycobacterium.  To find this data, click on a genus of interest on the Organisms tab (or use the global search) and select a genus of interest.
-![Step 1](./images/image1.png "Step 1")
+
+    ![Step 1](./images/image1.png "Step 1")
 
 2. This will take you to the landing page for that genus.  To see if any transcriptomic data is available, click on the Transcriptomics tab (red arrow).
-![Step 2](./images/image2.png "Step 2")
+
+    ![Step 2](./images/image2.png "Step 2")
 
 3. This will open a new page that shows all the experimental data available for that genus.
 ![Step 3](./images/image3.png "Step 3")
@@ -35,58 +37,71 @@
 
 ## IV. Examining genes within an experiment: Gene filter
 1. A filter on the right side of the gene table where the genes in each experimental condition can be filtered on up- or down-regulation.  Clicking on one of the check boxes in front of a single experiment will re-filter the tables to meet that selection.
-![Step 11](./images/image11.png "Step 11")
+
+    ![Step 11](./images/image11.png "Step 11")
 
 2. Clicking on a checkbox above this list of experimental conditions will auto-select all the conditions together, re-filtering the table to show all the genes that are similarly expressed across all conditions.
 ![Step 12](./images/image12.png "Step 12")
 
 3. Many of the experiments examined more than one genome.  The filter table also provides the means to select specific genomes used within the experiment.  To do this, researchers need to click on the down arrow under Filter by Genome.  This will show all the genomes used in the experiment.  Clicking on one will re-filter the table to show only the results for that genome.
-![Step 13](./images/image13.png "Step 13")
+
+    ![Step 13](./images/image13.png "Step 13")
 
 4. A text box provides the ability to search for the names of specific genes.  Entering text in that box and clicking on the Filter button will re-sort the table to show the genes that contained that word(s) in their functional description.
 ![Step 14](./images/image14.png "Step 14")
 
 5. Researchers can also filter on the level of expression of specific genes by selecting a log ratio or Z score, and then clicking on the Filter button.  This will re-sort the table to show the number of genes that match that level of expression.
-![Step 15](./images/image15.png "Step 15")
+
+    ![Step 15](./images/image15.png "Step 15")
 
 ## V. Visualizing the genes and their expression on a heatmap
 1. PATRIC also provides a way to visualize gene expression with a heatmap. Click on the Heatmap tab above the filter.
 
-![Step 16](./images/image16.png "Step 16")
+    ![Step 16](./images/image16.png "Step 16")
 
 2. This will open a page that shows all the conditions and gene expression levels that match the selections made on the filter.
-![Step 17](./images/image17.png "Step 17")
+
+    ![Step 17](./images/image17.png "Step 17")
 
 4.  Several buttons on the upper right above the heatmap allow researchers to flip the axis, putting experimental conditions on the x-axis and the genes on the y-axis.  The colors used in the heatmap can be changed. The genes can be clustered, which at the default Pearson correlation with pairwise average-linkage as the clustering type.  There is also an advanced clustering method, and a way to see the significant genes, or all the genes in the genome.
-![Step 18](./images/image18.png "Step 18")
+
+    ![Step 18](./images/image18.png "Step 18")
 
 5. Clicking on advanced clustering open a pop=up window that allows researchers to cluster by genes, comparisons, or both.  In addition, there are several clustering algorithms and clustering types to choose from.
-![Step 19](./images/image19.png "Step 19")
+
+    ![Step 19](./images/image19.png "Step 19")
 
 6. Clicking on any of the clustering algorithms will re-sort the heat map to group genes that are expressed similarly together across the conditions.
-![Step 20](./images/image20.png "Step 20")
+
+    ![Step 20](./images/image20.png "Step 20")
 
 ## VI. Getting the data about the genes from the heatmap visualization
 1. To find further information on a group of genes in the heatmap, researchers can use their mouse to draw a box around genes, or patterns, of interest.
-![Step 21](./images/image21.png "Step 21")
+
+    ![Step 21](./images/image21.png "Step 21")
 
 2. This action will generate a pop-up window that provides several options for viewing the data, including download the genes, showing them, adding them to a group, or downloading the heatmap data.
-![Step 22](./images/image22.png "Step 22")
+
+    ![Step 22](./images/image22.png "Step 22")
 
 3. Clicking on Show Genes will open a new tab that shows the list of genes from the selection. Clicking on the check box next to Genome Name at the top of the table head will auto-select all the genes that where selected in the heatmap.
 ![Step 23](./images/image23.png "Step 23")
 
 4. Once any, or all the genes are selected, a list of downstream analysis tools will appear in the vertical green bar.
-![Step 24](./images/image24.png "Step 24")
+
+    ![Step 24](./images/image24.png "Step 24")
 
 5. These downstream tools or processes include the ability to download all the features in the table, go to the feature list view (Features icon), go to a view showing all the genomes that are the genes from the original selection belong to (Genomes icon), get the amino acid or nucleotide fasta files for all genes selected (FASTA icon), generate a multiple sequence alignment (MSA icon), map the PATRIC genes to other identifiers like UniProt (ID Map icon), find out any pathways that the selected genes belong to (Pathway icon), or to add the genes to an existing group, or create a new group with the selected genes (Group icon).
-![Step 25](./images/image25.png "Step 25")
+
+    ![Step 25](./images/image25.png "Step 25")
 
 6. If the Pathway Summary icon is selected, a new tab will open with a table showing this information.  This may take some time, depending on the number of genes selected.  A page with a spinning wheel will be displayed while PATRIC recovers the information.
-![Step 26](./images/image26.png "Step 26")
+
+    ![Step 26](./images/image26.png "Step 26")
 
 7. Once the table loads, a list of the pathways, the number of genes from the original selection, the number of genes in the genome that are part of the pathway, and the percent coverage (the selected genes as opposed to the total genes in the genome that are part of the pathway) are displayed.
-![Step 27](./images/image27.png "Step 27")
+
+    ![Step 27](./images/image27.png "Step 27")
 
 8. Clicking on an individual pathway open a list of downstream processes in the vertical green bar.
 ![Step 28](./images/image28.png "Step 28")
@@ -105,10 +120,12 @@
 ![Step 32](./images/image32.png "Step 32")
 
 4. The same ability of filtering by up- or down-regulation, genome name, or log-ratio/Z-score can be deployed by making a selection and clicking on the Filter button.
-![Step 33](./images/image33.png "Step 33")
+
+    ![Step 33](./images/image33.png "Step 33")
 
 5. The heatmap view shows the results of the filtering on the various experiments selected.  Clicking on the Cluster icon will cluster the results across all experiments and conditions.
 ![Step 34](./images/image34.png "Step 34")
 
 6. The information on specific genes can be viewed by using the mouse to draw a box over the selection, as described above.
-![Step 35](./images/image35.png "Step 35")
+
+    ![Step 35](./images/image35.png "Step 35")
