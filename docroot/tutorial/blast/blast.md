@@ -18,7 +18,6 @@
     - BLASTX: searches protein databases using a translated nucleotide query
     - TBLASTX: searches translated nucleotide databases using a translated nucleotide query
     - TBLASTN: searches translated nucleotide subjects using a protein query
-
 ![Step 4](./images/image4.png)
 
 2. Clicking on the algorithm of choice will close the drop down box and display the choice in the Program text box.
@@ -38,7 +37,6 @@
     1e. Search within selected genome group allows researcher to BLAST against any of the genome groups that they have created and are stored in their workspace.
 
     1f.  Search with selected taxon allows researchers to BLAST their sequence against any taxon level available in PATRIC.
-
 ![Step 6](./images/image6.png) 
 
 2. If the sequence selected for BLAST analysis is nucleotide, the available databases are as follows:
@@ -64,7 +62,6 @@
     2j. Search within selected genome group allows researcher to BLAST against any of the genome groups that they have created and are stored in their workspace.
 
     2k. Search with selected taxon allows researchers to BLAST their sequence against any taxon level available in PATRIC.
- 
 ![Step 7](./images/image7.png)
 
 ## IV. BLASTing against gene features or contigs
@@ -95,7 +92,6 @@
     - A direct link to the feature landing page for that gene or protein.
 
 When a single result is selected, the information about that specific choice also appears beyond the green bar.
-
 ![Step 13](./images/image13.png) 
 
 3. Clicking on multiple check boxes will also populate the vertical green bar with the downstream analysis tools or processes.  These are similar to those enabled when a single return was selected, with a few differences that include:
