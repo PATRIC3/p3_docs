@@ -14,7 +14,7 @@ PATRIC documentation home
    cli_tutorial/index
    user_guide/index
    news/index
-   system_architecture/index
+   system_architecture/compendium
 
 .. Indices and tables
 .. ==================
