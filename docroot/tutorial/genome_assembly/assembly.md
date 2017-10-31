@@ -61,19 +61,24 @@ Specific information on the Advanced parameters are as follows.
 
 ## Uploading single reads for an assembly job
 1. To upload a fastq file that contains single reads, locate the box called “Single read library.”
-![Step 15](./images/image15.png "Step 15")
+
+    ![Step 15](./images/image15.png "Step 15")
 
 2. If the reads have previously been uploaded, click the down arrow next to the text box below Read File.
-![Step 16](./images/image16.png "Step 16")
+
+    ![Step 16](./images/image16.png "Step 16")
 
 3. This opens up a drop-down box that shows the all the reads that have been previously uploaded into the user account.  Click on the name of the reads of interest.
-![Step 17](./images/image17.png "Step 17")
+
+    ![Step 17](./images/image17.png "Step 17")
 
 4. This will auto-fill the name of the document into the text box as seen below.
-![Step 18](./images/image18.png "Step 18")
+
+    ![Step 18](./images/image18.png "Step 18")
 
 5. To finish the upload, click on the icon of an arrow within a circle (red arrow in screenshot below). This will move your file into the Selected libraries box (blue arrow in screenshot below), where it is ready to be assembled
-![Step 19](./images/image19.png "Step 19")
+
+    ![Step 19](./images/image19.png "Step 19")
 
 ## Uploading files from the Sequence Read Archive (SRA)
 1. PATRIC will directly load files from SRA for assembly. Enter the accession number into the text box and then click on the icon of an arrow within a circle.  This will move the file into the Selected libraries box where it is ready to be assembled.
@@ -123,16 +128,20 @@ Specific information on the Advanced parameters are as follows.
 
 ## Submitting the assembly job
 1. To submit the job, click on the Assemble button.
-![Step 32](./images/image32.png "Step 32")
+
+    ![Step 32](./images/image32.png "Step 32")
 
 2. If the job was submitted successfully, a message will appear that indicates that the job has entered the assembly queue.
-![Step 33](./images/image33.png "Step 33")
+
+    ![Step 33](./images/image33.png "Step 33")
 
 3. To check the status of the assembly job, click on the Jobs indicator at the bottom of the PATRIC page.
-![Step 34](./images/image34.png "Step 34")
+
+    ![Step 34](./images/image34.png "Step 34")
 
 4. Clicking on Jobs opens the Jobs Status page, where researchers can see the progression of the assembly job as well as the status of all the previous service jobs that have been submitted.
-![Step 35](./images/image35.png "Step 35")
+
+    ![Step 35](./images/image35.png "Step 35")
 
 ## Viewing the assembly job
 1. Researchers must monitor the Jobs Status page to see when an assembly job has completed. Jobs that were successful have a blue circle followed by the word “completed”. Those that were not successful have a red circle, followed by the word “failed”.
