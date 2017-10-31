@@ -3,7 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-PATRIC documentation home
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/index.rst
+
+PATRIC Documentation Home
 ==================================
 
 .. toctree::
