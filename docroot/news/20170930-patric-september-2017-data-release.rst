@@ -1,3 +1,4 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20170930-patric-september-2017-data-release.rst
 
 PATRIC September 2017 Data Release
 ==================================
