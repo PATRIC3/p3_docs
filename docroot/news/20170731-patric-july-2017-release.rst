@@ -2,7 +2,7 @@ PATRIC July 2017 Data and Website Release
 =========================================
 
 .. feed-entry::
-   :date: 2017-09-08
+   :date: 2017-07-31
 
 PATRIC July 2017 Release Features over 3900 New Genomes, and New Functionality and Data Including a New Phylogenetic Tree Building Service and Enhancements to Multiple Services and Tools.
 
