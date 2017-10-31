@@ -5,53 +5,42 @@
 ### I. Locating the Variant Service App
 
 1. At the top of any PATRIC page, find the Services tab.
-
 ![Step 1](./images/image1.png)
 
 2.  Click on Variant analysis (red arrow).
-
 ![Step 2](./images/image2.png)
 
 3.  This will open up the Variant Analysis landing page where researchers can submit single or paired read files.
-
 ![Step 3](./images/image3.png)
 
 ### II. Loading the Reads-Paired end
 
 1.  Information on any page is available by clicking on the blue icon (red arrow).  This will open an information box
-
 ![Step 4](./images/image4.png) 
 
 2.  To upload paired reads for analysis, click on the down arrow that follows the text box (red arrow).  This will open a drop down box where reads that have been uploaded to PATRIC can be selected (black arrow).
-
 ![Step 5](./images/image5.png) 
 
 3.  Once selected, the name will appear under the read file.  To load the second half of the pair, repeat the process for Read File 2.
-
 ![Step 6](./images/image6.png) 
 
 4. Once both halves are selected, click on the arrow icon in the Paired read library box (red arrow).  This will load the reads (shown together in the same line for paired reads) into the Selected libraries panel.
-
 ![Step 7](./images/image7.png) 
 
 ### III. Loading the Reads-Single read
 
 1.	 To upload single reads for analysis, click on the down arrow that follows the text box (red arrow).  This will open a drop down box where reads that have been uploaded to PATRIC can be selected (black arrow).
-
 ![Step 8](./images/image8.png) 
 
 2.	Once selected, the name will appear under the read file.  Click on the arrow icon in the Single read library box (red arrow).  This will load the reads into the Selected libraries panel.
-
 ![Step 9](./images/image9.png) 
 
 3.	Repeat to add additional files to the analysis.
-
 ![Step 10](./images/image10.png) 
 
 ### IV. Filling in parameters
 
 1.	 PATRIC offers several types of aligners and SNP callers that can be used for comparison.  The Variant analysis service has BWA-mem as the default.  To see the other choices of aligners that can be used, click on the down arrow at the end of the Aligner text box (red arrow). This will open a drop down box that shows all the available programs.  A description of each program is provided below the screenshot.
-
 ![Step 11](./images/image11.png) 
 
 * BWA-MEM is a new alignment algorithm for aligning sequence reads or long query sequences against a large reference genome such as human. It automatically chooses between local and end-to-end alignments, supports paired-end reads and performs chimeric alignment. The algorithm is robust to sequencing errors and applicable to a wide range of sequence lengths from 70bp to a few megabases. For mapping 100bp sequences, BWA-MEM shows better performance than several state-of-art read aligners to date(1). 
@@ -63,7 +52,6 @@
 * LAST can handle big sequence data, like comparing two vertebrate genomes.  It can align billions of DNA reads to a genome, and will indicate reliability of each aligned column.  In addition, it can compare DNA to proteins, with frameshifts, compare PSSMs to sequences, calculates the likelihood of chance similarities between random sequences, does split and spliced alignment, and can be trained for unusual kinds of sequences (like nanopore)(4).
 
 2.	 PATRIC also offers a choice of SNP callers.  The default selection is for FreeBayes.  To see the other available choices, click on the down arrow that follows the SNP Caller text box (red arrow).  This will open a drop down box that shows all the available programs.  A description of each program is provided below the screenshot.
-
 ![Step 12](./images/image12.png) 
 
 * FreeBayes is an accurate method for sequence organization that includes fragment clustering, paralogue identification and multiple alignment. It calculates the probability that a given site is polymorphic and has an automated evaluation of the full length of all sequences, without limitations on alignment depth(5).
@@ -71,75 +59,58 @@
 * The Sequence Alignment/Map (SAM) format is a generic alignment format for storing read alignments against reference sequences, supporting short and long reads (up to 128 Mbp) produced by different sequencing platforms. It is flexible in style, compact in size, efficient in random access and is the format in which alignments from the 1000 Genomes Project are released. SAMtools implements various utilities for post-processing alignments in the SAM format, such as indexing, variant caller and alignment viewer, and thus provides universal tools for processing read alignments(6).
 
 3.	Researchers must select a Target Genome to align the reads against.  If this genome is a private genome, the search can be narrowed by clicking on the filter icon under the words Target Genome (red arrow).  This will open the filter where Public Genomes can be de-selected (blue arrow).
-
 ![Step 13](./images/image13.png)
 
 4.	To select a reference genome, start typing the name of a genome.  A box below Target Genome will show the closest matches that can be selected.
-
 ![Step 14](./images/image14.png)
 
 5.	Researchers that have used PATRIC before can click on the down arrow at the end of the Output Folder text box.  This will open a dropdown box that will show the folders that exist in the workspace (red arrow).
-
 ![Step 15](./images/image15.png)
 
 6.	Finally, researchers must name the Variant analysis job (red arrow).
-
 ![Step 16](./images/image16.png)
 
 ### V. Submitting the Variant Service Job
 
 1. To submit the completed job, click the Submit button (red arrow).
-
 ![Step 17](./images/image17.png)
 
 2.	If the job was submitted successfully, a message will appear that indicates that the job has entered the assembly queue.
-
 ![Step 18](./images/image18.png)
 
 3.	To check the status of the assembly job, click on the Jobs indicator at the bottom of the PATRIC page.
-
 ![Step 19](./images/image19.png)
 
 4.	Clicking on Jobs opens the Jobs Status page, where researchers can see the progression of the assembly job as well as the status of all the previous service jobs that have been submitted.
-
 ![Step 20](./images/image20.png)
 
 ### VI. Viewing the Variant Analysis
 
 1.	From the jobs page, click on a row to select the variant analysis job of interest. Once selected, the downstream processes available for the selection appear in the vertical green bar.  Each variant analysis job will only have one option, which is View (red arrow).  Clicking on the View icon will open the variant analysis job summary page.
-
 ![Step 21](./images/image21.png)
 
 2.	The variant analysis job summary page provides researchers with a cornucopia of files that can be downloaded, viewed, and examined for further analysis.
-
 ![Step 22](./images/image22.png)
 
 3.	**Bam files:** The Binary Alignment/Map (BAM) is the companion format of the Sequence Alignment/Map (SAM) format(6).  A SAM file (.sam) is a tab-delimited text file that contains sequence alignment data.  The .bam format is compact in size and supports fast retrieval of alignments in specified regions. It is optimal for viewing in a genome browser.  The PATRIC variant analysis service provides a .bam file for each of the read libraries that were loaded.
-
 ![Step 23](./images/image23.png)
 
 4a. **Tab Separated Values (.tsv):**  The PATRIC variant analysis service provides a .tsv file for each of the read libraries that were loaded. It summaries the locations of the variants, shows the nucleotide change, and identifies if it was a synonymous or nonsynonymous substitution, or an indel.  It also identifies the gene, or intergenic region, where the variation occurred.
-
 ![Step 24](./images/image24.png)
 
 4b. These files can be opened using excel to easily see the different variants.
-
 ![Step 25](./images/image25.png)
 
 5.	**The lbs.txt file:**  This is a text file that describes the libraries used in the comparison.
-
 ![Step 26](./images/image26.png)
 
 6.	**The summary.txt files:**  This file provides a summary of the analysis.  For each library it shows the number of reads, those that mapped to the reference, the number of bases in the reference, the median base coverage, bases with zero coverage, bases with less than (or equal to) 10 reads coverage, the raw variants that are detected by the variation calling tool, and those variants that have a high quality score.
-
 ![Step 27](./images/image27.png)
 
 7.	**The var.snpEFF.vcf files:**  SnpEff rapidly categorizing the effects of variants in genome sequences. Once a genome is sequenced, SnpEff annotates variants based on their genomic locations and predicts coding effects. Annotated genomic locations include intronic, untranslated region, upstream, downstream, splice site, or intergenic regions. Coding effects such as synonymous or non-synonymous amino acid replacement, start codon gains or losses, stop codon gains or losses, or frame shifts can be predicted(7). Below is an example, with the effects highlighted in the red boxes.  The PATRIC variant analysis service provides a .var.snpEFF.vcf file for each of the read libraries that were loaded.
-
 ![Step 28](./images/image28.png)
 
 8.	The var.snp.vcf files.  These files show the location of the snp on the genome.  The PATRIC variant analysis service provides a .var.snp.vcf file for each of the read libraries that were loaded.
-
 ![Step 29](./images/image29.png)
 
 9.	**The .html file:**  The HyperText Markup Language (HTML) file will open a webpage that shows the same data available in the .tsv file.
