@@ -89,8 +89,8 @@ todo_include_todos = False
 import sphinx_rtd_theme
 html_theme = "sphinx_rtd_theme"
 html_theme_options = {
-    'collapse_navigation': True,
-    'display_version': True
+    #'collapse_navigation': True
+    #'display_version': True
 }
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_logo = "_static/patric_logo.png"
