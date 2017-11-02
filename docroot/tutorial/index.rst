@@ -14,6 +14,6 @@ Website Tutorials
    transcriptomics
    protein_tools
    metabolomics
-   metagenomic_binning
+   metagenomic_binning/metagenomic_binning
    others
 

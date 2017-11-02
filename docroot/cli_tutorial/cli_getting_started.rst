@@ -199,7 +199,7 @@ command was used to specify the output columns and the order in which
 they appear. These options are available on all of the database scripts.
 
 For get-type scripts (:ref:`cli::p3-get-genome-data`,
-:ref:`cli::p3-get-genome-feature-data`, ...), you must supply the id of the
+:ref:`cli::p3-get-feature-data`, ...), you must supply the id of the
 object of interest, e.g., the genome id, feature id, etc. By default,
 the last column in the input file is used as the key field for these
 get-type scripts. You can modify this behavior using the ``--col``
@@ -626,8 +626,8 @@ p3-get-family-features
         p3-echo -t feature_id "fig|1105121.3.peg.460" | p3-get-feature-data --attr pgfam_id | p3-get-family-features --ftype=global --attr patric_id --attr product
 
     Note that the features found are listed in the column
-    :ref:`feature.patric\_id`, while the original feature is maintained in
-    the first column :ref:`feature\_id`.
+    ``feature.patric\_id`, while the original feature is maintained in
+    the first column `feature\_id`.
 
     ::
 
@@ -897,7 +897,7 @@ workspace so we can work with them later. We have the genomes we want
 stored in the genome groups *weak\_strep* and *resist\_strep*. The
 command that processes them is called :ref:`cli::p3-signature-families`.
 
-:ref:`cli::p3-signature families` compares two genome groups-- group 1 contains
+:ref:`cli::p3-signature-families` compares two genome groups-- group 1 contains
 genomes that are interesting for some reason, group 2 contains genomes
 that are not. We can pipe one of the two groups directly into the
 command, but the other needs to be in a file. We will start by creating
