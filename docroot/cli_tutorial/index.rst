@@ -44,3 +44,18 @@ is linked below.
    :caption: Reference documentation:
 
    command_list/index
+
+RAST Tutorials
+--------------
+
+We are also making available here a set of tutorials that relate to the RAST
+and RASTtk projects. The RAST technology underlies the genome annotation 
+services provided by PATRIC.
+
+.. toctree::
+    :maxdepth: 1
+    :caption: RAST tutorials:
+
+    rasttk_getting_started
+    rasttk_incremental_commands
+    rasttk_batch_mode
