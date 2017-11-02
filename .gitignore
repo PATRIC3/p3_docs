@@ -1,1 +1,4 @@
 docroot/_build/
+.DS_Store
+.vscode
+.idea

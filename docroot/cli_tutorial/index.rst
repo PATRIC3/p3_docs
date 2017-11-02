@@ -40,6 +40,7 @@ is linked below.
 
    cli_installation
    cli_getting_started
+   cli_services
    
 .. toctree::
    :maxdepth: 1

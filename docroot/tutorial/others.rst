@@ -5,4 +5,4 @@ Others
    :maxdepth: 1
    :caption: Contents:
 
-
+   amr/amr.md

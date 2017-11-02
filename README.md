@@ -38,6 +38,8 @@ Check a sample entry [here](https://github.com/PATRIC3/p3_docs/blob/master/docro
 3. When you build html, `news.rss` will be updated.
 
 ## Resources
-1. Markdown [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+-  Markdown [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-2. ReST [quick reference](http://docutils.sourceforge.net/docs/user/rst/quickref.html)
+-  [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+- ReST [quick reference](http://docutils.sourceforge.net/docs/user/rst/quickref.html)
