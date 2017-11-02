@@ -1,7 +1,9 @@
 .. _cli-getting-started:
 
-What is the PATRIC Command-line Interface?
-------------------------------------------
+==========================================
+ Using the PATRIC Command-line Interface
+==========================================
+
 
 `PATRIC <https://www.patricbrc.org>`_ is an integration of different
 types of data and software tools that support research on bacterial
