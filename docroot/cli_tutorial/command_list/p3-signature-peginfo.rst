@@ -1,9 +1,9 @@
 
 .. _cli::p3-signature-peginfo:
 
-####################
+#####################
 p3-signature-peginfo
-####################
+#####################
 
 .. highlight:: perl
 
