@@ -2340,10 +2340,9 @@ More Applications
 
 The following documents describe more applications for the PATRIC CLI.
 
-#. `Looking for Hypothetical Proteins in Clusters of Related
-   Features <p3_clustering.html>`_
-#. `Computing Signature Clusters <p3_signature_clusters.html>`_
-#. `Common Tasks with P3 Scripts <p3_common_tasks.html>`_
+#. :ref:`cli-clustering`
+#. :ref:`cli-signature-clusters`
+#. :ref:`cli-common-tasks`
 #. What Distinguishes One Set of Genomes from Another? (coming soon)
 #. Uploading Genomes and Assembling Reads (coming soon)
 

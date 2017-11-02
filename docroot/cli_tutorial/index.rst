@@ -38,6 +38,9 @@ is linked below.
    cli_installation
    cli_getting_started
    cli_services
+   cli_common_tasks
+   cli_clustering
+   cli_signature_clusters
    
 .. toctree::
    :maxdepth: 1
