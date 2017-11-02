@@ -627,9 +627,9 @@ p3-get-family-features
 
         p3-echo -t feature_id "fig|1105121.3.peg.460" | p3-get-feature-data --attr pgfam_id | p3-get-family-features --ftype=global --attr patric_id --attr product
 
-    Note that the features found are listed in the column
-    ``feature.patric\_id`, while the original feature is maintained in
-    the first column `feature\_id`.
+Note that the features found are listed in the column
+`feature.patric\_id`, while the original feature is maintained in
+the first column `feature\_id`.
 
     ::
 
@@ -950,12 +950,15 @@ The parameters work as follows.
 --gFile=resist.tbl
     Only features from the genomes listed in the file *resist.tbl*
     should be included in the output.
+
 --gCol=2
     The genome IDs in *resist.tbl* are in the second column.
+
 --ftype=global
     The family IDs in the input file are global families. (Local
     families and FIGfams are also supported, but the
     :ref:`cli::p3-signature-families` script uses global families.)
+
 --col=family.family\_id
     The protein family IDs in the input file are in a column named
     ``family.family_id``.
@@ -1693,6 +1696,8 @@ Note that some of the queries could be handled more efficiently using
 code from someone else. That would, of course, be fine with us.
 
 How many Streptococcus genomes do we have?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
     ::
 
         p3-all-genomes --equal genus,Streptococcus --count
@@ -1702,10 +1707,12 @@ How many Streptococcus genomes do we have?
         genome.count
         11836
 
-    Note the use of the ``--count`` command-line option to produce a
-    count of the results instead of the results themselves.
+Note the use of the ``--count`` command-line option to produce a
+count of the results instead of the results themselves.
 
 Which Streptococcus genomes do we have?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
     ::
 
         p3-all-genomes --equal genus,Streptococcus --attr genome_name
@@ -1723,16 +1730,16 @@ Which Streptococcus genomes do we have?
         1303.82 Streptococcus oralis strain DD27
         1303.83 Streptococcus oralis strain DD30
 
-    :ref:`cli::p3-all-genomes` always includes the ID, so all we need for the
-    ``--attr`` parameter is the name field. If you intend to pipe the
-    results into another script, specify the attributes in the order you
-    want them to appear.
+:ref:`cli::p3-all-genomes` always includes the ID, so all we need for the
+``--attr`` parameter is the name field. If you intend to pipe the
+results into another script, specify the attributes in the order you
+want them to appear.
 
-    ::
+::
 
         p3-all-genomes --equal genus,Streptococcus --attr genome_name --attr genome_id
 
-    ::
+::
 
         genome.genome_name  genome.genome_id
         Streptococcus gordonii strain DD07  1302.21
@@ -1745,28 +1752,30 @@ Which Streptococcus genomes do we have?
         Streptococcus oralis strain DD27    1303.82
         Streptococcus oralis strain DD30    1303.83
 
-What fraction of the genomes in genus Staphylococcus are resistant to
-methicillin?
-    This is a two-step process, since we need two numbers.
+What fraction of the genomes in genus Staphylococcus are resistant to methicillin?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+This is a two-step process, since we need two numbers.
 
     ::
 
         p3-all-genomes --equal genome_name,Staphylococcus --count
 
-    We isolate the genus by doing a string match on the genome name,
-    since equality for string fields matches if the value is a
-    substring. We could also use ``--equal genus,Staphylococcus`` and
-    get an equivalent result.
+We isolate the genus by doing a string match on the genome name,
+since equality for string fields matches if the value is a
+substring. We could also use ``--equal genus,Staphylococcus`` and
+get an equivalent result.
 
     ::
 
         genome.count
         10716
 
-    To get the count of resistant genomes, we need to pipe the drug name
-    into :ref:`cli::p3-get-drug-genomes`. Here we don't have the option of using
-    the *genus* field, since only the genome name is present in the
-    drug-genome records, not the entire taxonomy.
+To get the count of resistant genomes, we need to pipe the drug name
+into :ref:`cli::p3-get-drug-genomes`. Here we don't have the option of using
+the *genus* field, since only the genome name is present in the
+drug-genome records, not the entire taxonomy.
 
     ::
 
@@ -1777,18 +1786,20 @@ methicillin?
         antibiotic   genome_drug.count
         methicillin  1064
 
-    The answer is 1064 \* 100 / 10716 or 9.93%.
+The answer is 1064 \* 100 / 10716 or 9.93%.
 
 Which global protein family is fig\|46170.310.peg.738 in?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
     ::
 
         p3-echo -t patric_id "fig|46170.310.peg.738" | p3-get-feature-data --attr pgfam_id
 
-    There are a couple of important things here. We use the *pgfam\_id*
-    field to get the global protein family (*plfam\_id* would be used to
-    get the local protein family). Also, the feature ID is enclosed in
-    double quotes on the command line so that the vertical bar doesn't
-    confuse the command-line shell.
+There are a couple of important things here. We use the *pgfam\_id*
+field to get the global protein family (*plfam\_id* would be used to
+get the local protein family). Also, the feature ID is enclosed in
+double quotes on the command line so that the vertical bar doesn't
+confuse the command-line shell.
 
     ::
 
@@ -1796,7 +1807,9 @@ Which global protein family is fig\|46170.310.peg.738 in?
         fig|46170.310.peg.738 PGF_00040464
 
 What function does fig\|46170.310.peg.738 implement?
-    The function is stored in the feature table's *product* attribute.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The function is stored in the feature table's *product* attribute.
 
     ::
 
@@ -1807,8 +1820,8 @@ What function does fig\|46170.310.peg.738 implement?
         patric_id      feature.product
         fig|46170.310.peg.738   Putative cysteine desulfurase, associated with tRNA 4-thiouridine synthase
 
-    Of course, you could ask this question of several features with a
-    single pipe.
+Of course, you could ask this question of several features with a
+single pipe.
 
     ::
 
@@ -1821,14 +1834,16 @@ What function does fig\|46170.310.peg.738 implement?
         fig|1313.7001.peg.1189  IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
         fig|66976.18.peg.131    hypothetical protein
 
-    The :ref:`cli::p3-echo` command uses the ``--title`` command-line option to
-    determine how many parameters to put on each output line. Since our
-    example has only one title, the output file has only a single
-    column, and it can be easily piped to :ref:`cli::p3-get-feature-data`.
+The :ref:`cli::p3-echo` command uses the ``--title`` command-line option to
+determine how many parameters to put on each output line. Since our
+example has only one title, the output file has only a single
+column, and it can be easily piped to :ref:`cli::p3-get-feature-data`.
 
 What drugs is 46170.310 resistant to?
-    The drug name is in the *antibiotic* attribute of the genome-drug
-    table. We start with a genome ID and use :ref:`cli::p3-get-genome-drugs`.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The drug name is in the *antibiotic* attribute of the genome-drug
+table. We start with a genome ID and use :ref:`cli::p3-get-genome-drugs`.
 
     ::
 
@@ -1845,8 +1860,10 @@ What drugs is 46170.310 resistant to?
         46170.310   trimethoprim/sulfamethoxazole
 
 What genomes are resistant to erythromycin?
-    Here we start with a drug name and use :ref:`cli::p3-get-drug-genomes` to
-    get the genome data.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Here we start with a drug name and use :ref:`cli::p3-get-drug-genomes` to
+get the genome data.
 
     ::
 
@@ -1867,15 +1884,15 @@ What genomes are resistant to erythromycin?
         erythromycin    1313.7006   Streptococcus pneumoniae P310010-154
         erythromycin    1313.7013   Streptococcus pneumoniae P310795-191
 
-How close are fig\|1302.21.peg.966 and fig\|1302.21.peg.1019 on the
-chromosome?
-    The script :ref:`cli::p3-get-feature-gap` gives us this information. Since
-    it expects two feature IDs on the same input line, we use a
-    :ref:`cli::p3-echo` with two titles to put its two parameters on a single
-    line.
+How close are fig\|1302.21.peg.966 and fig\|1302.21.peg.1019 on the chromosome?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The script :ref:`cli::p3-get-feature-gap` gives us this information. Since
+it expects two feature IDs on the same input line, we use a
+:ref:`cli::p3-echo` with two titles to put its two parameters on a single
+line.
 
     ::
-
         p3-echo -t f1.patric_id -t f2.patric_id "fig|1302.21.peg.966" "fig|1302.21.peg.1019" | p3-feature-gap
 
     ::
@@ -1883,8 +1900,8 @@ chromosome?
         f1.patric_id    f2.patric_id    gap
         fig|1302.21.peg.966 fig|1302.21.peg.1019    55253
 
-    Note that if the features are on different contigs, we get a very
-    high number.
+Note that if the features are on different contigs, we get a very
+high number.
 
     ::
 
@@ -1895,11 +1912,13 @@ chromosome?
         f1.patric_id    f2.patric_id    gap
         fig|1313.7001.peg.1159  fig|1313.7001.peg.1384  2000000000
 
-    The very high number makes it easier to simply compare the distance
-    outputs from :ref:`cli::p3-feature-gap`. Features on different contigs will
-    always sort as further apart than features on the same contig.
+The very high number makes it easier to simply compare the distance
+outputs from :ref:`cli::p3-feature-gap`. Features on different contigs will
+always sort as further apart than features on the same contig.
 
 Give me a fasta file of the contigs of genome 1302.21
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
     ::
 
         p3-genome-fasta 1302.21
@@ -1915,6 +1934,8 @@ Give me a fasta file of the contigs of genome 1302.21
         ttgctgtctgatagagcctttgtagccgtagcagtcagaccgatatgacttttcatttgc
 
 Give me the protein sequences for the pegs in genome 1302.21.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
     ::
 
         p3-genome-fasta --protein 1302.21
@@ -1931,11 +1952,11 @@ Give me the protein sequences for the pegs in genome 1302.21.
         IVRHELAHYHLYYQGKGYRHKDRDFKELLKQVGGLRYAPGLPAKKLKLHYQCRSCCTDFY
         RQRRIEIKKYRCGRCKGKLRLLKQER
 
-Given a list of genomes, produce a list of pairs of roles that are
-implemented by pegs that are close on the chromosome, sorted by number
-of occurrences.
-    Here we assume our list of genomes is in the file **genomes.tbl**.
-    The content of this file is shown below.
+Given a list of genomes, produce a list of pairs of roles that are implemented by pegs that are close on the chromosome, sorted by number of occurrences.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Here we assume our list of genomes is in the file **genomes.tbl**.
+The content of this file is shown below.
 
     ::
 
@@ -1950,14 +1971,14 @@ of occurrences.
         1173954.3
         1176728.3
 
-    We use :ref:`cli::p3-get-genome-features` to get the feature and location
-    data, :ref:`cli::p3-function-to-role` to convert the functions to roles, and
-    :ref:`cli::p3-generate-close-roles` to compute the physically close roles.
-    Because we only want protein-encoding genes (pegs), we filter the
-    genome features by type. (If we didn't do this, the output would
-    start with a whole bunch of generic roles involving ribosomes and
-    CRISPR repeats.) The output is automatically sorted by decreasing
-    number of occurrences.
+We use :ref:`cli::p3-get-genome-features` to get the feature and location
+data, :ref:`cli::p3-function-to-role` to convert the functions to roles, and
+:ref:`cli::p3-generate-close-roles` to compute the physically close roles.
+Because we only want protein-encoding genes (pegs), we filter the
+genome features by type. (If we didn't do this, the output would
+start with a whole bunch of generic roles involving ribosomes and
+CRISPR repeats.) The output is automatically sorted by decreasing
+number of occurrences.
 
     ::
 
@@ -1974,11 +1995,13 @@ of occurrences.
         Gamma-glutamyltranspeptidase (EC 2.3.2.2)   Glutathione hydrolase (EC 3.4.19.13)    13
         Efflux ABC transporter, ATP-binding protein Efflux ABC transporter, permease protein    11
 
-    Note that the occurrence counts are shown in the last column of the
-    output.
+Note that the occurrence counts are shown in the last column of the
+output.
 
 What genomes in a list have GC content values greater than 60%.
-    For this exercise we will use the **genomes.tbl** file as input.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+For this exercise we will use the **genomes.tbl** file as input.
 
     ::
 
@@ -1993,9 +2016,9 @@ What genomes in a list have GC content values greater than 60%.
         1173954.3
         1176728.3
 
-    The GC content percentage is found in the *gc\_content* attribute,
-    as shown in the example below (we use :ref:`cli::p3-sort` to sort the
-    results by the content percentage).
+The GC content percentage is found in the *gc\_content* attribute,
+as shown in the example below (we use :ref:`cli::p3-sort` to sort the
+results by the content percentage).
 
     ::
 
@@ -2013,9 +2036,9 @@ What genomes in a list have GC content values greater than 60%.
         1176728.3       50.67   Escherichia coli K71
         316273.25       64.56   Xanthomonas campestris pv. vesicatoria str. 85-10
 
-    As you can see, there is only one genome in this set with a GC
-    content over 60%. To get only that genome, we use the ``--gt``
-    parameter to filter for specific values of that field.
+As you can see, there is only one genome in this set with a GC
+content over 60%. To get only that genome, we use the ``--gt``
+parameter to filter for specific values of that field.
 
     ::
 
@@ -2027,23 +2050,25 @@ What genomes in a list have GC content values greater than 60%.
         316273.25   64.56   Xanthomonas campestris pv. vesicatoria str. 85-10
 
 What roles are found in Vibrio campbellii but not Vibrio alginolyticus?
-    To answer this question, we need a file of roles from Vibrio
-    alginolyticus and use it to filter out roles from Vibrio campbellii.
-    The following pipe gets all the roles from Vibrio alginolyticus
-    genomes and puts them in the file **aRoles.tbl**.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+To answer this question, we need a file of roles from Vibrio
+alginolyticus and use it to filter out roles from Vibrio campbellii.
+The following pipe gets all the roles from Vibrio alginolyticus
+genomes and puts them in the file **aRoles.tbl**.
 
     ::
 
         p3-all-genomes --eq "genome_name,Vibrio alginolyticus" | p3-get-genome-features --attr product | p3-function-to-role | p3-sort --count feature.role >aRoles.tbl
 
-    There are a lot of pieces to this pipe. First, :ref:`cli::p3-all-genomes`
-    gets all the genome IDs for Vibrio alginolyticus. Then
-    :ref:`cli::p3-get-genome-features` finds all the features for those genomes
-    and outputs the functional assignment (product).
-    :ref:`cli::p3-function-to-role` converts the functions to roles and
-    eliminates the hypotheticals. Finally, :ref:`cli::p3-sort` with the
-    ``--count`` option counts the number of occurrences of each role. It
-    takes a while, but the output looks something like this.
+There are a lot of pieces to this pipe. First, :ref:`cli::p3-all-genomes`
+gets all the genome IDs for Vibrio alginolyticus. Then
+:ref:`cli::p3-get-genome-features` finds all the features for those genomes
+and outputs the functional assignment (product).
+:ref:`cli::p3-function-to-role` converts the functions to roles and
+eliminates the hypotheticals. Finally, :ref:`cli::p3-sort` with the
+``--count`` option counts the number of occurrences of each role. It
+takes a while, but the output looks something like this.
 
     ::
 
@@ -2060,7 +2085,7 @@ What roles are found in Vibrio campbellii but not Vibrio alginolyticus?
         1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (EC 1.17.7.1)   38
         1-phosphofructokinase (EC 2.7.1.56) 34
 
-    Now we perform the same exercise with Vibrio campbellii.
+Now we perform the same exercise with Vibrio campbellii.
 
     ::
 
@@ -2081,30 +2106,30 @@ What roles are found in Vibrio campbellii but not Vibrio alginolyticus?
         1-phosphofructokinase (EC 2.7.1.56) 33
         16 kDa heat shock protein A 25
 
-    Now we filter **cRoles.tbl** by removing records that match
-    **aRoles.tbl**. Note that we are matching on the key column ONLY. We
-    don't care about the counts, only which roles are in campbellii but
-    not alginolyticus. The :ref:`cli::p3-file-filter` command performs this
-    task.
+Now we filter **cRoles.tbl** by removing records that match
+**aRoles.tbl**. Note that we are matching on the key column ONLY. We
+don't care about the counts, only which roles are in campbellii but
+not alginolyticus. The :ref:`cli::p3-file-filter` command performs this
+task.
 
     ::
 
         p3-file-filter --reverse --col=feature.role aRoles.tbl <cRoles.tbl
 
-    The ``--reverse`` option tells us we want roles that are in the
-    standard input file (**cRoles.tbl**) but not the filter file
-    (**aRoles.tbl**). The ``--col`` option tells us we are comparing
-    values in the *feature.role* column. Both files are the same format;
-    if the formats were different, we could specify a different key
-    column identifier for the filter file by appending it as a
-    positional parameter. So, another way to code the same thing would
-    be
+The ``--reverse`` option tells us we want roles that are in the
+standard input file (**cRoles.tbl**) but not the filter file
+(**aRoles.tbl**). The ``--col`` option tells us we are comparing
+values in the *feature.role* column. Both files are the same format;
+if the formats were different, we could specify a different key
+column identifier for the filter file by appending it as a
+positional parameter. So, another way to code the same thing would
+be
 
     ::
 
         p3-file-filter --reverse --col=feature.role aRoles.tbl feature.role <cRoles.tbl
 
-    The output looks something like this
+The output looks something like this
 
     ::
 
@@ -2122,10 +2147,12 @@ What roles are found in Vibrio campbellii but not Vibrio alginolyticus?
         4-oxalocrotonate tautomerase    1
 
 What is the average length of proteins in family PGF\_00112374?
-    If we had a file of protein family names with the amino acid length
-    of each protein in the family, we can use the script :ref:`cli::p3-stats` to
-    output the mean length as well as the minimum, count, maximum, and
-    standard deviation. The following pipe does the trick.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If we had a file of protein family names with the amino acid length
+of each protein in the family, we can use the script :ref:`cli::p3-stats` to
+output the mean length as well as the minimum, count, maximum, and
+standard deviation. The following pipe does the trick.
 
     ::
 
@@ -2136,42 +2163,43 @@ What is the average length of proteins in family PGF\_00112374?
         family  count   average min max stdev
         PGF_00112374    3414    818.125659050967    31  901 193.491091039707
 
-    The :ref:`cli::p3-echo` command creates a one-line file with the family ID
-    in it. We use :ref:`cli::p3-get-family-features` to get all the features in
-    this family. The ``--ftype=global`` parameter indicates that this is
-    a global protein family (there are also families of type *local* and
-    *figfam*). For each feature, we want the amino acid length. This
-    value is stored in the *aa\_length* attribute. Finally, we have
-    :ref:`cli::p3-stats`. The ``--col=family`` parameter tells us the input file
-    records are to be grouped by the content of the *family* column. The
-    positional ``feature.aa_length`` parameter tells us the numbers to
-    analyze can be found in the *aa\_length* column from the *feature*
-    record. The output tells us there are 3414 pegs in the family. The
-    average length is a little over 818 amino acids with a standard
-    deviation of well over 193. The total range is 31 amino acids to 901
-    amino acids.
+The :ref:`cli::p3-echo` command creates a one-line file with the family ID
+in it. We use :ref:`cli::p3-get-family-features` to get all the features in
+this family. The ``--ftype=global`` parameter indicates that this is
+a global protein family (there are also families of type *local* and
+*figfam*). For each feature, we want the amino acid length. This
+value is stored in the *aa\_length* attribute. Finally, we have
+:ref:`cli::p3-stats`. The ``--col=family`` parameter tells us the input file
+records are to be grouped by the content of the *family* column. The
+positional ``feature.aa_length`` parameter tells us the numbers to
+analyze can be found in the *aa\_length* column from the *feature*
+record. The output tells us there are 3414 pegs in the family. The
+average length is a little over 818 amino acids with a standard
+deviation of well over 193. The total range is 31 amino acids to 901
+amino acids.
 
-Display the CDS and RNA features for genome 1313.7001 sorted by location
-on the chromosome.
+Display the CDS and RNA features for genome 1313.7001 sorted by location on the chromosome.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
     ::
 
         p3-echo -t genome_id 1313.7001 | p3-get-genome-features --in feature_type,CDS,rna --attr patric_id --attr sequence_id --attr start --attr strand --attr product | p3-sort feature.sequence_id feature.start/n feature.strand
 
-    We start by using :ref:`cli::p3-echo` to create a file that has our single
-    genome ID in it. The bulk of the retrieval work is performed by
-    :ref:`cli::p3-get-genome-features`. The ``--in`` parameter allows us to
-    specify a list of values for a specific field. In this case, we want
-    *feature\_type* to equal either ``CDS`` or ``rna``. To sort by
-    location, we need the contig ID (*sequence\_id*) and the start
-    location (*start*). The start location is always the leftmost
-    location on the contig, so it is perfect for sorting. Finally, we
-    add the strand (``+`` or ``i``) and then the functional assignment
-    (*product*) so we can see what the feature does. The :ref:`cli::p3-sort`
-    gets the file records in the proper order. Because one of the fields
-    is numeric, we put a ``/n`` after the field name. This tells the
-    sorter that for the *feature.start* column, the value ``20`` comes
-    before, not after, the value ``100``. The output will look something
-    like this.
+We start by using :ref:`cli::p3-echo` to create a file that has our single
+genome ID in it. The bulk of the retrieval work is performed by
+:ref:`cli::p3-get-genome-features`. The ``--in`` parameter allows us to
+specify a list of values for a specific field. In this case, we want
+*feature\_type* to equal either ``CDS`` or ``rna``. To sort by
+location, we need the contig ID (*sequence\_id*) and the start
+location (*start*). The start location is always the leftmost
+location on the contig, so it is perfect for sorting. Finally, we
+add the strand (``+`` or ``i``) and then the functional assignment
+(*product*) so we can see what the feature does. The :ref:`cli::p3-sort`
+gets the file records in the proper order. Because one of the fields
+is numeric, we put a ``/n`` after the field name. This tells the
+sorter that for the *feature.start* column, the value ``20`` comes
+before, not after, the value ``100``. The output will look something
+like this.
 
     ::
 
@@ -2193,23 +2221,24 @@ on the chromosome.
         1313.7001   fig|1313.7001.peg.15    1313.7001.con.0003  10173   +   tmRNA-binding protein SmpB
         1313.7001   fig|1313.7001.peg.16    1313.7001.con.0003  10656   +   Tellurite methyltransferase (EC 2.1.1.265)
 
-Compute the upstream regions for the protein-encoding genes in genome
-1313.7001.
-    We get upstream regions from the :ref:`cli::p3-feature-upstream` script, but
-    to use it we need an input list of feature IDs. We will produce
-    feature IDs and functional assignments, then append the upstream
-    sequences.
+Compute the upstream regions for the protein-encoding genes in genome 1313.7001.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We get upstream regions from the :ref:`cli::p3-feature-upstream` script, but
+to use it we need an input list of feature IDs. We will produce
+feature IDs and functional assignments, then append the upstream
+sequences.
 
     ::
 
         p3-echo -t genome_id 1313.7001 | p3-get-genome-features --eq feature_type,CDS --attr patric_id --attr product | p3-feature-upstream --col=feature.patric_id
 
-    The ``-eq feature_type,CDS`` ensures we only see protein-encoding
-    features. Because we are not putting the feature ID in the last
-    column, we use ``--col=feature.patric_id`` to direct
-    :ref:`cli::p3-feature-upstream` to the correct input column. The output will
-    look something like this. Note the upstream DNA is in the last
-    column.
+The ``-eq feature_type,CDS`` ensures we only see protein-encoding
+features. Because we are not putting the feature ID in the last
+column, we use ``--col=feature.patric_id`` to direct
+:ref:`cli::p3-feature-upstream` to the correct input column. The output will
+look something like this. Note the upstream DNA is in the last
+column.
 
     ::
 
@@ -2224,13 +2253,13 @@ Compute the upstream regions for the protein-encoding genes in genome
         1313.7001   fig|1313.7001.peg.1278  Helicase loader DnaB    acgttttgctagtgtctatcgtagttttaaggatgtcagtgagttagagagcttgctccaacaaatcacccagtcctctaaaaagaaaaaggaaagataa
         1313.7001   fig|1313.7001.peg.1288  Fructokinase (EC 2.7.1.4)   ttattagatagtaagatttacagaggaaaatctaaaaaatagagacatttagactttcgaagtatgctataataaagaaaataaaaacaagaggtttatc
 
-    You can use the ``--len`` parameter of :ref:`cli::p3-feature-upstream` to
-    change the number of base pairs displayed (the default is 100). If
-    the feature is at the edge of the contig, you may see less than the
-    specified length or even nothing at all, since the script stops at
-    the contig boundary. To see downstream regions instead, use the
-    ``--downstream`` option. This pipe shows the 10 base pairs
-    downstream of each gene.
+You can use the ``--len`` parameter of :ref:`cli::p3-feature-upstream` to
+change the number of base pairs displayed (the default is 100). If
+the feature is at the edge of the contig, you may see less than the
+specified length or even nothing at all, since the script stops at
+the contig boundary. To see downstream regions instead, use the
+``--downstream`` option. This pipe shows the 10 base pairs
+downstream of each gene.
 
     ::
 
@@ -2249,20 +2278,22 @@ Compute the upstream regions for the protein-encoding genes in genome
         1313.7001   fig|1313.7001.peg.1278  Helicase loader DnaB    atggaaagtg
 
 What is the codon usage in genome 186497.12?
-    The :ref:`cli::p3-sequence-profile` script counts the number of occurrences
-    of each letter in a sequence field. To use it, we need to create a
-    file that has the sequences we want to analyze in the last column.
-    We start with the genome ID, then use :ref:`cli::p3-get-genome-features` to
-    get the feature data. The *aa\_sequence* field contains the protein
-    sequences, which are then processed by :ref:`cli::p3-sequence-profile`.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The :ref:`cli::p3-sequence-profile` script counts the number of occurrences
+of each letter in a sequence field. To use it, we need to create a
+file that has the sequences we want to analyze in the last column.
+We start with the genome ID, then use :ref:`cli::p3-get-genome-features` to
+get the feature data. The *aa\_sequence* field contains the protein
+sequences, which are then processed by :ref:`cli::p3-sequence-profile`.
 
     ::
 
         p3-echo -t genome_id 186497.12 | p3-get-genome-features --attr aa_sequence | p3-sequence-profile
 
-    By default, :ref:`cli::p3-sequence-profile` works on the last input column,
-    which in this case is the amino acid sequence. The output will look
-    something like this.
+By default, :ref:`cli::p3-sequence-profile` works on the last input column,
+which in this case is the amino acid sequence. The output will look
+something like this.
 
     ::
 
@@ -2288,9 +2319,9 @@ What is the codon usage in genome 186497.12?
         W   7104
         C   3359
 
-    Note that the output is sorted from most common to least. The same
-    trick works for DNA sequences, which are in the *na\_sequence*
-    field.
+Note that the output is sorted from most common to least. The same
+trick works for DNA sequences, which are in the *na\_sequence*
+field.
 
     ::
 

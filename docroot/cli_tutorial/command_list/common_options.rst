@@ -1,3 +1,5 @@
+.. _cli-common-options:
+
 =========================================
  Common Options to Command Line Programs
 =========================================
@@ -17,7 +19,7 @@ The following option can be used to change where the input for the script is tak
     Name of the main input file. If omitted and an input file is
     required, the standard input is used.
 
-.. _cli-column-options::
+.. _cli-column-options:
 
 Column Options
 ==============
