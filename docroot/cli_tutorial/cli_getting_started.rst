@@ -1,33 +1,17 @@
-The PATRIC Command-Line Interface
-=================================
+.. _cli-getting-started:
 
--  `Document Conventions <#Help>`_
--  `What is the PATRIC Command-line Interface? <#What>`_
+What is the PATRIC Command-line Interface?
+------------------------------------------
 
-   -  `Installing the CLI <#Install>`_
-   -  `Command-Line Help <#GHelp>`_
-
--  `The PATRIC Database <#Database>`_
--  `Files and Pipelines <#Pipes>`_
-
-   -  `p3-echo <#Echo>`_
-
--  `Database Script Examples <#Scripts>`_
--  `What is a PATRIC Workspace? <#Space>`_
-
-   -  `Logging In <#Login>`_
-   -  `Working with Genome Groups <#GGroups>`_
-   -  `Working with Feature Groups <#FGroups>`_
-
--  `Extracting and Mining Genome Typed Objects (GTOs) <#GTO>`_
--  `Using RAST to Create New Genomes <#RAST>`_
--  `Customizing Your Toolkit <#Custom>`_
-
-   -  `Custom Scripts in the BASH Environment <CustomBASH>`_
-   -  `Custom Scripts for the Windows CMD Shell <CustomWin>`_
-
--  `PATRIC Query Examples <#Query>`_
--  `More Applications <#Apps>`_
+`PATRIC <https://www.patricbrc.org>`_ is an integration of different
+types of data and software tools that support research on bacterial
+pathogens. The typical biologist seeking access to the PATRIC data and
+tools will usually explore the web-based user interface. However, there
+are many instances in which programatic or command-line interfaces are
+more suitable. For users that wish command-line access to PATRIC, we
+provide the tools described in this document. We call these tools the
+*P3-scripts*. They are intended to run on your machine, going over the
+network to access the services provided by PATRIC.
 
 Document Conventions
 --------------------
@@ -64,36 +48,18 @@ stream, the missing parts will be shown with a gray bar.
     NOTE: we add new genomes to the PATRIC database every week. Your
     results from the examples in this tutorial may not match ours.
 
-What is the PATRIC Command-line Interface?
-------------------------------------------
-
-`PATRIC <https://www.patricbrc.org>`_ is an integration of different
-types of data and software tools that support research on bacterial
-pathogens. The typical biologist seeking access to the PATRIC data and
-tools will usually explore the web-based user interface. However, there
-are many instances in which programatic or command-line interfaces are
-more suitable. For users that wish command-line access to PATRIC, we
-provide the tools described in this document. We call these tools the
-*P3-scripts*. They are intended to run on your machine, going over the
-network to access the services provided by PATRIC.
-
 Installing the CLI Release
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We currently only have a Mac OSX release of the CLI package, but we
-should soon have a Windows version as well.
+Since the CLI tools run on your computer, to use them you will need to
+download and install a software package in order to use them.
+
+We currently have macOS and Debian/Ubuntu releases of the PATRIC Command Line 
+Interface. A Windows version is in the works.
 
 The releases are available at the `PATRIC3 github
-site <https://github.com/PATRIC3/PATRIC-distribution/releases>`_.
-
-Download the latest version of the PATRIC dmg (disk image) file. Click
-on the downloaded file to open it, and drag the PATRIC icon on to the
-Application folder icon. This will install into your Applications
-folder.
-
-Then doubleclick on the PATRIC icon in the Applications folder. This
-will bring up a new Terminal window that is configured for access to the
-PATRIC command line tools.
+site <https://github.com/PATRIC3/PATRIC-distribution/releases>`_. Full installation
+installations are available in :ref:`cli-installation`.
 
 Command-Line Help
 ~~~~~~~~~~~~~~~~~
@@ -125,7 +91,7 @@ heavily-indexed relational tables. From the perspective of the CLI,
 there are five main tables representing objects of interest, connected
 by four relationships.
 
-.. figure:: ../img/P3DB.JPG
+.. figure:: images/P3DB.JPG
    :align: center
    :alt: 
 
@@ -136,12 +102,12 @@ Genome
     estimate of the DNA sequence for an organism. Use **p3-all-genomes**
     to list all of the genomes or a subset. Given a list of genomes,
 
-    -  Use **p3-get-genome-data** to retrieve data about the individual
+    -  Use :ref:`cli::p3-get-genome-data` to retrieve data about the individual
        genomes.
-    -  Use **p3-get-genome-features** to access the features of the
+    -  Use :ref:`cli::p3-get-genome-features` to access the features of the
        genomes.
-    -  Use **p3-get-genome-contigs** to access the genomes' sequences.
-    -  Use **p3-get-genome-drugs** to access drug resistance data about
+    -  Use :ref:`cli::p3-get-genome-contigs` to access the genomes' sequences.
+    -  Use :ref:`cli::p3-get-genome-drugs` to access drug resistance data about
        the genomes.
 
     Fields from the Genome table appear in the output with a heading
@@ -150,15 +116,15 @@ Genome
 Contig
     Represents one of the DNA sequences that comprise a genome. A contig
     can be a chromosome, a plasmid, or a fragment thereof. Contig data
-    can be accessed from genome IDs using **p3-get-genome-contigs**.
+    can be accessed from genome IDs using :ref:`cli::p3-get-genome-contigs`.
     Fields from the Contig table appear in the output with a heading
     prefix of ``contig``. Thus, the *length* will be in a column named
     ``contig.length``.
 Drug
     Represents an antimicrobial drug used for therapeutic treatment.
     This table is the anchor for all antimicrobial resistance data in
-    PATRIC. Use **p3-all-drugs** to get a list of drugs. Use
-    **p3-get-drug-genomes** to get resistance data relating to specific
+    PATRIC. Use :ref:`cli::p3-all-drugs` to get a list of drugs. Use
+    :ref:`cli::p3-get-drug-genomes` to get resistance data relating to specific
     drugs from a list. Fields from the Drug table appear in the output
     with a heading prefix of ``drug``. Thus, the *molecular\_formula*
     will be in a column named ``drug.molecular_formula``.
@@ -167,10 +133,10 @@ Feature
     array, an RNA site, a protein encoding region, or a regulatory site,
     among others. A feature can be split across multiple regions, or
     even multiple contigs, but never multiple genomes. Given a list of
-    genome IDs, use **p3-get-genome-features** to access the features in
+    genome IDs, use :ref:`cli::p3-get-genome-features` to access the features in
     the genomes. Given a list of family IDs, use
-    **p3-get-family-features** to access the features in the families.
-    Given a list of feature IDs, use **p3-get-feature-data** to access
+    :ref:`cli::p3-get-family-features` to access the features in the families.
+    Given a list of feature IDs, use :ref:`cli::p3-get-feature-data` to access
     data about those features. **It is important to remember that the ID
     of the feature is called *patric\_id*, not *feature\_id*.** The
     internal feature ID is a long string with a lot of data packed into
@@ -183,9 +149,9 @@ Feature
 Family
     Represents a protein family, which is a set of features believed to
     be isofunctional homologs. Given a list of family IDs, use
-    **p3-get-family-features** to get data about the features in the
-    families or **p3-get-family-data** to get data about the families
-    themselves. Given a list of feature IDs, use **p3-get-feature-data**
+    :ref:`cli::p3-get-family-features` to get data about the features in the
+    families or :ref:`cli::p3-get-family-data` to get data about the families
+    themselves. Given a list of feature IDs, use :ref:`cli::p3-get-feature-data`
     to get the families to which the features belong. There are three
     types of protein families supported-- *local* families which are
     confined to one genus, *global* families which cross the entire
@@ -232,8 +198,8 @@ was used to filter a query, while the ``--attr`` option in the second
 command was used to specify the output columns and the order in which
 they appear. These options are available on all of the database scripts.
 
-For get-type scripts (**p3-get-genome-data**,
-**p3-get-genome-feature-data**, ...), you must supply the id of the
+For get-type scripts (:ref:`cli::p3-get-genome-data`,
+:ref:`cli::p3-get-genome-feature-data`, ...), you must supply the id of the
 object of interest, e.g., the genome id, feature id, etc. By default,
 the last column in the input file is used as the key field for these
 get-type scripts. You can modify this behavior using the ``--col``
@@ -259,10 +225,10 @@ second one), you could use any of the three following commands
 
 where *input.tbl* is the above output file.
 
-The special script **p3-extract** allows you to select columns from a
+The special script :ref:`cli::p3-extract` allows you to select columns from a
 file and even change the order. Thus, the following pipeline removes the
 genome ID from our file and puts the feature ID at the end before asking
-**p3-get-feature-data** for the location information.
+:ref:`cli::p3-get-feature-data` for the location information.
 
 ::
 
@@ -270,7 +236,7 @@ genome ID from our file and puts the feature ID at the end before asking
 
 The same flexibility provided for arguments of the ``--col`` option is
 available anywhere you specify column names, including the parameters of
-**p3-extract**. So, the following invocation is equivalent to the above.
+:ref:`cli::p3-extract`. So, the following invocation is equivalent to the above.
 
 ::
 
@@ -298,14 +264,14 @@ of the file. We provide p3 scripts for several of the most common needs.
 +--------------+---------------------------------------------------------------------------------------------+-------------------+
 
 These commands do not work precisely like their unix equivalents. Most
-have fewer options: for example, **p3-match** searches for text in a
+have fewer options: for example, :ref:`cli::p3-match` searches for text in a
 single column rather than the entire file and does not support regular
 expressions.
 
 p3-echo
 ~~~~~~~
 
-The **p3-echo** command is your most important tool for creating small
+The :ref:`cli::p3-echo` command is your most important tool for creating small
 files that feed into pipes. The ``--title`` command-line option
 (abbreviated ``-t``) allows you to specify the title for the column you
 are creating. Each positional parameter forms a single record with a
@@ -471,12 +437,12 @@ p3-get-genome-data
         749414.3    Streptomyces bingchenggensis BCW-1  0   11936683
         66876.3 Streptomyces chattanoogensis strain NRRL ISP-5002   217 9129105
 
-    In actual fact, the use of **p3-get-genome-data** in the above
-    pipeline is redundant, since **p3-all-genomes** supports the same
+    In actual fact, the use of :ref:`cli::p3-get-genome-data` in the above
+    pipeline is redundant, since :ref:`cli::p3-all-genomes` supports the same
     command-line options. In practice, you will use
-    **p3-get-genome-data** to process genome ID files created on a
+    :ref:`cli::p3-get-genome-data` to process genome ID files created on a
     separate occasion or via other scripts that don't have the full
-    power of **p3-all-genomes**. If you don't specify any ``--attr``
+    power of :ref:`cli::p3-all-genomes`. If you don't specify any ``--attr``
     values, you get the same output fields as found on the PATRIC genome
     list tab.
 
@@ -642,7 +608,7 @@ p3-get-drug-genomes
         amikacin    1427207.3   Mycobacterium tuberculosis XTB13-115
 
     Rather than typing ``--eq resistant_phenotype,resistant``, the
-    **p3-get-drug-genomes** script provides the special command-line
+    :ref:`cli::p3-get-drug-genomes` script provides the special command-line
     options ``--resistant`` and ``--susceptible`` to filter for the
     appropriate resistance phenotypes automatically.
 
@@ -660,8 +626,8 @@ p3-get-family-features
         p3-echo -t feature_id "fig|1105121.3.peg.460" | p3-get-feature-data --attr pgfam_id | p3-get-family-features --ftype=global --attr patric_id --attr product
 
     Note that the features found are listed in the column
-    **feature.patric\_id**, while the original feature is maintained in
-    the first column **feature\_id**.
+    :ref:`feature.patric\_id`, while the original feature is maintained in
+    the first column :ref:`feature\_id`.
 
     ::
 
@@ -704,15 +670,15 @@ p3-get-feature-data
         1105121.3   fig|1105121.3.peg.228   LSU ribosomal protein L23p (L23Ae)  MNLYDVIKKPVITESSMAQLEAGKYVFEVDTRAHKLLIKQAVEAAFEGVKVANVNTINVKPKAKRVGRYTGFTNKTKKAIITLTADSKAIELFAAEAE
         1105121.3   fig|1105121.3.peg.230   SSU ribosomal protein S19p (S15e)   MGRSLKKGPFVDEHLMKKVEAQANDEKKKVIKTWSRRSTIFPSFIGYTIAVYDGRKHVPVYIQEDMVGHKLGEFAPTRTYKGHAADDKKTRRK
 
-    The use of **p3-get-feature-data** here is redundant, since you
+    The use of :ref:`cli::p3-get-feature-data` here is redundant, since you
     could get the same result by placing the attribute requests directly
-    on **p3-get-genome-features**.
+    on :ref:`cli::p3-get-genome-features`.
 
     ::
 
         p3-echo -t genome_id 1105121.3 | p3-get-genome-features --lt na_length,300 --eq feature_type,CDS --attr patric_id --attr product --attr aa_sequence
 
-    **p3-get-feature-data** is provided for the situation where you are
+    :ref:`cli::p3-get-feature-data` is provided for the situation where you are
     piping in the feature list from something external or precomputed.
 
 What Is a PATRIC Workspace?
@@ -741,7 +707,7 @@ one already, go to
 and register now.
 
 Now that you have a working user name and password, you can use the
-**p3-login** script to tell the CLI who you are. For example, if your
+:ref:`cli::p3-login` script to tell the CLI who you are. For example, if your
 name is ``rastuser25``, you would type
 
 ::
@@ -785,7 +751,7 @@ special folders.
 -  **QuickData** contains folders full of genomes you submitted through
    the CLI annotation interface.
 
-To create a genome group, you use **p3-put-genome-group**. Say, for
+To create a genome group, you use :ref:`cli::p3-put-genome-group`. Say, for
 example, you want to examine Streptococcus penumoniae genomes that are
 resistant to penicillin. The following query command will return this
 list of genomes (we will discuss all query commands in more details
@@ -799,12 +765,12 @@ This particular command asks for data from the anti-microbial resistance
 table. Each record in this table posits a relationship between a genome
 and an antibiotic drug. We are accessing the table from the direction of
 taking a drug and finding resistant genomes. To do this, we need a file
-with a drug name in it. The **p3-echo** command creates this file: the
+with a drug name in it. The :ref:`cli::p3-echo` command creates this file: the
 ``-t antibiotic`` parameter tells it we want a one-column file with a
 column header of ``antibiotic``. We put the single record ``penicillin``
 in that column.
 
-The antibiotic file is then piped into **p3-get-drug-genomes**. Its
+The antibiotic file is then piped into :ref:`cli::p3-get-drug-genomes`. Its
 parameters do the following.
 
 ``--eq "genome_name,Streptococcus pneumoniae"``
@@ -814,8 +780,8 @@ parameters do the following.
     ``Streptococcus pneumoniae strain LMG2888``) will still match.
 ``--resistant``
     Only include records that state the genome is resistant. This is a
-    special parameter for the **p3-get-drug-genomes** and
-    **p3-get-genome-drugs** commands that is provided for convenience.
+    special parameter for the :ref:`cli::p3-get-drug-genomes` and
+    :ref:`cli::p3-get-genome-drugs` commands that is provided for convenience.
 ``--attr genome_id``
     Output the genome ID.
 ``--attr genome_name``
@@ -849,7 +815,7 @@ Now we want to create a group for these genomes called
 The ``--col=2`` tells the command that the genome IDs are in the second
 column. The genome group is simply a set of genome IDs, so the other
 columns will be ignored by the command. You can read the group back at
-any time using **p3-get-genome-group**.
+any time using :ref:`cli::p3-get-genome-group`.
 
 ::
 
@@ -871,7 +837,7 @@ Will output
     760771.3
 
 and so on. Note that if you want to see the names as well, you can use
-the **p3-get-genome-data** command to add them
+the :ref:`cli::p3-get-genome-data` command to add them
 
 ::
 
@@ -895,7 +861,7 @@ the **p3-get-genome-data** command to add them
 Next we will ask for the genomes that are susceptible to penicillin. We
 use the same command as before except we put ``susceptible`` in place of
 ``resistant``. We're going to pipe the results directly into
-**p3-put-genome-group** to store them in our workspace.
+:ref:`cli::p3-put-genome-group` to store them in our workspace.
 
 ::
 
@@ -929,9 +895,9 @@ genomes that distinguish them from the susceptible ones. Then we will
 gather those features into a feature group and store them in our
 workspace so we can work with them later. We have the genomes we want
 stored in the genome groups *weak\_strep* and *resist\_strep*. The
-command that processes them is called **p3-signature-families**.
+command that processes them is called :ref:`cli::p3-signature-families`.
 
-**p3-signature families** compares two genome groups-- group 1 contains
+:ref:`cli::p3-signature families` compares two genome groups-- group 1 contains
 genomes that are interesting for some reason, group 2 contains genomes
 that are not. We can pipe one of the two groups directly into the
 command, but the other needs to be in a file. We will start by creating
@@ -955,7 +921,7 @@ would be the interesting set, since there is no **--gs1** parameter.
 
 Our signature families analysis script has no output, because we
 redirected it to *families.tbl*. We can peek at the results using the
-``--all`` option of **p3-extract**.
+``--all`` option of :ref:`cli::p3-extract`.
 
 ::
 
@@ -970,7 +936,7 @@ redirected it to *families.tbl*. We can peek at the results using the
     91  10  PGF_03497236    hypothetical protein
 
 We found four protein families. The next step is to convert the families
-into feature IDs. The **p3-get-family-features** script performs that
+into feature IDs. The :ref:`cli::p3-get-family-features` script performs that
 function. We will use the following command.
 
 ::
@@ -987,7 +953,7 @@ The parameters work as follows.
 --ftype=global
     The family IDs in the input file are global families. (Local
     families and FIGfams are also supported, but the
-    **p3-signature-families** script uses global families.)
+    :ref:`cli::p3-signature-families` script uses global families.)
 --col=family.family\_id
     The protein family IDs in the input file are in a column named
     ``family.family_id``.
@@ -1010,21 +976,21 @@ The output looks something like this.
     92  10  PGF_00112374    hypothetical protein    fig|1313.5418.peg.2058  ERS013923_02003     PLF_1301_00002060   PGF_00112374    hypothetical protein
     92  10  PGF_00112374    hypothetical protein    fig|1313.5645.peg.1124  ERS013964_01084     PLF_1301_00002060   PGF_00112374    hypothetical protein
 
-We didn't tell **p3-get-family-features** what attributes of the
+We didn't tell :ref:`cli::p3-get-family-features` what attributes of the
 features to display, so it defaulted to the columns normally found on
 the PATRIC web page *Features* tab. We don't have time to examine these
 features in detail now, but we can put them in a feature group by piping
-them into **p3-put-feature-group** as follows.
+them into :ref:`cli::p3-put-feature-group` as follows.
 
 ::
 
     p3-get-family-features --gFile=resist.tbl --gCol=2 --ftype=global --col=family.family_id <families.tbl | p3-put-feature-group --col=feature.patric_id resist_fids
 
-In the **p3-put-feature-group** command, the ``--col=feature.patric_id``
+In the :ref:`cli::p3-put-feature-group` command, the ``--col=feature.patric_id``
 parameter tells the command that the feature IDs are in the column with
 that heading, and ``resist_fids`` is the group name. When you decide to
 examine the features in greater detail, you can pull back the feature
-IDs using **p3-get-feature-group**.
+IDs using :ref:`cli::p3-get-feature-group`.
 
 ::
 
@@ -1046,8 +1012,8 @@ The output will look something like this.
     fig|1313.6725.peg.2115
 
 At any time, you can get a complete list of the groups in your workspace
-using the **p3-list-genome-groups** command or the
-**p3-list-feature-groups** command. So, if you have been following along
+using the :ref:`cli::p3-list-genome-groups` command or the
+:ref:`cli::p3-list-feature-groups` command. So, if you have been following along
 the above examples and your workspace was empty before you began, you
 would see the following.
 
@@ -1073,7 +1039,7 @@ Extracting and Mining Genome Typed Objects (GTOs)
 
 Sometimes you want to store a genome on your local hard drive. PATRIC
 provides a special format for encapsulating all the data from a genome
-called the *genome typed object* or *GTO*. The **p3-gto** script allows
+called the *genome typed object* or *GTO*. The :ref:`cli::p3-gto` script allows
 you to download one or more PATRIC genomes in GTO format. The following
 command downloads two strep genomes -- 1313.7001 and 1313.7016-- in GTO
 format and stores them in the current directory.
@@ -1223,7 +1189,7 @@ put in a different directory. The following creates a new subdirectory
 
 You are not required to write code to manipulate GTOs. Instead, we've
 included some useful scripts in the PATRIC CLI. First and foremost is
-**p3-gto-scan**. For example, if you run
+:ref:`cli::p3-gto-scan`. For example, if you run
 
 ::
 
@@ -1324,7 +1290,7 @@ example, the following would show if you coded ``--delim=space``.
     6-phosphofructokinase (EC 2.7.1.11) 1   fig|1313.7001.peg.1372
     6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44) 1   fig|1313.7001.peg.542
 
-The true power in **p3-gto-scan** comes when you use it to compare
+The true power in :ref:`cli::p3-gto-scan` comes when you use it to compare
 multiple GTO files. The following command displays a summary of the
 differences between **1313.7001.gto** and **1313.7016.gto**.
 
@@ -1377,19 +1343,19 @@ the role listing, feature and DNA counts are shown. We see that
 both genomes (*roleMatch*).
 
 You can specify as many GTO file names as you wish in the parameter list
-for **p3-gto-scan**. As with the single-genome case, ``--features``
+for :ref:`cli::p3-gto-scan`. As with the single-genome case, ``--features``
 causes the features to be listed in the last column. The ``--verbose``
 option causes even the matching roles to be listed, so you can get
 counts for everything.
 
 The status and statistical messages are sent to the standard error
 output, and the role table to the standard output. Thus, if you redirect
-these to separate files, the direct output from **p3-gto-scan** can be
+these to separate files, the direct output from :ref:`cli::p3-gto-scan` can be
 used to get a convenient list of roles from the script. The file thus
 created is tab-delimited with headers, just like a normal CLI output
 file.
 
-The script **p3-gto-fasta** creates FASTA files from a single GTO. Three
+The script :ref:`cli::p3-gto-fasta` creates FASTA files from a single GTO. Three
 command-line options (all mutually exclusive) are supported.
 
 --contig
@@ -1402,7 +1368,7 @@ command-line options (all mutually exclusive) are supported.
     included.
 
 You specify the name of the GTO file as the first parameter of
-**p3-gto-fasta**.
+:ref:`cli::p3-gto-fasta`.
 
 ::
 
@@ -1474,14 +1440,14 @@ Using RAST to Create New Genomes
 --------------------------------
 
 If you have a DNA fasta file and you know the taxonomic ID with a
-certain degree of confidence, you can use the script **p3-rast** to
+certain degree of confidence, you can use the script :ref:`cli::p3-rast` to
 annotate the DNA and produce a new genome. The standard output of the
 script is a GTO. In almost every case, you will want to redirect this to
 a file. In addition, the new genome is stored in your workspace. It will
-appear in listings from **p3-all-genomes**, and you can find its files
+appear in listings from :ref:`cli::p3-all-genomes`, and you can find its files
 via the web interface in your QuickData folders.
 
-To invoke **p3-rast**, you specify a taxonomic ID or the ID of a genome
+To invoke :ref:`cli::p3-rast`, you specify a taxonomic ID or the ID of a genome
 with the same taxonomic ID plus the name to give to the new genome. The
 contigs should be in the form of a FASTA file via the standard input.
 All this data is submitted to the PATRIC annotation service. When the
@@ -1497,7 +1463,7 @@ similarity to sequences from Catenibacterium mitsuokai (taxon ID
 
 Now **test.gto** contains a GTO of the resulting genome and **test.log**
 contains information about the RAST job. If we use the ``--private``
-option of **p3-all-genomes**, we will see the new genome in the list.
+option of :ref:`cli::p3-all-genomes`, we will see the new genome in the list.
 
 ::
 
@@ -1545,7 +1511,7 @@ file as well.
 The genome ID appears as a part of every feature ID, as an ID in its own
 right, and as the first part of every contig ID.
 
-As long as you are signed in, the genomes you create using **p3-rast**
+As long as you are signed in, the genomes you create using :ref:`cli::p3-rast`
 will participate in all queries.
 
 ::
@@ -1558,7 +1524,7 @@ will participate in all queries.
     100886.3        Catenibacterium mitsuokai
     100886.26       Catenibacterium from sample SRS576036
 
-However, just as you can restrict **p3-all-genomes** to your own private
+However, just as you can restrict :ref:`cli::p3-all-genomes` to your own private
 genomes using the ``--private`` option, you can restrict it to public
 genomes only using the ``--public`` option.
 
@@ -1571,7 +1537,7 @@ genomes only using the ``--public`` option.
     genome.genome_id        genome.genome_name
     100886.3        Catenibacterium mitsuokai
 
-The GTO produced by **p3-rast** has extra information in it describing
+The GTO produced by :ref:`cli::p3-rast` has extra information in it describing
 the annotation process, but it is functionally equivalent to the output
 were you to re-fetch the genome using the standard script.
 
@@ -1579,7 +1545,7 @@ were you to re-fetch the genome using the standard script.
 
     p3-gto 100886.26
 
-A **p3-gto-scan** for **test.gto** would return the same role profile as
+A :ref:`cli::p3-gto-scan` for **test.gto** would return the same role profile as
 for **100886.26.gto**.
 
 Customizing Your Toolkit
@@ -1755,7 +1721,7 @@ Which Streptococcus genomes do we have?
         1303.82 Streptococcus oralis strain DD27
         1303.83 Streptococcus oralis strain DD30
 
-    **p3-all-genomes** always includes the ID, so all we need for the
+    :ref:`cli::p3-all-genomes` always includes the ID, so all we need for the
     ``--attr`` parameter is the name field. If you intend to pipe the
     results into another script, specify the attributes in the order you
     want them to appear.
@@ -1796,7 +1762,7 @@ methicillin?
         10716
 
     To get the count of resistant genomes, we need to pipe the drug name
-    into **p3-get-drug-genomes**. Here we don't have the option of using
+    into :ref:`cli::p3-get-drug-genomes`. Here we don't have the option of using
     the *genus* field, since only the genome name is present in the
     drug-genome records, not the entire taxonomy.
 
@@ -1853,14 +1819,14 @@ What function does fig\|46170.310.peg.738 implement?
         fig|1313.7001.peg.1189  IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
         fig|66976.18.peg.131    hypothetical protein
 
-    The **p3-echo** command uses the ``--title`` command-line option to
+    The :ref:`cli::p3-echo` command uses the ``--title`` command-line option to
     determine how many parameters to put on each output line. Since our
     example has only one title, the output file has only a single
-    column, and it can be easily piped to **p3-get-feature-data**.
+    column, and it can be easily piped to :ref:`cli::p3-get-feature-data`.
 
 What drugs is 46170.310 resistant to?
     The drug name is in the *antibiotic* attribute of the genome-drug
-    table. We start with a genome ID and use **p3-get-genome-drugs**.
+    table. We start with a genome ID and use :ref:`cli::p3-get-genome-drugs`.
 
     ::
 
@@ -1877,7 +1843,7 @@ What drugs is 46170.310 resistant to?
         46170.310   trimethoprim/sulfamethoxazole
 
 What genomes are resistant to erythromycin?
-    Here we start with a drug name and use **p3-get-drug-genomes** to
+    Here we start with a drug name and use :ref:`cli::p3-get-drug-genomes` to
     get the genome data.
 
     ::
@@ -1901,9 +1867,9 @@ What genomes are resistant to erythromycin?
 
 How close are fig\|1302.21.peg.966 and fig\|1302.21.peg.1019 on the
 chromosome?
-    The script **p3-get-feature-gap** gives us this information. Since
+    The script :ref:`cli::p3-get-feature-gap` gives us this information. Since
     it expects two feature IDs on the same input line, we use a
-    **p3-echo** with two titles to put its two parameters on a single
+    :ref:`cli::p3-echo` with two titles to put its two parameters on a single
     line.
 
     ::
@@ -1928,7 +1894,7 @@ chromosome?
         fig|1313.7001.peg.1159  fig|1313.7001.peg.1384  2000000000
 
     The very high number makes it easier to simply compare the distance
-    outputs from **p3-feature-gap**. Features on different contigs will
+    outputs from :ref:`cli::p3-feature-gap`. Features on different contigs will
     always sort as further apart than features on the same contig.
 
 Give me a fasta file of the contigs of genome 1302.21
@@ -1982,9 +1948,9 @@ of occurrences.
         1173954.3
         1176728.3
 
-    We use **p3-get-genome-features** to get the feature and location
-    data, **p3-function-to-role** to convert the functions to roles, and
-    **p3-generate-close-roles** to compute the physically close roles.
+    We use :ref:`cli::p3-get-genome-features` to get the feature and location
+    data, :ref:`cli::p3-function-to-role` to convert the functions to roles, and
+    :ref:`cli::p3-generate-close-roles` to compute the physically close roles.
     Because we only want protein-encoding genes (pegs), we filter the
     genome features by type. (If we didn't do this, the output would
     start with a whole bunch of generic roles involving ribosomes and
@@ -2026,7 +1992,7 @@ What genomes in a list have GC content values greater than 60%.
         1176728.3
 
     The GC content percentage is found in the *gc\_content* attribute,
-    as shown in the example below (we use **p3-sort** to sort the
+    as shown in the example below (we use :ref:`cli::p3-sort` to sort the
     results by the content percentage).
 
     ::
@@ -2068,12 +2034,12 @@ What roles are found in Vibrio campbellii but not Vibrio alginolyticus?
 
         p3-all-genomes --eq "genome_name,Vibrio alginolyticus" | p3-get-genome-features --attr product | p3-function-to-role | p3-sort --count feature.role >aRoles.tbl
 
-    There are a lot of pieces to this pipe. First, **p3-all-genomes**
+    There are a lot of pieces to this pipe. First, :ref:`cli::p3-all-genomes`
     gets all the genome IDs for Vibrio alginolyticus. Then
-    **p3-get-genome-features** finds all the features for those genomes
+    :ref:`cli::p3-get-genome-features` finds all the features for those genomes
     and outputs the functional assignment (product).
-    **p3-function-to-role** converts the functions to roles and
-    eliminates the hypotheticals. Finally, **p3-sort** with the
+    :ref:`cli::p3-function-to-role` converts the functions to roles and
+    eliminates the hypotheticals. Finally, :ref:`cli::p3-sort` with the
     ``--count`` option counts the number of occurrences of each role. It
     takes a while, but the output looks something like this.
 
@@ -2116,7 +2082,7 @@ What roles are found in Vibrio campbellii but not Vibrio alginolyticus?
     Now we filter **cRoles.tbl** by removing records that match
     **aRoles.tbl**. Note that we are matching on the key column ONLY. We
     don't care about the counts, only which roles are in campbellii but
-    not alginolyticus. The **p3-file-filter** command performs this
+    not alginolyticus. The :ref:`cli::p3-file-filter` command performs this
     task.
 
     ::
@@ -2155,7 +2121,7 @@ What roles are found in Vibrio campbellii but not Vibrio alginolyticus?
 
 What is the average length of proteins in family PGF\_00112374?
     If we had a file of protein family names with the amino acid length
-    of each protein in the family, we can use the script **p3-stats** to
+    of each protein in the family, we can use the script :ref:`cli::p3-stats` to
     output the mean length as well as the minimum, count, maximum, and
     standard deviation. The following pipe does the trick.
 
@@ -2168,13 +2134,13 @@ What is the average length of proteins in family PGF\_00112374?
         family  count   average min max stdev
         PGF_00112374    3414    818.125659050967    31  901 193.491091039707
 
-    The **p3-echo** command creates a one-line file with the family ID
-    in it. We use **p3-get-family-features** to get all the features in
+    The :ref:`cli::p3-echo` command creates a one-line file with the family ID
+    in it. We use :ref:`cli::p3-get-family-features` to get all the features in
     this family. The ``--ftype=global`` parameter indicates that this is
     a global protein family (there are also families of type *local* and
     *figfam*). For each feature, we want the amino acid length. This
     value is stored in the *aa\_length* attribute. Finally, we have
-    **p3-stats**. The ``--col=family`` parameter tells us the input file
+    :ref:`cli::p3-stats`. The ``--col=family`` parameter tells us the input file
     records are to be grouped by the content of the *family* column. The
     positional ``feature.aa_length`` parameter tells us the numbers to
     analyze can be found in the *aa\_length* column from the *feature*
@@ -2189,16 +2155,16 @@ on the chromosome.
 
         p3-echo -t genome_id 1313.7001 | p3-get-genome-features --in feature_type,CDS,rna --attr patric_id --attr sequence_id --attr start --attr strand --attr product | p3-sort feature.sequence_id feature.start/n feature.strand
 
-    We start by using **p3-echo** to create a file that has our single
+    We start by using :ref:`cli::p3-echo` to create a file that has our single
     genome ID in it. The bulk of the retrieval work is performed by
-    **p3-get-genome-features**. The ``--in`` parameter allows us to
+    :ref:`cli::p3-get-genome-features`. The ``--in`` parameter allows us to
     specify a list of values for a specific field. In this case, we want
     *feature\_type* to equal either ``CDS`` or ``rna``. To sort by
     location, we need the contig ID (*sequence\_id*) and the start
     location (*start*). The start location is always the leftmost
     location on the contig, so it is perfect for sorting. Finally, we
     add the strand (``+`` or ``i``) and then the functional assignment
-    (*product*) so we can see what the feature does. The **p3-sort**
+    (*product*) so we can see what the feature does. The :ref:`cli::p3-sort`
     gets the file records in the proper order. Because one of the fields
     is numeric, we put a ``/n`` after the field name. This tells the
     sorter that for the *feature.start* column, the value ``20`` comes
@@ -2227,7 +2193,7 @@ on the chromosome.
 
 Compute the upstream regions for the protein-encoding genes in genome
 1313.7001.
-    We get upstream regions from the **p3-feature-upstream** script, but
+    We get upstream regions from the :ref:`cli::p3-feature-upstream` script, but
     to use it we need an input list of feature IDs. We will produce
     feature IDs and functional assignments, then append the upstream
     sequences.
@@ -2239,7 +2205,7 @@ Compute the upstream regions for the protein-encoding genes in genome
     The ``-eq feature_type,CDS`` ensures we only see protein-encoding
     features. Because we are not putting the feature ID in the last
     column, we use ``--col=feature.patric_id`` to direct
-    **p3-feature-upstream** to the correct input column. The output will
+    :ref:`cli::p3-feature-upstream` to the correct input column. The output will
     look something like this. Note the upstream DNA is in the last
     column.
 
@@ -2256,7 +2222,7 @@ Compute the upstream regions for the protein-encoding genes in genome
         1313.7001   fig|1313.7001.peg.1278  Helicase loader DnaB    acgttttgctagtgtctatcgtagttttaaggatgtcagtgagttagagagcttgctccaacaaatcacccagtcctctaaaaagaaaaaggaaagataa
         1313.7001   fig|1313.7001.peg.1288  Fructokinase (EC 2.7.1.4)   ttattagatagtaagatttacagaggaaaatctaaaaaatagagacatttagactttcgaagtatgctataataaagaaaataaaaacaagaggtttatc
 
-    You can use the ``--len`` parameter of **p3-feature-upstream** to
+    You can use the ``--len`` parameter of :ref:`cli::p3-feature-upstream` to
     change the number of base pairs displayed (the default is 100). If
     the feature is at the edge of the contig, you may see less than the
     specified length or even nothing at all, since the script stops at
@@ -2281,18 +2247,18 @@ Compute the upstream regions for the protein-encoding genes in genome
         1313.7001   fig|1313.7001.peg.1278  Helicase loader DnaB    atggaaagtg
 
 What is the codon usage in genome 186497.12?
-    The **p3-sequence-profile** script counts the number of occurrences
+    The :ref:`cli::p3-sequence-profile` script counts the number of occurrences
     of each letter in a sequence field. To use it, we need to create a
     file that has the sequences we want to analyze in the last column.
-    We start with the genome ID, then use **p3-get-genome-features** to
+    We start with the genome ID, then use :ref:`cli::p3-get-genome-features` to
     get the feature data. The *aa\_sequence* field contains the protein
-    sequences, which are then processed by **p3-sequence-profile**.
+    sequences, which are then processed by :ref:`cli::p3-sequence-profile`.
 
     ::
 
         p3-echo -t genome_id 186497.12 | p3-get-genome-features --attr aa_sequence | p3-sequence-profile
 
-    By default, **p3-sequence-profile** works on the last input column,
+    By default, :ref:`cli::p3-sequence-profile` works on the last input column,
     which in this case is the amino acid sequence. The output will look
     something like this.
 

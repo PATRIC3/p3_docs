@@ -1,9 +1,6 @@
 The PATRIC Command Line Interface
 ==================================
 
-What is the PATRIC Command-line Interface?
-------------------------------------------
-
 `PATRIC <https://www.patricbrc.org>`_ is an integration of different
 types of data and software tools that support research on bacterial
 pathogens. The typical biologist seeking access to the PATRIC data and
