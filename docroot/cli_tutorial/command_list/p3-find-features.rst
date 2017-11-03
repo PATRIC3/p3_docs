@@ -1,5 +1,5 @@
-
 .. _cli::p3-find-features:
+
 
 ################
 p3-find-features
@@ -7,8 +7,6 @@ p3-find-features
 
 .. highlight:: perl
 
-
-.. _cli::Find-Features-By-Filtering-on-a-Field:
 
 *************************************
 Find Features By Filtering on a Field
@@ -24,8 +22,6 @@ Find Features By Filtering on a Field
 This script finds features based on the value in one of several feature-identifying fields (other than \ ``patric_id``\ ).
 It provides standard filtering parameters to otherwise limit the output. (So, for example, you can require that the
 features output belong only to a specific genome using \ ``--eq genome_id``\ .)
-
-.. _cli::Parameters:
 
 Parameters
 ==========

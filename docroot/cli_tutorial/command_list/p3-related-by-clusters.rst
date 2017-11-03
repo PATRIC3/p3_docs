@@ -1,5 +1,5 @@
-
 .. _cli::p3-related-by-clusters:
+
 
 ######################
 p3-related-by-clusters
@@ -7,8 +7,6 @@ p3-related-by-clusters
 
 .. highlight:: perl
 
-
-.. _cli::Compute-Related-Protein-Families-Based-on-Clusters:
 
 **************************************************
 Compute Related Protein Families Based on Clusters
@@ -83,8 +81,6 @@ Each CS/n file contains entries of the form
            .
            //
 
-
-.. _cli::Parameters:
 
 Parameters
 ==========

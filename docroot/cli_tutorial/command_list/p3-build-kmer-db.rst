@@ -1,5 +1,5 @@
-
 .. _cli::p3-build-kmer-db:
+
 
 ################
 p3-build-kmer-db
@@ -7,8 +7,6 @@ p3-build-kmer-db
 
 .. highlight:: perl
 
-
-.. _cli::Build-a-Kmer-Database-from-a-Table-of-Sequences:
 
 ***********************************************
 Build a Kmer Database from a Table of Sequences
@@ -28,8 +26,6 @@ protein itself and the name the protein's role. Names are entirely optional.
 The database will map each kmer to a list of the groups to which it belongs. Command-line options allow you to specify that common kmers be eliminated
 or that the kmers be discriminating (that is, unique to only one group). The kmer database can then be used as input to various other scripts (such as
 :ref:`cli::p3-closest-seqs`).
-
-.. _cli::Parameters:
 
 Parameters
 ==========

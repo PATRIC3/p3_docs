@@ -1,5 +1,5 @@
-
 .. _cli::p3-kmer-compare:
+
 
 ###############
 p3-kmer-compare
@@ -7,8 +7,6 @@ p3-kmer-compare
 
 .. highlight:: perl
 
-
-.. _cli::Perform-a-Kmer-Comparison-for-Two-Genomes:
 
 *****************************************
 Perform a Kmer Comparison for Two Genomes
@@ -32,14 +30,12 @@ will be \ ``100.0/0.0``\ . If the column genome is a subset of the row genome, t
 NOTE that for best performance, the longest genome should be specified first in the list. This reduces the number of times memory needs to be
 reorganized.
 
-.. _cli::Parameters:
-
 Parameters
 ==========
 
 
 The positional parameters are the two genomes to compare. Each genome can be either (1) a PATRIC genome ID, (2) the name of a DNA FASTA file, or
-(3) the name of a `GenomeTypeObject <GenomeTypeObject>`_ file.
+(3) the name of a :ref:`cli::GenomeTypeObject` file.
 
 There is no standard input.
 

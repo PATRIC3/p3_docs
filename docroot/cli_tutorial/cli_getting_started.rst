@@ -1887,7 +1887,7 @@ get the genome data.
 How close are fig\|1302.21.peg.966 and fig\|1302.21.peg.1019 on the chromosome?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The script :ref:`cli::p3-get-feature-gap` gives us this information. Since
+The script :ref:`cli::p3-feature-gap` gives us this information. Since
 it expects two feature IDs on the same input line, we use a
 :ref:`cli::p3-echo` with two titles to put its two parameters on a single
 line.

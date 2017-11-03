@@ -1,5 +1,5 @@
-
 .. _cli::p3-find-couples:
+
 
 ###############
 p3-find-couples
@@ -7,8 +7,6 @@ p3-find-couples
 
 .. highlight:: perl
 
-
-.. _cli::Find-Physically-Coupled-Categories-(e.g.-Roles,-Families):
 
 *********************************************************
 Find Physically Coupled Categories (e.g. Roles, Families)
@@ -39,8 +37,6 @@ If both the location and the sequence ID are present in the input file, then thi
 database. In that case, it can be run independent of access to PATRIC, even on genomes not necessarily in the
 PATRIC system. The feature IDs, however, must include the genome ID as a substring (which means the IDs should
 be of a format similar to the short-form PATRIC feature IDs).
-
-.. _cli::Parameters:
 
 Parameters
 ==========

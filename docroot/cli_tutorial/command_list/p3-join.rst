@@ -1,5 +1,5 @@
-
 .. _cli::p3-join:
+
 
 #######
 p3-join
@@ -7,8 +7,6 @@ p3-join
 
 .. highlight:: perl
 
-
-.. _cli::Join-Two-Files-on-a-Key-Field:
 
 *****************************
 Join Two Files on a Key Field
@@ -25,8 +23,6 @@ Join two files together on a single key field. Each record in the output will co
 file followed by the fields from the second file except for its key field. For each record in the first file,
 every matching record in the second file will be appended. If no second-file records match, the first-file record
 will be skipped.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

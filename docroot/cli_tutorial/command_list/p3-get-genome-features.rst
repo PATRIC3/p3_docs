@@ -1,5 +1,5 @@
-
 .. _cli::p3-get-genome-features:
+
 
 ######################
 p3-get-genome-features
@@ -7,8 +7,6 @@ p3-get-genome-features
 
 .. highlight:: perl
 
-
-.. _cli::Return-Features-From-Genomes-in-PATRIC:
 
 **************************************
 Return Features From Genomes in PATRIC
@@ -23,8 +21,6 @@ Return Features From Genomes in PATRIC
 
 This script returns data for all the features in one or more genomes from the PATRIC database. It supports standard filtering
 parameters and the specification of additional columns if desired.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

@@ -1,5 +1,5 @@
-
 .. _cli::p3-function-to-role:
+
 
 ###################
 p3-function-to-role
@@ -7,8 +7,6 @@ p3-function-to-role
 
 .. highlight:: perl
 
-
-.. _cli::Convert-Functions-to-Roles-in-a-Tab-Delimited-File:
 
 **************************************************
 Convert Functions to Roles in a Tab-Delimited File
@@ -27,8 +25,6 @@ may be deleted. Conversely, some functions have multiple roles, so other feature
 replicated.
 
 If a strict subset of roles is desired, the \ ``--roles``\  option should be used.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

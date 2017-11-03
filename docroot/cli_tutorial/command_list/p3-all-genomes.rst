@@ -1,5 +1,5 @@
-
 .. _cli::p3-all-genomes:
+
 
 ##############
 p3-all-genomes
@@ -7,8 +7,6 @@ p3-all-genomes
 
 .. highlight:: perl
 
-
-.. _cli::Return-All-Genomes-in-PATRIC:
 
 ****************************
 Return All Genomes in PATRIC
@@ -23,8 +21,6 @@ Return All Genomes in PATRIC
 
 This script returns the IDs of all the genomes in the PATRIC database. It supports standard filtering
 parameters and the specification of additional columns if desired.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

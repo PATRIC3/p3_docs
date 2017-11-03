@@ -1,5 +1,5 @@
-
 .. _cli::p3-put-genome-group:
+
 
 ###################
 p3-put-genome-group
@@ -7,8 +7,6 @@ p3-put-genome-group
 
 .. highlight:: perl
 
-
-.. _cli::Push-ids-to-a-Patric-genome-group:
 
 *********************************
 Push ids to a Patric genome-group

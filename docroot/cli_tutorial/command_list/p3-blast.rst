@@ -1,5 +1,5 @@
-
 .. _cli::p3-blast:
+
 
 ########
 p3-blast
@@ -7,8 +7,6 @@ p3-blast
 
 .. highlight:: perl
 
-
-.. _cli::Blast-FASTA-Data:
 
 ****************
 Blast FASTA Data
@@ -23,8 +21,6 @@ Blast FASTA Data
 
 Blast the input against a specified blast database. The input should be a FASTA file. The blast database
 can also be a FASTA file, the input itself, or it can be a genome ID.
-
-.. _cli::Parameters:
 
 Parameters
 ==========
@@ -42,13 +38,13 @@ The additional command-line options are as follows.
 
 hsp
  
- If specified, then the output is in the form of HSP data (see `Hsp <Hsp>`_). This is the default, and is mutually exclusive with \ ``sim``\  and \ ``tbl``\ .
+ If specified, then the output is in the form of HSP data (see :ref:`cli::Hsp`). This is the default, and is mutually exclusive with \ ``sim``\  and \ ``tbl``\ .
  
 
 
 sim
  
- If specified, then the output is in the form of similarity data (see `Sim <Sim>`_). This parameter is mutually exclusive with \ ``hsp``\  and \ ``tbl``\ .
+ If specified, then the output is in the form of similarity data (see :ref:`cli::Sim`). This parameter is mutually exclusive with \ ``hsp``\  and \ ``tbl``\ .
  
 
 

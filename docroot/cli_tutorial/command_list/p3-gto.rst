@@ -1,5 +1,5 @@
-
 .. _cli::p3-gto:
+
 
 ######
 p3-gto
@@ -7,8 +7,6 @@ p3-gto
 
 .. highlight:: perl
 
-
-.. _cli::Create-GTO-Files-from-PATRIC-Genomes:
 
 ************************************
 Create GTO Files from PATRIC Genomes
@@ -21,11 +19,9 @@ Create GTO Files from PATRIC Genomes
      p3-gto.pl [options] genome1 genome2 ... genomeN
 
 
-This script creates `GenomeTypeObject <GenomeTypeObject>`_ files for the specified PATRIC genomes. Each file is named using the genome ID with the suffix \ ``.gto``\ 
+This script creates :ref:`cli::GenomeTypeObject` files for the specified PATRIC genomes. Each file is named using the genome ID with the suffix \ ``.gto``\ 
 and placed in the current directory. The \ ``--outDir``\  option can be used to specify an alternate output directory. Existing files will be
 replaced.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

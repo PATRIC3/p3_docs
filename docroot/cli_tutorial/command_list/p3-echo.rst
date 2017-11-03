@@ -1,5 +1,5 @@
-
 .. _cli::p3-echo:
+
 
 #######
 p3-echo
@@ -7,8 +7,6 @@ p3-echo
 
 .. highlight:: perl
 
-
-.. _cli::Write-Data-to-Standard-Output:
 
 *****************************
 Write Data to Standard Output
@@ -57,8 +55,6 @@ produces
      83333.1     Escherichia coli
      100226.1    Streptomyces coelicolor
 
-
-.. _cli::Parameters:
 
 Parameters
 ==========

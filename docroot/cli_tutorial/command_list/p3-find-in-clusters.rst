@@ -1,5 +1,5 @@
-
 .. _cli::p3-find-in-clusters:
+
 
 ###################
 p3-find-in-clusters
@@ -7,8 +7,6 @@ p3-find-in-clusters
 
 .. highlight:: perl
 
-
-.. _cli::Identify-Clusters-Containing-Input-Features:
 
 *******************************************
 Identify Clusters Containing Input Features
@@ -23,8 +21,6 @@ Identify Clusters Containing Input Features
 
 This script takes as input a list of features and compares it to a list of physical clusters (the output of :ref:`cli::p3-identify-clusters`).
 If a features is within the bounds of a cluster, or within the gap distance of either end, it will be output with the cluster ID appended.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

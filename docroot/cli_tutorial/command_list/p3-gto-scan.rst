@@ -1,5 +1,5 @@
-
 .. _cli::p3-gto-scan:
+
 
 ###########
 p3-gto-scan
@@ -7,8 +7,6 @@ p3-gto-scan
 
 .. highlight:: perl
 
-
-.. _cli::Analyze-Genome-Typed-Objects:
 
 ****************************
 Analyze Genome Typed Objects
@@ -21,14 +19,12 @@ Analyze Genome Typed Objects
      p3-gto-scan.pl [options] gto1 gto2 ... gtoN
 
 
-This script produces a report about the role profile of one or more `GenomeTypeObject <GenomeTypeObject>`_ instances. The GTOs must be
+This script produces a report about the role profile of one or more :ref:`cli::GenomeTypeObject` instances. The GTOs must be
 provided as files in JSON format. Each role will be converted to an MD5 role ID and counted. The counts are then
 compared. Finally, there will be statistics on the number of features and the DNA sequence length. These are
 normally placed at the end of the report, but can be rerouted to the standard error output.
 
 Status of the script is written to the standard error output. The standard output contains the actual report.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

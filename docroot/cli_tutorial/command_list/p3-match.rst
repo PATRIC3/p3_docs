@@ -1,5 +1,5 @@
-
 .. _cli::p3-match:
+
 
 ########
 p3-match
@@ -7,8 +7,6 @@ p3-match
 
 .. highlight:: perl
 
-
-.. _cli::Select-Rows-from-an-Input-File:
 
 ******************************
 Select Rows from an Input File
@@ -23,8 +21,6 @@ Select Rows from an Input File
 
 This script extracts rows from a tab-delimited file based on the value in a specified column. Optionally,
 it can create a second output file containing the rejected rows.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

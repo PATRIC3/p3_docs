@@ -1,5 +1,5 @@
-
 .. _cli::p3-get-feature-sequence:
+
 
 #######################
 p3-get-feature-sequence
@@ -7,8 +7,6 @@ p3-get-feature-sequence
 
 .. highlight:: perl
 
-
-.. _cli::Create-A-FASTA-File-of-Feature-Sequences:
 
 ****************************************
 Create A FASTA File of Feature Sequences
@@ -23,8 +21,6 @@ Create A FASTA File of Feature Sequences
 
 This script takes as input a table of feature IDs and outputs a FASTA file of the feature sequences. The FASTA comment will be the
 feature annotation (product).
-
-.. _cli::Parameters:
 
 Parameters
 ==========

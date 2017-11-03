@@ -1,5 +1,5 @@
-
 .. _cli::p3-extract:
+
 
 ##########
 p3-extract
@@ -7,8 +7,6 @@ p3-extract
 
 .. highlight:: perl
 
-
-.. _cli::Select-Columns-from-an-Input-File:
 
 *********************************
 Select Columns from an Input File
@@ -22,8 +20,6 @@ Select Columns from an Input File
 
 
 This script extracts the specified columns from a tab-delimited file.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

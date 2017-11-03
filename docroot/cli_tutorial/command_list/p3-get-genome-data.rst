@@ -1,5 +1,5 @@
-
 .. _cli::p3-get-genome-data:
+
 
 ##################
 p3-get-genome-data
@@ -7,8 +7,6 @@ p3-get-genome-data
 
 .. highlight:: perl
 
-
-.. _cli::Return-Data-From-Genomes-in-PATRIC:
 
 **********************************
 Return Data From Genomes in PATRIC
@@ -23,8 +21,6 @@ Return Data From Genomes in PATRIC
 
 This script returns data about the genomes identified in the standard input. It supports standard filtering
 parameters and the specification of additional columns if desired.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

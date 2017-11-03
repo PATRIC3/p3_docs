@@ -1,5 +1,5 @@
-
 .. _cli::p3-genome-fasta:
+
 
 ###############
 p3-genome-fasta
@@ -7,8 +7,6 @@ p3-genome-fasta
 
 .. highlight:: perl
 
-
-.. _cli::Return-a-FASTA-file-for-a-Genome:
 
 ********************************
 Return a FASTA file for a Genome
@@ -22,8 +20,6 @@ Return a FASTA file for a Genome
 
 
 This script returns a FASTA file for a specified genome. You can specify feature proteins, feature DNA, or contig DNA.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

@@ -1,5 +1,5 @@
-
 .. _cli::p3-project-subsystems:
+
 
 #####################
 p3-project-subsystems
@@ -7,8 +7,6 @@ p3-project-subsystems
 
 .. highlight:: perl
 
-
-.. _cli::Project-Subsystems-onto-PATRIC-Genomes:
 
 **************************************
 Project Subsystems onto PATRIC Genomes
@@ -23,8 +21,6 @@ Project Subsystems onto PATRIC Genomes
 
 This script will examine PATRIC genomes and project subsystems onto them. The resulting GTOs will be output to the
 specified output directory.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

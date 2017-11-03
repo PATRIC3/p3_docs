@@ -1,5 +1,5 @@
-
 .. _cli::p3-get-genome-group:
+
 
 ###################
 p3-get-genome-group
@@ -7,8 +7,6 @@ p3-get-genome-group
 
 .. highlight:: perl
 
-
-.. _cli::Retrieve-a-genome-group-from-a-patric-workspace:
 
 ***********************************************
 Retrieve a genome group from a patric workspace

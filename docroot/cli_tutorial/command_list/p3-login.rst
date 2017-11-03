@@ -1,5 +1,5 @@
-
 .. _cli::p3-login:
+
 
 ########
 p3-login
@@ -7,8 +7,6 @@ p3-login
 
 .. highlight:: perl
 
-
-.. _cli::Create-a-PATRIC-login-token.:
 
 ****************************
 Create a PATRIC login token.

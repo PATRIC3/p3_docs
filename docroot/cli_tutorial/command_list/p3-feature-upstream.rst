@@ -1,5 +1,5 @@
-
 .. _cli::p3-feature-upstream:
+
 
 ###################
 p3-feature-upstream
@@ -7,8 +7,6 @@ p3-feature-upstream
 
 .. highlight:: perl
 
-
-.. _cli::Find-Upstream-DNA-Regions:
 
 *************************
 Find Upstream DNA Regions
@@ -23,8 +21,6 @@ Find Upstream DNA Regions
 
 This script takes as input a file of feature IDs. For each feature, it appends the upstream region on the input record.
 Use the \ ``--downstream``\ ) option to get the downstream regions instead.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

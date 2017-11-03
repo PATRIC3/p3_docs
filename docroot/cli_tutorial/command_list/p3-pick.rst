@@ -1,5 +1,5 @@
-
 .. _cli::p3-pick:
+
 
 #######
 p3-pick
@@ -7,8 +7,6 @@ p3-pick
 
 .. highlight:: perl
 
-
-.. _cli::Choose-Random-Rows-from-an-Input-File:
 
 *************************************
 Choose Random Rows from an Input File
@@ -23,8 +21,6 @@ Choose Random Rows from an Input File
 
 This script randomly selects the specified number of rows from the input and copies
 them to the output.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

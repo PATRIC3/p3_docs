@@ -1,5 +1,5 @@
-
 .. _cli::p3-count:
+
 
 ########
 p3-count
@@ -7,8 +7,6 @@ p3-count
 
 .. highlight:: perl
 
-
-.. _cli::Count-Distinct-Values:
 
 *********************
 Count Distinct Values
@@ -22,8 +20,6 @@ Count Distinct Values
 
 
 This simple script outputs the number of distinct values in the specified input column.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

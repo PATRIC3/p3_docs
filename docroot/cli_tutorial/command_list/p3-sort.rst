@@ -1,5 +1,5 @@
-
 .. _cli::p3-sort:
+
 
 #######
 p3-sort
@@ -7,8 +7,6 @@ p3-sort
 
 .. highlight:: perl
 
-
-.. _cli::Small-File-Multi-Column-Sort:
 
 ****************************
 Small File Multi-Column Sort
@@ -24,8 +22,6 @@ Small File Multi-Column Sort
 This is a sort script variant that sorts a single small file in memory with the ability to specify multiple columns.
 It assumes the file has a header, and the columns are tab-delimited. If no columns are specified, it sorts by the
 first column only.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

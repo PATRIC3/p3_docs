@@ -1,5 +1,5 @@
-
 .. _cli::p3-get-family-features:
+
 
 ######################
 p3-get-family-features
@@ -7,8 +7,6 @@ p3-get-family-features
 
 .. highlight:: perl
 
-
-.. _cli::Return-Features-From-Families-in-PATRIC:
 
 ***************************************
 Return Features From Families in PATRIC
@@ -25,8 +23,6 @@ This script returns data for all the features in one or more protein families fr
 parameters and the specification of additional columns if desired. In addition, the results can be filtered by genomes
 from a secondary input file. As currently coded, the command may fail if the number of genomes in the secondary file is
 large.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

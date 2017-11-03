@@ -21,36 +21,29 @@ my %link_map  = ('P3Utils/ih_options' => ":ref:`cli-input-options`",
 
 my $ua = LWP::UserAgent->new;
 
-my $url_base = "https://raw.githubusercontent.com/SEEDtk/RASTtk/master/scripts";
+my $url_top = "https://raw.githubusercontent.com/SEEDtk/RASTtk/master";
 my $out_base = "../docroot/cli_tutorial/command_list";
-
-open(S, "<", "p3-script-list.txt") or die "Cannot open p3-script-list.txt: $!";
-
-my $conv = Pod::POM::View::Restructured->new({namespace => 'cli'});
 
 my %unmapped_links;
 
-while (my $script = <S>)
+#
+# read the module list first to find the moduels we can link to.
+#
+
+
+my %modules;
+open(M, "<", "p3-module-list.txt") or die "cannot read p3-module-list.txt: $!";
+while (<M>)
 {
-    chomp $script;
-    print "$script\n";
-    my $url = "$url_base/$script";
-    my $res = $ua->get($url);
-    if (!$res->is_success)
-    {
-	die "Error " . $res->code . " fetching $url: " . $res->content;
-    }
-
-    my $txt = $res->content;
-    my $tmp = File::Temp->new();
-    print $tmp $txt;
-    close($tmp);
-
-    my $base = basename($script, ".pl");
-    my $out_file = "$out_base/$base.rst";
-
-    $conv->convert_file("$tmp", $base, $out_file, { link => \&handle_link });
+    chomp;
+    s/\.pm$//;
+    $modules{$_} = 1;
 }
+close(M);
+
+transform("p3-script-list.txt", "$url_top/scripts");
+transform("p3-module-list.txt", "$url_top/lib");
+
 
 if (%unmapped_links)
 {
@@ -58,6 +51,39 @@ if (%unmapped_links)
     for my $l (sort keys %unmapped_links)
     {
 	print STDERR "\t$l\n";
+    }
+}
+
+sub transform
+{
+    my($file, $url_base) = @_;
+    open(S, "<", $file) or die "Cannot open $file $!";
+
+    my $conv = Pod::POM::View::Restructured->new(); # {namespace => 'cli'});
+
+    while (my $script = <S>)
+    {
+	chomp $script;
+	print "$script\n";
+	my $url = "$url_base/$script";
+	my $res = $ua->get($url);
+	if (!$res->is_success)
+	{
+	    die "Error " . $res->code . " fetching $url: " . $res->content;
+	}
+
+	my $txt = $res->content;
+	my $tmp = File::Temp->new();
+	print $tmp $txt;
+	close($tmp);
+
+	my $base = basename($script, ".pl", ".pm");
+	my $out_file = "$out_base/$base.rst";
+
+	open(my $fh, ">", $out_file) or die "Cannot write $out_file: $!";
+	print $fh ".. _cli::$base:\n\n";
+
+	$conv->convert_file("$tmp", $base, $fh, { link => \&handle_link });
     }
 }
 
@@ -70,6 +96,10 @@ sub handle_link
     if (defined($link))
     {
 	return ('', $link);
+    }
+    elsif ($modules{$txt})
+    {
+	return ('', ":ref:`cli::$txt`");
     }
     elsif ($txt =~ /^(p3.*)\.pl$/)
     {

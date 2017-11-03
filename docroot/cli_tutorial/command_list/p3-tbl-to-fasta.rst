@@ -1,5 +1,5 @@
-
 .. _cli::p3-tbl-to-fasta:
+
 
 ###############
 p3-tbl-to-fasta
@@ -7,8 +7,6 @@ p3-tbl-to-fasta
 
 .. highlight:: perl
 
-
-.. _cli::Convert-a-Tab-Delimited-File-to-FASTA:
 
 *************************************
 Convert a Tab-Delimited File to FASTA
@@ -23,8 +21,6 @@ Convert a Tab-Delimited File to FASTA
 
 This script will convert a tab-delimited file containing sequence data to a FASTA file. The tab-delimited file is taken from
 the standard input; the FASTA file will be the standard output.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

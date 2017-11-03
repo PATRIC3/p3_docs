@@ -1,5 +1,5 @@
-
 .. _cli::p3-signature-clusters:
+
 
 #####################
 p3-signature-clusters
@@ -7,8 +7,6 @@ p3-signature-clusters
 
 .. highlight:: perl
 
-
-.. _cli::Compute-Cluster-Signatures:
 
 **************************
 Compute Cluster Signatures
@@ -72,8 +70,6 @@ In the non-verbose mode you get a header line containing
 
               genome_id pegs_in_cluster
 
-
-.. _cli::Parameters:
 
 Parameters
 ==========

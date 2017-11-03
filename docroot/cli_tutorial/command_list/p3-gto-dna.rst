@@ -1,5 +1,5 @@
-
 .. _cli::p3-gto-dna:
+
 
 ##########
 p3-gto-dna
@@ -7,8 +7,6 @@ p3-gto-dna
 
 .. highlight:: perl
 
-
-.. _cli::Extract-DNA-from-a-GTO:
 
 **********************
 Extract DNA from a GTO
@@ -21,15 +19,13 @@ Extract DNA from a GTO
      p3-gto-dna.pl [options] gtoFile
 
 
-This script reads one or more locations from the standard input and outputs the corresponding DNA from the input `GenomeTypeObject <GenomeTypeObject>`_ file.
-
-.. _cli::Parameters:
+This script reads one or more locations from the standard input and outputs the corresponding DNA from the input :ref:`cli::GenomeTypeObject` file.
 
 Parameters
 ==========
 
 
-The positional parameter should be the name of the `GenomeTypeObject <GenomeTypeObject>`_ file in JSON format.
+The positional parameter should be the name of the :ref:`cli::GenomeTypeObject` file in JSON format.
 
 The standard input can be overridden using the options in :ref:`cli-input-options`. The standard input should contain location
 strings in the key column (specified using :ref:`cli-column-options`) and the region name in the column identified by the

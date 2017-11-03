@@ -1,5 +1,5 @@
-
 .. _cli::p3-gto-fasta:
+
 
 ############
 p3-gto-fasta
@@ -7,8 +7,6 @@ p3-gto-fasta
 
 .. highlight:: perl
 
-
-.. _cli::Convert-Genome-Typed-Objects-to-FASTA:
 
 *************************************
 Convert Genome Typed Objects to FASTA
@@ -21,10 +19,8 @@ Convert Genome Typed Objects to FASTA
      p3-gto-fasta.pl [options] gtoFile
 
 
-This script produces FASTA files from a `GenomeTypeObject <GenomeTypeObject>`_ instance. The GTO must be
+This script produces FASTA files from a :ref:`cli::GenomeTypeObject` instance. The GTO must be
 provided as a file in JSON format.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

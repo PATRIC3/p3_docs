@@ -1,5 +1,5 @@
-
 .. _cli::p3-feature-gap:
+
 
 ##############
 p3-feature-gap
@@ -7,8 +7,6 @@ p3-feature-gap
 
 .. highlight:: perl
 
-
-.. _cli::Compute-Gap-Between-Feature-Pairs:
 
 *********************************
 Compute Gap Between Feature Pairs
@@ -24,8 +22,6 @@ Compute Gap Between Feature Pairs
 This script reads in a list of feature pairs and computes the gap between the features. If the features are on different
 contigs or belong to different genomes, the gap will be listed as 2 billion. This behavior can be overridden with a
 command-line option.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

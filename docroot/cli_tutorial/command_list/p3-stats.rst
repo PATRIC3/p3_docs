@@ -1,5 +1,5 @@
-
 .. _cli::p3-stats:
+
 
 ########
 p3-stats
@@ -7,8 +7,6 @@ p3-stats
 
 .. highlight:: perl
 
-
-.. _cli::Statistically-Analyze-Numerical-Values:
 
 **************************************
 Statistically Analyze Numerical Values
@@ -23,8 +21,6 @@ Statistically Analyze Numerical Values
 
 This script divides the input into groups by the key column and analyzes the values found in a second column (specified by the
 parameter). It outputs the mean, standard deviation, minimum, maximum, and count.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

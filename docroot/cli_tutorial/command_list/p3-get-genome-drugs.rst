@@ -1,5 +1,5 @@
-
 .. _cli::p3-get-genome-drugs:
+
 
 ###################
 p3-get-genome-drugs
@@ -7,8 +7,6 @@ p3-get-genome-drugs
 
 .. highlight:: perl
 
-
-.. _cli::Return-AMR-Data-For-Genomes-in-PATRIC:
 
 *************************************
 Return AMR Data For Genomes in PATRIC
@@ -23,8 +21,6 @@ Return AMR Data For Genomes in PATRIC
 
 This script returns the anti-microbial resistance data about the genomes identified in the standard
 input. It supports standard filtering parameters and the specification of additional columns if desired.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

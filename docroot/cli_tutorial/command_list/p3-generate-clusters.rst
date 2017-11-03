@@ -1,5 +1,5 @@
-
 .. _cli::p3-generate-clusters:
+
 
 ####################
 p3-generate-clusters
@@ -7,8 +7,6 @@ p3-generate-clusters
 
 .. highlight:: perl
 
-
-.. _cli::Generate-Clusters-From-Pairs-Using-Transitive-Closure:
 
 *****************************************************
 Generate Clusters From Pairs Using Transitive Closure
@@ -26,8 +24,6 @@ create clusters.
 
 The clusters will be output one per line, with a specified delimiter between elements. The default delimiter is \ ``::``\ ,
 but you can specify a tab, a space, or any character sequence that doesn't appear in any element of the pair.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

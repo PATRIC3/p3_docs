@@ -1,3 +1,6 @@
+p3-signature-families.pl
+p3-closest-seqs.pl
+p3-identify-clusters.pl
 p3-all-drugs.pl
 p3-all-genomes.pl
 p3-blast.pl

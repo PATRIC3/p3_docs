@@ -1,5 +1,5 @@
-
 .. _cli::p3-get-features-by-sequence:
+
 
 ###########################
 p3-get-features-by-sequence
@@ -7,8 +7,6 @@ p3-get-features-by-sequence
 
 .. highlight:: perl
 
-
-.. _cli::Find-Protein-Features-Using-Sequence-Data:
 
 *****************************************
 Find Protein Features Using Sequence Data
@@ -25,8 +23,6 @@ This script takes as input a file containing DNA or protein sequences and finds 
 somewhat limited in that it will only find features in organisms with a genetic code of 4 or 11.
 
 The program processes one sequence at a time, so has poor performance for a large input file.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

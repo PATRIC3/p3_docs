@@ -1,5 +1,5 @@
-
 .. _cli::p3-get-family-data:
+
 
 ##################
 p3-get-family-data
@@ -7,8 +7,6 @@ p3-get-family-data
 
 .. highlight:: perl
 
-
-.. _cli::Return-Data-From-Protein-Families-in-PATRIC:
 
 *******************************************
 Return Data From Protein Families in PATRIC
@@ -23,8 +21,6 @@ Return Data From Protein Families in PATRIC
 
 This script returns information about each given family. It supports standard filtering
 parameters and the specification of additional columns if desired.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

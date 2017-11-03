@@ -1,5 +1,5 @@
-
 .. _cli::p3-get-feature-group:
+
 
 ####################
 p3-get-feature-group
@@ -7,8 +7,6 @@ p3-get-feature-group
 
 .. highlight:: perl
 
-
-.. _cli::Retrieve-a-feature-group-from-a-patric-workspace:
 
 ************************************************
 Retrieve a feature group from a patric workspace

@@ -1,5 +1,5 @@
-
 .. _cli::p3-rast:
+
 
 #######
 p3-rast
@@ -7,8 +7,6 @@ p3-rast
 
 .. highlight:: perl
 
-
-.. _cli::Annotate-a-Genome-Using-RAST:
 
 ****************************
 Annotate a Genome Using RAST
@@ -22,9 +20,7 @@ Annotate a Genome Using RAST
 
 
 This script invokes the RAST service over the web to annotate a genome. It will submit a FASTA
-file to RAST, wait for the job to finish, and then format the results into a JSON-form `GenomeTypeObject <GenomeTypeObject>`_.
-
-.. _cli::Parameters:
+file to RAST, wait for the job to finish, and then format the results into a JSON-form :ref:`cli::GenomeTypeObject`.
 
 Parameters
 ==========

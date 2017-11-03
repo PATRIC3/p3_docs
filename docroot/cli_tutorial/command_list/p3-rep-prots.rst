@@ -1,5 +1,5 @@
-
 .. _cli::p3-rep-prots:
+
 
 ############
 p3-rep-prots
@@ -7,8 +7,6 @@ p3-rep-prots
 
 .. highlight:: perl
 
-
-.. _cli::Create-Representative-Genome-Server-Directory:
 
 *********************************************
 Create Representative Genome Server Directory
@@ -25,8 +23,6 @@ This script processes a list of genome IDs to create a directory suitable for us
 It will extract all the instances of the specified seed protein (usually Phenylanyl synthetase alpha chain) and only
 keep genomes with a single instance of reasonable length. The list of genome IDs and names will go in the output file
 \ ``complete.genomes``\  and a FASTA of the seed proteins in \ ``6.1.1.20.fasta``\ .
-
-.. _cli::Parameters:
 
 Parameters
 ==========

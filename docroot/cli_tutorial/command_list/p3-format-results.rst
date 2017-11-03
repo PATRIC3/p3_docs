@@ -1,5 +1,5 @@
-
 .. _cli::p3-format-results:
+
 
 #################
 p3-format-results
@@ -7,8 +7,6 @@ p3-format-results
 
 .. highlight:: perl
 
-
-.. _cli::Format-Raw-Data-for-Conversion-to-HTML.:
 
 ***************************************
 Format Raw Data for Conversion to HTML.
@@ -26,8 +24,6 @@ It produces a condensed text for of the computed clusters.
 
 These text-forms can be run through p3-clusters-to-html to get versions
 that can be perused by a biologist.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

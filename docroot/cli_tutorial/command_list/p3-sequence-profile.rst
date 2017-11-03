@@ -1,5 +1,5 @@
-
 .. _cli::p3-sequence-profile:
+
 
 ###################
 p3-sequence-profile
@@ -7,8 +7,6 @@ p3-sequence-profile
 
 .. highlight:: perl
 
-
-.. _cli::Profile-Sequences-by-Letter-Content:
 
 ***********************************
 Profile Sequences by Letter Content
@@ -24,8 +22,6 @@ Profile Sequences by Letter Content
 This script analyzes DNA or protein sequences in the key column of the incoming file and outputs the number of times
 each letter occurs. The output file will contain the letter in the first column and the count in the second, and
 will be sorted from most frequent to least. This can lead to very small output files.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

@@ -1,5 +1,5 @@
-
 .. _cli::p3-signature-families:
+
 
 #####################
 p3-signature-families
@@ -7,8 +7,6 @@ p3-signature-families
 
 .. highlight:: perl
 
-
-.. _cli::Compute-Family-Signatures:
 
 *************************
 Compute Family Signatures
@@ -28,8 +26,6 @@ Compute Family Signatures
       is a family signature. The first field will be the number of hits against Gs1,
       and the second will be the number of hits against Gs2.
 
-
-.. _cli::Parameters:
 
 Parameters
 ==========

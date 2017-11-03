@@ -1,5 +1,5 @@
-
 .. _cli::p3-generate-close-roles:
+
 
 #######################
 p3-generate-close-roles
@@ -7,8 +7,6 @@ p3-generate-close-roles
 
 .. highlight:: perl
 
-
-.. _cli::Find-Roles-That-Occur-Close-Together:
 
 ************************************
 Find Roles That Occur Close Together
@@ -67,8 +65,6 @@ Given a set of genome IDs in the file \ ``genomes.tbl``\ , you can generate the 
 
 
 (If PATRIC does not yet have roles defined, you will need to use an additional command-line option on :ref:`cli::p3-function-to-role`.)
-
-.. _cli::Parameters:
 
 Parameters
 ==========

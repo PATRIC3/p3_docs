@@ -1,5 +1,5 @@
-
 .. _cli::p3-merge:
+
 
 ########
 p3-merge
@@ -7,8 +7,6 @@ p3-merge
 
 .. highlight:: perl
 
-
-.. _cli::Merge-Two-Files---Union,-Intersection,-or-Difference:
 
 ****************************************************
 Merge Two Files-- Union, Intersection, or Difference
@@ -28,8 +26,6 @@ This script has a function similar to :ref:`cli::p3-file-filter`, except that sc
 Duplicate lines will be removed. That is, a line that occurs in multiple files or occurs more than once in any file will only appear once in the output.
 
 Any one file can be replaced by the standard input.
-
-.. _cli::Parameters:
 
 Parameters
 ==========

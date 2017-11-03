@@ -1,5 +1,5 @@
-
 .. _cli::p3-set-to-relation:
+
 
 ##################
 p3-set-to-relation
@@ -7,8 +7,6 @@ p3-set-to-relation
 
 .. highlight:: perl
 
-
-.. _cli::Convert-a-Table-of-Sets-to-a-Relation-Table:
 
 *******************************************
 Convert a Table of Sets to a Relation Table
@@ -24,8 +22,6 @@ Convert a Table of Sets to a Relation Table
 This script will look at an input file that has sets in a single column. Each set is represented by a list of items
 separated by a delimiter (default \ ``::``\ ). Each set is given a number, and the output file puts
 one set element on each line along with its set number, thus improving readability.
-
-.. _cli::Parameters:
 
 Parameters
 ==========
