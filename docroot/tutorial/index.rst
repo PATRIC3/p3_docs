@@ -10,8 +10,11 @@ Website Tutorials
    :maxdepth: 2
    :caption: Contents:
 
+   assembly
    genomics
    transcriptomics
    protein_tools
    metabolomics
+   metagenomic_binning/metagenomic_binning
    others
+

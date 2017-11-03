@@ -1,0 +1,28 @@
+#!/usr/bin/env perl
+
+#
+# Update the script-list file from the list in git that Bruce keeps.
+#
+
+use strict;
+use LWP::UserAgent;
+
+my $url = 'https://raw.githubusercontent.com/SEEDtk/Web/master/Web/Tutorials/p3_script_list.html';
+
+my $ua = LWP::UserAgent->new;
+
+my $res = $ua->get($url);
+
+if (!$res->is_success)
+{
+    die "Error " . $res->code . " fetching $url: " . $res->content;
+}
+
+open(O, ">", "p3-script-list.txt") or die "Cannot write p3-script-list.txt: $!";
+
+my $txt = $res->content;
+while ($txt =~ /module=([^"]+\.pl)/mg)
+{
+    print O "$1\n";
+}
+close(O);
