@@ -56,4 +56,4 @@ features.
     identifiers using [UniProt’s ID Mapping
     Service](http://www.uniprot.org/mapping/).
 
-PATRIC ↔ RefSeq/GenBank ↔ UniProtKB Accession ↔ Other External Databases
+PATRIC <-> RefSeq/GenBank <-> UniProtKB Accession <-> Other External Databases

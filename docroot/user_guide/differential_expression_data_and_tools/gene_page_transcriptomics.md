@@ -60,7 +60,7 @@ hypothetical or unknown gene.
 
 -   Filter the list by specifying any correlation cut-off (between 0
     and 1) and positive/negative correlation.
--   Use the Gene List Table Toolbar located in the light blue row to:◦
+-   Use the Gene List Table Toolbar located in the light blue row to:
     -   Save selected items to groups within your Workspace by clicking
         the Add Feature(s) button. To learn more about how to save data
         for future visits and utilize your personal Workspace see
