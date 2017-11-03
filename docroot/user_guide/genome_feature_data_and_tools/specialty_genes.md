@@ -77,13 +77,13 @@ specialized BLAST databases using BLASTP.
 The top BLAST hits are parsed and filtered based on sequence identity
 and sequence coverage using the following criteria:
 
-*(%Query coverage &gt;=80 OR %Subject coverage &gt;=80) AND %Identity
-&gt;=80*
+*(%Query coverage >= 80 OR %Subject coverage >= 80) AND %Identity
+>=80*
 
 For identifying Human Homologs, we use:
 
-*(%Query coverage &gt;=50 OR %Subject Coverage &gt;=50) AND %Identity
-&gt;=50*
+*(%Query coverage >=50 OR %Subject Coverage >=50) AND %Identity
+>=50*
 
 ### Evidence Field
 
