@@ -6,3 +6,4 @@ Others
    :caption: Contents:
 
    amr/amr.md
+   metagenomic_binning/metagenomic_binning
