@@ -16,7 +16,7 @@
 1. PATRIC provides filter to help find specific experimental data.  To find that, click on the Filters icon, which is located on the far right side of the page (red arrow).
 ![Step 4](./images/image4.png "Step 4")
 
-2. This will open up a filter that is on top of the table.  It allows researchers to filter on the experimental conditions, the type of mutant, the species, the strain, and if the experiment is a timeseries or not.
+2. This will open up a filter that is on top of the table.  It allows researchers to filter on the experimental conditions, the type of mutant, the species, the strain, and if the experiment is a time-series or not.
 ![Step 5](./images/image5.png "Step 5")
 
 3. Clicking on any of the text in the filter will highlight it (red arrow).

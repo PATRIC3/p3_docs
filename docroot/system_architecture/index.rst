@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/system_architecture/compendium.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/system_architecture/index.rst
 
 Systems Architecture
 ====================
@@ -82,7 +82,7 @@ Web Application Server
 
 This component serves the web content to client browsers. It is
 currently comprised an ExpressJS application running in a NodeJS
-webserver. It serves HTML, CSS, Javascript, and images to client
+web server. It serves HTML, CSS, Javascript, and images to client
 browsers. The bulk of the user interface is implemented in the
 Javascript, which itself is built upon the Dojo javascript library.
 
@@ -360,7 +360,7 @@ PATRIC services are as follows:
 
    -  256 GB RAM
 
--  Loadbalanced / Failover Proxy Server
+-  Load balanced / Failover Proxy Server
 
    -  2 systems, each 4 CPUs, 64GB RAM, 10Gb network
 

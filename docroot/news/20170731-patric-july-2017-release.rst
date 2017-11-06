@@ -74,3 +74,10 @@ Users can now edit the metadata associated with their private genomes including 
 Generic Workspace Object Viewer
 
 This feature facilitates viewing of text, HTML and image files in the workspace directly in the browser, without the need to download the file and open in a separate application.
+
+.. spelling::
+   sapiens
+   indels
+   zebrafish
+   pneumoniae
+   musculus

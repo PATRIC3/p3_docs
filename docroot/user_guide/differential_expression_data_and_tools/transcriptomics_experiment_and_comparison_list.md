@@ -34,8 +34,8 @@ tab on any Taxonomy or Genome level landing page.
     experiment page at NCBI’s GEO database (Link Out).
 -   From the Comparisons tab, using links provided in a row, you can
     navigate to corresponding Gene List (Genes), list of significant
-    genes based on log ratio (|Log Ratio| &gt;= 1), list of significant
-    genes based on Z-score (|Z-score| &gt;=2), publication page at NCBI
+    genes based on log ratio (|Log Ratio| >= 1), list of significant
+    genes based on Z-score (|Z-score| >=2), publication page at NCBI
     PubMed (PubMed), or detailed experiment page at NCBI GEO database
     (Link Out).
 -   From either tab, you can use the Table Toolbar, located in the light
