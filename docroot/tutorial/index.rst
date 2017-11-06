@@ -28,6 +28,7 @@ Transcriptomics
    :maxdepth: 1
 
    expression_import/expression_import.md
+   rna_seq_submission/submitting_rna_seq_job.md
    examing_transcriptomics_data/examing_transcriptomics_data.md
 
 
