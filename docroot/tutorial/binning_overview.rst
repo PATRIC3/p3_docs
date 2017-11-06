@@ -1,5 +1,5 @@
 Reconstructing Genomes from Metagenomic Samples Using the RAST Binning Service (RBS)
-==============================
+====================================================================================
 
 The ability to reconstruct fairly complete genomes from metagenomic
 samples is almost certainly a key technology that will accelerate our
