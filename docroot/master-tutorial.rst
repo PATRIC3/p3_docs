@@ -14,11 +14,11 @@ PATRIC Tutorial
    :maxdepth: 2
    :caption: Day 2 Tutorials
 
-   blast/blast.md
-   similar_genome_finder/similar_genome_finder.md
-   expression_import/expression_import.md
-   transcriptomics
-   variation_analysis_service/variation_analysis_service.md
+   tutorial/blast/blast.md
+   tutorial/similar_genome_finder/similar_genome_finder.md
+   tutorial/expression_import/expression_import.md
+   tutorial/transcriptomics
+   tutorial/variation_analysis_service/variation_analysis_service.md
    cli_tutorial/cli_getting_started   
 
 .. Indices and tables

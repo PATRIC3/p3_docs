@@ -6,16 +6,58 @@
 Website Tutorials
 ==================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+Genomics
+---------
 
-   assembly
-   genomics
-   transcriptomics
-   protein_tools
-   metabolomics
+.. toctree::
+   :maxdepth: 1
+
+   genome_assembly/assembly.md
+   genome_annotation/annotation.md
+   private_genome/private_genome.md
+   blast/blast.md
+   similar_genome_finder/similar_genome_finder.md
+   variation_analysis_service/variation_analysis_service.md
+   phylogenetic_tree_building/tree_building.md
+
+
+Transcriptomics
+----------------
+
+.. toctree::
+   :maxdepth: 1
+
+   expression_import/expression_import.md
+   rna_seq_submission/submitting_rna_seq_job.md
+   examing_transcriptomics_data/examing_transcriptomics_data.md
+
+
+Protein Tools
+---------------
+
+.. toctree::
+   :maxdepth: 1
+
+   protein_family_sorter/protein_family_sorter.md
+   proteome_comparison/proteome_comparison.md
+   excel_formatting/excel_formatting.md
+
+
+Metabolomics
+-------------
+
+.. toctree::
+   :maxdepth: 1
+
+   comparative_pathways/comparative_pathways.md
+
+Others
+-------
+
+.. toctree::
+   :maxdepth: 1
+
+   genome_groups/creating_genome_groups.md
+   amr/amr.md
    binning_overview
    metagenomic_binning/metagenomic_binning
-   others
-
