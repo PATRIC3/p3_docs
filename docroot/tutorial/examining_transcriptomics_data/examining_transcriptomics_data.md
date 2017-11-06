@@ -1,4 +1,4 @@
-# Examing Transcriptomics Data
+# Examining Transcriptomics Data
 
 ## I. Finding Experimental Data available in PATRIC
 1. PATRIC has imported experimental data from several prominent genera, most notably Escherichia and Mycobacterium.  To find this data, click on a genus of interest on the Organisms tab (or use the global search) and select a genus of interest.
