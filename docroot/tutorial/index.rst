@@ -57,5 +57,6 @@ Others
 .. toctree::
    :maxdepth: 1
 
+   genome_groups/creating_genome_groups.md
    amr/amr.md
    metagenomic_binning/metagenomic_binning
