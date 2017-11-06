@@ -18,9 +18,9 @@
 
 ## Registration Process
 
-Click on “Sign-up&gt;&gt;” located at the top right corner at the top of
-every PATRIC page. Once you’ve entered your account and contact
-information, click on the “Create Your Account” button.
+Click on "Sign-up" located at the top right corner at the top of
+every PATRIC page. Once you've entered your account and contact
+information, click on the "Create Your Account" button.
 
 Note: Your information is for PATRIC registration purposes only. It will
 remain completely private. Under no circumstances will we sell,
@@ -28,21 +28,21 @@ distribute or lease your personal information to third parties.
 
 ## Login
 
-Click on “Login” located at the top right corner of every PATRIC page
-and enter your Username and Password. Note: You will be automatically
+Click on "Login" located at the top right corner of every PATRIC page
+and enter your User name and Password. Note: You will be automatically
 logged out after a period of 30 minutes of inactivity.
 
 ## Forgotten Password
 
-Click on “Login” located at the top right corner of every PATRIC page
-and then click on “Forgot your password?” within the drop-down box.
+Click on "Login" located at the top right corner of every PATRIC page
+and then click on "Forgot your password?" within the drop-down box.
 Enter your registered email address and we will email you a temporary
 password.
 
 ## Updating Account Information
 
 -   Once logged in, you may update your account information by clicking
-    “My Account” located at the top right corner of every PATRIC page.
+    "My Account" located at the top right corner of every PATRIC page.
 -   From here, you may change your password, name, email address,
     research information, and PATRIC Newsletter subscription status.
 

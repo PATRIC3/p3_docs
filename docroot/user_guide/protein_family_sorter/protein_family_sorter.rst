@@ -114,6 +114,5 @@ Protein Families (FIGfam) Table Tab Features and Functionality
 Protein Alignment
 -----------------
 
-The protein sequences from each family were aligned using MUSCLE (v 3.6)
-and ambiguous portions of the alignment were removed using Gblocks (v
-0.91b).
+The protein sequences from each family were aligned using MUSCLE (v3.6)
+and ambiguous portions of the alignment were removed using Gblocks (v0.91b).

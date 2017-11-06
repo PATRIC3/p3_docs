@@ -3,7 +3,7 @@
 
 ## Transcriptomics Experiment and Comparison Lists Overview {#transcriptomics-experiment-and-comparison-lists-overview .ribbon-title}
 
-For any taxonomy level or genome, all publically available
+For any taxonomy level or genome, all publicly available
 transcriptomics experiment datasets that are incorporated into PATRIC
 are displayed as Experiment and Comparison lists. The Experiment Tab
 shows a list of studies or datasets that contain one or more samples or

@@ -27,7 +27,7 @@ that allow for table manipulation and refinement:
 
 -   By default, tables show 200 rows of data. For rows beyond 200, the
     numbers on the right side below the table, allowing advancement
-    throught pages in increments of 200 rows.
+    throughout pages in increments of 200 rows.
 -   When a row is selected, the information panel (accessible via the
     Show/Hide icon at the top of the green Action Bar, provides detailed
     information for that row including links to other PATRIC genome
