@@ -30,7 +30,7 @@
 ![Step 9](./images/image9.png)
 
 ## IV. Selecting Parameters – Comparative Pathway Tool
-1. Although not required for the job to be submitted, specific pathway parameters can be selected to filter down the number of pathways across all the genomes selected. In the Paramter box, clicking on the down arrow next to Keywords (red arrow). A specific Pathway ID or EC Number can be used as a filter.
+1. Although not required for the job to be submitted, specific pathway parameters can be selected to filter down the number of pathways across all the genomes selected. In the Parameter box, clicking on the down arrow next to Keywords (red arrow). A specific Pathway ID or EC Number can be used as a filter.
 ![Step 10](./images/image10.png)
 
 

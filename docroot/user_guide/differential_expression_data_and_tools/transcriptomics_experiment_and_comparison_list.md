@@ -3,7 +3,7 @@
 
 ## Transcriptomics Experiment and Comparison Lists Overview {#transcriptomics-experiment-and-comparison-lists-overview .ribbon-title}
 
-For any taxonomy level or genome, all publically available
+For any taxonomy level or genome, all publicly available
 transcriptomics experiment datasets that are incorporated into PATRIC
 are displayed as Experiment and Comparison lists. The Experiment Tab
 shows a list of studies or datasets that contain one or more samples or
@@ -34,8 +34,8 @@ tab on any Taxonomy or Genome level landing page.
     experiment page at NCBI’s GEO database (Link Out).
 -   From the Comparisons tab, using links provided in a row, you can
     navigate to corresponding Gene List (Genes), list of significant
-    genes based on log ratio (|Log Ratio| &gt;= 1), list of significant
-    genes based on Z-score (|Z-score| &gt;=2), publication page at NCBI
+    genes based on log ratio (|Log Ratio| >= 1), list of significant
+    genes based on Z-score (|Z-score| >=2), publication page at NCBI
     PubMed (PubMed), or detailed experiment page at NCBI GEO database
     (Link Out).
 -   From either tab, you can use the Table Toolbar, located in the light

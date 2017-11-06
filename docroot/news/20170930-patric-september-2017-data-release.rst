@@ -40,3 +40,6 @@ The website updates include minor enhancements and bug fixes identified from rec
 * Ability to provide SRA Run Accession as input to the Assembly Service, without uploading the read files.
 * Improved performance and load times for the Protein Family Sorter and other pages.
 * Enhancements to the workspace data management, including efficient copying and moving job results.
+
+.. spelling::
+   pneumoniae
