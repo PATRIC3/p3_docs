@@ -53,6 +53,37 @@ This will authenticate you with the PATRIC authentication service and
 create a file in your home directory ``.patric_token`` containing the
 authentication token.
 
+Checking Application Output
+===========================
+
+If you know the identifier for a given PATRIC job, you can find the
+standard output and error files, its exit status if complete, and the
+host it ran on by viewing the application service output logs. These
+are found on the system ``beech.mcs.anl.gov`` in the directory
+``/disks/p3/task_status/<job-id>``. For example, if I have a job
+``388b0885-3357-402c-aad3-01e4717c640c`` I can find the details thus::
+
+    $ cd /disks/p3/task_status/388b0885-3357-402c-aad3-01e4717c640c
+    $ ls -l
+    total 28
+    -rw-rw-r--. 1 p3 p3    2 Aug 17 04:02 exitcode
+    -rw-rw-r--. 1 p3 p3   19 Aug 16 23:52 hostname
+    -rw-rw-r--. 1 p3 p3    5 Aug 16 23:52 pid
+    -rw-rw-r--. 1 p3 p3 6258 Aug 17 04:02 stderr
+    -rw-rw-r--. 1 p3 p3    0 Aug 17 04:02 stderr.EOF
+    -rw-rw-r--. 1 p3 p3 6366 Aug 16 23:53 stdout
+    -rw-rw-r--. 1 p3 p3    0 Aug 17 04:02 stdout.EOF
+    $ cat exitcode
+    0
+    $ cat hostname
+    redwood.mcs.anl.gov
+
+Here I can see the job exited sucessfully (exit code 0) and ran on
+host redwood.mcs.anl.gov. The files ``stdout`` and ``stderr`` contain
+logs of the standard output and error streams from the
+application. These will be updated as the application runs, so one can
+check the status of a long-running application by viewing them.
+
 Testing Existing Applications
 =============================
 
