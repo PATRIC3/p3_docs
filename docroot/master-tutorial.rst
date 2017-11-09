@@ -3,7 +3,7 @@ PATRIC Tutorial
 
 .. toctree::
    :maxdepth: 2
-   :caption: Day 1 Tutorials
+   :caption: Tutorials
 
    tutorial/genome_assembly/assembly.md
    tutorial/genome_annotation/annotation.md
