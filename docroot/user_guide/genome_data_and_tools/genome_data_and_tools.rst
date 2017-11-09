@@ -15,6 +15,7 @@ analyses and linking of data across the website.
    protein_families.md
    genome_metadata.md
    amr_clinical_metadata.md
+   antibiotics.md
    genome_browser.md
    circular_genome_viewer.md
    phylogenetic_trees.md

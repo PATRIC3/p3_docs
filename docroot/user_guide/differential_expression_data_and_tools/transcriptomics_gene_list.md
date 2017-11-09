@@ -35,8 +35,8 @@ following ways:
     to the corresponding Gene List (Genes).
 -   From the Comparisons Tab, click on links within the rows to navigate
     to the corresponding Gene List (Genes), list significant genes based
-    on log ratio (|Log Ratio| &gt;= 1), or list significant genes based
-    on Z-score (|Z-score| &gt;=2).
+    on log ratio (|Log Ratio| >= 1), or list significant genes based
+    on Z-score (|Z-score| >=2).
 
 Note: To learn more about how to save data for future visits and utilize
 your personal Workspace please see [Workspace FAQs](/content/Workspace_and_Groups). To learn about Transcriptomics and
@@ -45,7 +45,7 @@ Comparison List FAQs](/content/Transcriptomics_Experiments_and_Comparisons).
 
 ## Filtering a Gene List
 
-Both the Table and Heatmap Tabs can be filtered using the filet panel on
+Both the Table and Heatmap Tabs can be filtered using the filter panel on
 the left of the Gene List page in following ways:
 
 -   Use the arrows to show genes that are up or down regulated in the

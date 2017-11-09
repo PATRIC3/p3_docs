@@ -17,9 +17,10 @@ pip install sphinx_rtd_theme
 ```
 See more detail https://github.com/rtfd/sphinx_rtd_theme
 
-## Install newsfeed plugin
+## Install plugins
 ```
 pip install sphinxcontrib-newsfeed
+pip install sphinxcontrib-spelling
 ```
 
 # Local setting

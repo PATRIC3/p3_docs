@@ -16,7 +16,7 @@ page where researchers can do nucleotide or amino acid BLAST searches.
     available. Definitions of the types of BLAST searches are as
     follows:
     -   BLAST: searches nucleotide databases using a nucleotide query
-    -   BLASTP: searcesh protein databases using a protein query
+    -   BLASTP: searches protein databases using a protein query
     -   BLASTX: searches protein databases using a translated nucleotide
         query
     -   TBLASTX: searches translated nucleotide databases using a

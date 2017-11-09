@@ -6,8 +6,8 @@ This tool may be accessed from the MSA Tools button in the light blue
 Table Toolbar at the top of PATRIC tables, including the Table Toolbar
 within your Workspace. From within the Protein Family Sorter you may
 chose to access MSA via the Table Toolbar or to conduct MSA for **ALL**
-protein members on any FIGfam details page by clicking “For All XX
-Members” link under "Integrated Protein Tree and Alignment**"** in the
+protein members on any FIGfam details page by clicking "For All XX
+Members" link under "Integrated Protein Tree and Alignment**"** in the
 upper right corner of the page. For more details on the Protein Family
 Sorter please see [Protein Family Sorter FAQs](/content/Protein_Family_Sorter).
 
@@ -66,6 +66,6 @@ FIGfam from the set of genomes being examined are included.
     same colors as their respective amino acids in the alignment.
 
 -   Both the alignment and the Family Tree are printable by clicking on
-    “Printable Alignment” and “Prinatble Tree” respectively at that top
+    "Printable Alignment" and "Printable Tree" respectively at that top
     of the table. Note: The Family Tree may be printed in either
     phylogram or cladogram view.

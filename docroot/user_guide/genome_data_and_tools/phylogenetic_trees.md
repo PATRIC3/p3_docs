@@ -75,7 +75,7 @@ on total hmmsearch score.
 Homology groups are filtered for taxon coverage. Groups are aligned
 using MUSCLE. Poorly aligned, or noisy regions, are removed with
 [Gblocks](http://molevol.cmima.csic.es/castresana/Gblocks.html).
-Especially noisy or phylogenetically discordant homolgy groups are
+Especially noisy or phylogenetically discordant homology groups are
 removed and the remaining groups are concatenated into a single long
 alignment. The main tree is estimated from the concatenated alignment
 with [FastTree](http://www.microbesonline.org/fasttree/). Branch support

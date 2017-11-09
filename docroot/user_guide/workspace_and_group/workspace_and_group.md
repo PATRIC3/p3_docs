@@ -13,7 +13,7 @@ workspaces, comparisons of groups, and other functionality.
 In order to use the PATRIC private Workspace, you must register and
 login. The registration link is at the top right corner of the PATRIC
 Website page. If you have already registered, you can login by clicking
-the &lt;Login&gt; button beside the registration link. Once you have
+the <Login> button beside the registration link. Once you have
 logged in, you can access the Workspace by clicking the link beside the
 word WORKSPACE: in the top right of the PATRIC Website. The default
 workspace is called HOME.
@@ -59,7 +59,7 @@ data, delete items from the group, link to additional information, and
 other actions. To accomplish these various tasks, select the desired
 item(s) in the list and click the Action Buttons in the Action Bar on
 the right side of the page. You can select multiple items in the list by
-using the &lt;Shift&gt; or &lt;Ctrl&gt; (&lt;Cmd&gt; on Mac) keys while
+using the <Shift> or <Ctrl> (<Cmd> on Mac) keys while
 selecting items.
 
 To find out what each Action Button does, hover the mouse cursor over

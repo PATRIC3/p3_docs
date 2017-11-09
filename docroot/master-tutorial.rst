@@ -9,6 +9,11 @@ PATRIC Tutorial
    tutorial/genome_annotation/annotation.md
    tutorial/proteome_comparison/proteome_comparison.md
    tutorial/phylogenetic_tree_building/tree_building.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Day 2 Tutorials
+
    tutorial/blast/blast.md
    tutorial/similar_genome_finder/similar_genome_finder.md
    tutorial/expression_import/expression_import.md
