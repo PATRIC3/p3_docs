@@ -42,6 +42,17 @@ your environment via the command::
 
   source /disks/p3/deployment/user-env.sh
 
+For any application that touches the workspace you will need to be
+logged into PATRIC. Use the :ref:`cli::p3-login` command to log in::
+
+    $ p3-login olson
+    Password: *********
+    Logged in with username olson@patricbrc.org
+
+This will authenticate you with the PATRIC authentication service and
+create a file in your home directory ``.patric_token`` containing the
+authentication token.
+
 Testing Existing Applications
 =============================
 
@@ -135,7 +146,7 @@ defined in the specification document.
 An example of a parameters file for the phylogenetic tree application
 is the following::
 
-    $ cat tree.in
+    $ cat tree.in`
     {
        "in_genome_ids": [
            "66976.18",
