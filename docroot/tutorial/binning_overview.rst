@@ -240,26 +240,6 @@ Step 7: Annotate High-Quality Bins
 We submit the contigs in each high-quality bin to the PATRIC server to
 annotate the genome associated with the bin.
 
-Step 8: For Each High-Quality Bin, Construct a Metabolic Model
---------------------------------------------------------------
-
-For each annotated, high-quality bin, we compute an estimate of the
-reaction network. We use this network as a means for evaluating the
-quality of the annotations, as well as the overall accuracy of the bin.
-
-Step 9: Estimate Taxonomy
--------------------------
-
-For each high-quality bin, we estimate taxonomy using several of the
-widely-available taxonomy servers (and one of our own).
-
-Step 10: For Each High-Quality Bin, Generate a Skeletal Paper
--------------------------------------------------------------
-
-We plan to generate genome papers for at least a subset of the
-high-quality bins. To do this, we will use `the Genome Papers web
-site <http://www.genomepapers.org>`__.
-
 Summary
 -------
 
