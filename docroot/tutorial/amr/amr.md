@@ -1,51 +1,53 @@
-# Examining Antimicrobial Resistance (AMR) data
+# Examining Antimicrobial Resistance (AMR) data in PATRIC
 
 ## 1. Finding AMR data in PATRIC
+
 1.1. Using Global Search to find antibiotic information
-1.1.1. The Global Search box is located at the top right of every PATRIC page.
+
+- 1.1.1. The Global Search box is located at the top right of every PATRIC page.
 ![Step 1](./images/image1.png "Step 1")
 
-1.1.2. Enter the name of an antibiotic of interest, and then click on the down arrow that follows All Data Types.
+- 1.1.2. Enter the name of an antibiotic of interest, and then click on the down arrow that follows All Data Types.
 ![Step 2](./images/image2.png "Step 2")
 
-1.1.3. This will open a drop-down box that allows you to filter on specific types of data. Click first on Antibiotic, and then on the search icon that you can see in the text box.
+- 1.1.3. This will open a drop-down box that allows you to filter on specific types of data. Click first on Antibiotic, and then on the search icon that you can see in the text box.
 ![Step 3](./images/image3.png "Step 3")
 
-1.1.4. This will open the search results page. You will see higher level categories in a box at the top of the page. Click on the number that follows the word Antibiotics.
+- 1.1.4. This will open the search results page. You will see higher level categories in a box at the top of the page. Click on the number that follows the word Antibiotics.
 ![Step 4](./images/image4.png "Step 4")
 
-1.1.5. This will open the Antibiotics List View where you can drill down on information on specific antibiotics (described below).
+- 1.1.5. This will open the Antibiotics List View where you can drill down on information on specific antibiotics (described below).
 ![Step 5](./images/image5.png "Step 5")
 
 1.2. Using Taxon landing pages to find antibiotic information
-1.2.1. From the Organisms tab, click on a genus of interest.
+
+- 1.2.1. From the Organisms tab, click on a genus of interest.
 ![Step 6](./images/image6.png "Step 6")
 
-1.2.2. This will open the Taxon View landing page, that summarizes all the data for that genus. A table that summarizes the number of genomes that have been identified as resistant, susceptible or intermediate is available on the top right.
+- 1.2.2. This will open the Taxon View landing page, that summarizes all the data for that genus. A table that summarizes the number of genomes that have been identified as resistant, susceptible or intermediate is available on the top right.
 ![Step 7](./images/image7.png "Step 7")
 
-
-1.2.3. To find specific data on the AMR phenotypes, click on that tab at the top of the page.
+- 1.2.3. To find specific data on the AMR phenotypes, click on that tab at the top of the page.
 ![Step 8](./images/image8.png "Step 8")
 
-1.2.4. This will open a table that shows all the genomes across the genus that have been identified as being resistant, intermediate, or susceptible.
+- 1.2.4. This will open a table that shows all the genomes across the genus that have been identified as being resistant, intermediate, or susceptible. Clicking on the filter icon that can be found at the top of the table will open a dynamic filter.
 ![Step 9](./images/image9.png "Step 9")
 
-1.2.5. Clicking on the filter icon that can be found at the top of the table will open a dynamic filter that has information on the phenotype, laboratory typing and testing methods that can be selected to narrow the number of genomes.
+- 1.2.5.	The filter that has information on the phenotype, laboratory typing and testing methods that can be selected to narrow the number of genomes.
 ![Step 10](./images/image10.png "Step 10")
 
-1.2.6. The search can be narrowed by clicking on specific fields.
+- 1.2.6. The search can be narrowed by clicking on specific fields.
 ![Step 11](./images/image11.png "Step 11")
 
-1.2.7. Clicking of a genome of interest will show all possible downstream analysis steps or views will appear in the vertical green bar. Click on the Genome icon.
+- 1.2.7. Clicking of a genome of interest will show all possible downstream analysis steps or views will appear in the vertical green bar. Click on the Genome icon.
 ![Step 12](./images/image12.png "Step 12")
 
-1.2.8. This will open the Genome View landing page, where the AMR phenotypes are displayed on the to right.
+- 1.2.8. This will open the Genome View landing page, where the AMR phenotypes are displayed on the to right.
 ![Step 13](./images/image13.png "Step 13")
 
 1.3. Using the Data tab to find antibiotic information
 
-1.3.1. Information on AMR can be found by clicking on the Data tab, and then on Antibiotic Resistance under Data Types.
+- 1.3.1. Information on AMR can be found by clicking on the Data tab, and then on Antibiotic Resistance under Data Types.
 ![Step 14](./images/image14.png "Step 14")
 
 ## 2.	Exploring AMR data in PATRIC-Overview
@@ -155,11 +157,9 @@
 3.29.	This will open the Genome Browser, which will show you the exact location of the region associated with AMR resistance.
 ![Step 49](./images/image48.png "Step 49")
 
-
-
 ## References
-1.	Liu B, Pop M. ARDB—antibiotic resistance genes database, Nucleic Acids Res 2009;37:D443-D447.
-2.	McArthur AG, Waglechner N, Nizam F et al. The comprehensive antibiotic resistance database, Antimicrobial agents and chemotherapy 2013;57:3348-3357.
-3.	NCBI. Bacterial Antimicrobial Resistance Reference Gene Database. ([https://www.ncbi.nlm.nih.gov/bioproject/?term=3130472017](https://www.ncbi.nlm.nih.gov/bioproject/?term=3130472017), date last accessed).
-4.	Davis JJ, Boisvert S, Brettin T et al. Antimicrobial resistance prediction in PATRIC and RAST, Sci Rep 2016;6.
-5.	Kim S, Thiessen PA, Bolton EE et al. PubChem substance and compound databases, Nucleic Acids Res 2015:gkv951.
+1. Liu B, Pop M. ARDB—antibiotic resistance genes database, Nucleic Acids Res 2009;37:D443-D447.
+2. McArthur AG, Waglechner N, Nizam F et al. The comprehensive antibiotic resistance database, Antimicrobial agents and chemotherapy 2013;57:3348-3357.
+3. NCBI. Bacterial Antimicrobial Resistance Reference Gene Database. ([https://www.ncbi.nlm.nih.gov/bioproject/?term=3130472017](https://www.ncbi.nlm.nih.gov/bioproject/?term=3130472017), date last accessed).
+4. Davis JJ, Boisvert S, Brettin T et al. Antimicrobial resistance prediction in PATRIC and RAST, Sci Rep 2016;6.
+5. Kim S, Thiessen PA, Bolton EE et al. PubChem substance and compound databases, Nucleic Acids Res 2015:gkv951.

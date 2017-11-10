@@ -16,7 +16,7 @@
 1. PATRIC provides filter to help find specific experimental data.  To find that, click on the Filters icon, which is located on the far right side of the page (red arrow).
 ![Step 4](./images/image4.png "Step 4")
 
-2. This will open up a filter that is on top of the table.  It allows researchers to filter on the experimental conditions, the type of mutant, the species, the strain, and if the experiment is a time-series or not.
+2. This will open up a filter that is on top of the table.  It allows researchers to filter on the experimental conditions, the type of mutant, the species, the strain, and if the experiment is a time series or not.
 ![Step 5](./images/image5.png "Step 5")
 
 3. Clicking on any of the text in the filter will highlight it (red arrow).
@@ -67,7 +67,7 @@
 
     ![Step 18](./images/image18.png "Step 18")
 
-5. Clicking on advanced clustering open a pop=up window that allows researchers to cluster by genes, comparisons, or both.  In addition, there are several clustering algorithms and clustering types to choose from.
+5. Clicking on advanced clustering open a pop-up window that allows researchers to cluster by genes, comparisons, or both.  In addition, there are several clustering algorithms and clustering types to choose from.
 
     ![Step 19](./images/image19.png "Step 19")
 
@@ -129,3 +129,32 @@
 6. The information on specific genes can be viewed by using the mouse to draw a box over the selection, as described above.
 
     ![Step 35](./images/image35.png "Step 35")
+
+## VIII.  Expression at the Gene level - Transcriptomics
+1. Genes can be found by global search, or by selecting a specific gene from a table (red arrow). This populates the vertical green band with possible downstream functions. Clicking on the Feature icon (blue arrow) will open a new tab that is the landing page for the Feature page.  
+![Step 36](./images/image36.png "Step 36")
+
+2. Once on the gene landing page, clicking on the Transcriptomics tab will show if there is any available expression data for the gene in PATRIC.
+![Step 37](./images/image37.png "Step 37")
+
+3. If data is available, the Transcriptomics tab will show first two charts that show the levels of expression based on Log ratio or Z score based on all the available data. A pie chart showing the strains, gene modification, or experimental conditions is also presented.
+![Step 38](./images/image38.png "Step 38")
+
+4. Inserting text in the filter (red arrow) and clicking on the filter button will filter the conditions, showing the expression levels based on the experimental conditions that meet the search criteria. Filtering on the Log ration (blue arrow) or Z score will also filter the results.
+![Step 39](./images/image39.png "Step 39")
+
+5. Clicking on the Table (red arrow) will rewrite the table to show a list of the conditions that the gene is expressed in.
+![Step 40](./images/image40.png "Step 40")
+
+6. Clicking on a specific condition (red arrow) wills how the information about that condition in the box beyond the vertical green band. It will also populate the vertical green band with downstream processes that apply.
+![Step 41](./images/image41.png "Step 41")
+
+## IX.  Expression at the Gene level – Correlated Genes
+1. Clicking on the Correlated Genes tab (red arrow) will show the genes that are either up or down-regulated with the gene on the Feature page. The numbers are based on the public transcriptomics data that are available in PATRIC.
+![Step 42](./images/image42.png "Step 42")
+
+2. Researchers can filter the correlated genes based on positive or negative correlation
+![Step 43](./images/image43.png "Step 43")
+
+3. Results can also be filtered on the correlation cutoff level.
+![Step 44](./images/image44.png "Step 44")
