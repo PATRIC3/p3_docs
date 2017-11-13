@@ -7,8 +7,10 @@ Archaea
 BRC
 BWA
 Bam
+Biocomplexity
 Bioinformatics
 Biovar
+Blacksburg
 Bowtie
 CDS
 ChiP
@@ -43,6 +45,7 @@ Mycobacterium
 Mycoplasma
 Nanopore
 Newick
+NIAID
 Outgroup
 Pathovar
 PGfams
@@ -58,6 +61,7 @@ Rockhopper
 Serovar
 Solr
 Sporulation
+Streptomyces
 Subsite
 Taxon
 Toolbar
@@ -66,6 +70,7 @@ Transcriptomic
 Transcriptomics
 Ubuntu
 Workflow
+Yersinia
 app
 apps
 arXiv
@@ -103,6 +108,7 @@ frameshifts
 frn
 genbank
 genomic
+genomics
 geo
 gz
 heatmap
@@ -148,6 +154,8 @@ peginfo
 phylogenetic
 phylogenetically
 phylogram
+pneumonia
+pneumoniae
 pre
 proteome
 pseudogenes
