@@ -14,4 +14,5 @@ with genome features and their products.
    specialty_genes.md
    curated_virulence_factors.md
    id_mapping_tool.md
+   id_mapper.md
    msa.md

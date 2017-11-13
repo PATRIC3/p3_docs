@@ -6,3 +6,4 @@ Protein Family Sorter
 
    protein_family_sorter.rst
    protein_family_heatmap.rst
+   protein_family_service.md
