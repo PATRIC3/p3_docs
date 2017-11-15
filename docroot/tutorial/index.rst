@@ -50,6 +50,7 @@ Metabolomics
    :maxdepth: 1
 
    comparative_pathways/comparative_pathways.md
+   metabolic_model_reconstruction/metabolic_model_reconstruction.md
 
 Others
 -------
