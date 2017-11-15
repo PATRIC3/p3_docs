@@ -71,3 +71,6 @@ Specialty Genes
       <!-- Section: Download -->
     </section>
   </div>
+
+
+.. image:: ./images/genomic_features.jpg

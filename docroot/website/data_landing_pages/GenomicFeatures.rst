@@ -81,3 +81,6 @@ Genomic Features
       </div>
     </section>
   </div>
+
+
+.. image:: ./images/genomic_features.jpg

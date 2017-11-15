@@ -77,3 +77,6 @@ Genomes
       <!-- Section: Download -->
     </section>
   </div>
+
+
+.. image:: ./images/genomes.jpg

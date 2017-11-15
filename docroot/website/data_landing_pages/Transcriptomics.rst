@@ -42,3 +42,5 @@ Transcriptomics
     </section>
   </div>
 
+
+.. image:: ./images/trasncriptomics.jpg

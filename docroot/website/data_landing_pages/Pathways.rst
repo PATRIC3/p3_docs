@@ -80,3 +80,5 @@ Pathways
     </section>
   </div>
 
+
+.. image:: ./images/pathways.jpg
