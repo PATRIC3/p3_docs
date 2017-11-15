@@ -112,4 +112,4 @@ Expectation)](http://www.ebi.ac.uk/Tools/msa/muscle/)
 [OrthoMCL](http://www.orthomcl.org/)
 
 
-[PATRIC Data Release Policy](http://enews.patricbrc.org/data-release-policy/)
+[PATRIC Data Release Policy](./data_release_policy.html)
