@@ -92,7 +92,7 @@ Antibiotic Resistance
       <div class="data-tab" id="tab3">
         <div class="data-box">
           <h3 class="ribbon-title">How Do We Curate, Integrate, and Map Antibiotic Resistance Data?</h3>
-            <img alt="How Do We Curate, Integrate, and Map Antibiotic Resistance Data?" src="http://docs.patricbrc.org/website/data_landing_pages/images/antibiotics_resistance.jpg" />
+            <img alt="How Do We Curate, Integrate, and Map Antibiotic Resistance Data?" src="http://docs.patricbrc.org/_static/website/data_landing_pages/antibiotics_resistance.jpg" />
         </div>
       </div>
 
@@ -100,5 +100,3 @@ Antibiotic Resistance
     </section>
   </div>
 
-
-.. image:: ./images/antibiotics_resistance.jpg

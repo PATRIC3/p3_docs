@@ -69,7 +69,7 @@ Protein Families
       <div class="data-tab" id="tab3">
         <div class="data-box">
           <h3 class="ribbon-title">How Do We Process and Clean Up Our Data?</h3>
-            <img alt="How Do We Process and Clean Up Our Data?" src="http://docs.patricbrc.org/website/data_landing_pages/images/protein_family.jpg" />
+            <img alt="How Do We Process and Clean Up Our Data?" src="http://docs.patricbrc.org/_static/website/data_landing_pages/protein_family.jpg" />
         </div>
       </div>
 
@@ -77,5 +77,3 @@ Protein Families
     </section>
   </div>
 
-
-.. image:: ./images/protein_family.jpg

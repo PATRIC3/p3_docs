@@ -64,7 +64,7 @@ Specialty Genes
       <div class="data-tab" id="tab3">
         <div class="data-box">
           <h3 class="ribbon-title">How Do We Curate, Integrate, and Map Specialty Genes?</h3>
-            <img alt="How Do We Curate, Integrate, and Map Specialty Genes?" src="http://docs.patricbrc.org/website/data_landing_pages/images/genomic_features.jpg" />
+            <img alt="How Do We Curate, Integrate, and Map Specialty Genes?" src="http://docs.patricbrc.org/_static/website/data_landing_pages/genomic_features.jpg" />
         </div>
       </div>
 
@@ -72,5 +72,3 @@ Specialty Genes
     </section>
   </div>
 
-
-.. image:: ./images/genomic_features.jpg

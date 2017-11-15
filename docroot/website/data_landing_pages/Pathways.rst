@@ -72,7 +72,7 @@ Pathways
       <div class="data-tab" id="tab3">
         <div class="data-box">
           <h3 class="ribbon-title">How Do We Process and Clean Up Our Data?</h3>
-            <img alt="How Do We Process and Clean Up Our Data?" src="//docs.patricbrc.org/website/data_landing_pages/images/pathways.jpg" />
+            <img alt="How Do We Process and Clean Up Our Data?" src="//docs.patricbrc.org/_static/website/data_landing_pages/pathways.jpg" />
         </div>
       </div>
 
@@ -81,4 +81,3 @@ Pathways
   </div>
 
 
-.. image:: ./images/pathways.jpg
