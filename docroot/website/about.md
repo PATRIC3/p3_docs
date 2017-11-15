@@ -1,7 +1,5 @@
 # What is PATRIC?
 
-## What is PATRIC?
-
 PATRIC is the ***Bacterial Bioinformatics Resource Center***, an information system
 designed to support the biomedical research community’s work on bacterial infectious diseases via
 integration of vital pathogen information with rich data and analysis tools. PATRIC sharpens and hones
@@ -27,12 +25,8 @@ Institute of Virginia Tech.
 
 [Download this information in a PATRIC brochure](https://p3.theseed.org/p3_pages/_static/PATRIC_Final_Pamphlet.pdf)
 
-[PATRIC Data Release Policy](http://enews.patricbrc.org/data-release-policy/)
+[PATRIC Data Release Policy](./data_release_policy.html)
 
-The PATRIC team is committed to supporting and growing the bacterial research communities. To help us
-    identify your specific bioinformatic needs, please take a moment to fill out our short <a
-            href="https://survey.vt.edu/survey/entry.jsp?id=1285273366861">PATRIC survey</a>. Your
-    participation is greatly appreciated.
 
 ## About the Computation Institute
 The <a href="https://www.ci.uchicago.edu/" target="_blank">Computation Institute</a> (CI), a joint initiative between The University of Chicago and Argonne National Laboratory, advances science through innovative computational approaches.
