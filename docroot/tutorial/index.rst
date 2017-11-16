@@ -60,4 +60,6 @@ Others
 
    genome_groups/creating_genome_groups.md
    amr/amr.md
+   binning_overview
    metagenomic_binning/metagenomic_binning
+   dev_at_argonne
