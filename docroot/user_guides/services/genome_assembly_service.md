@@ -12,16 +12,16 @@ The **Assembly** submenu option under the **Services** main menu option opens th
 ![Assembly Input Form](../images/assembly_input_form.png)
 
 ## Selected libraries
-(1) Read files placed here will contribute to a single assembly.
+**_(1)_** Read files placed here will contribute to a single assembly.
 
 ## Paired read library
-(2)
+**_(2)_**
 
 ### Read File 1 & 2
 Many paired read libraries are given as file pairs, with each file containing half of each read pair. Paired read files are expected to be sorted such that each read in a pair occurs in the same Nth position as its mate in their respective files. These files are specified as READ FILE 1 and READ FILE 2. For a given file pair, the selection of which file is READ 1 and which is READ 2 does not matter.
 
 ### Advanced Parameters
-(3)
+**_(3)_**
 
 #### File 1 Interleaved
 Some paired libraries are available in a single file where each read in a pair occurs in succession. To specify such a file set this parameter to 'True'.
@@ -43,13 +43,13 @@ The sequencing platform used for each library.
   * nanopore: MinION long reads
 
 ## Single read library
-(4)
+**_(4)_**
 
 ### Read File
 The fastq file containing the reads
 
 ### Advanced Parameters
-(5)
+**_(5)_**
 
 #### Platform
 The sequencing platform used for each library.
@@ -59,10 +59,10 @@ The sequencing platform used for each library.
   * nanopore: MinION long reads
 
 ## SRA run accession
-(6) Allows direct upload of read files from the [NCBI Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) to the PATRIC Assembly Service. Entering the SRR accession number and clicking the arrow will add the file to the selected libraries box for use in the assembly.
+**_(6)_** Allows direct upload of read files from the [NCBI Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) to the PATRIC Assembly Service. Entering the SRR accession number and clicking the arrow will add the file to the selected libraries box for use in the assembly.
 
 ## Parameters
-(7)
+**_(7)_**
 
 ### Assembly Strategy
 
@@ -118,7 +118,7 @@ Name used to uniquely identify results.
 This parameter can be used to specify a FASTA contigs file to evaluate the assembly against.
 
 ## Advanced
-(8)
+**_(8)_**
 
 ### Minimal output contig length
 Filter out short contigs in final assembly
@@ -144,8 +144,8 @@ The pipeline parameter overrides the assembly strategy parameter. Not all module
 [List of modules supported](ftp://ftp.patricbrc.org/workshop/arast/arast_modules.txt)
 
 ### Reset Button
-(9) Clicking this button resets the input form to default values
+**_(9)_** Clicking this button resets the input form to default values
 
 ### Assemble Button
-(10) Clicking this button launches the assembly job.
+**_(10)_** Clicking this button launches the assembly job.
 
