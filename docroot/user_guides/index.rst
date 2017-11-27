@@ -14,7 +14,7 @@ options are the following:
    organism page, further divisions of data types are available from the
    data tabs such as Overview, Taxonomy, Phylogeny, Genome List, Feature
    Table, Specialty Genes, etc.
--  Data - links to specialized "Data Landing Pages" that provide
+-  `Data <data.html>`_ - links to specialized "Data Landing Pages" that provide
    overview and summary information of PATRIC data, including pages for
    Antibiotic Resistance, Genomes, Genome Features, Pathways, Protein
    Families, Specialty Genes, Transcriptomics, and special featured data
@@ -45,6 +45,7 @@ website is available from the Help Menu .
    :caption: Links
 
    organisms_tab
+   data
    workspaces
    services_tab
    global_search
