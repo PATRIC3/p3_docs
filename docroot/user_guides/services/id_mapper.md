@@ -23,16 +23,16 @@ The **ID Mapper** submenu option under the **Services** main menu option opens t
 ![ID Mapper Input Form](../images/id_mapper_input_form.png) 
 
 ### From IDs
-(1) This dropdown list selects which ID type (PATRIC, RefSeq, Uniprot-KB, etc.) to map from (source).
+**_(1)_** This dropdown list selects which ID type (PATRIC, RefSeq, Uniprot-KB, etc.) to map from (source).
 
 ### To IDs
-(2) This dropdown list selects which ID type (PATRIC, RefSeq, Uniprot-KB, etc.) to map to (target). 
+**_(2)_** This dropdown list selects which ID type (PATRIC, RefSeq, Uniprot-KB, etc.) to map to (target). 
 
 ### PATRIC Feature Strategy
-(3) This tool uses the Uniprot-KB mapping table to map external IDs to PATRIC. This is done using NCBI IDs. Due to updates over time some NCBI IDs may achieve better mapping results than others. 
+**_(3)_** This tool uses the Uniprot-KB mapping table to map external IDs to PATRIC. This is done using NCBI IDs. Due to updates over time some NCBI IDs may achieve better mapping results than others. 
 
 ### Feature ID Input Box
-(4) This is the input box for specifying the IDs to map.  The IDs can be specified in a comma-separated or one-per-line list.
+**_(4)_** This is the input box for specifying the IDs to map.  The IDs can be specified in a comma-separated or one-per-line list.
 
 ### Map Button
-(5) Clicking this button brings up a table below it containing all the matching items (e.g., features, genomes, etc.) that map to the list of IDs provided.
+**_(5)_** Clicking this button brings up a table below it containing all the matching items (e.g., features, genomes, etc.) that map to the list of IDs provided.
