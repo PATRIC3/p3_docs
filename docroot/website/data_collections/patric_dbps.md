@@ -8,22 +8,22 @@ Driving Biology Projects (DBPs) are two-year awards that focus on infectious dis
 
 The DBP proposals were independently reviewed and evaluated by the [PATRIC Scientific Working Group](../swg.html) (SWG), and the top two proposals were selected for award for each funding period. The awarded DBPs are:
 
-**[Comparative transcriptome and proteome analysis of Clostridium difficile strains](https://www.patricbrc.org/content/patric-dbps#DBP1)**
+**Comparative transcriptome and proteome analysis of Clostridium difficile strains**
 * By: Yung-Fu Chang from Cornell University, Ithaca, NY
 * Pathogen: *Clostridium difficile*
 * Funding Period: 2010 - 2012
 
-**[Fitness Annotation of Bacterial Genomes](https://www.patricbrc.org/content/patric-dbps#DBP2)**
+**Fitness Annotation of Bacterial Genomes**
 * By: Michael McClelland from University of California, Irvine, CA
 * Pathogen *Salmonella enterica enterica serovar Typhimurium*
 * Funding Period: 2010 - 2012
 
-**[Integrated genomic approaches to elucidating novel virulence factors for bacteria complicating influenza](https://www.patricbrc.org/content/patric-dbps#DBP3)**
+**Integrated genomic approaches to elucidating novel virulence factors for bacteria complicating influenza)**
 * Jon McCullers and Jason Rosch from St. Jude Children’s Research Hospital, Memphis, TN
 * Pathogen: *Streptococcus pneumoniae, Staphylococcus aureus*
 * Funding Period: 2012 - 2014
 
-**[Identification of Salmonella-specific Regulatory Networks](https://www.patricbrc.org/content/patric-dbps#DBP4)**
+**Identification of Salmonella-specific Regulatory Networks**
 * Joseph Wade from Wadsworth Center, Albany, NY
 * Pathogen *Salmonella enterica enterica serovar Typhimurium*
 * Funding Period: 2012 - 2014
@@ -47,7 +47,7 @@ The overall goal of this project was to compare transcriptome, proteome and phen
 
 ### Fitness Annotation of Bacterial Genomes
 
-The goal of this project was to provide PATRIC with the information needed to display which genes of non-typhoidal Salmonella serovar Typhimurium (STm) contribute to survival in a variety of environments. This was accomplished through a combination of high-throughput screening and sequencing methods and unique resources developed to annotate the STm genome with fitness information. STm transcriptomes were generated from bacteria growing in defined environments, including rich and minimal media, at stationary phase, and in conditions that induce virulence pathways. These transcriptomes provide basal reference profiles to standardize and improve analysis of the impending onslaught of high-throughput transcriptomics data. Decoration of the genome with basal transcriptional data complements the fitness profile and other existing annotations in this archetypical strain. [Read more here](https://www.patricbrc.org/content/patric-dbp-mcclelland).
+The goal of this project was to provide PATRIC with the information needed to display which genes of non-typhoidal Salmonella serovar Typhimurium (STm) contribute to survival in a variety of environments. This was accomplished through a combination of high-throughput screening and sequencing methods and unique resources developed to annotate the STm genome with fitness information. STm transcriptomes were generated from bacteria growing in defined environments, including rich and minimal media, at stationary phase, and in conditions that induce virulence pathways. These transcriptomes provide basal reference profiles to standardize and improve analysis of the impending onslaught of high-throughput transcriptomics data. Decoration of the genome with basal transcriptional data complements the fitness profile and other existing annotations in this archetypical strain. [Read more here](https://www.patricbrc.org/webpage/website/data_collections/content/patric-dbp-mcclelland.html).
 
 * Publications
   - Canals, R., X. Q. Xia, C. Fronick, S. W. Clifton, B. M. Ahmer, H. L. Andrews-Polymenis, S. Porwollik and M. McClelland (2012). High-throughput comparison of gene fitness among related bacteria. BMC Genomics. PMID: [22646920](http://www.ncbi.nlm.nih.gov/pubmed?term=High-throughput%20comparison%20of%20gene%20fitness%20among%20related%20bacteria).

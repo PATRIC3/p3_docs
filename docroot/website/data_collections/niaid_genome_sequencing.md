@@ -8,7 +8,7 @@ For more information about projects conducted by the GCIDs, visit the individual
 
 * [The JCVI Genomic Center for Infectious Diseases](http://gsc.jcvi.org/)
 * [The Broad Institute Genomic Center for Infectious Diseases](http://www.broadinstitute.org/science/projects/gscid/genomic-sequencing-center-infectious-diseases)
-  - [TB Antibiotic Resistance Catalog](https://www.patricbrc.org/content/tb-arc-tb-antibiotic-resistance-catalog) (TB-ARC)
+  - [TB Antibiotic Resistance Catalog](https://www.patricbrc.org/webpage/website/data_collections/content/tb-arc-tb-antibiotic-resistance-catalog.html) (TB-ARC)
 * [The Institute for Genome Sciences at the University of Maryland School of Medicine](http://gscid.igs.umaryland.edu/)
 
 ![J. Craig Venter](https://www.patricbrc.org/public/patric/images/J-craig-venter.jpeg)
@@ -17,4 +17,4 @@ For more information about projects conducted by the GCIDs, visit the individual
 
 ![University of Maryland School of Medicine](https://www.patricbrc.org/public/patric/images/UMSM.jpeg)
 
-Several of the projects conducted by the GCIDs have a focus on antimicrobial resistance (AMR). A [consolidated list](https://www.patricbrc.org/content/niaid-antimicrobial-resistance-sequencing-projects) of these projects is available at PATRIC.
+Several of the projects conducted by the GCIDs have a focus on antimicrobial resistance (AMR). A [consolidated list](https://www.patricbrc.org/webpage/website/data_collections/content/niaid-antimicrobial-resistance-sequencing-projects.html) of these projects is available at PATRIC.

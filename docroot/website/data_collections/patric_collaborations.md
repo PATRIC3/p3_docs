@@ -4,7 +4,7 @@ The opportunity to collaborate on various projects enables the team to understan
 
 ## Burkholderia Transcription data
 
-Collaboration with Patrick Tan [tanbop@gis.a-star.edu.sg](mailto:tanbop@gis.a-star.edu.sg) at the [Genome Institute of Singapore](http://www.gis.a-star.edu.sg). See the data at [PATRIC](https://www.patricbrc.org/view/ExperimentComparison/1191081). For more information on this project, please read [*Burkholderia pseudomallei* Trancriptome Compendium Project](https://www.patricbrc.org/content/burkholderia_pseudomallei_transcriptome_compendium).
+Collaboration with Patrick Tan [tanbop@gis.a-star.edu.sg](mailto:tanbop@gis.a-star.edu.sg) at the [Genome Institute of Singapore](http://www.gis.a-star.edu.sg). See the data at [PATRIC](https://www.patricbrc.org/view/ExperimentComparison/1191081). For more information on this project, please read [*Burkholderia pseudomallei* Trancriptome Compendium Project](https://www.patricbrc.org/webpage/website/data_collections/content/burkholderia_pseudomallei_transcriptome_compendium.html).
 
 ## USDA Genome Sequencing Projects
 

@@ -4,8 +4,8 @@ The Functional Genomics Program for understanding the functions of uncharacteriz
 
 For more information on the three bacterial functional genomics projects and integration of the data into the PATRIC resource, please visit:
 
-[Functionalizing Lists of Unknown TB Entities (FLUTE)](https://www.patricbrc.org/content/functionalizing-lists-of-unknown-tb-entities-flute)
+[Functionalizing Lists of Unknown TB Entities (FLUTE)](https://www.patricbrc.org/webpage/website/data_collections/content/functionalizing-lists-of-unknown-tb-entities-flute.html)
 
-[Chicago Center for Functional Annotation (CCFA)](https://www.patricbrc.org/content/the-chicago-center-for-functional-annotation-ccfa)
+[Chicago Center for Functional Annotation (CCFA)](https://www.patricbrc.org/webpage/website/data_collections/content/the-chicago-center-for-functional-annotation-ccfa.html)
 
-[Genes Unknown in Acinetobacter baumannii (GUNK)](https://www.patricbrc.org/content/genes-unknown-in-acinetobacter-baumannii-gunk)
+[Genes Unknown in Acinetobacter baumannii (GUNK)](https://www.patricbrc.org/webpage/website/data_collections/content/genes-unknown-in-acinetobacter-baumannii-gunk.html)

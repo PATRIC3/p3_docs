@@ -1,0 +1,22 @@
+# Burkholderia Pseudomallei Transcriptome Compendium
+
+The Condition-Dependent Transcriptional Landscape of *Burkholderia pseudomallei*
+
+Wen Fong Ooi1, Catherine Ong2, Tannistha Nandi1, Jason F. Kreisberg1, Hui Hoon Chua1, Guangwen Sun3, Yahua Chen4, Claudia Mueller5, Laura Conejero6, Majid Eshaghi1, Roy Moh Lik Ang1, Jianhua Liu1, Bruno W. Sobral7,8, Sunee Korbsrisate9, Yunn Hwen Gan4, Richard W. Titball5, Gregory J. Bancroft6, Eric Valade10,11, Patrick Tan1,12,13,#
+
+[PLoS Genet 9(9): e1003795. doi:10.1371/journal.pgen.1003795](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003795)
+
+Burkholderia pseudomallei (Bp), the causative agent of the often-deadly infectious disease melioidosis, contains one of the largest prokaryotic genomes sequenced to date, at 7.2 Mb with two large circular chromosomes (1 and 2). To comprehensively delineate the Bp transcriptome, we integrated whole-genome tiling array expression data from Bp exposed to >80 diverse physical, chemical, and biological conditions. Our results provide direct experimental support for the strand-specific expression of 5467 Sanger protein-coding genes, 1041 operons, and 766 non-coding RNAs. A large proportion of these transcripts displayed condition-dependent expression, consistent with them playing functional roles. The two Bp chromosomes exhibited dramatically different transcriptional landscapes – Chr 1 genes were highly and constitutively expressed, while Chr 2 genes exhibited mosaic expression where distinct subsets were expressed in a strongly condition-dependent manner. We identified dozens of cis-regulatory motifs associated with specific condition-dependent expression programs, and used the condition compendium to elucidate key biological processes associated with two complex pathogen phenotypes – quorum sensing and in vivo infection. Our results demonstrate the utility of a Bp condition-compendium as a community resource for biological discovery. Moreover, the observation that specific in vitro cues exist that can activate significant portions of the Bp virulence machinery provides insights into Bp’s ability to act as an “accidental pathogen”, where genetic pathways used by the bacterium to survive in environmental niches may have contributed to its ability to colonize human hosts.
+
+The expression data is available in [PATRIC](https://www.patricbrc.org/view/ExperimentComparison/1191081) and at [GEO](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE43205).  Important sets of genes identified include:
+
+* [Quorum sensing (pmlI) regulated proteins (genes significantly differentially expressed, 562 up-regulated and 625 down-regulated, between quorum sensing mutants and wild-type Bp](http://enews.patricbrc.org/wp-content/uploads/2013/02/Quorum-sensing-pmlI-regulated-proteins.xlsx)
+* [Network-predicted heat-shocked proteins (genes from the maximum relatedness of clusters network analysis, from clusters C131 and C265)](http://enews.patricbrc.org/wp-content/uploads/2013/02/Network-predicted-heat-shocked-proteins.xlsx)
+
+---
+
+1Genome Institute of Singapore, Singapore, Republic of Singapore, 2DMERI@DSO, DSO National Laboratories, Singapore, Republic of Singapore, 3School of Applied Science, Republic Polytechnic, Singapore, Republic of Singapore, 4Department of Biochemistry, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Republic of Singapore, 5College of Life and Environmental Sciences, University of Exeter, Exeter, United Kingdom, 6Department of Immunology and Infection, Faculty of Infectious & Tropical Diseases, London School of Hygiene & Tropical Medicine, London, United Kingdom, 7Virginia Bioinformatics Institute at Virginia Tech, Blacksburg, United States of America, 8Current address: Nestle Institute of Health Sciences, Campus EPFL, Lausanne, Switzerland, 9Department of Immunology, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, Thailand, 10Institut de Recherche Biomédicale des Armées / CRSSA, La Tronche, France, 11Ecole du Val-de-Grâce, Paris, France, 12Duke-NUS Graduate Medical School, Singapore, Republic of Singapore, 13Cancer Science Institute of Singapore, National University of Singapore, Singapore, Republic of Singapore
+
+* Equal Contribution
+
+Address Correspondence to [tanbop@gis.a-star.edu.sg](mailto:tanbop@gis.a-star.edu.sg),Genome Institute of Singapore, 60 Biopolis Street, Genome, Singapore 138672, Telephone #:   +65-64788182, Fax #:  +65-64789003
