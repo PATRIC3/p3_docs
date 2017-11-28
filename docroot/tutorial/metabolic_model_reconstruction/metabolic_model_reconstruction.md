@@ -84,7 +84,11 @@ Additionally, a download section is available where all model relevant data can 
 ![Image 10b](images/image10b.png)
 
 11.	In addition, users can explore the metabolic model in detail by a user-friendly searchable table by clicking the ‘eye’ sign that appears on the top right corner of the page.
-![Image 11](images/image11.png)
+![Image 11a](images/image11a.png)
+
+You will be navigated to the ModelSEED website (www.modelseed.org) and you will
+be prompt to login using your PATRIC account:
+![Image 11b](images/image11b.png)
 
 12.	This will open the ModelSEED model viewer consisting¬ of multiple tabs representing Reactions, Compounds, Genes, Compartments of the model and the weighted components of the Biomass. Each column in the table is sortable by clicking the heading of the column. Any information of the model is searchable by using a search bar that appears on the top left corner of the table.
 

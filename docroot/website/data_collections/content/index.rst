@@ -10,7 +10,7 @@ PATRIC Content Pages
    patric_dbp_mccclelland.md
    tb_arc_antibiotic_resistance_catalog.md
    niaid_antimicrobial_resistance_sequencing_projects.rst
-   omics_4tb.md
+   omics4tb.md
    omics4tb_chip_seq_experiments.rst
    omics4tb_tfoe_expression_experiments.rst
    omics4tb_bedaquiline_tolerance.rst

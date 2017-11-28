@@ -17,7 +17,7 @@ PATRIC Tutorial
    tutorial/blast/blast.md
    tutorial/similar_genome_finder/similar_genome_finder.md
    tutorial/expression_import/expression_import.md
-   tutorial/transcriptomics
+   tutorial/examining_transcriptomics_data/examining_transcriptomics_data.md
    tutorial/variation_analysis_service/variation_analysis_service.md
    cli_tutorial/cli_getting_started   
 

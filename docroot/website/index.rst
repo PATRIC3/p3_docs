@@ -14,3 +14,4 @@ PATRIC web pages
    personnel.md
    collaborators.md
    related_sites.md
+   data_release_policy.md

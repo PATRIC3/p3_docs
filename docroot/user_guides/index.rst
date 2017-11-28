@@ -49,3 +49,4 @@ website is available from the Help Menu .
    workspaces
    services_tab
    global_search
+   registration
