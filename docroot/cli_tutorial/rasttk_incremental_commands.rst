@@ -11,9 +11,9 @@ typed object. We will also show some of the additional scripts that are
 not part of the standard pipeline. As before, these commands will work
 in the IRIS environment or in the RASTtk app.
 
-To start this tututorial we will retrieve the *E. coli* K-12 contig from
-the PATRIC database. To do this type::
-         p3-genome-fasta --contig 511145.12 > E_coli.contig    
+To start this tututorial we will retrieve the *E. coli* K-12 contig from the PATRIC database. To do this type::
+
+    p3-genome-fasta --contig 511145.12 > E_coli.contig    
 
 
 RASTtk Incremental Commands
@@ -81,9 +81,9 @@ individually.
          7.  Calls CRISPRs
          8.  Calls the protein-encoding genes with Prodigal and Glimmer3
          9.  Annotates protein-encoding genes with k-mers (version 2),
-        10.  Annotates remaining hypothetical proteins with k-mers (version 1),
-        11.  Attempts to annotate remaining hypothetical proteins by blasting against close relatives (if possible)
-        12.  Performs a basic gene overlap removal
+         10.  Annotates remaining hypothetical proteins with k-mers (version 1),
+         11.  Attempts to annotate remaining hypothetical proteins by blasting against close relatives (if possible)
+         12.  Performs a basic gene overlap removal
 
 The tools that we list below represent a growing collection that can be
 invoked to alter/enhance the annotations for a genome represented by a
@@ -296,7 +296,7 @@ add to your GTO before exporting, you can use the following::
             aliases  (optional)  Comma-separated list of aliases for this feature
 
 Summary
-=======
+-------
 
 The RASTtk Toolkit being developed at Argonne National Laboratory will
 offer a framework for constructing customized annotation pipelines. This

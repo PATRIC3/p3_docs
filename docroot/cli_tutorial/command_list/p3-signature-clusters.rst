@@ -22,8 +22,7 @@ Compute Cluster Signatures
 
 
 The standard input file normally contains \ *[n/a, n/a, family_id, feature_id, contig, start, end, strand, function]*\ 
-(the first two columns are ignored). Such a file is created from a family signatures file (output of
-:ref:`cli::p3-signature-familes`) using the following command
+(the first two columns are ignored). Such a file is created from a family signatures file (output of `p3-signature-familes <http://docs.patric.local/cli_tutorial/command_list/p3-signature-families.html>`__) using the following command
 
 
 .. code-block:: perl

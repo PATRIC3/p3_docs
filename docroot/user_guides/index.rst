@@ -1,4 +1,4 @@
-New User Guides (Working In Progress)
+New User Guides (Work In Progress)
 ======================================
 
 The PATRIC website provides an entry point to integrated data and tools

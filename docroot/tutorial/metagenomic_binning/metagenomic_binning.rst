@@ -18,7 +18,7 @@ Basic Steps
 Log in to the PATRIC Website
 ----------------------------
 
-See :ref:`website-login` for information on logging in to the PATRIC website.
+See `website-login <http://docs.patric.local/user_guides/registration.html?highlight=website%20login#login>`__ for information on logging in to the PATRIC website.
 You should see something like this:
 
 .. image:: images/website.png
