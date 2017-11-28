@@ -154,14 +154,14 @@ following configuration::
      ]
    }
 
-The application specifications may be found in the `app_service repository at
-github <https://github.com/TheSEED/app_service/tree/master/app_specs>`_. 
+The application specifications may be found in the app_service `repository`__ on
+GitHub. 
 
 Each application service is implemented by a program named
 ``App-ApplicationName``. Thus the phylogenetic tree application is
 called ``App-PhylogeneticTree``. Sources for the applications are
-also found in the `app_service repository at
-github <https://github.com/TheSEED/app_service/tree/master/scripts>`_. 
+also found in the app_service `repository`__ on
+GitHub. 
 
 All of the application scripts accept the same parameters, described
 by its usage statement::
@@ -225,3 +225,6 @@ We see the execution beginning here. There is a fairly large amount of
 debugging output from both the application service infrastructure as
 well as the tools invoked by the application service infrastructure to
 accomplish the computation desired.
+
+__ https://github.com/TheSEED/app_service/tree/master/app_specs
+__ https://github.com/TheSEED/app_service/tree/master/scripts
