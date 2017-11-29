@@ -18,6 +18,7 @@ Genomics
    blast/blast.md
    similar_genome_finder/similar_genome_finder.md
    variation_analysis_service/variation_analysis_service.md
+   tn-seq/tn-seq.md
    phylogenetic_tree_building/tree_building.md
 
 
