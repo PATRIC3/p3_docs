@@ -1,0 +1,15 @@
+{% extends "!layout.html" %}
+
+{% block footer %}
+{{ super() }}
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11736060-7"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-11736060-7', {
+        'link_attribution': true
+    });
+</script>
+{% endblock %}
