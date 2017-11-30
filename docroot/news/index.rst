@@ -11,7 +11,7 @@ News
    :rss: news.rss
    :title: PATRIC eNews
    :description: PATRIC eNews Rss feed
-   :link: https://p3.theseed.org/p3_docs/
+   :link: https://docs.patricbrc.org
 
    20171122-patric-webinar
    20170930-patric-september-2017-data-release
