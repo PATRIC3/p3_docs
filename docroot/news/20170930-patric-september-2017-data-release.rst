@@ -17,9 +17,12 @@ Data Updates:
 New Genomes and Metadata 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-In this release, PATRIC has added >7,500 new genomes and associated metadata, bringing the total number of genomes in PATRIC to over 116,000. The full list of available microbial and host genomes can be accessed here.
+In this release, PATRIC has added >7,500 new genomes and associated metadata, bringing the total number of genomes in PATRIC to over 116,000.
+The full list of available microbial and host genomes can be accessed `here <https://www.patricbrc.org/view/GenomeList/?or(keyword(Bacteria),keyword(Archaea),keyword(Eukaryota))#view_tab=genomes>`__.
 
-This release features 1,668 Klebsiella pneumoniae genomes, which are clinical isolates from Houston Methodist Hospital System and contain AMR panel data. These genomes and related AMR data are exclusively available in PATRIC and were used in constructing new AMR phenotype prediction and Minimum Inhibitory Concentration (MIC) prediction classifiers in PATRIC.
+This release features 1,668 Klebsiella pneumoniae genomes, which are clinical isolates from Houston Methodist Hospital System and contain AMR panel data.
+These genomes and related AMR data are exclusively available in PATRIC and were used in constructing new `AMR phenotype prediction <http://mbio.asm.org/content/8/3/e00489-17.short>`__ and
+`Minimum Inhibitory Concentration (MIC) prediction <https://www.biorxiv.org/content/early/2017/09/25/193797>`__ classifiers in PATRIC.
 
 Annotation and Protein Family Updates
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
