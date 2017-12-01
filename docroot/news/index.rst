@@ -13,6 +13,7 @@ News
    :description: PATRIC eNews Rss feed
    :link: https://docs.patricbrc.org/
 
+   20171130-patric-november-2017-release
    20171122-patric-webinar
    20170930-patric-september-2017-data-release
    20170908-patric-workshop-at-argonne-national-lab
