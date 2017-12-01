@@ -1,4 +1,5 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20170908-patric-workshop-at-argonne-national-lab.rst
+:github_url:
+https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20170908-patric-workshop-at-argonne-national-lab.rst
 
 PATRIC/RAST Workshop at Argonne National Laboratory, November 14-16, 2017
 =========================================================================
@@ -6,15 +7,26 @@ PATRIC/RAST Workshop at Argonne National Laboratory, November 14-16, 2017
 .. feed-entry::
    :date: 2017-09-08
 
-The PATRIC/RAST teams will be offering a tutorial workshop on 2017-November 14-16, at Argonne National Laboratory in the suburbs of Chicago, IL. The workshop will run for three days, with the third day optional and devoted solely to participants working on their own problems with help from the PATRIC/RAST team members.
+The PATRIC/RAST teams will be offering a tutorial workshop on 2017-November 14-16, at Argonne National Laboratory in the
+suburbs of Chicago, IL. The workshop will run for three days, with the third day optional and devoted solely to
+participants working on their own problems with help from the PATRIC/RAST team members.
 
 .. cut::
 
-The tutorial will show participants how to assemble a genome from reads, annotate that genome, and then compare that genome to the public genomes available in PATRIC using a suite of comparative analysis tools. In addition, participants will be able to annotate sequence variation, construct a metabolic model for their genome, load and analyze RNA-Seq data, and use the updated BLAST service.  Participants will also be walked through PATRIC’s newest services that include the ability to build a phylogenetic tree using PATRIC’s new tree-building pipeline, and do analysis of Tn-Seq data.
+The tutorial will show participants how to assemble a genome from reads, annotate that genome, and then compare that
+genome to the public genomes available in PATRIC using a suite of comparative analysis tools. In addition, participants
+will be able to annotate sequence variation, construct a metabolic model for their genome, load and analyze RNA-Seq
+data, and use the updated BLAST service.  Participants will also be walked through PATRIC’s newest services that include
+the ability to build a phylogenetic tree using PATRIC’s new tree-building pipeline, and do analysis of Tn-Seq data.
 
-The workshop will be limited to 35 people on a first-come, first-served basis. While there is no fee for the workshop, participants are responsible for their own travel expenses. If you wish to participate, we encourage you to respond quickly at <rast-workshop@mcs.anl.gov>.
+The workshop will be limited to 35 people on a first-come, first-served basis. While there is no fee for the workshop,
+participants are responsible for their own travel expenses. If you wish to participate, we encourage you to respond
+quickly at <rast-workshop@mcs.anl.gov>.
 
-NOTE: All workshop attendees must also separately fill out the “Argonne Visitor Request” form at:  <https://apps.anl.gov/registration/visitors> as soon as possible — but especially non-U.S. Citizens, since they will take additional time to be cleared. Please enter Karen VanMeerten, <vanmeert@anl.gov>, for the “Sponsor’s e-mail address.”
+NOTE: All workshop attendees must also separately fill out the “Argonne Visitor Request” form at:
+<https://apps.anl.gov/registration/visitors> as soon as possible — but especially non-U.S. Citizens, since they will
+take additional time to be cleared. Please enter Karen VanMeerten, <vanmeert@anl.gov>, for the “Sponsor’s e-mail
+address.”
 
 **LOCATION**
 
