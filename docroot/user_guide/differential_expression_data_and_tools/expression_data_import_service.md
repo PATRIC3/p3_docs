@@ -125,5 +125,5 @@ should be the same as in the example template. Also, comparison IDs in
 the metadata file should match those in the data file. Click to download
 `Metadata Template`_
 
-.. _Sample Data template: //p3.theseed.org/p3_pages/_static/Sample-Genes.xlsx
-.. _Metadata Template: //p3.theseed.org/p3_pages/_static/Sample-Metadata.xlsx
+.. _Sample Data template: //docs.patricbrc.org/_static/Sample-Genes.xlsx
+.. _Metadata Template: //docs.patricbrc.org/_static/Sample-Metadata.xlsx
