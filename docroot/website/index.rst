@@ -15,3 +15,4 @@ PATRIC web pages
    collaborators.md
    related_sites.md
    data_release_policy.md
+   contact_us.md
