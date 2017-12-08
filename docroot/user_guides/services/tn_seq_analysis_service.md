@@ -4,7 +4,7 @@
 The Tn-Seq Analysis Service facilitates determination of essential and conditionally essential regions in bacterial genomes from data generated from transposon insertion sequencing (Tn-Seq) experiments. Tn-Seq (in the broad sense used here) refers to a family of related methods that use deep sequencing to survey a transposon insertion library and quantify the abundance of insertions at different sites in the genome.
 
 ### See also
-  * [Tn-Seq Analysis Service Tutorial](https://docs.patricbrc.org//user_guides/services/tn_seq_analysis_service.html)
+  * [Tn-Seq Analysis Service Tutorial](https://docs.patricbrc.org//tutorial/tn-seq/tn-seq.html)
 
 ## Using the Genome Assembly Service
 The **Tn-Seq Analysis** submenu option under the **Services** main menu (Genomics category) opens the Tn-Seq Analysis input form (*shown below*). *Note: You must be logged into PATRIC to use this service.*
