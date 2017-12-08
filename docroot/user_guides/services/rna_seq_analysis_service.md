@@ -6,7 +6,7 @@ The RNA-Seq Analysis Service provides services for aligning, assembling, and tes
 The RNA-Seq Service can be accessed from the Services Menu at the top of the PATRIC website page and via the PATRIC Command Line Interface (CLI).
 
 ### See also
-  * [RNA-Seq Analysis Service Tutorial](https://docs.patricbrc.org//user_guides/services/submitting_rna_seq_job.html)
+  * [RNA-Seq Analysis Service Tutorial](https://docs.patricbrc.org//tutorial/rna_seq_submission/submitting_rna_seq_job.html)
 
 ## Using the RNA-Seq Analysis Service
 The **RNA-Seq Analysis** submenu option under the **Services** main menu (Transcriptomics category) opens the RNA-Seq Analysis input form (*shown below*). *Note: You must be logged into PATRIC to use this service.*
