@@ -2,7 +2,7 @@
 PATRIC March 2016 Release Features a New Variation Analysis Service, Service Enhancements, New AMR and other Data, and over 9000 New Genomes
 ============================================================================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2016-04-05T08:50:52+00:00
 
 *NOTE: You must have a PATRIC user account and be logged in to use the

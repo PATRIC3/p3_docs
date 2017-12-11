@@ -2,7 +2,7 @@
 PATRIC October 2014 Release Features New Special Data Sets and Updated Project Information
 ==========================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2014-10-31T14:59:02+00:00
 
 **Additional Special Data Sets**

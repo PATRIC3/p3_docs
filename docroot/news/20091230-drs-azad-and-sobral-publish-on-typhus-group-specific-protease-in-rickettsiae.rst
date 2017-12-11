@@ -2,7 +2,7 @@
 Drs. Azad and Sobral Publish on Typhus Group-specific Protease in Rickettsiae
 =============================================================================
 
-:Author: patricwpadmin
+
 :Date:   2009-12-30T19:53:12+00:00
 
 Ammerman NC, Gillespie JJ, Neuwald AF, Sobral BW, Azad AF. (2009) A

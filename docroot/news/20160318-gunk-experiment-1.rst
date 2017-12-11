@@ -2,7 +2,7 @@
 GUNK Experiment 1
 =================
 
-:Author: patricwpadmin
+
 :Date:   2016-03-18T15:59:01+00:00
 
 **Resources for Genetic and Genomic Analysis of Emerging Pathogen

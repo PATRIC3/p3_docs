@@ -2,7 +2,7 @@
 PATRIC July 2014 Release Features New Circular Genome Viewer, Group Explorer, Integration of Protein-Protein Interaction Data, and New Genomic and Transcriptomic Data
 ======================================================================================================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2014-07-11T15:34:37+00:00
 
 **Website Updates**

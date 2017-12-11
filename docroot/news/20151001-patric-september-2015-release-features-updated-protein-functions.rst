@@ -2,7 +2,7 @@
 PATRIC September 2015 Data and Website Release
 ==============================================
 
-:Author: patricwpadmin
+
 :Date:   2015-10-01T09:33:17+00:00
 
 **AMR Metadata**

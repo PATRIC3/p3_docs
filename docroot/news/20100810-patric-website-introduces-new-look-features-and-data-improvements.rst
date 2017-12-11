@@ -2,7 +2,7 @@
 PATRIC Website Introduces New Look, Enhanced Tools and Additional Data
 ======================================================================
 
-:Author: patricwpadmin
+
 :Date:   2010-08-10T00:19:55+00:00
 
 **Genome and Annotations**

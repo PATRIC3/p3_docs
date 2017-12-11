@@ -2,7 +2,7 @@
 PATRIC May 2016 Release Features Over 700 New Genomes and AMR Panel Data for Approximately 1800 Genomes
 =======================================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2016-06-01T15:52:15+00:00
 
 In this release, we have added 748 new genomes from NCBI GenBank,

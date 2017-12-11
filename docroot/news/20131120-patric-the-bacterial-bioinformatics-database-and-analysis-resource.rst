@@ -2,7 +2,7 @@
 PATRIC, the bacterial bioinformatics database and analysis resource
 ===================================================================
 
-:Author: patricwpadmin
+
 :Date:   2013-11-20T11:40:48+00:00
 
 Wattam, A.R., D. Abraham, O. Dalay, T.L. Disz, T. Driscoll, J.L.

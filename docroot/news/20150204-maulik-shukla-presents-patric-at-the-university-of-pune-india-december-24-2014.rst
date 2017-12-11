@@ -2,7 +2,7 @@
 Maulik Shukla Presents PATRIC at the University of Pune, India December 24, 2014
 ================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2015-02-04T16:12:13+00:00
 
 The presentation showcased PATRIC’s bacterial genome annotations,

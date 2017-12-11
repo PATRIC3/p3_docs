@@ -2,7 +2,7 @@
 Comparative phylogenomics and evolution of the Brucellae reveal a path to virulence.
 ====================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2014-03-05T09:03:29+00:00
 
 Wattam AR, Foster JT, Mane SP, Beckstrom-Sternberg SM,

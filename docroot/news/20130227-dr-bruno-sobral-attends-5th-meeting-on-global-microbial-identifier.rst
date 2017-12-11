@@ -2,7 +2,7 @@
 Dr. Bruno Sobral Attends 5th Meeting on Global Microbial Identifier
 ===================================================================
 
-:Author: patricwpadmin
+
 :Date:   2013-02-27T11:24:51+00:00
 
  

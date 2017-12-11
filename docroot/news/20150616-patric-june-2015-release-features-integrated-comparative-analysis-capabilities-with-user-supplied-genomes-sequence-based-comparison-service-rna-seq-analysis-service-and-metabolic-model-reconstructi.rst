@@ -2,7 +2,7 @@
 PATRIC June 2015 Release Features Integrated Comparative Analysis Capabilities with User-Supplied Genomes and New Services for Protein-Based Genome Comparison, RNA-Seq Analysis, and Metabolic Modeling
 ========================================================================================================================================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2015-06-16T15:41:52+00:00
 
 The June Release delivers the second stage of genome assembly,

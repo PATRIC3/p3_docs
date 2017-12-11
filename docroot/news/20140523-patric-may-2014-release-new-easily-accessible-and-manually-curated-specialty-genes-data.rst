@@ -2,7 +2,7 @@
 PATRIC May 2014 Release: New Easily Accessible and Manually Curated Specialty Genes Data
 ========================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2014-05-23T09:53:34+00:00
 
 --------------

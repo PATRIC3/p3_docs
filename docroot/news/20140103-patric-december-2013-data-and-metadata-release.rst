@@ -2,7 +2,7 @@
 PATRIC December 2013 Data and Metadata Release
 ==============================================
 
-:Author: patricwpadmin
+
 :Date:   2014-01-03T10:56:55+00:00
 
 **New Genomes and Annotations**

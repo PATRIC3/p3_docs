@@ -2,7 +2,7 @@
 New Genome Data from RefSeq & Genbank; New Annotations via RAST
 ===============================================================
 
-:Author: patricwpadmin
+
 :Date:   2011-02-18T16:48:29+00:00
 
 Between PATRIC’s December 2010 release and Feb 18th 2011, 143 new

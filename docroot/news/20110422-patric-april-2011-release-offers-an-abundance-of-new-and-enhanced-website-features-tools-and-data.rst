@@ -2,7 +2,7 @@
 PATRIC April 2011 Release Offers an Abundance of New and Enhanced Website Features, Tools, and Data
 ===================================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2011-04-22T20:24:43+00:00
 
 **Website Enhancements**

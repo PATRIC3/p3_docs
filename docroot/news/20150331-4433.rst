@@ -2,7 +2,7 @@
 PATRIC/RAST Tutorial Workshop, June 15-17, 2015
 ===============================================
 
-:Author: patricwpadmin
+
 :Date:   2015-03-31T13:30:50+00:00
 
 The RAST/PATRIC teams will be offering a tutorial on June 15-17 2015 at

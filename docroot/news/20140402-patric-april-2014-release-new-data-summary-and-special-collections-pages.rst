@@ -2,7 +2,7 @@
 PATRIC April 2014 Release: New Data Summary and Special Collections Pages
 =========================================================================
 
-:Author: patricwpadmin
+
 :Date:   2014-04-02T08:46:47+00:00
 
 --------------

@@ -2,7 +2,7 @@
 PATRIC Workshop at ICSB 2017 at Virginia Tech, August 6, 2017
 =============================================================
 
-:Author: patricwpadmin
+
 :Date:   2017-05-23T15:16:46+00:00
 
 PATRIC will be hosting a 1-day workshop entitled “The PATRIC

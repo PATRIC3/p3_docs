@@ -2,7 +2,7 @@
 Driscoll, Mao and Gabbard Publish Work on PATRIC’s Host-Pathogen Data and Visualizations
 ========================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2011-06-27T13:53:25+00:00
 
 Tim Driscoll, Joseph L. Gabbard, Chunhong Mao, Oral Dalay, Maulik

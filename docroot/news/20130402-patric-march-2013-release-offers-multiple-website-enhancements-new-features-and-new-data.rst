@@ -2,7 +2,7 @@
 PATRIC March 2013 Release Offers Multiple Website Enhancements, New Features, and New Data
 ==========================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2013-04-02T18:36:13+00:00
 
 **Website Updates**

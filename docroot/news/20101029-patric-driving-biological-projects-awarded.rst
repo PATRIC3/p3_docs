@@ -2,7 +2,7 @@
 PATRIC Driving Biological Projects Awarded
 ==========================================
 
-:Author: patricwpadmin
+
 :Date:   2010-10-29T20:34:09+00:00
 
 The Pathosystems Resource Integration Center

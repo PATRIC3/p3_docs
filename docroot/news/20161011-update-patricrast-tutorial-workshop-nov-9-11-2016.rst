@@ -2,7 +2,7 @@
 PATRIC/RAST Tutorial Workshop December 12-14, 2016
 ==================================================
 
-:Author: patricwpadmin
+
 :Date:   2016-10-11T10:44:43+00:00
 
 The PATRIC/RAST teams will be offering a tutorial on December 12-14,

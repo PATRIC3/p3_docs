@@ -2,7 +2,7 @@
 PATRIC / RAST Tutorial Workshop Agenda
 ======================================
 
-:Author: patricwpadmin
+
 :Date:   2016-04-28T09:15:37+00:00
 
 **Dates:** July 26 – 28, 2016

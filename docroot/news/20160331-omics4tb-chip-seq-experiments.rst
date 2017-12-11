@@ -2,7 +2,7 @@
 Omics4TB ChIP-Seq Experiments
 =============================
 
-:Author: patricwpadmin
+
 :Date:   2016-03-31T13:20:33+00:00
 
 *Mycobacterium tuberculosis* (MTB) is a pathogenic bacterium responsible

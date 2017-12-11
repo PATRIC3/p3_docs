@@ -2,7 +2,7 @@
 PATRIC Workshop – San Diego State University
 ============================================
 
-:Author: patricwpadmin
+
 :Date:   2015-07-14T11:01:46+00:00
 
 **AGENDA **

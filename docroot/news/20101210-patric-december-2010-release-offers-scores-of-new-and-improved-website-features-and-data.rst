@@ -2,7 +2,7 @@
 PATRIC December 2010 Release Offers Scores of New and Improved Website Features and Data
 ========================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2010-12-10T23:39:37+00:00
 
 **Website Enhancements**

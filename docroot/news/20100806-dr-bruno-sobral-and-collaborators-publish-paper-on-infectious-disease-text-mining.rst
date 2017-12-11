@@ -2,7 +2,7 @@
 Dr. Bruno Sobral and Collaborators Publish Paper on Infectious Disease Text Mining
 ==================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2010-08-06T21:36:01+00:00
 
 Sampo Pyysalo, Tomoko Ohta, Han-Cheol Cho, Dan Sullivan, Chunhong Mao,

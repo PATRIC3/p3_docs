@@ -2,7 +2,7 @@
 PATRIC Collaborators Publish an Analysis of Rickettsia Typhi-infected and Uninfected Cat Flea Midgut cDNA Libraries
 ===================================================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2010-04-30T19:46:18+00:00
 
 Dreher-Lesnick SM, Ceraul SM, Lesnick SC, Gillespie JJ, Anderson JM,

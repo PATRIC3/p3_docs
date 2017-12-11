@@ -2,7 +2,7 @@
 PATRIC January 2016 Release Features Over 2400 New Genomes
 ==========================================================
 
-:Author: patricwpadmin
+
 :Date:   2016-02-02T17:17:48+00:00
 
 In this release, we have added 2466 new genomes from NCBI GenBank,

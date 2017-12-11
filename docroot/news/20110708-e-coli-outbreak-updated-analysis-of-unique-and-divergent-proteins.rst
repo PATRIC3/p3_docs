@@ -2,7 +2,7 @@
 E. coli Outbreak: Updated Analysis of Unique and Divergent Proteins
 ===================================================================
 
-:Author: patricwpadmin
+
 :Date:   2011-07-08T15:52:30+00:00
 
 Nine *Escherichia coli* strains were included in the latest analyses:

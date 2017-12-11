@@ -2,7 +2,7 @@
 New “Upload Your Own Transcriptomics Data” Tutorial
 ===================================================
 
-:Author: patricwpadmin
+
 :Date:   2013-05-10T10:39:32+00:00
 
 .. raw:: html

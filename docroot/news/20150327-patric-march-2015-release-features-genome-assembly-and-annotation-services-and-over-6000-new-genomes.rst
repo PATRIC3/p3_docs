@@ -2,7 +2,7 @@
 PATRIC March 2015 Release Features Genome Assembly and Annotation Services and over 6,000 New Genomes
 =====================================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2015-03-27T14:16:19+00:00
 
 This March Release begins the first stage of integration of new and

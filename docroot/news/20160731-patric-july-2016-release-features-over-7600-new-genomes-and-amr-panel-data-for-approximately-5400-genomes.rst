@@ -2,7 +2,7 @@
 PATRIC July 2016 Release Features Over 7600 New Genomes and AMR Panel Data for Approximately 5400 Genomes. PATRIC Also Releases Alpha Version of New Website Design.
 ====================================================================================================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2016-07-31T20:18:25+00:00
 
 **New genomes:** In this release, we have added 7,683 new genomes,

@@ -2,7 +2,7 @@
 PATRIC Team Publishes Paper on Text Mining for Type IV Secretion Systems.
 =========================================================================
 
-:Author: patricwpadmin
+
 :Date:   2011-03-30T15:59:33+00:00
 
 Sophia Ananiadou, Dan Sullivan, William Black, Gina-Anne Levow, Joseph

@@ -2,7 +2,7 @@
 Comparative Genomic Analysis at PATRIC, A Bioinformatic Resource Center. Book chapter in Host Bacterial Infections, Methods in Molecular Microbiology.
 ======================================================================================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2014-09-11T09:07:27+00:00
 
 Wattam, A., J. Gabbard, M. Shukla, and B. Sobral. (2014). **Comparative

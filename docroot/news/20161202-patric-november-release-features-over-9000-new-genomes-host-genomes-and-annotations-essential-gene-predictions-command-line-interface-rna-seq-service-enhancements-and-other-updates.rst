@@ -2,7 +2,7 @@
 PATRIC November Release features over 9000 New Genomes, Host Genomes and Annotations, Essential Gene Predictions, Command Line Interface, RNA-Seq Service Enhancements and Other Updates.
 =========================================================================================================================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2016-12-02T15:08:42+00:00
 
 **New Genomes**

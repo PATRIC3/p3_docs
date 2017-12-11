@@ -2,7 +2,7 @@
 New “Transcriptomics Data at PATRIC” Tutorial
 =============================================
 
-:Author: patricwpadmin
+
 :Date:   2013-08-28T15:03:10+00:00
 
 .. raw:: html

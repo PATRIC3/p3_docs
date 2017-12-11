@@ -2,7 +2,7 @@
 PATRIC Team Presents Workshop at Duke and UNC
 =============================================
 
-:Author: patricwpadmin
+
 :Date:   2012-10-11T11:55:47+00:00
 
 Rebecca Wattam, Maulik Shukla, and Joe Gabbard presented a day-long

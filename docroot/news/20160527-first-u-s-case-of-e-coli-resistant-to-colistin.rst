@@ -2,7 +2,7 @@
 First U.S. Case of E. coli Resistant to Colistin
 ================================================
 
-:Author: patricwpadmin
+
 :Date:   2016-05-27T18:31:07+00:00
 
 The assembled genome of Colistin-resistant *E. coli* MRSN 388634 is now

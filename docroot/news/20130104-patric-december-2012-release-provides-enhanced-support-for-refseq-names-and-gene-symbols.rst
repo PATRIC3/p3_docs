@@ -2,7 +2,7 @@
 PATRIC December 2012 Release Provides Enhanced Support for RefSeq Names and Gene Symbols
 ========================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2013-01-04T20:27:31+00:00
 
 This release provides several changes that should make it much easier

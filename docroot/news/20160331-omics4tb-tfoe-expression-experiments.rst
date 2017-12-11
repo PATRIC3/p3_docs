@@ -2,7 +2,7 @@
 Omics4TB TFOE Expression Experiments
 ====================================
 
-:Author: patricwpadmin
+
 :Date:   2016-03-31T13:35:18+00:00
 
 *Mycobacterium tuberculosis* senses and responds to the shifting and

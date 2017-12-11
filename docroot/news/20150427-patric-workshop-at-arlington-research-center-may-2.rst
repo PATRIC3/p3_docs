@@ -2,7 +2,7 @@
 PATRIC Workshop at Arlington Research Center, May 2
 ===================================================
 
-:Author: patricwpadmin
+
 :Date:   2015-04-27T15:29:05+00:00
 
 PATRIC will host a workshop for high school and community college

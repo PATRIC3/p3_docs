@@ -2,7 +2,7 @@
 PATRIC Workshop at GLBIO 2017 in Chicago, May 17, 2017
 ======================================================
 
-:Author: patricwpadmin
+
 :Date:   2016-10-20T09:27:37+00:00
 
 PATRIC will be hosting a 1/2-day workshop entitled “Assemble, Annotate

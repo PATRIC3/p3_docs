@@ -2,7 +2,7 @@
 PATRIC December 2014 Release Features Additional Support and Data for Antimicrobial Resistance and over 5,000 New Genomes, Including Archaea
 ============================================================================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2014-12-22T16:28:05+00:00
 
 This December Release sets the stage for new functionality and data in

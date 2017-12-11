@@ -2,7 +2,7 @@
 Tuberculosis Community Annotation Project (TBCAP) Jamboree
 ==========================================================
 
-:Author: patricwpadmin
+
 :Date:   2012-02-24T12:57:01+00:00
 
 A collaborative Tuberculosis Community Annotation Project (TBCAP)

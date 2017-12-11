@@ -2,7 +2,7 @@
 Argo: an integrative, interactive, text mining-based workbench supporting curation
 ==================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2012-03-26T12:36:08+00:00
 
 Rafal Rak, Andrew Rowley, William Black, and Sophia Ananiadou (2012).

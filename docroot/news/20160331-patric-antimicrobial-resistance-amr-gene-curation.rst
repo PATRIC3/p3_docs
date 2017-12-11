@@ -2,7 +2,7 @@
 PATRIC Antimicrobial Resistance (AMR) Gene Curation
 ===================================================
 
-:Author: patricwpadmin
+
 :Date:   2016-03-31T10:33:23+00:00
 
 PATRIC has undertaken an antimicrobial resistance (AMR) curation effort

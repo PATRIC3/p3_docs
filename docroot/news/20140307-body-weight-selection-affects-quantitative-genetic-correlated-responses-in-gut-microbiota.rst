@@ -2,7 +2,7 @@
 Body Weight Selection Affects Quantitative Genetic Correlated Responses in Gut Microbiota
 =========================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2014-03-07T15:23:41+00:00
 
 Meng, H., Zhang, Y., L. Zhao, W. Zhao, C. He, C.F. Honaker, Z. Zhai, Z.

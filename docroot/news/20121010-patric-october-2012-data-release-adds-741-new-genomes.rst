@@ -2,7 +2,7 @@
 PATRIC October 2012 Data Release Adds 741 New Genomes
 =====================================================
 
-:Author: patricwpadmin
+
 :Date:   2012-10-10T08:23:57+00:00
 
 In the October 2012 data release, `741 new genomes have been

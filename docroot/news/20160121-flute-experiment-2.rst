@@ -2,7 +2,7 @@
 FLUTE Experiment 2
 ==================
 
-:Author: patricwpadmin
+
 :Date:   2016-01-21T12:27:59+00:00
 
 **Peptidoglycan synthesis in Mycobacterium tuberculosis is organized into networks with varying drug susceptibility**

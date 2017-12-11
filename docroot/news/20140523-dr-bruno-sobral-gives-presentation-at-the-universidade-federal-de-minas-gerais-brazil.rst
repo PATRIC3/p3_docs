@@ -2,7 +2,7 @@
 Dr. Bruno Sobral Gives Presentation at the Universidade Federal de Minas Gerais, Brazil
 =======================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2014-05-23T09:31:36+00:00
 
 The presentation includes hands-on PATRIC demonstrations to the

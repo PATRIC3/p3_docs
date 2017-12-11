@@ -2,7 +2,7 @@
 PATRIC September 2013 Release Highlights Multiple Analysis Tool Enhancements, New Tutorials Page, and New Genomic and Transcriptomic Data
 =========================================================================================================================================
 
-:Author: patricwpadmin
+
 :Date:   2013-09-20T13:01:33+00:00
 
 **Website Updates**
