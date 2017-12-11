@@ -3,7 +3,7 @@ PATRIC May 2013 Release Features New Data, Improved Metadata-Site Integration an
 ===================================================================================================
 
 
-:Date:   2013-06-01T10:07:42+00:00
+:date:   2013-06-01T10:07:42+00:00
 
 **Website Enhancement**
 =======================

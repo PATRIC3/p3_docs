@@ -3,7 +3,7 @@ PATRIC December 2012 Release Provides Enhanced Support for RefSeq Names and Gene
 ========================================================================================
 
 
-:Date:   2013-01-04T20:27:31+00:00
+:date:   2013-01-04T20:27:31+00:00
 
 This release provides several changes that should make it much easier
 for researchers to find their genes and proteins of interest using

@@ -3,7 +3,7 @@ Tuberculosis Community Annotation Project (TBCAP) Jamboree
 ==========================================================
 
 
-:Date:   2012-02-24T12:57:01+00:00
+:date:   2012-02-24T12:57:01+00:00
 
 A collaborative Tuberculosis Community Annotation Project (TBCAP)
 Jamboree has been organized for the first week of March to improve the

@@ -3,7 +3,7 @@ A Rickettsia genome overrun by mobile genetic elements provides insight into the
 ============================================================================================================================================================
 
 
-:Date:   2012-02-10T12:13:08+00:00
+:date:   2012-02-10T12:13:08+00:00
 
 Gillespie, J.J.*, Joardar, V.*, Williams, K.P., Driscoll, T., Hostetler,
 J.B., Nordberg, E.K., Shukla, M., Walenz, B., Hill, C.A., Nene, V.M.,

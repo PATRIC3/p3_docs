@@ -3,7 +3,7 @@ Comparative Genomic Analysis at PATRIC, A Bioinformatic Resource Center. Book ch
 ======================================================================================================================================================
 
 
-:Date:   2014-09-11T09:07:27+00:00
+:date:   2014-09-11T09:07:27+00:00
 
 Wattam, A., J. Gabbard, M. Shukla, and B. Sobral. (2014). **Comparative
 Genomics Analysis at the PATRIC, A Bioinformatic Resource Center**. In

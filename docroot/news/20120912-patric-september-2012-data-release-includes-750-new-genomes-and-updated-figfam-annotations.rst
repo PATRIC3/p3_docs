@@ -3,7 +3,7 @@ PATRIC September 2012 Data Release Includes 750 New Genomes and Updated Figfam A
 ==========================================================================================
 
 
-:Date:   2012-09-12T10:28:54+00:00
+:date:   2012-09-12T10:28:54+00:00
 
 In the September 2012 data release, `750 new genomes have been
 added <http://brcdownloads.patricbrc.org/patric2/genomes.Sept2012/RELEASE_NOTES/genomes_added>`__

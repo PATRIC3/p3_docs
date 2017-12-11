@@ -3,7 +3,7 @@ Peptide nucleic acids inhibit growth of Brucella suis in pure culture and in inf
 ========================================================================================================
 
 
-:Date:   2013-01-16T12:01:29+00:00
+:date:   2013-01-16T12:01:29+00:00
 
  
 

@@ -3,7 +3,7 @@ Unique and Divergent Proteins in E. coli Outbreak Strains
 =========================================================
 
 
-:Date:   2011-06-13T23:23:15+00:00
+:date:   2011-06-13T23:23:15+00:00
 
 Note:  Data was updated June 17th.
 

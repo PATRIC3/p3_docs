@@ -3,7 +3,7 @@ PATRIC Collaborators Publish Paper on Anaplasma Marginale Type IV Secretion Syst
 ===========================================================================================================================
 
 
-:Date:   2010-03-30T19:39:11+00:00
+:date:   2010-03-30T19:39:11+00:00
 
 Sutten EL, Norimine J, Beare PA, Heinzen RA, Lopez JE, Morse K, Brayton
 KA, Gillespie JJ, Brown WC. (2010) Anaplasma marginale type IV secretion

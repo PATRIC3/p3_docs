@@ -3,7 +3,7 @@ PATRIC Workshop at Arlington Research Center, May 2
 ===================================================
 
 
-:Date:   2015-04-27T15:29:05+00:00
+:date:   2015-04-27T15:29:05+00:00
 
 PATRIC will host a workshop for high school and community college
 educators at the Virginia Tech Research Center in Arlington, VA, from

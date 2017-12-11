@@ -3,7 +3,7 @@ PATRIC December 2015 Release Features over 20,000 New Genomes and PacBio Assembl
 =========================================================================================
 
 
-:Date:   2015-12-22T16:03:53+00:00
+:date:   2015-12-22T16:03:53+00:00
 
 **New Genomes and Annotation System Enhancements**
 

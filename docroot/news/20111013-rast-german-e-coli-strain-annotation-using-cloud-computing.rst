@@ -3,7 +3,7 @@ RAST German E. coli Strain Annotation Using Cloud Computing.
 ============================================================
 
 
-:Date:   2011-10-13T15:55:53+00:00
+:date:   2011-10-13T15:55:53+00:00
 
 The Rapid Annotation using Subsystems Technology (RAST) annotation
 program was developed in 2007 and is currently utilized and funded via

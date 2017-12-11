@@ -3,7 +3,7 @@ PATRIC December 2014 Release Features Additional Support and Data for Antimicrob
 ============================================================================================================================================
 
 
-:Date:   2014-12-22T16:28:05+00:00
+:date:   2014-12-22T16:28:05+00:00
 
 This December Release sets the stage for new functionality and data in
 PATRIC. In 2015, our primary goals are as follows:

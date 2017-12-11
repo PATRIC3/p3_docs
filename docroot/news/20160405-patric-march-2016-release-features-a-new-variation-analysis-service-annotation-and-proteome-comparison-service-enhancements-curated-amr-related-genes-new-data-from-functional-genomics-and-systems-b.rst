@@ -3,7 +3,7 @@ PATRIC March 2016 Release Features a New Variation Analysis Service, Service Enh
 ============================================================================================================================================
 
 
-:Date:   2016-04-05T08:50:52+00:00
+:date:   2016-04-05T08:50:52+00:00
 
 *NOTE: You must have a PATRIC user account and be logged in to use the
 services and workspace.*

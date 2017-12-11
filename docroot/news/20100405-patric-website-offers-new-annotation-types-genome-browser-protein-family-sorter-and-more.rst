@@ -3,7 +3,7 @@ PATRIC Website Offers New Annotation Types, Genome Browser, Protein Family Sorte
 ==========================================================================================
 
 
-:Date:   2010-04-05T16:34:40+00:00
+:date:   2010-04-05T16:34:40+00:00
 
 Genomes and Annotations
 =======================

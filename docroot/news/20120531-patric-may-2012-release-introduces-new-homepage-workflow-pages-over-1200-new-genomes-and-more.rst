@@ -3,7 +3,7 @@ PATRIC May 2012 Release Introduces New Homepage, Workflow Pages, over 1200 New G
 ===============================================================================================
 
 
-:Date:   2012-05-31T22:20:23+00:00
+:date:   2012-05-31T22:20:23+00:00
 
 **Website Enhancements**
 ========================

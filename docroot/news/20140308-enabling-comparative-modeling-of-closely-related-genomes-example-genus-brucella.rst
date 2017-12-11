@@ -3,7 +3,7 @@ Enabling comparative modeling of closely related genomes: example genus Brucella
 ================================================================================
 
 
-:Date:   2014-03-08T11:25:51+00:00
+:date:   2014-03-08T11:25:51+00:00
 
 Faria, J.P., Edirisinghe J.N., J.J. Davis, T. Disz, A. Hausmann, C.S.
 Henry, R. Olson, R.A. Overbeek, G.D. Pusch, M. Shukla, V. Vonstein, A.R.

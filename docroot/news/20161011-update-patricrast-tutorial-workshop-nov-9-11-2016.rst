@@ -3,7 +3,7 @@ PATRIC/RAST Tutorial Workshop December 12-14, 2016
 ==================================================
 
 
-:Date:   2016-10-11T10:44:43+00:00
+:date:   2016-10-11T10:44:43+00:00
 
 The PATRIC/RAST teams will be offering a tutorial on December 12-14,
 2016 at Argonne National Laboratory in the suburbs of Chicago, IL. The

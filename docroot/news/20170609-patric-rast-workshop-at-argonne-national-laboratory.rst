@@ -3,7 +3,7 @@ PATRIC/RAST Workshop at Argonne National Laboratory, August 14-16, 2017
 =======================================================================
 
 
-:Date:   2017-06-09T08:28:37+00:00
+:date:   2017-06-09T08:28:37+00:00
 
 **The PATRIC/RAST workshop being offered on 2017 August 14-16 is now
 FULL.**

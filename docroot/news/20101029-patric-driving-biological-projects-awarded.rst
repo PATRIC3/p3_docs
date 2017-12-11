@@ -3,7 +3,7 @@ PATRIC Driving Biological Projects Awarded
 ==========================================
 
 
-:Date:   2010-10-29T20:34:09+00:00
+:date:   2010-10-29T20:34:09+00:00
 
 The Pathosystems Resource Integration Center
 (`PATRIC <http://www.patricbrc.org/>`__), a bacterial Bioinformatics

@@ -3,7 +3,7 @@ PATRIC January 2016 Release Features Over 2400 New Genomes
 ==========================================================
 
 
-:Date:   2016-02-02T17:17:48+00:00
+:date:   2016-02-02T17:17:48+00:00
 
 In this release, we have added 2466 new genomes from NCBI GenBank,
 bringing the total number of genomes in PATRIC to over 57,000. This

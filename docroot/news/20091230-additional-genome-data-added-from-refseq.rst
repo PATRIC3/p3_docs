@@ -3,7 +3,7 @@ Additional Genome Data Added From RefSeq
 ========================================
 
 
-:Date:   2009-12-30T17:09:23+00:00
+:date:   2009-12-30T17:09:23+00:00
 
 This release includes additional genome data from RefSeq and incumbent
 bacterial BRCs, minor data corrections, and minor bug fixes/improvements

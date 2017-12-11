@@ -3,7 +3,7 @@ SEED Servers: High-Performance Access to the SEED Genomes, Annotations, and Meta
 ============================================================================================
 
 
-:Date:   2012-10-24T11:16:18+00:00
+:date:   2012-10-24T11:16:18+00:00
 
  
 

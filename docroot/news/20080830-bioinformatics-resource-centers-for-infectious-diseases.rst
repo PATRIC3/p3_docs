@@ -3,7 +3,7 @@ Bioinformatics Resource Centers for Infectious Diseases
 =======================================================
 
 
-:Date:   2008-08-30T15:48:09+00:00
+:date:   2008-08-30T15:48:09+00:00
 
 The National Institute of Allergy and Infectious Diseases (NIAID),
 National Institutes of Health (NIH), of the Department of Health and

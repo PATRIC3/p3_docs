@@ -3,7 +3,7 @@ PATRIC Team Presents Workshop at Duke and UNC
 =============================================
 
 
-:Date:   2012-10-11T11:55:47+00:00
+:date:   2012-10-11T11:55:47+00:00
 
 Rebecca Wattam, Maulik Shukla, and Joe Gabbard presented a day-long
 workshop for over 50 researchers from UNC’s Department of Microbiology

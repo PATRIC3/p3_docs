@@ -3,7 +3,7 @@ PATRIC June 2015 Release Features Integrated Comparative Analysis Capabilities w
 ========================================================================================================================================================================================================
 
 
-:Date:   2015-06-16T15:41:52+00:00
+:date:   2015-06-16T15:41:52+00:00
 
 The June Release delivers the second stage of genome assembly,
 annotation and integrated analysis in PATRIC. It also includes a new

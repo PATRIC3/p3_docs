@@ -3,7 +3,7 @@ PATRIC: The Comprehensive Bacterial Bioinformatics Resource with a Focus on Huma
 ====================================================================================================
 
 
-:Date:   2011-09-07T20:58:12+00:00
+:date:   2011-09-07T20:58:12+00:00
 
 Joseph J. Gillespie, Alice R. Wattam, Stephen A. Cammer, Joseph Gabbard,
 Maulik P. Shukla, Oral Dalay, Timothy Driscoll, Deborah Hix,

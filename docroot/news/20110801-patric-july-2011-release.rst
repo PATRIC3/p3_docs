@@ -3,7 +3,7 @@ PATRIC July 2011 Release Features Integration of Genome Metadata
 ================================================================
 
 
-:Date:   2011-08-01T00:02:41+00:00
+:date:   2011-08-01T00:02:41+00:00
 
 **New Searches and Tools**
 ==========================

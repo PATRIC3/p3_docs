@@ -3,7 +3,7 @@ First U.S. Case of E. coli Resistant to Colistin
 ================================================
 
 
-:Date:   2016-05-27T18:31:07+00:00
+:date:   2016-05-27T18:31:07+00:00
 
 The assembled genome of Colistin-resistant *E. coli* MRSN 388634 is now
 available in PATRIC

@@ -3,7 +3,7 @@ Dr. Bruno Sobral Gives Presentation at the ILSI IAFP 2014 Conference in Indiana
 ================================================================================================================
 
 
-:Date:   2014-08-03T15:35:26+00:00
+:date:   2014-08-03T15:35:26+00:00
 
 The presentation, entitled, “Bioinformatic analysis of whole genome
 sequencing data and its application in the food industry,” featured

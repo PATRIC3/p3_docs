@@ -3,7 +3,7 @@ PATRIC Workshop Agenda – University of Florida
 ==============================================
 
 
-:Date:   2015-07-10T12:53:23+00:00
+:date:   2015-07-10T12:53:23+00:00
 
 **AGENDA **
 

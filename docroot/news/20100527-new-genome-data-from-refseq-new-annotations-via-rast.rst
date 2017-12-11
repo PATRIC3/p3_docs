@@ -3,7 +3,7 @@ New Genome Data from RefSeq & Genbank; New Annotations via RAST
 ===============================================================
 
 
-:Date:   2010-05-27T16:27:11+00:00
+:date:   2010-05-27T16:27:11+00:00
 
 This release includes additional genome data from RefSeq, GenBank,
 annotations through RAST, minor data corrections, and minor bug

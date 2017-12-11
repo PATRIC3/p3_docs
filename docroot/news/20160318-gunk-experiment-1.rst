@@ -3,7 +3,7 @@ GUNK Experiment 1
 =================
 
 
-:Date:   2016-03-18T15:59:01+00:00
+:date:   2016-03-18T15:59:01+00:00
 
 **Resources for Genetic and Genomic Analysis of Emerging Pathogen
 Acinetobacter baumannii**

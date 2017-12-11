@@ -3,7 +3,7 @@ PATRIC March 2015 Release Features Genome Assembly and Annotation Services and o
 =====================================================================================================
 
 
-:Date:   2015-03-27T14:16:19+00:00
+:date:   2015-03-27T14:16:19+00:00
 
 This March Release begins the first stage of integration of new and
 updated analysis services in PATRIC, including addition of a new Genome

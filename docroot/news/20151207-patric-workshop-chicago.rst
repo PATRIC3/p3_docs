@@ -3,7 +3,7 @@ PATRIC Workshop – Chicago
 =========================
 
 
-:Date:   2015-12-07T09:44:43+00:00
+:date:   2015-12-07T09:44:43+00:00
 
 Tutorial workflows for the workshop:
 

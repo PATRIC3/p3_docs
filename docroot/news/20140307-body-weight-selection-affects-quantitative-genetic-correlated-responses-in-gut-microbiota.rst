@@ -3,7 +3,7 @@ Body Weight Selection Affects Quantitative Genetic Correlated Responses in Gut M
 =========================================================================================
 
 
-:Date:   2014-03-07T15:23:41+00:00
+:date:   2014-03-07T15:23:41+00:00
 
 Meng, H., Zhang, Y., L. Zhao, W. Zhao, C. He, C.F. Honaker, Z. Zhai, Z.
 Sun, P.B. Siegel (2014). “**Body Weight Selection Affects Quantitative

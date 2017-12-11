@@ -3,7 +3,7 @@ Standardized metadata for human pathogen/vector genomic sequences
 =================================================================
 
 
-:Date:   2014-06-20T08:08:00+00:00
+:date:   2014-06-20T08:08:00+00:00
 
 Dugan V.G., S.J. Emrich, G.I. Giraldo-Calderón, O.S. Harb, R.M. Newman,
 B.E. Pickett, L.M. Schriml, T.B. Stockwell, C. J. Stoeckert Jr, D. E.

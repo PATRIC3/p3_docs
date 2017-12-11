@@ -3,7 +3,7 @@ PATRIC Launches Initial Website for All-Baterial Bioinformatics Resource Center
 ===============================================================================
 
 
-:Date:   2009-12-09T18:23:59+00:00
+:date:   2009-12-09T18:23:59+00:00
 
 .. raw:: html
 
