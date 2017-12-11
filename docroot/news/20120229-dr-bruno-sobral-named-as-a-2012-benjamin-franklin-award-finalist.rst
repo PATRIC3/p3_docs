@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20120229-dr-bruno-sobral-named-as-a-2012-benjamin-franklin-award-finalist.rst
+
 =================================================================
 Dr. Bruno Sobral Named as a 2012 Benjamin Franklin Award Finalist
 =================================================================

@@ -1,3 +1,6 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20100527-new-genome-data-from-refseq-new-annotations-via-rast.rst
+
+
 ===============================================================
 New Genome Data from RefSeq & Genbank; New Annotations via RAST
 ===============================================================

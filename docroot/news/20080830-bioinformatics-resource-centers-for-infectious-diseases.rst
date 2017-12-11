@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20080830-bioinformatics-resource-centers-for-infectious-diseases.rst
+
 =======================================================
 Bioinformatics Resource Centers for Infectious Diseases
 =======================================================

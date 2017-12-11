@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20150714-patric-workshop-san-diego-state-university.rst
+
 ============================================
 PATRIC Workshop – San Diego State University
 ============================================

@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20160930-patric-september-release-features-over-4500-new-genomes-literature-feferences-and-assembly-service-enhancements.rst
+
 =================================================================================================================
 PATRIC September Release features over 4500 New Genomes, Literature Feferences, and Assembly Service Enhancements
 =================================================================================================================

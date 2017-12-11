@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20120531-patric-may-2012-release-introduces-new-homepage-workflow-pages-over-1200-new-genomes-and-more.rst
+
 ===============================================================================================
 PATRIC May 2012 Release Introduces New Homepage, Workflow Pages, over 1200 New Genomes and More
 ===============================================================================================

@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20120224-tuberculosis-community-annotation-project-tbcap-jamboree.rst
+
 ==========================================================
 Tuberculosis Community Annotation Project (TBCAP) Jamboree
 ==========================================================

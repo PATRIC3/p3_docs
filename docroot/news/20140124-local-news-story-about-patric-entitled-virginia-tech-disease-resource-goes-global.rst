@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20140124-local-news-story-about-patric-entitled-virginia-tech-disease-resource-goes-global.rst
+
 ==================================================================================
 Local News Story About PATRIC Entitled Virginia Tech Disease Resource Goes Global
 ==================================================================================

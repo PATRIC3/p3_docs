@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20121109-dr-rick-stevens-showcases-patric-at-the-4th-annual-systems-biology-programmatic-meeting.rst
+
 ========================================================================================
 Dr. Rick Stevens Showcases PATRIC at The 4th Annual Systems Biology Programmatic Meeting
 ========================================================================================

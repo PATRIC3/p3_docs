@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20140711-patric-july-2014-release-features-new-circular-genome-viewer-group-explorer-integration-of-protein-protein-interaction-data-and-new-genomic-and-transcriptomic-data.rst
+
 ======================================================================================================================================================================
 PATRIC July 2014 Release Features New Circular Genome Viewer, Group Explorer, Integration of Protein-Protein Interaction Data, and New Genomic and Transcriptomic Data
 ======================================================================================================================================================================

@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20151222-patric-december-2015-release-features-over-20000-new-genomes-and-pacbio-assembly-support.rst
+
 =========================================================================================
 PATRIC December 2015 Release Features over 20,000 New Genomes and PacBio Assembly Support
 =========================================================================================

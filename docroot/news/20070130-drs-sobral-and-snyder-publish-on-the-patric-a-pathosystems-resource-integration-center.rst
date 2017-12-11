@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20070130-drs-sobral-and-snyder-publish-on-the-patric-a-pathosystems-resource-integration-center.rst
+
 Drs. Snyder and Sobral Publish on PATRIC: a PathoSystems Resource Integration Center
 ====================================================================================
 

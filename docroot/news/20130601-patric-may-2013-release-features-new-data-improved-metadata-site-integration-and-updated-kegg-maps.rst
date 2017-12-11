@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20130601-patric-may-2013-release-features-new-data-improved-metadata-site-integration-and-updated-kegg-maps.rst
+
 ===================================================================================================
 PATRIC May 2013 Release Features New Data, Improved Metadata-Site Integration and Updated KEGG Maps
 ===================================================================================================

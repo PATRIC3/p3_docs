@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20141222-patric-december-2014-release-features-additional-support-and-data-for-antimicrobial-resistance-and-over-5000-new-genomes-including-archaea.rst
+
 ============================================================================================================================================
 PATRIC December 2014 Release Features Additional Support and Data for Antimicrobial Resistance and over 5,000 New Genomes, Including Archaea
 ============================================================================================================================================

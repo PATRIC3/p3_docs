@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20100430-patric-collaborators-publish-an-analysis-of-rickettsia-typhi-infected-and-uninfected-cat-flea-midgut-cdna-libraries.rst
+
 ===================================================================================================================
 PATRIC Collaborators Publish an Analysis of Rickettsia Typhi-infected and Uninfected Cat Flea Midgut cDNA Libraries
 ===================================================================================================================

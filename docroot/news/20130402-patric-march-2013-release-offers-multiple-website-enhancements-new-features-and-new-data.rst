@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20130402-patric-march-2013-release-offers-multiple-website-enhancements-new-features-and-new-data.rst
+
 ==========================================================================================
 PATRIC March 2013 Release Offers Multiple Website Enhancements, New Features, and New Data
 ==========================================================================================

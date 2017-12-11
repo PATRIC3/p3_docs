@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20121210-patric-november-2012-release-introduces-new-transcriptomics-data-and-analysis-tools-and-over-370-new-genomes.rst
+
 ============================================================================================================
 PATRIC November 2012 Release Introduces New Transcriptomics Data and Analysis Tools and over 370 New Genomes
 ============================================================================================================

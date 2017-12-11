@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20140103-patric-december-2013-data-and-metadata-release.rst
+
 ==============================================
 PATRIC December 2013 Data and Metadata Release
 ==============================================

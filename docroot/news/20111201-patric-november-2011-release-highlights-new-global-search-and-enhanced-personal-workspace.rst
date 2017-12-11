@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20111201-patric-november-2011-release-highlights-new-global-search-and-enhanced-personal-workspace.rst
+
 =========================================================================================
 PATRIC November 2011 Release Highlights New Global Search and Enhanced Personal Workspace
 =========================================================================================

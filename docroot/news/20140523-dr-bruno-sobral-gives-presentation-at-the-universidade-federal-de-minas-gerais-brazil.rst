@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20140523-dr-bruno-sobral-gives-presentation-at-the-universidade-federal-de-minas-gerais-brazil.rst
+
 =======================================================================================
 Dr. Bruno Sobral Gives Presentation at the Universidade Federal de Minas Gerais, Brazil
 =======================================================================================

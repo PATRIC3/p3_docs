@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20170531-patric-may-2017-release-brings-total-genomes-to-over-100000-and-includes-21-host-response-data-sets.rst
+
 ====================================================================================================
 PATRIC May 2017 Release brings total genomes to over 100,000 and includes 21 host response data sets
 ====================================================================================================

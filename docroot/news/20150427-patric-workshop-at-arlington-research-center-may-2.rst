@@ -1,3 +1,6 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20150427-patric-workshop-at-arlington-research-center-may-2.rst
+
+
 ===================================================
 PATRIC Workshop at Arlington Research Center, May 2
 ===================================================

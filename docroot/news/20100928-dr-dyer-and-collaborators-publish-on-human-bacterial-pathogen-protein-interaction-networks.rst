@@ -1,3 +1,6 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20100928-dr-dyer-and-collaborators-publish-on-human-bacterial-pathogen-protein-interaction-networks.rst
+
+
 ============================================================================================
 Dr. Dyer and Collaborators publish on human-bacterial pathogen protein interaction networks.
 ============================================================================================

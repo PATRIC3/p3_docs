@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20091012-vbi-awarded-27m-from-nih-to-support-infectious-disease-research.rst
+
 ================================================================
 VBI Awarded $27M from NIH to Support Infectious Disease Research
 ================================================================

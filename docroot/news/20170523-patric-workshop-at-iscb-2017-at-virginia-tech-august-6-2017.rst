@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20170523-patric-workshop-at-iscb-2017-at-virginia-tech-august-6-2017.rst
+
 =============================================================
 PATRIC Workshop at ICSB 2017 at Virginia Tech, August 6, 2017
 =============================================================

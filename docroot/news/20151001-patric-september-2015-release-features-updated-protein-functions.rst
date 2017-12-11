@@ -1,3 +1,6 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20151001-patric-september-2015-release-features-updated-protein-functions.rst
+
+
 ==============================================
 PATRIC September 2015 Data and Website Release
 ==============================================

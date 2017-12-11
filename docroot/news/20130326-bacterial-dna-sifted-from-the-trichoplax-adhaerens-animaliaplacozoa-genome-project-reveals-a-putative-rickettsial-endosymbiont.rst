@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20130326-bacterial-dna-sifted-from-the-trichoplax-adhaerens-animaliaplacozoa-genome-project-reveals-a-putative-rickettsial-endosymbiont.rst
+
 =================================================================================================================================
 Bacterial DNA sifted from the Trichoplax adhaerens (Animalia:Placozoa) genome project reveals a putative rickettsial endosymbiont
 =================================================================================================================================

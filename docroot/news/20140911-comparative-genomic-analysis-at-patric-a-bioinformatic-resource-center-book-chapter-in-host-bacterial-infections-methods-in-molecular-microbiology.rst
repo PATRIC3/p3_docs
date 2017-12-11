@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20140911-comparative-genomic-analysis-at-patric-a-bioinformatic-resource-center-book-chapter-in-host-bacterial-infections-methods-in-molecular-microbiology.rst
+
 ======================================================================================================================================================
 Comparative Genomic Analysis at PATRIC, A Bioinformatic Resource Center. Book chapter in Host Bacterial Infections, Methods in Molecular Microbiology.
 ======================================================================================================================================================

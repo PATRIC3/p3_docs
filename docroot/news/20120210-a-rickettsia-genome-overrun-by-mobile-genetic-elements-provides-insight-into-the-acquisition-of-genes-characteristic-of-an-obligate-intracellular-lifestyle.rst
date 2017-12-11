@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20120210-a-rickettsia-genome-overrun-by-mobile-genetic-elements-provides-insight-into-the-acquisition-of-genes-characteristic-of-an-obligate-intracellular-lifestyle.rst
+
 ============================================================================================================================================================
 A Rickettsia genome overrun by mobile genetic elements provides insight into the acquisition of genes characteristic of an obligate intracellular lifestyle.
 ============================================================================================================================================================

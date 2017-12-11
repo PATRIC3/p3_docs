@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20140620-standardized-metadata-for-human-pathogenvector-genomic-sequences.rst
+
 =================================================================
 Standardized metadata for human pathogen/vector genomic sequences
 =================================================================

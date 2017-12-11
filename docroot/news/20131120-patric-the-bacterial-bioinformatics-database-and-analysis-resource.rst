@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20131120-patric-the-bacterial-bioinformatics-database-and-analysis-resource.rst
+
 ===================================================================
 PATRIC, the bacterial bioinformatics database and analysis resource
 ===================================================================

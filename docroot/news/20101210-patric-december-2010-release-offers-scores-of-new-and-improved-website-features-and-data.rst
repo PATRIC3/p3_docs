@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20101210-patric-december-2010-release-offers-scores-of-new-and-improved-website-features-and-data.rst
+
 ========================================================================================
 PATRIC December 2010 Release Offers Scores of New and Improved Website Features and Data
 ========================================================================================

@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20140227-patric-now-has-over-15000-consistently-annotated-genomes.rst
+
 ==========================================================
 PATRIC Now Has Over 15,000 Consistently Annotated Genomes!
 ==========================================================

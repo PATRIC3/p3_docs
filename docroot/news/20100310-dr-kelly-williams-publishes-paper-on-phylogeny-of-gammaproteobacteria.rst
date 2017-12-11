@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20100310-dr-kelly-williams-publishes-paper-on-phylogeny-of-gammaproteobacteria.rst
+
 =============================================================================
 Drs. Williams and Dickerman Publish Paper on Phylogeny of Gammaproteobacteria
 =============================================================================

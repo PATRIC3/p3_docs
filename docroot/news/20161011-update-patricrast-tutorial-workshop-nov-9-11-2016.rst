@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20161011-update-patricrast-tutorial-workshop-nov-9-11-2016.rst
+
 ==================================================
 PATRIC/RAST Tutorial Workshop December 12-14, 2016
 ==================================================

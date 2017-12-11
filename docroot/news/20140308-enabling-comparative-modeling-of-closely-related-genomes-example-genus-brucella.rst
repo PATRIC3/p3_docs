@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20140308-enabling-comparative-modeling-of-closely-related-genomes-example-genus-brucella.rst
+
 ================================================================================
 Enabling comparative modeling of closely related genomes: example genus Brucella
 ================================================================================

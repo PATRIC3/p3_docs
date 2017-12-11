@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20100810-patric-website-introduces-new-look-features-and-data-improvements.rst
+
 ======================================================================
 PATRIC Website Introduces New Look, Enhanced Tools and Additional Data
 ======================================================================

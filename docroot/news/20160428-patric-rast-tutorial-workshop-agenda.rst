@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20160428-patric-rast-tutorial-workshop-agenda.rst
+
 ======================================
 PATRIC / RAST Tutorial Workshop Agenda
 ======================================

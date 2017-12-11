@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20160731-patric-july-2016-release-features-over-7600-new-genomes-and-amr-panel-data-for-approximately-5400-genomes.rst
+
 ====================================================================================================================================================================
 PATRIC July 2016 Release Features Over 7600 New Genomes and AMR Panel Data for Approximately 5400 Genomes. PATRIC Also Releases Alpha Version of New Website Design.
 ====================================================================================================================================================================
