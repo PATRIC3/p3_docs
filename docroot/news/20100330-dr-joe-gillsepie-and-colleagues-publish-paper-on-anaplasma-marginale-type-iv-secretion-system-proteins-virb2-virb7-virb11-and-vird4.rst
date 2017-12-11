@@ -1,0 +1,12 @@
+===========================================================================================================================
+PATRIC Collaborators Publish Paper on Anaplasma Marginale Type IV Secretion System Proteins VirB2, VirB7, VirB11, and VirD4
+===========================================================================================================================
+
+:Author: patricwpadmin
+:Date:   2010-03-30T19:39:11+00:00
+
+Sutten EL, Norimine J, Beare PA, Heinzen RA, Lopez JE, Morse K, Brayton
+KA, Gillespie JJ, Brown WC. (2010) Anaplasma marginale type IV secretion
+system proteins VirB2, VirB7, VirB11, and VirD4 are immunogenic
+components of a protective bacterial membrane vaccine. *Infect. Immun.*
+(View Abstract at PubMed)
