@@ -1,9 +1,11 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20170609-patric-rast-workshop-at-argonne-national-laboratory.rst
+
 =======================================================================
 PATRIC/RAST Workshop at Argonne National Laboratory, August 14-16, 2017
 =======================================================================
 
-
-:date:   2017-06-09T08:28:37+00:00
+.. feed-entry::
+   :date: 2017-06-09
 
 **The PATRIC/RAST workshop being offered on 2017 August 14-16 is now
 FULL.**
