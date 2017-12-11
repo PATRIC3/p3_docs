@@ -9,16 +9,16 @@ News
    :description: PATRIC eNews Rss feed
    :link: https://docs.patricbrc.org/
 
-   20171130-patric-november-2017-release
-   20171122-patric-webinar
-   20170930-patric-september-2017-data-release
+   20171130-patric-november-2017-release.rst
+   20171122-patric-webinar.rst
+   20170930-patric-september-2017-data-release.rst
 
 .. toctree::
    :maxdepth: 1
    :caption: Older News:
 
-   20170908-patric-workshop-at-argonne-national-lab
-   20170731-patric-july-2017-release
+   20170908-patric-workshop-at-argonne-national-lab.rst
+   20170731-patric-july-2017-release.rst
    20170609-patric-rast-workshop-at-argonne-national-laboratory.rst
    20170531-patric-may-2017-release-brings-total-genomes-to-over-100000-and-includes-21-host-response-data-sets.rst
    20170523-patric-workshop-at-iscb-2017-at-virginia-tech-august-6-2017.rst
