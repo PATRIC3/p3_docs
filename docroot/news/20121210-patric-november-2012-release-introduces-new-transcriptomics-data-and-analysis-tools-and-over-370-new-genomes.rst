@@ -4,8 +4,8 @@
 PATRIC November 2012 Release Introduces New Transcriptomics Data and Analysis Tools and over 370 New Genomes
 ============================================================================================================
 
-
-:date:   2012-12-10T13:25:34+00:00
+.. feed-entry::
+   :date: 2012-12-10
 
 **Transcriptomics Capabilities**
 

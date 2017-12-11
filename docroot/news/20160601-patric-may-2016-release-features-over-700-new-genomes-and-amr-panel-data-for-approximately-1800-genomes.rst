@@ -4,8 +4,8 @@
 PATRIC May 2016 Release Features Over 700 New Genomes and AMR Panel Data for Approximately 1800 Genomes
 =======================================================================================================
 
-
-:date:   2016-06-01T15:52:15+00:00
+.. feed-entry::
+   :date: 2016-06-01
 
 In this release, we have added 748 new genomes from NCBI GenBank,
 bringing the total number of genomes in PATRIC to over 70,000. The full

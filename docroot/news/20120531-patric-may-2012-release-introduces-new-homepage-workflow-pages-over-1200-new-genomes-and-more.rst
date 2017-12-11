@@ -4,8 +4,8 @@
 PATRIC May 2012 Release Introduces New Homepage, Workflow Pages, over 1200 New Genomes and More
 ===============================================================================================
 
-
-:date:   2012-05-31T22:20:23+00:00
+.. feed-entry::
+   :date: 2012-05-31
 
 **Website Enhancements**
 ========================

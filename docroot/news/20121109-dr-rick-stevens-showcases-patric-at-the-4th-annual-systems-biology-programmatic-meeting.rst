@@ -4,8 +4,8 @@
 Dr. Rick Stevens Showcases PATRIC at The 4th Annual Systems Biology Programmatic Meeting
 ========================================================================================
 
-
-:date:   2012-11-09T16:52:10+00:00
+.. feed-entry::
+   :date: 2012-11-09
 
 About the Meeting:
 

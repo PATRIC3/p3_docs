@@ -4,8 +4,8 @@
 PATRIC May 2017 Release brings total genomes to over 100,000 and includes 21 host response data sets
 ====================================================================================================
 
-
-:date:   2017-05-31T16:29:03+00:00
+.. feed-entry::
+   :date: 2017-05-31
 
 **New Genomes**
 

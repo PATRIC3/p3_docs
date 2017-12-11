@@ -4,8 +4,8 @@
 PATRIC Website Introduces New Look, Enhanced Tools and Additional Data
 ======================================================================
 
-
-:date:   2010-08-10T00:19:55+00:00
+.. feed-entry::
+   :date: 2010-08-10
 
 **Genome and Annotations**
 ==========================

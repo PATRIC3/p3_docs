@@ -4,8 +4,8 @@
 Pathogen Portal releases Mouse Model Strain Selection Guide
 ===========================================================
 
-
-:date:   2012-04-12T15:43:29+00:00
+.. feed-entry::
+   :date: 2012-04-12
 
 The Pathogen Portal team at the Virginia Bioinformatics Institute (VBI)
 has announced the release of Mouse Model Strain Selection Guide to

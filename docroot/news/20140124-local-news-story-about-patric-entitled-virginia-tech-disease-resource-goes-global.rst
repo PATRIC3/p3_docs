@@ -4,8 +4,8 @@
 Local News Story About PATRIC Entitled Virginia Tech Disease Resource Goes Global
 ==================================================================================
 
-
-:date:   2014-01-24T17:17:51+00:00
+.. feed-entry::
+   :date: 2014-01-24
 
 Features interviews with PATRIC researchers Maulik Shukla and
 Dr. Rebecca Wattam.

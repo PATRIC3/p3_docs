@@ -4,8 +4,8 @@
 Dr. Bruno Sobral Named as a 2012 Benjamin Franklin Award Finalist
 =================================================================
 
-
-:date:   2012-02-29T16:44:03+00:00
+.. feed-entry::
+   :date: 2012-02-29
 
 “Bioinformatics.org has announced the finalists in the 2012 Benjamin
 Franklin Award.

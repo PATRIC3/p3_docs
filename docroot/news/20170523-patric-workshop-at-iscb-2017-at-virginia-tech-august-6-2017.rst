@@ -4,9 +4,9 @@
 PATRIC Workshop at ICSB 2017 at Virginia Tech, August 6, 2017
 =============================================================
 
-
-:date:   2017-05-23T15:16:46+00:00
-
+.. feed-entry::
+   :date: 2017-05-23
+   
 PATRIC will be hosting a 1-day workshop entitled “The PATRIC
 Bioinformatics Resource Center for ‘Omics Data Analysis,” at the 18th
 International Conference on Systems Biology (ICSB 2017) on August 6,

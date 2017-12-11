@@ -4,8 +4,8 @@
 PATRIC Special Data Release Featuring 12 New Mycobacterium tuberculosis Genomes
 ===============================================================================
 
-
-:date:   2012-03-01T13:47:40+00:00
+.. feed-entry::
+   :date: 2012-03-01
 
 In March 2012, PATRIC made a special data release featuring the
 following 12 new Mycobacterium tuberculosis genomes to help

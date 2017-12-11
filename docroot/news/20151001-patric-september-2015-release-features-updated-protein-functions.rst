@@ -5,8 +5,8 @@
 PATRIC September 2015 Data and Website Release
 ==============================================
 
-
-:date:   2015-10-01T09:33:17+00:00
+.. feed-entry::
+   :date: 2015-10-01
 
 **AMR Metadata**
 

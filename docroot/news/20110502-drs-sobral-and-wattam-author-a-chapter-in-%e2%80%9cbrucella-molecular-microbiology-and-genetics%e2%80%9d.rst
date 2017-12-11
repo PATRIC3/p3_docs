@@ -4,8 +4,8 @@
 Drs. Sobral and Wattam Author a Chapter in “Brucella: Molecular Microbiology and Genetics”.
 ===========================================================================================
 
-
-:date:   2011-05-02T16:36:40+00:00
+.. feed-entry::
+   :date: 2011-05-02
 
 Sobral, B. and A. Wattam (2011). Comparative genomics and phylogenomics
 of the *Brucella*. Book chapter in \_“Brucella_: Molecular Microbiology

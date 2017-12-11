@@ -4,8 +4,8 @@
 PATRIC October 2012 Data Release Adds 741 New Genomes
 =====================================================
 
-
-:date:   2012-10-10T08:23:57+00:00
+.. feed-entry::
+   :date: 2012-10-10
 
 In the October 2012 data release, `741 new genomes have been
 added <http://brcdownloads.patricbrc.org/patric2/RELEASE_NOTES/Oct2012/genomes_added>`__

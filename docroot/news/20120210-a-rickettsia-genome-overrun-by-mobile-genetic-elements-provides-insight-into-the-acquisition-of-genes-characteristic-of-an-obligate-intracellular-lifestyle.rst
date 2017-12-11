@@ -4,8 +4,8 @@
 A Rickettsia genome overrun by mobile genetic elements provides insight into the acquisition of genes characteristic of an obligate intracellular lifestyle.
 ============================================================================================================================================================
 
-
-:date:   2012-02-10T12:13:08+00:00
+.. feed-entry::
+   :date: 2012-02-10
 
 Gillespie, J.J.*, Joardar, V.*, Williams, K.P., Driscoll, T., Hostetler,
 J.B., Nordberg, E.K., Shukla, M., Walenz, B., Hill, C.A., Nene, V.M.,

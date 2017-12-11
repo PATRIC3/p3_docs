@@ -5,8 +5,8 @@
 PATRIC April 2014 Release: New Data Summary and Special Collections Pages
 =========================================================================
 
-
-:date:   2014-04-02T08:46:47+00:00
+.. feed-entry::
+   :date: 2014-04-02
 
 --------------
 

@@ -5,8 +5,8 @@
 Dr. Dyer and Collaborators publish on human-bacterial pathogen protein interaction networks.
 ============================================================================================
 
-
-:date:   2010-09-28T17:47:20+00:00
+.. feed-entry::
+   :date: 2010-09-28
 
 Dyer MD, Neff C, Dufford M, Rivera CG, Shattuck D, et al. 2010 The
 Human-Bacterial Pathogen Protein Interaction Networks of *Bacillus

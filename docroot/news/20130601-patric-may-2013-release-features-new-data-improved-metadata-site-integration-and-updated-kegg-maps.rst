@@ -4,8 +4,8 @@
 PATRIC May 2013 Release Features New Data, Improved Metadata-Site Integration and Updated KEGG Maps
 ===================================================================================================
 
-
-:date:   2013-06-01T10:07:42+00:00
+.. feed-entry::
+   :date: 2013-06-01
 
 **Website Enhancement**
 =======================

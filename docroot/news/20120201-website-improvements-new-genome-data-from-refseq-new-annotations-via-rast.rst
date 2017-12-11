@@ -4,8 +4,8 @@
 Website Improvements; New Genome Data from RefSeq & Genbank; New Annotations via RAST.
 ======================================================================================
 
-
-:date:   2012-02-01T13:40:35+00:00
+.. feed-entry::
+   :date: 2012-02-01
 
 **Improved Phylogenetic Tree Viewer:**
 

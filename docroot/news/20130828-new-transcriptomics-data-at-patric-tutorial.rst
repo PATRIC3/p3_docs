@@ -4,8 +4,8 @@
 New “Transcriptomics Data at PATRIC” Tutorial
 =============================================
 
-
-:date:   2013-08-28T15:03:10+00:00
+.. feed-entry::
+   :date: 2013-08-28
 
 .. raw:: html
 

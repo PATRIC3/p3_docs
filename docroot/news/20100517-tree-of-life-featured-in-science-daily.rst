@@ -4,8 +4,8 @@
 PATRIC’s “Tree of Life” for Gamma-proteobacteria Featured in Science Daily
 ==========================================================================
 
-
-:date:   2010-05-17T14:49:03+00:00
+.. feed-entry::
+   :date: 2010-05-17
 
 A new “tree of life” has been constructed by researchers at the Virginia
 Bioinformatics Institute (VBI) at Virginia Tech for the

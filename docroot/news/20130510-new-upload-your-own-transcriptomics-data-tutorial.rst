@@ -4,8 +4,8 @@
 New “Upload Your Own Transcriptomics Data” Tutorial
 ===================================================
 
-
-:date:   2013-05-10T10:39:32+00:00
+.. feed-entry::
+   :date: 2013-05-10
 
 .. raw:: html
 

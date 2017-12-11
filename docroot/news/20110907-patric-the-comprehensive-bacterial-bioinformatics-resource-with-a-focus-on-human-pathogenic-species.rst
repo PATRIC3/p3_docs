@@ -4,8 +4,8 @@
 PATRIC: The Comprehensive Bacterial Bioinformatics Resource with a Focus on Human Pathogenic Species
 ====================================================================================================
 
-
-:date:   2011-09-07T20:58:12+00:00
+.. feed-entry::
+   :date: 2011-09-07
 
 Joseph J. Gillespie, Alice R. Wattam, Stephen A. Cammer, Joseph Gabbard,
 Maulik P. Shukla, Oral Dalay, Timothy Driscoll, Deborah Hix,

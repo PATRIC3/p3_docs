@@ -4,8 +4,8 @@
 PATRIC October 2014 Release Features New Special Data Sets and Updated Project Information
 ==========================================================================================
 
-
-:date:   2014-10-31T14:59:02+00:00
+.. feed-entry::
+   :date: 2014-10-31
 
 **Additional Special Data Sets**
 ================================

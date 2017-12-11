@@ -4,8 +4,8 @@
 PATRIC September Release features over 4500 New Genomes, Literature Feferences, and Assembly Service Enhancements
 =================================================================================================================
 
-
-:date:   2016-09-30T20:05:32+00:00
+.. feed-entry::
+   :date: 2016-09-30
 
 New Genomes
 ===========

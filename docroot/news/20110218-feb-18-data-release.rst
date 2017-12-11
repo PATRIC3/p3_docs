@@ -4,8 +4,8 @@
 New Genome Data from RefSeq & Genbank; New Annotations via RAST
 ===============================================================
 
-
-:date:   2011-02-18T16:48:29+00:00
+.. feed-entry::
+   :date: 2011-02-18
 
 Between PATRIC’s December 2010 release and Feb 18th 2011, 143 new
 genomes were added and annotated by RAST.  The following table

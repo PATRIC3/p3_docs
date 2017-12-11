@@ -4,8 +4,8 @@
 VBI Awarded $27M from NIH to Support Infectious Disease Research
 ================================================================
 
-
-:date:   2009-10-12T15:41:29+00:00
+.. feed-entry::
+   :date: 2009-10-12
 
 BLACKSBURG, Va., October 12, 2009 – The National Institute of Allergy
 and Infectious Diseases (NIAID), part of the National Institutes of

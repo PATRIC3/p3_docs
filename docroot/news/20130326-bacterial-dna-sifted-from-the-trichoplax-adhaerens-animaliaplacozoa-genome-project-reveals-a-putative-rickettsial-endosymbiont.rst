@@ -4,8 +4,8 @@
 Bacterial DNA sifted from the Trichoplax adhaerens (Animalia:Placozoa) genome project reveals a putative rickettsial endosymbiont
 =================================================================================================================================
 
-
-:date:   2013-03-26T12:41:20+00:00
+.. feed-entry::
+   :date: 2013-03-26
 
  
 

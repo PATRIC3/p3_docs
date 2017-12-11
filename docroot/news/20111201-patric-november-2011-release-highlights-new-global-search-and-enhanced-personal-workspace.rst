@@ -4,8 +4,8 @@
 PATRIC November 2011 Release Highlights New Global Search and Enhanced Personal Workspace
 =========================================================================================
 
-
-:date:   2011-12-01T16:36:19+00:00
+.. feed-entry::
+   :date: 2011-12-01
 
 **Search PATRIC Data Using Single Site-wide Search Box:**
 

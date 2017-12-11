@@ -4,8 +4,8 @@
 E. coli outbreak: New Comprehensive Comparisons
 ===============================================
 
-
-:date:   2011-06-08T22:00:04+00:00
+.. feed-entry::
+   :date: 2011-06-08
 
 An outbreak of *Escherichia coli* causing a severe illness
 called \ `hemolytic-uremic

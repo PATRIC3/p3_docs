@@ -4,8 +4,8 @@
 Omics4TB ChIP-Seq Experiments
 =============================
 
-
-:date:   2016-03-31T13:20:33+00:00
+.. feed-entry::
+   :date: 2016-03-31
 
 *Mycobacterium tuberculosis* (MTB) is a pathogenic bacterium responsible
 for 12 million active cases of tuberculosis (TB) worldwide. The

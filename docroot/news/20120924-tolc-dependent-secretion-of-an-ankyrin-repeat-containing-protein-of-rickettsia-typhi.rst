@@ -4,8 +4,8 @@
 TolC-Dependent Secretion of an Ankyrin Repeat-Containing Protein of Rickettsia typhi.
 =====================================================================================
 
-
-:date:   2012-09-24T14:52:02+00:00
+.. feed-entry::
+   :date: 2012-09-24
 
  
 

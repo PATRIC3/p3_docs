@@ -4,8 +4,8 @@
 PATRIC, the bacterial bioinformatics database and analysis resource
 ===================================================================
 
-
-:date:   2013-11-20T11:40:48+00:00
+.. feed-entry::
+   :date: 2013-11-20
 
 Wattam, A.R., D. Abraham, O. Dalay, T.L. Disz, T. Driscoll, J.L.
 Gabbard, J.J. Gillespie, R. Gough, D. Hix, R. Kenyon, D. Machi, C. Mao,

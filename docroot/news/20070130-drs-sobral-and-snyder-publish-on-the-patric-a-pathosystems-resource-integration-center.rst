@@ -3,6 +3,9 @@
 Drs. Snyder and Sobral Publish on PATRIC: a PathoSystems Resource Integration Center
 ====================================================================================
 
+.. feed-entry::
+   :date: 2007-01-30
+
 The PathoSystems Resource Integration Center (PATRIC) is one of eight
 Bioinformatics Resource Centers (BRCs) funded by the National Institute
 of Allergy and Infection Diseases (NIAID) to create a data and analysis

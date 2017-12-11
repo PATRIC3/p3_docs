@@ -1,12 +1,11 @@
 :github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20160121-flute-experiment-2.rst
 
-
 ==================
 FLUTE Experiment 2
 ==================
 
-
-:date:   2016-01-21T12:27:59+00:00
+.. feed-entry::
+   :date: 2016-01-21
 
 **Peptidoglycan synthesis in Mycobacterium tuberculosis is organized into networks with varying drug susceptibility**
 =====================================================================================================================

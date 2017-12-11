@@ -4,8 +4,8 @@
 PATRIC Now Has Over 15,000 Consistently Annotated Genomes!
 ==========================================================
 
-
-:date:   2014-02-27T11:01:43+00:00
+.. feed-entry::
+   :date: 2014-02-27
 
 **New Genomes and Annotations**
 

@@ -4,8 +4,8 @@
 Omics4TB TFOE Expression Experiments
 ====================================
 
-
-:date:   2016-03-31T13:35:18+00:00
+.. feed-entry::
+   :date: 2016-03-31
 
 *Mycobacterium tuberculosis* senses and responds to the shifting and
 hostile landscape of the host. To characterize the underlying

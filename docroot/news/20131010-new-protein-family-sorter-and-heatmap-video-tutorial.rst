@@ -4,8 +4,8 @@
 New Protein Family Sorter and Heatmap Video Tutorial
 ====================================================
 
-
-:date:   2013-10-10T15:34:44+00:00
+.. feed-entry::
+   :date: 2013-10-10
 
 .. raw:: html
 

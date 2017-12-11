@@ -4,8 +4,8 @@
 PATRIC January 2017 Release features 5938 new genomes and new AMR phenotype data
 ================================================================================
 
-
-:date:   2017-01-31T22:07:37+00:00
+.. feed-entry::
+   :date: 2017-01-31
 
 **New Genomes**
 

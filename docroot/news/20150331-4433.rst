@@ -4,8 +4,8 @@
 PATRIC/RAST Tutorial Workshop, June 15-17, 2015
 ===============================================
 
-
-:date:   2015-03-31T13:30:50+00:00
+.. feed-entry::
+   :date: 2015-03-31
 
 The RAST/PATRIC teams will be offering a tutorial on June 15-17 2015 at
 Argonne National Laboratory in the suburbs of Chicago IL. The workshop

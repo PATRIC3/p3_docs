@@ -4,8 +4,8 @@
 PATRIC Workshop – San Diego State University
 ============================================
 
-
-:date:   2015-07-14T11:01:46+00:00
+.. feed-entry::
+   :date: 2015-07-14
 
 **AGENDA **
 

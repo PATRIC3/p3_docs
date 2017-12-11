@@ -4,8 +4,8 @@
 E. coli Outbreak: Updated Analysis of Unique and Divergent Proteins
 ===================================================================
 
-
-:date:   2011-07-08T15:52:30+00:00
+.. feed-entry::
+   :date: 2011-07-08
 
 Nine *Escherichia coli* strains were included in the latest analyses:
 TY-2482 (complete assembly), LB226692, GOS1, GOS2, H112180280,

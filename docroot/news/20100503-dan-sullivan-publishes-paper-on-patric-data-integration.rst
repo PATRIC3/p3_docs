@@ -4,8 +4,8 @@
 Mr. Dan Sullivan Publishes Paper on PATRIC Data Integration
 ===========================================================
 
-
-:date:   2010-05-03T09:15:58+00:00
+.. feed-entry::
+   :date: 2010-05-03
 
 Sullivan DE, Gabbard JL, Shukla M, Sobral B. (2010) Data integration for
 dynamic and sustainable systems biology resources: challenges and

@@ -4,8 +4,8 @@
 PATRIC December 2010 Release Offers Scores of New and Improved Website Features and Data
 ========================================================================================
 
-
-:date:   2010-12-10T23:39:37+00:00
+.. feed-entry::
+   :date: 2010-12-10
 
 **Website Enhancements**
 ========================

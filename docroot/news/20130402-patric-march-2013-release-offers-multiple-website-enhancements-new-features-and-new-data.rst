@@ -4,8 +4,8 @@
 PATRIC March 2013 Release Offers Multiple Website Enhancements, New Features, and New Data
 ==========================================================================================
 
-
-:date:   2013-04-02T18:36:13+00:00
+.. feed-entry::
+   :date: 2013-04-02
 
 **Website Updates**
 ===================
