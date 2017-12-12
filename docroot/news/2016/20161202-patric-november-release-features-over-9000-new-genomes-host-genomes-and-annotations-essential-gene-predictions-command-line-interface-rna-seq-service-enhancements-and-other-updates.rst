@@ -55,7 +55,7 @@ which are propagated from set of high quality AMR genes manually curated
 by the PATRIC Team. These curated AMR genes correspond to 25 AMR
 subsystems, covering 227 unique AMR functional roles. Additional
 information is available
-`here <http://enews.patricbrc.org/4974/patric-antimicrobial-resistance-amr-gene-curation/>`__.
+`here <https://docs.patricbrc.org/news/2016/20160331-patric-antimicrobial-resistance-amr-gene-curation.html>`__.
 The curated AMR gene functions have been consistently projected to more
 than 1.6M genes from >71,000 public bacterial genomes currently
 available in PATRIC. Projected AMR gene annotations are available under

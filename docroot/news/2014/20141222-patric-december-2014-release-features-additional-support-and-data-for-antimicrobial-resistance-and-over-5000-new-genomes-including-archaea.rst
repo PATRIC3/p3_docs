@@ -41,7 +41,7 @@ In this release, we have started to incorporate antimicrobial resistance
 coverage and the search and analysis capabilities will become richer in
 future releases. This release includes curated metadata from `nine
 sequencing
-projects <http://enews.patricbrc.org/niaid-antimicrobial-resistance-sequencing-projects/>`__
+projects <https://docs.patricbrc.org/website/data_collections/content/niaid_antimicrobial_resistance_sequencing_projects.html>`__
 from the NIAID-funded Genomic Centers for Infectious Diseases. This data
 covers 1247 genomes from 10 genera, including 53 antibiotics and 4
 chemicals. We have also enhanced PATRIC support for the clinical

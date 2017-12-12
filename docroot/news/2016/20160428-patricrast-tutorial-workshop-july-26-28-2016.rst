@@ -20,7 +20,7 @@ data, and identify and annotate sequence variation using PATRIC’s new
 variation analysis service.
 
 `Click here for the proposed Workshop
-Agenda. <http://enews.patricbrc.org/?p=5026>`__
+Agenda. <https://docs.patricbrc.org/news/2016/20160428-patric-rast-tutorial-workshop-agenda.html>`__
 
 The workshop will be limited to 20 people on a first-come, first-served
 basis. While there is no fee for the workshop, participants are

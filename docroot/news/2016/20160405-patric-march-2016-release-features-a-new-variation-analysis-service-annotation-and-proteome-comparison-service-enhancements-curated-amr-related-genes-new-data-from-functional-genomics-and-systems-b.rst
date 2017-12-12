@@ -61,7 +61,7 @@ membrane porins, multidrug efflux mechanisms, and capsular and
 extracellular polysaccharides. To date, we have encoded 25 subsystems
 covering 265 unique functional roles (protein families). Additional
 information and curated data are available
-`here <http://enews.patricbrc.org/4974/patric-antimicrobial-resistance-amr-gene-curation/>`__.
+`here <https://docs.patricbrc.org/news/2016/20160331-patric-antimicrobial-resistance-amr-gene-curation.html>`__.
 
 **Changes to the FTP Site**
 
@@ -91,9 +91,9 @@ two of the NIAID Functional Genomics Centers: The Chicago Center for
 Functional Annotation (CCFA) and Genes Unknown in *Acinetobacter
 baumannii* (GUNK). These are available from the respective pages in
 PATRIC:
-`CCFA <http://enews.patricbrc.org/the-chicago-center-for-functional-annotation-ccfa/>`__
+`CCFA <https://docs.patricbrc.org/website/data_collections/content/ccfa.html>`__
 and
-`GUNK <http://enews.patricbrc.org/genes-unknown-in-acinetobacter-baumannii-gunk/>`__. 
+`GUNK <https://docs.patricbrc.org/website/data_collections/content/gunk.html>`__. 
 We have also added project descriptions and data from the Omics4TB
 Disease Progression, a NIAID Systems Biology Center, available from the
-`Omics4TB <http://enews.patricbrc.org/omics4tb/>`__ page in PATRIC.
+`Omics4TB <https://docs.patricbrc.org/website/data_collections/content/omics4tb.html>`__ page in PATRIC.
