@@ -13,9 +13,9 @@ release utilizes our newly deployed continuous release process wherein
 we can release genomes into the database in near real-time from
 acquisition from GenBank and other sources.  The full list of available
 bacterial genomes can be accessed from the `Genomes Tab for all
-bacteria <https://www.patricbrc.org/portal/portal/patric/GenomeList?cType=taxon&cId=2&dataSource=&displayMode=&pk=&kw=>`__,
+bacteria <https://www.patricbrc.org/view/Taxonomy/2>`__,
 and from the `Genomes Data Landing
-Page <https://www.patricbrc.org/portal/portal/patric/Genomes>`__.
+Page <https://www.patricbrc.org/view/DataType/Genomes>`__.
 
 We have incorporated TnSeq data and processed results into PATRIC from
 the Functionalizing Lists of Unknown TB Entities (FLUTE), part of the
@@ -23,4 +23,4 @@ the Functionalizing Lists of Unknown TB Entities (FLUTE), part of the
 Program <http://www.niaid.nih.gov/labsandresources/resources/dmid/uncharacterizedgenes/Pages/default.aspx>`__,
 including integrated feature annotations, where provided. Summaries of
 and links to these data can be accessed from the `PATRIC FLUTE
-page <http://enews.patricbrc.org/functionalizing-lists-of-unknown-tb-entities-flute/>`__.
+page <https://docs.patricbrc.org/website/data_collections/content/flute.html>`__.

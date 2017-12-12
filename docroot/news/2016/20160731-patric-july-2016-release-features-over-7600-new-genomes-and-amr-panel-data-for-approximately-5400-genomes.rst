@@ -13,9 +13,9 @@ the new genomes are from published AMR studies and were assembled from
 the reads available in NCBI SRA database. The remaining 2200 genomes
 were added from NCBI GenBank.  The full list of available bacterial
 genomes can be accessed from the \ `Genomes Tab for all
-bacteria <https://www.patricbrc.org/portal/portal/patric/GenomeList?cType=taxon&cId=2&dataSource=&displayMode=&pk=&kw=>`__,
+bacteria <https://www.patricbrc.org/view/Taxonomy/2#view_tab=genomes>`__,
 and from the \ `Genomes Data Landing
-Page <https://www.patricbrc.org/portal/portal/patric/Genomes>`__.
+Page <https://www.patricbrc.org/view/DataType/Genomes>`__.
 
 **AMR Panel Data:** This release also includes AMR panel data curated
 from publications for 5442 genomes. The AMR panel data is displayed on
@@ -35,7 +35,7 @@ mechanisms of drug resistance: outer membrane porins, multidrug efflux
 mechanisms, and capsular and extracellular polysaccharides. To date, we
 have encoded 25 subsystems covering 265 unique functional roles (protein
 families). Additional information and curated data are
-available \ `here <http://enews.patricbrc.org/4974/patric-antimicrobial-resistance-amr-gene-curation/>`__\ .
+available \ `here <http://docs.patricbrc.org/news/2016/20160331-patric-antimicrobial-resistance-amr-gene-curation.html>`__\ .
 In addition, we thee curated AMR gene functions have been consistently
 projected to more than 1.6M genes from all public bacterial genomes
 currently available in PATRIC. Projected AMR gene annotations are

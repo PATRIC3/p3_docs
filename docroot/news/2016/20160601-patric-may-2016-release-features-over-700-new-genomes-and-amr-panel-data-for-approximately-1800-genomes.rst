@@ -11,9 +11,9 @@ In this release, we have added 748 new genomes from NCBI GenBank,
 bringing the total number of genomes in PATRIC to over 70,000. The full
 list of available bacterial genomes can be accessed from the `Genomes
 Tab for all
-bacteria <https://www.patricbrc.org/portal/portal/patric/GenomeList?cType=taxon&cId=2&dataSource=&displayMode=&pk=&kw=>`__,
+bacteria <https://www.patricbrc.org/view/Taxonomy/2>`__,
 and from the `Genomes Data Landing
-Page <https://www.patricbrc.org/portal/portal/patric/Genomes>`__.
+Page <https://www.patricbrc.org/view/DataType/Genomes>`__.
 
 This release includes a special genome, corresponding to the first U.S.
 case of Colistin-resistant *E. coli* MRSN 388634. Sequence reads for
@@ -27,7 +27,7 @@ version of the publication can be found
 A provisional assembly and annotation is provided in PATRIC using the
 PATRIC Genome Assembly and Genome Annotation services and can be
 accessed
-`here <https://www.patricbrc.org/portal/portal/patric/Genome?cType=genome&cId=562.10576>`__.
+`here <https://www.patricbrc.org/view/Genome/562.10576>`__.
 
 This release also includes AMR panel data curated from publications for
 1832 genomes. The AMR panel data is displayed on the corresponding
@@ -37,7 +37,7 @@ from
 
 Finally, we have also added 10 eukaryotic host genomes in PATRIC,
 available available
-`here <https://www.patricbrc.org/portal/portal/patric/Taxon?cType=taxon&cId=2759>`__.
+`here <https://www.patricbrc.org/view/Taxonomy/2759>`__.
 These mark our first step in supporting host response data linked to
 bacterial infection. After further refinements, these genomes will
 provide anchor for the host-pathogen protein-protein interactions and

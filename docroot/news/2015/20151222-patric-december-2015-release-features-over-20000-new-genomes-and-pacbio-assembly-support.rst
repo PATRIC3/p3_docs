@@ -13,9 +13,9 @@ In this release, we have added 23,052 new genomes from NCBI GenBank,
 bringing the total number of genomes in PATRIC to over 54,000. The full
 list of available bacterial genomes can be accessed from the `Genomes
 Tab for all
-bacteria <https://www.patricbrc.org/portal/portal/patric/GenomeList?cType=taxon&cId=2&dataSource=&displayMode=&pk=&kw=>`__,
+bacteria <https://www.patricbrc.org/view/Taxonomy/2>`__,
 and from the `Genomes Data Landing
-Page <https://www.patricbrc.org/portal/portal/patric/Genomes>`__.
+Page <https://www.patricbrc.org/view/DataType/Genomes>`__.
 
 As part of this Data Release, we have implemented an enhanced annotation
 system and process that allows us to annotate and release new genomes

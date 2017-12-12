@@ -15,7 +15,7 @@ were of low quality or obsolete, were deleted from PATRIC. In addition,
 names of 1,633 genomes were revised to include strain names to make them
 more informative. The full list of available bacterial genomes can be
 accessed from the `Genomes Tab for all
-bacteria <https://www.patricbrc.org/portal/portal/patric/GenomeList?cType=taxon&cId=2&dataSource=&displayMode=&pk=&kw=>`__.
+bacteria <https://www.patricbrc.org/view/Taxonomy/2#view_tab=genomes>`__.
 on the old Production site and  `Genomes tab for all
 bacteria <https://www.patricbrc.org/view/Taxonomy/2#view_tab=genomes>`__ 
 on the Beta website.
