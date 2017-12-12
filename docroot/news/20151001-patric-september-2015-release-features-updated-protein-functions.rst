@@ -286,7 +286,7 @@ Escherichia
 
    </table>
 
-** **\ All AMR metadata incorporated thus far is available on the FTP
+All AMR metadata incorporated thus far is available on the FTP
 site for
 `download <ftp://ftp.patricbrc.org/BRC_Mirrors/AMR/PATRIC_genomes_AMR.xlsx>`__.
 In addition, we have also created a `special FTP
@@ -299,7 +299,7 @@ Classifiers.
 
 **Other Metadata Updates**
 
-** **\ Additional metadata updates include incorporation of additional
+Additional metadata updates include incorporation of additional
 clinical metadata from the NIAID Genomic Centers for Infectious
 Diseases; addition of accession numbers for Assembly (6560), BioProject
 (2440), BioSample (6619), and GenBank (3133); genome name changes (698)

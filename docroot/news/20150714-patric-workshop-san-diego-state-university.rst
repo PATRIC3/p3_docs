@@ -7,7 +7,7 @@ PATRIC Workshop – San Diego State University
 .. feed-entry::
    :date: 2015-07-14
 
-**AGENDA **
+**AGENDA**
 
 **Monday, July 20, 2015**
 
