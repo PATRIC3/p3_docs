@@ -400,7 +400,7 @@ PMID: 25232098
 All transcription factor overexpression data from tiling microarray
 experiments are available at NCBI GEO database under the accession
 number GSE59086
-(`tfoe-meta.xls <http://enews.patricbrc.org/wp-content/uploads/2016/03/tfoe-meta.xls>`__)
+(:download:`tfoe-meta.xls <../files/201603/tfoe-meta.xls>`)
 (Gene Expression
 Omnibus \ `GSE59086 <http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE59086>`__).
 Moreover, sample information for each experiment is available at MTB
@@ -410,6 +410,6 @@ A searchable Excel file enabling easy query of this large dataset can
 also be downloaded from the portal.
 
 The same `TFOE dataset is also available from a public PATRIC
-workspace <https://www.beta.patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB>`__,
+workspace <https://www.patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB>`__,
 which allows users to view the gene expression data as an interactive
 and dynamic gene list and heat map.

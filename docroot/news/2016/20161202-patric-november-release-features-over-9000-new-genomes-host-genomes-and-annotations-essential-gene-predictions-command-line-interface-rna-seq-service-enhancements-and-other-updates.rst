@@ -17,7 +17,7 @@ more informative. The full list of available bacterial genomes can be
 accessed from the `Genomes Tab for all
 bacteria <https://www.patricbrc.org/portal/portal/patric/GenomeList?cType=taxon&cId=2&dataSource=&displayMode=&pk=&kw=>`__.
 on the old Production site and  `Genomes tab for all
-bacteria <https://www.beta.patricbrc.org/view/Taxonomy/2#view_tab=genomes>`__ 
+bacteria <https://www.patricbrc.org/view/Taxonomy/2#view_tab=genomes>`__ 
 on the Beta website.
 
 **Protein Family and Annotation Updates**
@@ -45,7 +45,7 @@ annotations.  These include *Homo sapiens* (human), *Mus musculus*
 rerio* (zebrafish), *Gallus gallus* (chicken), *Drosophila melanogaster*
 (fruit fly), and *Caenorhabditis elegans* (roundworm). These genomes are
 available in PATRIC as `an option in the Organisms
-menu <https://www.beta.patricbrc.org/view/Taxonomy/2759#view_tab=genomes>`__ on
+menu <https://www.patricbrc.org/view/Taxonomy/2759#view_tab=genomes>`__ on
 the Beta website.
 
 **AMR Gene Annotations**
@@ -61,7 +61,7 @@ than 1.6M genes from >71,000 public bacterial genomes currently
 available in PATRIC. Projected AMR gene annotations are available under
 the `Specialty Genes Tab on the website, with filters
 Property=Antibiotic Resistance and
-Source=PATRIC <https://www.beta.patricbrc.org/view/SpecialtyGeneList/?keyword(*)#view_tab=specialtyGenes&filter=and(or(eq(property,%22Antibiotic%20Resistance%22)),eq(source,%22PATRIC%22))>`__ on
+Source=PATRIC <https://www.patricbrc.org/view/SpecialtyGeneList/?keyword(*)#view_tab=specialtyGenes&filter=and(or(eq(property,%22Antibiotic%20Resistance%22)),eq(source,%22PATRIC%22))>`__ on
 the Beta website.
 
 **AMR Classifier Enhancements:**
@@ -88,7 +88,7 @@ Additional information about this process is available from
 http://www.nature.com/nbt/journal/v28/n3/abs/nbt.1614.html. The
 essential gene predictions are available at PATRIC under `the Specialty
 Genes Tab on the website, with filters Property=Essential Gene and
-Source=PATRIC <https://www.beta.patricbrc.org/view/SpecialtyGeneList/?keyword(*)#view_tab=specialtyGenes&filter=and(eq(property,%22Essential%20Gene%22),or(eq(source,%22PATRIC%22)))>`__ on
+Source=PATRIC <https://www.patricbrc.org/view/SpecialtyGeneList/?keyword(*)#view_tab=specialtyGenes&filter=and(eq(property,%22Essential%20Gene%22),or(eq(source,%22PATRIC%22)))>`__ on
 the Beta website.
 
 **Command Line and Application Programming Interfaces (CLI and API)**

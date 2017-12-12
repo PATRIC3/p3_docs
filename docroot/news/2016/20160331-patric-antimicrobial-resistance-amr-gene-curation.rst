@@ -47,7 +47,7 @@ available), and lay the basis for variation analysis.  Approximately
 half of new Subsystems required to encode known AMR-related genes and
 gene products are in place. An Excel spreadsheet with these data is
 available
-`here <http://enews.patricbrc.org/wp-content/uploads/2016/03/PATRIC-AMR-Gene-Curation-2016-03-31.xlsx>`__.
+:download:`here <../files/201603/PATRIC-AMR-Gene-Curation-2016-03-31.xlsx>`.
  Together they cover 265 unique Functional roles (isofunctional protein
 families), each corresponding to a specific AMR determinant encoded
 across a representative set of ~1000 diverse prokaryotic genomes.
