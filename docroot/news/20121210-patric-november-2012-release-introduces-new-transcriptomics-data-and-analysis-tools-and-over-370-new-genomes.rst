@@ -9,7 +9,7 @@ PATRIC November 2012 Release Introduces New Transcriptomics Data and Analysis To
 
 **Transcriptomics Capabilities**
 
-** **\ We are pleased to announce the availability of curated
+We are pleased to announce the availability of curated
 transcriptomics data and related data analysis and visualization tools
 on the PATRIC website.  In addition to integration of a large number of
 published gene expression datasets related to bacterial pathogens from
