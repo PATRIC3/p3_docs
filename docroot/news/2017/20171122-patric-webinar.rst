@@ -13,7 +13,7 @@ attend so that we will know approximately how many participants to expect.
 
 .. cut::
 
-.. figure:: ./images/PATRIC_Webinar_PhyloTree.png
+.. figure:: ../images/PATRIC_Webinar_PhyloTree.png
    :alt: PATRIC Webinar Phylogenetic Tree
 
 

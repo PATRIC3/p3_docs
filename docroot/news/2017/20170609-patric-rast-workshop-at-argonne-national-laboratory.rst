@@ -51,7 +51,7 @@ Building 240, Room 1404/1405
 
 Argonne, IL 60439
 
-**DRAFT AGENDA** (:download:`PDF version <./files/201706/PATRIC-ANL-Workshop-August-2017.pdf>`)
+**DRAFT AGENDA** (:download:`PDF version <../files/201706/PATRIC-ANL-Workshop-August-2017.pdf>`)
 
 **Monday, August 14, 2017**
 

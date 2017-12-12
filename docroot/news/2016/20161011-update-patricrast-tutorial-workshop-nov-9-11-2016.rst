@@ -19,7 +19,7 @@ construct a metabolic model for their genome, load and analyze RNA-Seq
 data, and identify and annotate sequence variation using PATRIC’s new
 variation analysis service.
 
-:download:`Click here for the proposed Workshop Agenda <./files/201611/PATRIC_Agenda_ANL_12-14-Dec-2016.pdf>`.
+:download:`Click here for the proposed Workshop Agenda <../files/201611/PATRIC_Agenda_ANL_12-14-Dec-2016.pdf>`.
 
 The workshop will be limited to 20 people on a first-come, first-served
 basis. While there is no fee for the workshop, participants are
