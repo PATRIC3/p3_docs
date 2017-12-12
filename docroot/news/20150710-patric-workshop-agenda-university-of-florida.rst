@@ -7,17 +7,16 @@ PATRIC Workshop Agenda – University of Florida
 .. feed-entry::
    :date: 2015-07-10
 
-**AGENDA **
+**AGENDA**
 
 **Monday, July 13, 2015**
 
 **8:30am            Register for PATRIC Account**
 
-**9:00am            Overview of PATRIC
-(**\ `**www.patricbrc.org** <http://www.patricbrc.org/>`__\ **) **
+**9:00am            Overview of PATRIC**
+`www.patricbrc.org <http://www.patricbrc.org/>`__
 
-**9:30am            Assemble a Genome in PATRIC                        
-      **
+**9:30am            Assemble a Genome in PATRIC**                        
 
 -  Uploading reads and read libraries
 -  Selecting assembly methods for comparison
@@ -25,7 +24,7 @@ PATRIC Workshop Agenda – University of Florida
 -  Analyzing assembly output and comparisons
 -  http://enews.patricbrc.org/wp-content/uploads/2015/06/Genome-assembly-Workshop.pdf
 
-**10:30am          *Break***
+**10:30am**          *Break*
 
 **10:45am          Annotate a Genome in PATRIC Using RASTtk**
 
@@ -35,10 +34,9 @@ PATRIC Workshop Agenda – University of Florida
 -  Previewing an annotated genome
 -  http://enews.patricbrc.org/wp-content/uploads/2015/07/Genome_Annotation.pdf
 
-**12:00pm          *Lunch***
+**12:00pm**          **Lunch**
 
-**1:00pm            Comparative Genomics: Protein Families and
-Pathways**
+**1:00pm           Comparative Genomics: Protein Families and Pathways**
 
 -  Selecting sets of genomes for a study
 -  Comparing by region, genes, proteins
@@ -46,14 +44,11 @@ Pathways**
 -  Visualizing with heatmap viewer and downloads
 -  http://enews.patricbrc.org/wp-content/uploads/2015/07/Acinetobacter-use-case_Workshop.pdf
 
-**5:00pm            *Day 1: Adjourn***
-
-** **
+**5:00pm            Day 1: Adjourn**
 
 **Tuesday, June 16, 2015**
 
-**9:00am            Metabolic Modeling in PATRIC                        
-                  **
+**9:00am            Metabolic Modeling in PATRIC**
 
 -  http://enews.patricbrc.org/wp-content/uploads/2015/06/Metabolic-model-reconstruction.pdf
 
@@ -64,10 +59,9 @@ Pathways**
 -  Download and analysis of results
 -  http://enews.patricbrc.org/wp-content/uploads/2015/07/Proteome-Comparison-Workshop-Guide.pdf
 
-**10:30am** **         *Break***
+**10:30am         Break**
 
-**10:45am          RNA-Seq Pipeline, Downloading Data into PATRIC and
-differential expression**
+**10:45am          RNA-Seq Pipeline, Downloading Data into PATRIC and differential expression**
 
 -  Uploading RNA-seq data
 -  Selecting genomes and mapping
@@ -76,10 +70,9 @@ differential expression**
 -  Differential expression
 -  http://enews.patricbrc.org/wp-content/uploads/2015/06/Differential-Expression-Workshop.pdf
 
-**12:00pm          *Lunch***
+**12:00pm          Lunch**
 
-**1:00pm            Exploring Genes Identified by RNA-Seq and
-transcriptomic analysis**
+**1:00pm            Exploring Genes Identified by RNA-Seq and transcriptomic analysis**
 
 -  Exploring gene expression in datasets available in PATRIC
 -  http://enews.patricbrc.org/wp-content/uploads/2015/07/Gene-Expression-Workshop_v3.pdf
@@ -88,4 +81,4 @@ transcriptomic analysis**
 -  Looking for data on antibiotic resistance genes
 -  http://enews.patricbrc.org/wp-content/uploads/2015/06/Pseudomonas-AR-genes-Workshop.pdf
 
-**5:00pm            *Day 2: Adjourn***
+**5:00pm            Day 2: Adjourn**
