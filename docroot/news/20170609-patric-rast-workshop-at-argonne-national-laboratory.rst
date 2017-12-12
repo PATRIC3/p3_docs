@@ -51,13 +51,12 @@ Building 240, Room 1404/1405
 
 Argonne, IL 60439
 
-**DRAFT AGENDA  (`PDF
-version <http://enews.patricbrc.org/wp-content/uploads/2017/06/PATRIC-ANL-Workshop-August-2017.pdf>`__)**
+**DRAFT AGENDA** (:download:`PDF version <./files/201706/PATRIC-ANL-Workshop-August-2017.pdf>`)
 
 **Monday, August 14, 2017**
 
-**9:00 am           Register for PATRIC Account, Overview
-(`www.patricbrc.org** <http://www.patricbrc.org>`__)
+**9:00 am           Register for PATRIC Account, Overview**
+( `www.patricbrc.org <http://www.patricbrc.org>`__ )
 
 **10:00 am         Assemble a Genome in PATRIC and Data Upload**
 

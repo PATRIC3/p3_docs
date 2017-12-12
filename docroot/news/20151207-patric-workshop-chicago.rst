@@ -9,34 +9,34 @@ PATRIC Workshop – Chicago
 
 Tutorial workflows for the workshop:
 
-:download:`Chicago PATRIC Flyer – Dec. 2015 <./files/20151207/Chicago-PATRIC-Flyer-Dec.-2015-1.pdf>`
+:download:`Chicago PATRIC Flyer – Dec. 2015 <./files/201512/Chicago-PATRIC-Flyer-Dec.-2015-1.pdf>`
 
-:download:`Creating Genome Groups <./files/20151207/Creating-Genome-Groups.pdf>`
+:download:`Creating Genome Groups <./files/201512/Creating-Genome-Groups.pdf>`
 
-:download:`Exploring your annotated genome in PATRIC <./files/20151207/Exploring-your-annotated-genome-in-PATRIC.pdf>`
+:download:`Exploring your annotated genome in PATRIC <./files/201512/Exploring-your-annotated-genome-in-PATRIC.pdf>`
 
-:download:`Fastq download from ENA <./files/20151207/Fastq-download-from-ENA.pdf>`
+:download:`Fastq download from ENA <./files/201512/Fastq-download-from-ENA.pdf>`
 
-:download:`Genome Annotation in PATRIC <./files/20151207/Genome-Annotation-in-PATRIC.pdf>`
+:download:`Genome Annotation in PATRIC <./files/201512/Genome-Annotation-in-PATRIC.pdf>`
 
-:download:`Genome Group Assignment <./files/20151207/Genome-Group-Assignment.pdf>`
+:download:`Genome Group Assignment <./files/201512/Genome-Group-Assignment.pdf>`
 
 :download:`Protein Family Analysis- Protein Family
-Sorter <./files/20151207/Protein-Family-Analysis-Protein-Family-Sorter.pdf>`
+Sorter <./files/201512/Protein-Family-Analysis-Protein-Family-Sorter.pdf>`
 
 :download:`Protein Family Analysis- Proteome
-Comparison <./files/20151207/Protein-Family-Analysis-Proteome-Comparison.pdf>`
+Comparison <./files/201512/Protein-Family-Analysis-Proteome-Comparison.pdf>`
 
 :download:`Protein Family Analysis-Comparative Pathway
-Viewer <./files/20151207/Protein-Family-Analysis-Comparative-Pathway-Viewer.pdf>`
+Viewer <./files/201512/Protein-Family-Analysis-Comparative-Pathway-Viewer.pdf>`
 
 :download:`Submitting an assembly job to
-PATRIC <./files/20151207/Submitting-an-assembly-job-to-PATRIC.pdf>`
+PATRIC <./files/201512/Submitting-an-assembly-job-to-PATRIC.pdf>`
 
 :download:`Transcriptomics Analysis- Examining RNA-Seq data in
-PATRIC <./files/20151207/Transcriptomics-Analysis-Examining-RNA-Seq-data-in-PATRIC.pdf>`
+PATRIC <./files/201512/Transcriptomics-Analysis-Examining-RNA-Seq-data-in-PATRIC.pdf>`
 
 :download:`Transcriptomics Analysis- Submitting RNA-Seq data to
-PATRIC <./files/20151207/Transcriptomics-Analysis-Submitting-RNA-Seq-data-to-PATRIC.pdf>`
+PATRIC <./files/201512/Transcriptomics-Analysis-Submitting-RNA-Seq-data-to-PATRIC.pdf>`
 
-:download:`Using the Differential Expression Service <./files/20151207/Using-the-Differential-Expression-Service.pdf>`
+:download:`Using the Differential Expression Service <./files/201512/Using-the-Differential-Expression-Service.pdf>`

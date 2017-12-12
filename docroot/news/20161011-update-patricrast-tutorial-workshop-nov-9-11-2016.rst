@@ -19,8 +19,7 @@ construct a metabolic model for their genome, load and analyze RNA-Seq
 data, and identify and annotate sequence variation using PATRIC’s new
 variation analysis service.
 
-`Click here for the proposed Workshop
-Agenda <http://enews.patricbrc.org/wp-content/uploads/2016/11/PATRIC_Agenda_ANL_12-14-Dec-2016.pdf>`__.
+:download:`Click here for the proposed Workshop Agenda <./files/201611/PATRIC_Agenda_ANL_12-14-Dec-2016.pdf>`.
 
 The workshop will be limited to 20 people on a first-come, first-served
 basis. While there is no fee for the workshop, participants are
@@ -28,9 +27,9 @@ responsible for their own travel expenses. If you wish to participate,
 we encourage you to respond quickly to India Gordon at
 rast-workshop@mcs.anl.gov.
 
-NOTE: All workshop attendees must also separately fill out the “Argonne
-Visitor Request” form at
+NOTE: All workshop attendees must also separately fill out the "Argonne
+Visitor Request" form at
 https://webapps.anl.gov/registration/visitors/\ as soon as possible —
 but especially non-U.S. Citizens, since they will take additional time
-to be cleared. Please enter <*igordon@anl.gov*> as your “Sponsor’s
-e-mail address.”
+to be cleared. Please enter <*igordon@anl.gov*> as your "Sponsor’s
+e-mail address."
