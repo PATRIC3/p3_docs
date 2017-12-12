@@ -43,7 +43,7 @@ build a transcriptional network model. Moreover, TFOE-derived regulatory
 influences were compared to 12 existing regulons as a validation.
 
 (_Source: Turkarslan et al., Scientific Data \ **2**, Article number:
-150010 (2015)  __​doi:10.1038/sdata.2015.10_)
+150010 (2015)  \_\_​doi:10.1038/sdata.2015.10\_)
 
 .. raw:: html
 

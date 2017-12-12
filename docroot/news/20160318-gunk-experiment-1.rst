@@ -50,7 +50,7 @@ Library:  Comprehensive arrayed library of individual, sequence-defined
 transposon insertion mutants. This library serves as a curated source of
 individually-retrievable mutant strains.
 
-Transposon used:  T26 (Tn_5_-based, encoding tetracycline resistance,
+Transposon used:  T26 (Tn_5\_-based, encoding tetracycline resistance,
 bearing LoxP sites flanking the resistance marker to facilitate marker
 recycling).
 
@@ -84,7 +84,7 @@ Uploaded/Deposited by: Larry Gallagher, University of Washington
 
 To provide an efficient procedure for screening pools of mutants for
 genotype-phenotype associations, we extended transposon insertion pool
-screening (Tn-seq) to AB5075. We used transposon Tn_5_-based methodology
+screening (Tn-seq) to AB5075. We used transposon Tn_5\_-based methodology
 to provide high genome coverage. We compared two different Tn-seq
 procedures, the circle method we developed and an adaptation to Tn_5\_
 of a method that utilizes terminal deoxynucleotidyl transferase (TdT).
@@ -100,7 +100,7 @@ insertion mutants as described in paper.
 
 Library: Pool of approximately 450,000 mutants.
 
-Transposon used: T26 (Tn_5_-based, encoding tetracycline resistance,
+Transposon used: T26 (Tn_5\_-based, encoding tetracycline resistance,
 bearing LoxP sites flanking the resistance marker to facilitate marker
 recycling).
 
