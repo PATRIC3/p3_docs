@@ -9,41 +9,34 @@ PATRIC Workshop – Chicago
 
 Tutorial workflows for the workshop:
 
-`Chicago PATRIC Flyer – Dec. 2015
-(1) <http://enews.patricbrc.org/wp-content/uploads/2015/12/Chicago-PATRIC-Flyer-Dec.-2015-1.pdf>`__
+:download:`Chicago PATRIC Flyer – Dec. 2015 <./files/Chicago-PATRIC-Flyer-Dec.-2015-1.pdf>`
 
-`Creating Genome
-Groups <http://enews.patricbrc.org/wp-content/uploads/2015/12/Creating-Genome-Groups.pdf>`__
+:download:`Creating Genome Groups <./files/Creating-Genome-Groups.pdf>`
 
-`Exploring your annotated genome in
-PATRIC <http://enews.patricbrc.org/wp-content/uploads/2015/12/Exploring-your-annotated-genome-in-PATRIC.pdf>`__
+:download:`Exploring your annotated genome in PATRIC <./files/Exploring-your-annotated-genome-in-PATRIC.pdf>`
 
-`Fastq download from
-ENA <http://enews.patricbrc.org/wp-content/uploads/2015/12/Fastq-download-from-ENA.pdf>`__
+:download:`Fastq download from ENA <./files/Fastq-download-from-ENA.pdf>`
 
-`Genome Annotation in
-PATRIC <http://enews.patricbrc.org/wp-content/uploads/2015/12/Genome-Annotation-in-PATRIC.pdf>`__
+:download:`Genome Annotation in PATRIC <./files/Genome-Annotation-in-PATRIC.pdf>`
 
-`Genome Group
-Assignment <http://enews.patricbrc.org/wp-content/uploads/2015/12/Genome-Group-Assignment.pdf>`__
+:download:`Genome Group Assignment <./files/Genome-Group-Assignment.pdf>`
 
-`Protein Family Analysis- Protein Family
-Sorter <http://enews.patricbrc.org/wp-content/uploads/2015/12/Protein-Family-Analysis-Protein-Family-Sorter.pdf>`__
+:download:`Protein Family Analysis- Protein Family
+Sorter <./files/Protein-Family-Analysis-Protein-Family-Sorter.pdf>`
 
-`Protein Family Analysis- Proteome
-Comparison <http://enews.patricbrc.org/wp-content/uploads/2015/12/Protein-Family-Analysis-Proteome-Comparison.pdf>`__
+:download:`Protein Family Analysis- Proteome
+Comparison <./files/Protein-Family-Analysis-Proteome-Comparison.pdf>`
 
-`Protein Family Analysis-Comparative Pathway
-Viewer <http://enews.patricbrc.org/wp-content/uploads/2015/12/Protein-Family-Analysis-Comparative-Pathway-Viewer.pdf>`__
+:download:`Protein Family Analysis-Comparative Pathway
+Viewer <./files/Protein-Family-Analysis-Comparative-Pathway-Viewer.pdf>`
 
-`Submitting an assembly job to
-PATRIC <http://enews.patricbrc.org/wp-content/uploads/2015/12/Submitting-an-assembly-job-to-PATRIC.pdf>`__
+:download:`Submitting an assembly job to
+PATRIC <./files/Submitting-an-assembly-job-to-PATRIC.pdf>`
 
-`Transcriptomics Analysis- Examining RNA-Seq data in
-PATRIC <http://enews.patricbrc.org/wp-content/uploads/2015/12/Transcriptomics-Analysis-Examining-RNA-Seq-data-in-PATRIC.pdf>`__
+:download:`Transcriptomics Analysis- Examining RNA-Seq data in
+PATRIC <./files/Transcriptomics-Analysis-Examining-RNA-Seq-data-in-PATRIC.pdf>`
 
-`Transcriptomics Analysis- Submitting RNA-Seq data to
-PATRIC <http://enews.patricbrc.org/wp-content/uploads/2015/12/Transcriptomics-Analysis-Submitting-RNA-Seq-data-to-PATRIC.pdf>`__
+:download:`Transcriptomics Analysis- Submitting RNA-Seq data to
+PATRIC <./files/Transcriptomics-Analysis-Submitting-RNA-Seq-data-to-PATRIC.pdf>`
 
-`Using the Differential Expression
-Service <http://enews.patricbrc.org/wp-content/uploads/2015/12/Using-the-Differential-Expression-Service.pdf>`__
+:download:`Using the Differential Expression Service <./files/Using-the-Differential-Expression-Service.pdf>`
