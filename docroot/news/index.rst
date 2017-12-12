@@ -103,7 +103,7 @@ News
    20110627-driscoll-mao-and-gabbard-publish-work-on-patrics-host-pathogen-data-and-visualizations
    20110613-unique-and-divergent-proteins-in-e-coli-outbreak-strains
    20110608-e-coli-outbreak-new-comprehensive-comparisons
-   20110502-drs-sobral-and-wattam-author-a-chapter-in-%e2%80%9cbrucella-molecular-microbiology-and-genetics%e2%80%9d
+   20110502-drs-sobral-and-wattam-author-a-chapter-in-brucella
    20110422-patric-april-2011-release-offers-an-abundance-of-new-and-enhanced-website-features-tools-and-data
    20110330-patric-team-publishes-text-mining-type-iv-secretion-systems
    20110218-feb-18-data-release
