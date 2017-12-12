@@ -49,7 +49,7 @@ The consistency tool was produced by applying a machine learning algorithm to a 
 thousand genomes whose annotations are known to be of high quality. For each role that had consistent
 associations with other roles, a classifier was produced that could predict, based on the presence or
 absence of the other roles, how many times the role should appear in the genome. The consistency numbers
-indicate the percent of roles whose number of occurrences match the classifier predictions.
+indicate the percent of roles whose occurrence counts match the classifier predictions.
 
 Each bin occupies a single row in its respective table. The first and last columns are hyperlinked. The
 link in the first column (red arrow) allows you to view the bin as a genome in PATRIC. The link in the
