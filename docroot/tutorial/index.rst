@@ -63,4 +63,5 @@ Others
    amr/amr.md
    binning_overview
    metagenomic_binning/metagenomic_binning
+   metagenomic_binning/metagenomic_output
    dev_at_argonne
