@@ -15,7 +15,7 @@ Sriranganathan, A. R. Wattam, J. C. Setubal and S. M. Boyle (2013).
 culture and in infected murine macrophages**.”  Int J Antimicrob Ag
 (2013).  Article in Press doi: 10.1016/j.ijantimicag.2012.11.017
 
-**Abstract **
+**Abstract**
 
 Peptide nucleic acids (PNAs) are single-stranded, synthetic nucleic acid
 analogues containing a pseudopeptide backbone in place of the
