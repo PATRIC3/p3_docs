@@ -50,7 +50,7 @@ PATRIC November 2011 Release Highlights New Global Search and Enhanced Personal 
    Tools, allowing users to create reusable sets of genomes in which to,
    for example, explore pathways, browse protein families, and more.
 
-**Genomes and Annotations                 **
+**Genomes and Annotations**
 
 Since August 2011, 284 new genomes have been added to PATRIC.  In
 addition, 16 genomes have been updated or replaced with their newest
