@@ -370,16 +370,16 @@ data, Structure and Protein-Protein Interaction (for example, see
 PATRIC now offers downloadable data files in several different formats,
 including FASTA, tab delimited, and GenBank file formats. Download files
 are organized by genomes. Each genome directory includes FASTA sequence
-files for genomic sequences (*.fna), protein coding genes (*.ffn), RNA
-coding genes (*.frn), and proteins (*.faa). Each directory also includes
-annotations in GenBank file format (*.gbf). Genome directories include
+files for genomic sequences (\*.fna), protein coding genes (\*.ffn), RNA
+coding genes (\*.frn), and proteins (\*.faa). Each directory also includes
+annotations in GenBank file format (\*.gbf). Genome directories include
 tab delimited files for all genomic features (*.features.tab), protein
-coding genes (*.cds.tab), RNAs (*.rna.tab), GO assignments (*.go), EC
-assignments (*.ec), and pathway assignments (*.path). Data from three
+coding genes (\*.cds.tab), RNAs (\*.rna.tab), GO assignments (\*.go), EC
+assignments (\*.ec), and pathway assignments (\*.path). Data from three
 different annotation sources, PATRIC, RefSeq, and Legacy BRCs, are
 provided in separate files (*.PATRIC.*, \*.RefSeq.*, \*.BRC.*). Each
 genome directory also includes a tab delimited file containing mappings
-between PATRIC and RefSeq identifiers (*.PATRIC2RefSeq). Files are
+between PATRIC and RefSeq identifiers (\*.PATRIC2RefSeq). Files are
 available under
 `genomes <http://brcdownloads.vbi.vt.edu/patric2/genomes/>`__ directory
 under Downloads. A “Download genome data” link is provided on the top
