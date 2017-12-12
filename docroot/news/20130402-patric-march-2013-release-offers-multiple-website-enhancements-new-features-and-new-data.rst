@@ -12,7 +12,7 @@ PATRIC March 2013 Release Offers Multiple Website Enhancements, New Features, an
 
 ***Auto-spelling Suggestions/Corrections in the Global Search***
 
-** **\ By leveraging Spell Checking functionality provided by Apache
+By leveraging Spell Checking functionality provided by Apache
 Solr, the Global Search on the PATRIC website now supports auto-spelling
 corrections.  The search automatically detects minor spelling mistakes
 by comparing user supplied keywords against the database dictionary and
@@ -295,10 +295,10 @@ Number of Plasmid only genomes
 
    </div>
 
-\******New Transcriptomics Datasets*\*
+*New Transcriptomics Datasets*
 ======================================
 
-** **\ In the March 2013 data release, 86 new GEO experiments have been
+In the March 2013 data release, 86 new GEO experiments have been
 curated and incorporated into PATRIC.  Below is the summary of the new
 experiments and curated comparisons added to PATRIC between November
 2012 and March 2013.
