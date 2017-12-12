@@ -12,8 +12,8 @@ Gabbard, J.J. Gillespie, R. Gough, D. Hix, R. Kenyon, D. Machi, C. Mao,
 E.K. Nordberg, R. Olson, R. Overbeek, G.D. Pusch, M. Shukla, J.
 Schulman, R.L. Stevens, D.E. Sullivan, V. Vonstein, A. Warren, R. Will,
 M.J.C. Wilson, H. Seung Yoo, C. Zhang, Y. Zhang, B.W. Sobral (2014).
-“\ **PATRIC, the bacterial bioinformatics database and analysis
-resource.” **\ Nucl Acids Res 42 (D1): D581-D591. 
+“PATRIC, the bacterial bioinformatics database and analysis
+resource." Nucl Acids Res 42 (D1): D581-D591. 
 doi:10.1093/nar/gkt1099.  PMID: 24225323.
 
 **Abstract**
