@@ -7,7 +7,7 @@ PATRIC March 2017 Release Features over 3600 New Genomes, and New Functionality 
 .. feed-entry::
    :date: 2017-03-25
 
-**PATRIC March 2017 Data and Website Release: **
+**PATRIC March 2017 Data and Website Release:**
 
 
 

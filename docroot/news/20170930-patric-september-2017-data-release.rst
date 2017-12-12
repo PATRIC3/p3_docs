@@ -53,8 +53,7 @@ Website Updates:
 The website updates include minor enhancements and bug fixes identified from recent PATRIC workshops as well as direct
 user feedback, including the following:
 
-* Streaming of results from the Variation, RNA-seq, and Tn-seq services (i.e. BAM and VCF files) to the Genome Browser
-directly from the jobs result page.
+* Streaming of results from the Variation, RNA-seq, and Tn-seq services (i.e. BAM and VCF files) to the Genome Browser directly from the jobs result page.
 * Ability to provide SRA Run Accession as input to the Assembly Service, without uploading the read files.
 * Improved performance and load times for the Protein Family Sorter and other pages.
 * Enhancements to the workspace data management, including efficient copying and moving job results.

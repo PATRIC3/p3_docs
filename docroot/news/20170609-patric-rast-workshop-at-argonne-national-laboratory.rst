@@ -57,10 +57,9 @@ version <http://enews.patricbrc.org/wp-content/uploads/2017/06/PATRIC-ANL-Worksh
 **Monday, August 14, 2017**
 
 **9:00 am           Register for PATRIC Account, Overview
-(**\ `**www.patricbrc.org** <http://www.patricbrc.org>`__\ **)
-        ** *** ***
+(`www.patricbrc.org** <http://www.patricbrc.org>`__)
 
-**10:00 am         Assemble a Genome in PATRIC and Data Upload    **
+**10:00 am         Assemble a Genome in PATRIC and Data Upload**
 
 -  Uploading reads and read libraries
 -  Selecting assembly methods for comparison
@@ -69,8 +68,7 @@ version <http://enews.patricbrc.org/wp-content/uploads/2017/06/PATRIC-ANL-Worksh
 
 **11:00 am         *Break***
 
-**11:15 am         Annotate a Genome in PATRIC Using
-RASTtk                                  **
+**11:15 am         Annotate a Genome in PATRIC Using RASTtk**
 
 -  Uploading or selecting contigs in workspace
 -  Selecting genome metadata and annotation options
@@ -87,8 +85,7 @@ RASTtk                                  **
 
 **2:00 pm           Break**
 
-**2:15 pm           Comparative Genomics: Protein Families and
-Pathways**
+**2:15 pm           Comparative Genomics: Protein Families and Pathways**
 
 -  Creating a genome group
 -  Comparing by region, genes, proteins
@@ -97,7 +94,7 @@ Pathways**
 -  Finding specific differences, downloading and saving results into
    private workspace
 
-**3:45 pm          ** **Running PATRIC’s Tree Building Service**
+**3:45 pm          Running PATRIC’s Tree Building Service**
 
 -  Creating ingroup genomes
 -  Creating outgroup genomes
@@ -105,7 +102,7 @@ Pathways**
 -  Downloading Newick file
 -  Viewing the tree
 
-**4:30 pm           Question and Answer Session and Hands-on Work **
+**4:30 pm           Question and Answer Session and Hands-on Work**
 
 **5:00 pm           Day 1 Adjourn**
 
@@ -126,8 +123,7 @@ Pathways**
 
 **10:00 am         Break**
 
-**10:15 am         RNA-Seq Pipeline, Downloading Data into PATRIC and
-Differential Expression**
+**10:15 am         RNA-Seq Pipeline, Downloading Data into PATRIC and Differential Expression**
 
 -  Uploading RNA-seq data
 -  Selecting genomes and mapping
@@ -142,8 +138,7 @@ Differential Expression**
 
 **12:00 pm         Lunch**
 
-**1:00 pm           Comparative Transcriptomics: Exploring public
-expression data and private data in PATRIC**
+**1:00 pm           Comparative Transcriptomics: Exploring public expression data and private data in PATRIC**
 
 -  Locating expression import job
 -  Exploring public gene expression in datasets available in PATRIC
@@ -173,12 +168,11 @@ expression data and private data in PATRIC**
 
 **4:30 pm           Question and Answer Session and Hands-on Work**
 
-**5:00 pm           Day 2 Adjourn **
+**5:00 pm           Day 2 Adjourn**
 
 **Wednesday, August 16, 2017**
 
-**9:00 am           Introduction to PATRIC Command Line Interface
-(CLI)**
+**9:00 am           Introduction to PATRIC Command Line Interface (CLI)**
 
 **11:00 am         Break**
 
