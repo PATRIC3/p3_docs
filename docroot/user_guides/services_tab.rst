@@ -10,6 +10,7 @@ Genomics
    services/genome_assembly_service.md
    services/genome_annotation_service.md
    services/blast.md
+   services/similar_genome_finder_service.md
    services/variation_analysis_service.md
    services/tn_seq_analysis_service.md
    services/phylogenetic_tree_building_service.md
@@ -40,6 +41,7 @@ Metabolomics
 .. toctree::
    :maxdepth: 1
 
+   services/comparative_pathway_service.md
    services/model_reconstruction_service.md
 
 
