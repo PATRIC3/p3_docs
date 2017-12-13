@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20100405-patric-website-offers-new-annotation-types-genome-browser-protein-family-sorter-and-more.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2010/20100405-patric-website-offers-new-annotation-types-genome-browser-protein-family-sorter-and-more.rst
 
 ==========================================================================================
 PATRIC Website Offers New Annotation Types, Genome Browser, Protein Family Sorter and More

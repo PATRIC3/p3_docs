@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20091209-patric-launches-initial-website-for-all-baterial-bioinformatics-resource-center.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2010/20091209-patric-launches-initial-website-for-all-baterial-bioinformatics-resource-center.rst
 
 ===============================================================================
 PATRIC Launches Initial Website for All-Baterial Bioinformatics Resource Center
