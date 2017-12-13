@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20121024-seed-servers-high-performance-access-to-the-seed-genomes-annotations-and-metabolic-models.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2012/20121024-seed-servers-high-performance-access-to-the-seed-genomes-annotations-and-metabolic-models.rst
 
 ============================================================================================
 SEED Servers: High-Performance Access to the SEED Genomes, Annotations, and Metabolic Models

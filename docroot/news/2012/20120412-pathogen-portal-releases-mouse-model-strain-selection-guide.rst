@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20120412-pathogen-portal-releases-mouse-model-strain-selection-guide.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2012/20120412-pathogen-portal-releases-mouse-model-strain-selection-guide.rst
 
 ===========================================================
 Pathogen Portal releases Mouse Model Strain Selection Guide
