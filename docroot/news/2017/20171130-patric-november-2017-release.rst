@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20171130-patric-november-2017-release.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2017/20171130-patric-november-2017-release.rst
 
 PATRIC November 2017 Data and Website Release
 ==============================================

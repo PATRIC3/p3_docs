@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20171122-patric-webinar.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2017/20171122-patric-webinar.rst
 
 PATRIC Webinar – Phylogenetic Tree Builder, November 30, 2017, 3:00pm EST
 ==========================================================================
