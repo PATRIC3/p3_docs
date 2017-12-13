@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20110502-drs-sobral-and-wattam-author-a-chapter-in-%e2%80%9cbrucella-molecular-microbiology-and-genetics%e2%80%9d.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2011/20110502-drs-sobral-and-wattam-author-a-chapter-in-%e2%80%9cbrucella-molecular-microbiology-and-genetics%e2%80%9d.rst
 
 ===========================================================================================
 Drs. Sobral and Wattam Author a Chapter in “Brucella: Molecular Microbiology and Genetics”.

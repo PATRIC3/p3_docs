@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20110613-unique-and-divergent-proteins-in-e-coli-outbreak-strains.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2011/20110613-unique-and-divergent-proteins-in-e-coli-outbreak-strains.rst
 
 =========================================================
 Unique and Divergent Proteins in E. coli Outbreak Strains

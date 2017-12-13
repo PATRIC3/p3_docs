@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20110330-patric-team-publishes-text-mining-type-iv-secretion-systems.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2011/20110330-patric-team-publishes-text-mining-type-iv-secretion-systems.rst
 
 =========================================================================
 PATRIC Team Publishes Paper on Text Mining for Type IV Secretion Systems.

@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20110907-patric-the-comprehensive-bacterial-bioinformatics-resource-with-a-focus-on-human-pathogenic-species.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2011/20110907-patric-the-comprehensive-bacterial-bioinformatics-resource-with-a-focus-on-human-pathogenic-species.rst
 
 ====================================================================================================
 PATRIC: The Comprehensive Bacterial Bioinformatics Resource with a Focus on Human Pathogenic Species
