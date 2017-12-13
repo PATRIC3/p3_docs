@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20140523-patric-may-2014-release-new-easily-accessible-and-manually-curated-specialty-genes-data.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2014/20140523-patric-may-2014-release-new-easily-accessible-and-manually-curated-specialty-genes-data.rst
 
 
 ========================================================================================

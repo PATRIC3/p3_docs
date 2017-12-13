@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20140402-patric-april-2014-release-new-data-summary-and-special-collections-pages.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2014/20140402-patric-april-2014-release-new-data-summary-and-special-collections-pages.rst
 
 
 =========================================================================

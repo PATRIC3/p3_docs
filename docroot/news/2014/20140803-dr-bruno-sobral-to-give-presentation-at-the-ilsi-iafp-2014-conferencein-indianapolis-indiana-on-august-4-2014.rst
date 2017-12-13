@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20140803-dr-bruno-sobral-to-give-presentation-at-the-ilsi-iafp-2014-conferencein-indianapolis-indiana-on-august-4-2014.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2014/20140803-dr-bruno-sobral-to-give-presentation-at-the-ilsi-iafp-2014-conferencein-indianapolis-indiana-on-august-4-2014.rst
 
 ================================================================================================================
 Dr. Bruno Sobral Gives Presentation at the ILSI IAFP 2014 Conference in Indianapolis, Indiana on August 4, 2014.
