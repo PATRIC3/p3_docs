@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20160121-flute-experiment-2.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2016/20160121-flute-experiment-2.rst
 
 ==================
 FLUTE Experiment 2

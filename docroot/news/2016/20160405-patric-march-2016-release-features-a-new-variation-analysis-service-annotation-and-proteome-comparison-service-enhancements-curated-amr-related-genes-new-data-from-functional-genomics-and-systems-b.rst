@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20160405-patric-march-2016-release-features-a-new-variation-analysis-service-annotation-and-proteome-comparison-service-enhancements-curated-amr-related-genes-new-data-from-functional-genomics-and-systems-b.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2016/20160405-patric-march-2016-release-features-a-new-variation-analysis-service-annotation-and-proteome-comparison-service-enhancements-curated-amr-related-genes-new-data-from-functional-genomics-and-systems-b.rst
 
 ============================================================================================================================================
 PATRIC March 2016 Release Features a New Variation Analysis Service, Service Enhancements, New AMR and other Data, and over 9000 New Genomes

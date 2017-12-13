@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20160202-patric-january-2016-release-features-3000-new-genomes.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2016/20160202-patric-january-2016-release-features-3000-new-genomes.rst
 
 ==========================================================
 PATRIC January 2016 Release Features Over 2400 New Genomes
