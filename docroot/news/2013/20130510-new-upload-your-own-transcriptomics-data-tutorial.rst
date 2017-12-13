@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20130510-new-upload-your-own-transcriptomics-data-tutorial.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2013/20130510-new-upload-your-own-transcriptomics-data-tutorial.rst
 
 ===================================================
 New “Upload Your Own Transcriptomics Data” Tutorial

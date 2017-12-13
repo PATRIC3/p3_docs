@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20131010-new-protein-family-sorter-and-heatmap-video-tutorial.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2013/20131010-new-protein-family-sorter-and-heatmap-video-tutorial.rst
 
 ====================================================
 New Protein Family Sorter and Heatmap Video Tutorial

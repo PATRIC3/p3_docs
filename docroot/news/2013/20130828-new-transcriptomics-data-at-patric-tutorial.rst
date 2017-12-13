@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20130828-new-transcriptomics-data-at-patric-tutorial.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2013/20130828-new-transcriptomics-data-at-patric-tutorial.rst
 
 =============================================
 New “Transcriptomics Data at PATRIC” Tutorial
