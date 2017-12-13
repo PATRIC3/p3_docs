@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20150327-patric-march-2015-release-features-genome-assembly-and-annotation-services-and-over-6000-new-genomes.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2015/20150327-patric-march-2015-release-features-genome-assembly-and-annotation-services-and-over-6000-new-genomes.rst
 
 =====================================================================================================
 PATRIC March 2015 Release Features Genome Assembly and Annotation Services and over 6,000 New Genomes

@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20150710-patric-workshop-agenda-university-of-florida.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2015/20150710-patric-workshop-agenda-university-of-florida.rst
 
 ==============================================
 PATRIC Workshop Agenda – University of Florida

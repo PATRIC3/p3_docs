@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20150331-4433.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2015/20150331-4433.rst
 
 ===============================================
 PATRIC/RAST Tutorial Workshop, June 15-17, 2015
