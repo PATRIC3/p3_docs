@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20100806-dr-bruno-sobral-and-collaborators-publish-paper-on-infectious-disease-text-mining.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2010/20100806-dr-bruno-sobral-and-collaborators-publish-paper-on-infectious-disease-text-mining.rst
 
 ==================================================================================
 Dr. Bruno Sobral and Collaborators Publish Paper on Infectious Disease Text Mining

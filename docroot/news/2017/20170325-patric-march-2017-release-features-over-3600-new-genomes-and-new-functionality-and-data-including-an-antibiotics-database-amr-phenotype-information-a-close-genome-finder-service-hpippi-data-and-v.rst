@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20170325-patric-march-2017-release-features-over-3600-new-genomes-and-new-functionality-and-data-including-an-antibiotics-database-amr-phenotype-information-a-close-genome-finder-service-hpippi-data-and-v.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2017/20170325-patric-march-2017-release-features-over-3600-new-genomes-and-new-functionality-and-data-including-an-antibiotics-database-amr-phenotype-information-a-close-genome-finder-service-hpippi-data-and-v.rst
 
 ==============================================================================================================================================================================================================================================================================================
 PATRIC March 2017 Release Features over 3600 New Genomes, and New Functionality and Data Including an Antibiotics Database, AMR Phenotype Information, a Close Genome Finder Service, HPI/PPI Data and Visualization, a Compare Region Viewer, an ID-Mapping Tool, and Enhanced Global Search.

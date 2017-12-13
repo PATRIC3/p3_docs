@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20170131-patric-january-2017-release-features-5938-new-genomes-and-new-amr-phenotype-data.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2017/20170131-patric-january-2017-release-features-5938-new-genomes-and-new-amr-phenotype-data.rst
 
 ================================================================================
 PATRIC January 2017 Release features 5938 new genomes and new AMR phenotype data

@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20120201-website-improvements-new-genome-data-from-refseq-new-annotations-via-rast.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2012/20120201-website-improvements-new-genome-data-from-refseq-new-annotations-via-rast.rst
 
 ======================================================================================
 Website Improvements; New Genome Data from RefSeq & Genbank; New Annotations via RAST.

@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20160428-patricrast-tutorial-workshop-july-26-28-2016.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2016/20160428-patricrast-tutorial-workshop-july-26-28-2016.rst
 
 ===============================================
 PATRIC/RAST Tutorial Workshop, July 26-28, 2016

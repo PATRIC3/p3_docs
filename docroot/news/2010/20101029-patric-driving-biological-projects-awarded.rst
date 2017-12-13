@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20101029-patric-driving-biological-projects-awarded.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2010/20101029-patric-driving-biological-projects-awarded.rst
 
 
 ==========================================

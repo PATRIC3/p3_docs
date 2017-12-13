@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20091230-drs-azad-and-sobral-publish-on-typhus-group-specific-protease-in-rickettsiae.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2010/20091230-drs-azad-and-sobral-publish-on-typhus-group-specific-protease-in-rickettsiae.rst
 
 =============================================================================
 Drs. Azad and Sobral Publish on Typhus Group-specific Protease in Rickettsiae

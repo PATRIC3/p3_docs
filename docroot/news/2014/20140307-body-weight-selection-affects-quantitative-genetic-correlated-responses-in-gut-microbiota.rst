@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20140307-body-weight-selection-affects-quantitative-genetic-correlated-responses-in-gut-microbiota.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2014/20140307-body-weight-selection-affects-quantitative-genetic-correlated-responses-in-gut-microbiota.rst
 
 =========================================================================================
 Body Weight Selection Affects Quantitative Genetic Correlated Responses in Gut Microbiota

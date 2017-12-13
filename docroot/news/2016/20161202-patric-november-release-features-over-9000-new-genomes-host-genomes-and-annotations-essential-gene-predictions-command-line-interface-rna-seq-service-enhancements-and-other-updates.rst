@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20161202-patric-november-release-features-over-9000-new-genomes-host-genomes-and-annotations-essential-gene-predictions-command-line-interface-rna-seq-service-enhancements-and-other-updates.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2016/20161202-patric-november-release-features-over-9000-new-genomes-host-genomes-and-annotations-essential-gene-predictions-command-line-interface-rna-seq-service-enhancements-and-other-updates.rst
 
 =========================================================================================================================================================================================
 PATRIC November Release features over 9000 New Genomes, Host Genomes and Annotations, Essential Gene Predictions, Command Line Interface, RNA-Seq Service Enhancements and Other Updates.

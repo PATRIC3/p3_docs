@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20100503-dan-sullivan-publishes-paper-on-patric-data-integration.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2010/20100503-dan-sullivan-publishes-paper-on-patric-data-integration.rst
 
 ===========================================================
 Mr. Dan Sullivan Publishes Paper on PATRIC Data Integration

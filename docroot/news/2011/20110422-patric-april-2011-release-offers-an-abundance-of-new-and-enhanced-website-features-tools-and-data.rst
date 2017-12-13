@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20110422-patric-april-2011-release-offers-an-abundance-of-new-and-enhanced-website-features-tools-and-data.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2011/20110422-patric-april-2011-release-offers-an-abundance-of-new-and-enhanced-website-features-tools-and-data.rst
 
 ===================================================================================================
 PATRIC April 2011 Release Offers an Abundance of New and Enhanced Website Features, Tools, and Data

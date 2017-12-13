@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20110708-e-coli-outbreak-updated-analysis-of-unique-and-divergent-proteins.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2011/20110708-e-coli-outbreak-updated-analysis-of-unique-and-divergent-proteins.rst
 
 ===================================================================
 E. coli Outbreak: Updated Analysis of Unique and Divergent Proteins

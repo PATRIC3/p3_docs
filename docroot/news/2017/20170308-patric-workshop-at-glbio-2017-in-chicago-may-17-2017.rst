@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20170308-patric-workshop-at-glbio-2017-in-chicago-may-17-2017.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2017/20170308-patric-workshop-at-glbio-2017-in-chicago-may-17-2017.rst
 
 ======================================================
 PATRIC Workshop at GLBIO 2017 in Chicago, May 17, 2017

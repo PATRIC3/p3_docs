@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20141031-patric-october-2014-release-features-new-special-data-sets-and-updated-project-information.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2014/20141031-patric-october-2014-release-features-new-special-data-sets-and-updated-project-information.rst
 
 ==========================================================================================
 PATRIC October 2014 Release Features New Special Data Sets and Updated Project Information

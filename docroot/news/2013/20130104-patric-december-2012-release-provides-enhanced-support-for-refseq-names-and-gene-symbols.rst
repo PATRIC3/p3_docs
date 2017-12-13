@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20130104-patric-december-2012-release-provides-enhanced-support-for-refseq-names-and-gene-symbols.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2013/20130104-patric-december-2012-release-provides-enhanced-support-for-refseq-names-and-gene-symbols.rst
 
 ========================================================================================
 PATRIC December 2012 Release Provides Enhanced Support for RefSeq Names and Gene Symbols

@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20120912-patric-september-2012-data-release-includes-750-new-genomes-and-updated-figfam-annotations.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2012/20120912-patric-september-2012-data-release-includes-750-new-genomes-and-updated-figfam-annotations.rst
 
 ==========================================================================================
 PATRIC September 2012 Data Release Includes 750 New Genomes and Updated Figfam Annotations

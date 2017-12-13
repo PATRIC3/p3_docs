@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20100330-dr-joe-gillsepie-and-colleagues-publish-paper-on-anaplasma-marginale-type-iv-secretion-system-proteins-virb2-virb7-virb11-and-vird4.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2010/20100330-dr-joe-gillsepie-and-colleagues-publish-paper-on-anaplasma-marginale-type-iv-secretion-system-proteins-virb2-virb7-virb11-and-vird4.rst
 
 ===========================================================================================================================
 PATRIC Collaborators Publish Paper on Anaplasma Marginale Type IV Secretion System Proteins VirB2, VirB7, VirB11, and VirD4

@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20100510-dr-joe-gillespie-reveals-diverse-rickettsiales-type-iv-secretion-system.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2010/20100510-dr-joe-gillespie-reveals-diverse-rickettsiales-type-iv-secretion-system.rst
 
 ===============================================================================
 Drs. Gillespie and Sobral Reveal Diverse Rickettsiales Type IV Secretion System

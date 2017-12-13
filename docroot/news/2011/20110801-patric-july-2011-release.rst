@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20110801-patric-july-2011-release.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2011/20110801-patric-july-2011-release.rst
 
 ================================================================
 PATRIC July 2011 Release Features Integration of Genome Metadata

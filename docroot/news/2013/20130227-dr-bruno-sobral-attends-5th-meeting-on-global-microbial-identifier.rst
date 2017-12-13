@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20130227-dr-bruno-sobral-attends-5th-meeting-on-global-microbial-identifier.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2013/20130227-dr-bruno-sobral-attends-5th-meeting-on-global-microbial-identifier.rst
 
 ===================================================================
 Dr. Bruno Sobral Attends 5th Meeting on Global Microbial Identifier

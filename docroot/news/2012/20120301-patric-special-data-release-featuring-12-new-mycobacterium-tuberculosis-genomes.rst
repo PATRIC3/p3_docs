@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20120301-patric-special-data-release-featuring-12-new-mycobacterium-tuberculosis-genomes.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2012/20120301-patric-special-data-release-featuring-12-new-mycobacterium-tuberculosis-genomes.rst
 
 ===============================================================================
 PATRIC Special Data Release Featuring 12 New Mycobacterium tuberculosis Genomes

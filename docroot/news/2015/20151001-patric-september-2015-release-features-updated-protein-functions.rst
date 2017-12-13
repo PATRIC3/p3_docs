@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20151001-patric-september-2015-release-features-updated-protein-functions.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2015/20151001-patric-september-2015-release-features-updated-protein-functions.rst
 
 
 ==============================================

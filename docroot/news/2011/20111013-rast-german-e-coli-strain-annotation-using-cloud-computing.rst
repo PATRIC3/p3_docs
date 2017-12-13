@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20111013-rast-german-e-coli-strain-annotation-using-cloud-computing.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2011/20111013-rast-german-e-coli-strain-annotation-using-cloud-computing.rst
 
 ============================================================
 RAST German E. coli Strain Annotation Using Cloud Computing.

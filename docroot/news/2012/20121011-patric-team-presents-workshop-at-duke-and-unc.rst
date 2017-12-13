@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/20121011-patric-team-presents-workshop-at-duke-and-unc.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2012/20121011-patric-team-presents-workshop-at-duke-and-unc.rst
 
 =============================================
 PATRIC Team Presents Workshop at Duke and UNC
