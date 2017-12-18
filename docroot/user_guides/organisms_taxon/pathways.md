@@ -20,11 +20,11 @@ Results will be shown in a Pathway table, shown below.
 
 All pathways at PATRIC come from the Kyoto Encyclopedia of Genes and Genomes, commonly known as [KEGG](http://www.genome.jp/kegg/). The data in this table provides summary information regarding the pathways:
 
-* **Pathway ID:** 
+* **Pathway ID:** 5-digit identifier defined by KEGG
 
-* **Pathway Name:** 
+* **Pathway Name:** Name of the pathway provided by KEGG
 
-* **Pathway Class:** 
+* **Pathway Class:** Higher level grouping of pathways provided by KEGG
 
 * **Unique Genome Count:** Total number of genomes that have some genes present in this pathway from the set of genomes chosen.
 
