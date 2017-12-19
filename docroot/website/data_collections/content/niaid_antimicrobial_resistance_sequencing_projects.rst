@@ -2,13 +2,13 @@
 NIAID Antimicrobial Resistance Sequencing Projects
 ===================================================
 
-.. image:: http://enews.patricbrc.org/wp-content/uploads/2014/03/J-craig-venter.jpeg
+.. image:: images/J-craig-venter.jpeg
     :alt: J. Craig Venter Institute
 
-.. image:: http://enews.patricbrc.org/wp-content/uploads/2014/03/Broad-logo-300x75.jpeg
+.. image:: images/Broad-logo-300x75.jpeg
     :alt: Broad Institute
 
-.. image:: http://enews.patricbrc.org/wp-content/uploads/2014/03/UMSM.jpeg
+.. image:: images/UMSM.jpeg
     :alt: University of Maryland School of Medicine
 
 The following sequencing projects completed by the GCIDs have a focus on understanding antimicrobial resistance (AMR). The metadata provided by the GCID collaborators has been included at PATRIC to facilitate research on AMR and initial analysis capabilities are available.  Where AMR “panel data” was provided by the collaborators, a spreadsheet is available to download_ from PATRIC containing the combined information.   This is just an initial step at including genome-based AMR capabilities at PATRIC.   Additional genome sets and analysis capabilities will be added in the coming months.

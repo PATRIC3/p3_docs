@@ -46,5 +46,5 @@ phylogenetic trees) for individual families.
    </table>
 
 To learn more about how to use PATRIC, visit `PATRIC’s Tutorial
-Page <http://patricbrc.org/portal/portal/patric/Tutorials>`__ and see
-`PATRIC FAQs <http://enews.patricbrc.org/faqs/>`__.
+Page <https://docs.patricbrc.org/tutorial/>`__ and see
+`PATRIC FAQs <https://docs.patricbrc.org/user_guide/>`__.

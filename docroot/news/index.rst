@@ -5,8 +5,8 @@ News
 
 .. feed::
    :rss: news.rss
-   :title: PATRIC eNews
-   :description: PATRIC eNews Rss feed
+   :title: PATRIC News
+   :description: PATRIC News RSS feed
    :link: https://docs.patricbrc.org/
 
    2017/20171130-patric-november-2017-release

@@ -242,20 +242,20 @@ interest:
       tracked by Google Analytics. Users can visit the overview page for
       a specific bacteria by selecting one of the terms in the Tag
       Cloud.
-   -  **eNews**: Displays a designated “Feature” article, as well as the
+   -  **News**: Displays a designated “Feature” article, as well as the
       most recent news related to PATRIC. A more complete description of
-      eNews is provided below.
+      News is provided below.
 
 We have also upgraded the look and feel of the entire PATRIC website;
 including a new RSS feed, and social networking “share” capabilities.
 Site-wide, the main navigation remains consistent with the previous
 PATRIC website, with slight modifications to the “About” tab to
-accommodate the new FAQ and eNews web features.
+accommodate the new FAQ and News web features.
 
-**PATRIC eNews**
+**PATRIC News**
 ----------------
 
-This release marks the introduction of PATRIC eNews; an interactive
+This release marks the introduction of PATRIC News; an interactive
 outreach-centered resource containing up-to-date information including
 PATRIC announcements, presentations, publications, website and data
 releases, and news stories that reference PATRIC.
@@ -327,7 +327,7 @@ genomes from different genus or taxonomic groups and compare metabolic
 pathways. Data is presented in a way similar to described above.
 
 For more information, visit `Comparative Pathway Tool
-FAQs <http://enews.patricbrc.org/comparative-pathway-tool-faqs/>`__.
+FAQs <https://docs.patricbrc.org/user_guide/comparative_pathway_tool/>`__.
 
 **Post-genomics Data**
 ----------------------

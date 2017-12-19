@@ -17,4 +17,4 @@ PATRIC team to engage in one-one-one interactions with participants,
 helping them analyze their data and understand how to best leverage
 PATRIC for their research.
 
-` <http://enews.patricbrc.org/wp-content/uploads/2012/10/IMAG0514.jpg>`__
+.. image:: images/IMAG0514.jpg

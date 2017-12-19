@@ -90,7 +90,7 @@ Static Content
 ^^^^^^^^^^^^^^
 
 Static content refers to electronic documents contains website tutorial,
-command line interface tutorial, user guides and PATRIC eNews. The
+command line interface tutorial, user guides and PATRIC News. The
 contents of these documents are served independently of the main web
 server software and are publicly accessible. This site provides an RSS
 feed, which the main website application consumes and displays on its

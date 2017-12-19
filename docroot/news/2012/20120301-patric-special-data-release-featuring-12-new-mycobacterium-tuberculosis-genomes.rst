@@ -10,7 +10,7 @@ PATRIC Special Data Release Featuring 12 New Mycobacterium tuberculosis Genomes
 In March 2012, PATRIC made a special data release featuring the
 following 12 new Mycobacterium tuberculosis genomes to help
 `Tuberculosis Community Annotation Project (TBCAP)
-Jamboree <http://enews.patricbrc.org/1587/tuberculosis-community-annotation-project-tbcap-jamboree/>`__
+Jamboree <http://docs.patricbrc.org/news/2012/20120224-tuberculosis-community-annotation-project-tbcap-jamboree.html>`__
 held on March 7-8 in Alexandria, VA.  All of the new genomes received
 consistent annotations using RAST.
 

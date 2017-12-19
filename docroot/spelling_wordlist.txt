@@ -94,7 +94,7 @@ de novo
 dna
 downloadable
 dropdown
-eNews
+News
 elegans
 eukaryotic
 faa

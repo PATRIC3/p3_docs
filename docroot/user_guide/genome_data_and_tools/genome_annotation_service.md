@@ -13,7 +13,7 @@ protein family predictions.
 
 How-to information and details concerning the annotation service can be
 found
-[here](http://enews.patricbrc.org/faqs/genome-annotation-service/).
+[here](https://docs.patricbrc.org/user_guides/services/genome_annotation_service.html).
 
 ## Parameters
 

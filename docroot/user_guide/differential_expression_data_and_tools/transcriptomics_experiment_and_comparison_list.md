@@ -55,5 +55,5 @@ tab on any Taxonomy or Genome level landing page.
         formats.
     -   Customize which metadata columns are shown/hidden in your
         results table with the Columns button.
-    -   Access the PATRIC FAQs glossary within PATRIC eNews by clicking
+    -   Access the PATRIC FAQs glossary within PATRIC News by clicking
         on the PATRIC FAQs button.

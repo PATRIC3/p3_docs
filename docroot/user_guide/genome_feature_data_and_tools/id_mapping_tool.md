@@ -20,7 +20,7 @@ features.
 
 -   To use the ID Mapping Tool from a Table Toolbar, simply select items
     in the table, click the
-    ![idmapping icon](http://enews.patricbrc.org/wp-content/uploads/2013/04/16x16-toolbar-icon-idmapping.png) MAP IDs Tools
+    ![idmapping icon](images/16x16-toolbar-icon-idmapping.png) MAP IDs Tools
     button, and chose an external database from the dropdown menu. Some
     example Use Cases include:
     -   Select a set of PATRIC features of interest from any PATRIC

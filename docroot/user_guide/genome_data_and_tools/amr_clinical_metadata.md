@@ -3,7 +3,7 @@
 
 ## Genome-Level Antimicrobial Resistance (AMR)
 
-Genome-level AMR metadata in PATRIC include data from GenBank, from the NIAID-funded [Genomic Centers for Infectious Diseases](http://enews.patricbrc.org/niaid-genome-sequencing/), and from sequencing read data generated as part of AMR-related studies sequencing projects, typically curated from SRA. These data include panel data for antibiotics and chemicals. These data are accessible at different levels of detail via multiple views/tabs, including **Taxon Overview**, **Genomes**, **AMR Phenotypes**, as well as for individual genomes, described in the following sections.
+Genome-level AMR metadata in PATRIC include data from GenBank, from the NIAID-funded [Genomic Centers for Infectious Diseases](https://docs.patricbrc.org/website/data_collections/niaid_genome_sequencing.html), and from sequencing read data generated as part of AMR-related studies sequencing projects, typically curated from SRA. These data include panel data for antibiotics and chemicals. These data are accessible at different levels of detail via multiple views/tabs, including **Taxon Overview**, **Genomes**, **AMR Phenotypes**, as well as for individual genomes, described in the following sections.
 
 The **Taxon Overview** tab (*shown below*) provides an interactive summary bar chart showing the relative genome counts by resistance type (defined in Antimicrobial Resistance section below) and antibiotic. Clicking a bar in the chart filters to the corresponding list of AMR Phenotypes by genome for that resistance category and antibiotic.  
 

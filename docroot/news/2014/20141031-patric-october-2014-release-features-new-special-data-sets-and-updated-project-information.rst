@@ -20,7 +20,7 @@ The following special data sets have been added or updated in this
 release:
 
 -  `Clinical Proteomics
-   Centers <http://enews.patricbrc.org/niaid-clinical-proteomics/>`__:
+   Centers <https://www.patricbrc.org/webpage/website/data_collections/niaid_clinical_proteomics.html>`__:
    MS/MS and MRM data for the Caprion “Diagnostic & treatment response
    biomarkers of brucellosis,” “Discovery of serum protein biomarkers of
    Active Tuberculosis in HIV- and HIV+ Individuals,” and Biomarkers of
@@ -29,20 +29,20 @@ release:
    project
 -  Driving Biological Projects: RNA-Seq and ChIP-seq data sets for the
    “`Identification of *Salmonella*-specific Regulatory
-   Networks <http://enews.patricbrc.org/patric-dbps/#DBP4>`__” project
+   Networks <https://www.patricbrc.org/webpage/website/data_collections/patric_dbps.html#DBP4>`__” project
 -  *Mycobacterium tuberculosis* SNP data from the Broad Genome
    Sequencing Center: New Special Collections pages featuring SNP calls
    for genomes sequenced in the `TB Antibiotic Resistance Catalog
-   (TB-ARC) <http://enews.patricbrc.org/tb-arc-tb-antibiotic-resistance-catalog/>`__
+   (TB-ARC) <https://docs.patricbrc.org/website/data_collections/content/tb_arc_antibiotic_resistance_catalog.html>`__
    project
 -  Links and information regarding the newly awarded `Genomic Centers
    for Infectious Diseases
-   (GCIDs) <http://enews.patricbrc.org/niaid-genome-sequencing/>`__
+   (GCIDs) <https://www.patricbrc.org/webpage/website/data_collections/niaid_genome_sequencing.html>`__
 -  Information regarding the `Omics4TB Systems Biology
-   Center <http://enews.patricbrc.org/niaid-systems-biology/>`__
+   Center <https://www.patricbrc.org/webpage/website/data_collections/niaid_systems_biology.html>`__
 -  Information regarding the new NIAID Functional Genomics Program:
    `Understanding the Functions of Uncharacterized Genes in Infectious
-   Disease Pathogens <http://enews.patricbrc.org/related-sites/>`__
+   Disease Pathogens <https://docs.patricbrc.org/website/related_sites.html>`__
    awards
 
 **New Project Information**
@@ -57,8 +57,8 @@ reflect these changes.
 
 -  `Contract funding
    statement <http://patricbrc.org/portal/portal/patric/Home>`__
--  `Contact information <http://enews.patricbrc.org/contact-us/>`__
+-  `Contact information <https://docs.patricbrc.org/website/contact_us.html>`__
 -  About pages: `What is
-   PATRIC? <http://enews.patricbrc.org/what-is-patric/>`__,
-   `Personnel <http://enews.patricbrc.org/personnel/>`__, `Related
-   Sites <http://enews.patricbrc.org/related-sites/>`__
+   PATRIC? <https://www.patricbrc.org/webpage/website/about.html>`__,
+   `Personnel <https://www.patricbrc.org/webpage/website/personnel.html>`__, `Related
+   Sites <https://docs.patricbrc.org/website/related_sites.html>`__

@@ -49,14 +49,14 @@ collection of data.
 Special Collections are available under the Data tab in the main
 navigation along the top of the PATRIC website and currently include: 
 `PATRIC
-Collaborations <http://enews.patricbrc.org/patric-collaborations/>`__,
+Collaborations <https://www.patricbrc.org/webpage/website/data_collections/patric_collaborations.html>`__,
 `PATRIC Driving Biological
-Projects <http://enews.patricbrc.org/patric-dbps/>`__ (DBPs), `NIAID
+Projects <https://www.patricbrc.org/webpage/website/data_collections/patric_dbps.html>`__ (DBPs), `NIAID
 Clinical
-Proteomics <http://enews.patricbrc.org/niaid-clinical-proteomics/>`__,
+Proteomics <https://www.patricbrc.org/webpage/website/data_collections/niaid_clinical_proteomics.html>`__,
 `NIAID Genome
-Sequencing <http://enews.patricbrc.org/niaid-genome-sequencing/>`__,
+Sequencing <https://www.patricbrc.org/webpage/website/data_collections/niaid_genome_sequencing.html>`__,
 `NIAID Structural
-Genomics <http://enews.patricbrc.org/niaid-structural-genomics/>`__, and
+Genomics <https://www.patricbrc.org/webpage/website/data_collections/niaid_structural_genomics.html>`__, and
 `NIAID Systems
-Biology. <http://enews.patricbrc.org/niaid-systems-biology/>`__
+Biology. <https://www.patricbrc.org/webpage/website/data_collections/niaid_systems_biology.html>`__

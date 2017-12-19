@@ -534,7 +534,7 @@ page, these taxon and genome-specific tables provide the following:
 \_*Note_: Genes designated as “Literature” in the Evidence column have
 been experimentally verified, while those designated as “BLASTP” are
 identified based on sequence homology.  Learn more in `Specialty Gene
-FAQs <http://enews.patricbrc.org/faqs/specialty-genes-faqs/>`__.
+FAQs <https://docs.patricbrc.org/website/data_landing_pages/SpecialtyGenes.html>`__.
 
 Gene Lists provide in-depth filtering options of the data based on
 Property, Source, Evidence, and BLAST Hits parameters.  Access our

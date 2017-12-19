@@ -21,11 +21,11 @@ from their top ten homologs in *E. coli*.  A graphical representation
 showing conformity scores for proteins of the nine *E. coli* strains is
 provided in the figure below.
 
-` <http://enews.patricbrc.org/wp-content/uploads/2011/07/ecoli-conformity-9strain.png>`__
+.. image:: images/ecoli-conformity-9strain.png
 
 A list of all proteins and their conformity scores is provided in an
 Excel file
-(`ecoli9genocav <http://enews.patricbrc.org/wp-content/uploads/2011/07/ecoli9genocav.xls>`__). 
+(`ecoli9genocav <http://docs.patricbrc.org/news/2011/files/ecoli9genocav.xls>`__). 
 Some of the proteins found in the outbreak strains have no homologs in
 *E. coli*.  In the conformity score column, these “unique” proteins are
 identified by a “-“.  The data for the unique proteins for all nine
