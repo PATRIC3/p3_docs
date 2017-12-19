@@ -16,11 +16,11 @@ The project performed a subcellular proteomic analysis of *Salmonella enterica* 
   * A [Comprehensive Subcellular Proteomic Survey of Salmonella Grown under Phagosome-Mimicking versus Standard Laboratory Conditions](http://www.ncbi.nlm.nih.gov/pubmed/22900174)
 * Protoemics Data [PeptideAtlas, accession PASS00551](http://www.peptideatlas.org/PASS/PASS00551)
 * Genes of Interest:
-  * [Cytoplasmic identified proteins](https://www.patricbrc.org/webpage/website/data_collections/content/S_enterica_CYT.html)
-  * [Inner membrane identified proteins](https://www.patricbrc.org/webpage/website/data_collections/content/S_enterica_IM.html)
-  * [Periplasmic identified proteins](https://www.patricbrc.org/webpage/website/data_collections/content/S_enterica_PERI.html)
-  * [Outer membrane identified proteins](https://www.patricbrc.org/webpage/website/data_collections/content/S_enterica_OM.html)
-  * [Promising moonlighting candidate proteins (known cytoplasmic proteins observed in the OM)](https://www.patricbrc.org/webpage/website/data_collections/content/S_enterica_moonlighting.html)
+  * [Cytoplasmic identified proteins](https://www.patricbrc.org/webpage/website/data_collections/content/s_enterica_cyt.html)
+  * [Inner membrane identified proteins](https://www.patricbrc.org/webpage/website/data_collections/content/s_enterica_im.html)
+  * [Periplasmic identified proteins](https://www.patricbrc.org/webpage/website/data_collections/content/s_enterica_peri.html)
+  * [Outer membrane identified proteins](https://www.patricbrc.org/webpage/website/data_collections/content/s_enterica_om.html)
+  * [Promising moonlighting candidate proteins (known cytoplasmic proteins observed in the OM)](https://www.patricbrc.org/webpage/website/data_collections/content/s_enterica_moonlighting.html)
 
 Sample-matched multi-omic analysis of Salmonella regulatory mutants
 
@@ -37,7 +37,7 @@ Sample-matched multi-omic measurements of fourteen virulence-essential regulator
 * Proteomics Data [PNNL_1025](http://omics.pnl.gov/view/publication_1025.html)
 * Transcriptomics Data Series GSE38378 at [GEO](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE38378) and at [PATRIC](https://www.patricbrc.org/view/ExperimentComparison/867640#view_tab=overview)
 * Genes of Interest:
-  * [Broader list of pathogenesis related proteins](https://www.patricbrc.org/webpage/website/data_collections/content/S_enterica_pathogenesis.html)
+  * [Broader list of pathogenesis related proteins](https://www.patricbrc.org/webpage/website/data_collections/content/s_enterica_pathogenesis.html)
   * Network predicted virulence factors secreted into host cytoplasm
   * Validated translocated effectors required for virulence
 
@@ -49,8 +49,8 @@ Researchers identified effector proteins secreted into defined minimal medium de
   * [Discovery of novel secreted virulence factors from Salmonella enterica serovar Typhimurium by proteomic analysis of culture supernatants](http://www.ncbi.nlm.nih.gov/pubmed/20974834)
 * Proteomics Data: PNNL_1026
 * Genes of Interest:
-  * [Known SPI-2 effectors identified](https://www.patricbrc.org/webpage/website/data_collections/content/S_enterica_SPI-2_effector.html)
-  * [Novel secreted effectors identified](https://www.patricbrc.org/webpage/website/data_collections/content/S_enterica_effector.html)
+  * [Known SPI-2 effectors identified](https://www.patricbrc.org/webpage/website/data_collections/content/s_enterica_spi2_effector.html)
+  * [Novel secreted effectors identified](https://www.patricbrc.org/webpage/website/data_collections/content/s_enterica_effector.html)
 
 *Salmonella* growth condition adaptation
 
@@ -60,7 +60,7 @@ To determine the impact of a low Mg(2+)/pH defined growth medium (MgM) on the pr
   * [Proteome of Salmonella Enterica Serotype Typhimurium Grown in a Low Mg/pH Medium](http://www.ncbi.nlm.nih.gov/pubmed/19953200)
 * Proteomics Data: [PNNL_0008](http://www.ncbi.nlm.nih.gov/pubmed/19953200)
 * Genes of Interest:
-  * [Proteins co-regulated with SPI-2 TTSS](https://www.patricbrc.org/webpage/website/data_collections/content/S_enterica_SPI-2_TTSS.html) (criteria – Pattern and magnitude of expression similar to SPI-2 TTSS across all conditions).
+  * [Proteins co-regulated with SPI-2 TTSS](https://www.patricbrc.org/webpage/website/data_collections/content/s_enterica_spi2_ttss.html) (criteria – Pattern and magnitude of expression similar to SPI-2 TTSS across all conditions).
 
 Experimental annotation of post-translational features and translated coding regions in the pathogen Salmonella Typhimurium
 
