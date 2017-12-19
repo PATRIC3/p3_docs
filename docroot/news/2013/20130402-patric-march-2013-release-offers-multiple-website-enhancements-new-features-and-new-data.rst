@@ -35,7 +35,7 @@ permanently (or until you make another change).
 from TBCAP***
 
 The first `Tuberculosis Community Annotation Project (TBCAP)
-Jamboree <http://enews.patricbrc.org/1587/tuberculosis-community-annotation-project-tbcap-jamboree/>`__
+Jamboree <https://docs.patricbrc.org/news/2012/20120224-tuberculosis-community-annotation-project-tbcap-jamboree.html>`__
 was held in March, 2012 to improve the annotation of Mycobacterium
 tuberculosis H37Rv genome.
 

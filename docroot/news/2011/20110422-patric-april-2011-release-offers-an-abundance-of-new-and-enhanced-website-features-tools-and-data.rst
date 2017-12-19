@@ -97,8 +97,8 @@ PATRIC.  Videos are available on `PATRIC’s YouTube
 page. <http://www.youtube.com/user/PATRICBRC>`__
 
 Videos can also be accessed from the About menu in the top navigation
-bar of the PATRIC website or by visiting PATRIC eNews at
-`http://enews.patricbrc.org/ <../../../../../>`__
+bar of the PATRIC website or by visiting PATRIC News at
+`https://docs.patricbrc.org/news/`__
 
 **New Searches and Tools**
 ==========================

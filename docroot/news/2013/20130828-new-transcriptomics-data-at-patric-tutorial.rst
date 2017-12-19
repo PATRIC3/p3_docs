@@ -43,5 +43,5 @@ can find them, and some of the potential analyses you can do.
    </table>
 
 To learn more about how to use PATRIC, see `PATRIC
-FAQs <http://enews.patricbrc.org/faqs/>`__ and visit PATRICBRC on
+FAQs <https://docs.patricbrc.org/user_guide/>`__ and visit PATRICBRC on
 YouTube.

@@ -10,8 +10,8 @@ Burkholderia pseudomallei (Bp), the causative agent of the often-deadly infectio
 
 The expression data is available in [PATRIC](https://www.patricbrc.org/view/ExperimentComparison/1191081) and at [GEO](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE43205).  Important sets of genes identified include:
 
-* [Quorum sensing (pmlI) regulated proteins (genes significantly differentially expressed, 562 up-regulated and 625 down-regulated, between quorum sensing mutants and wild-type Bp](http://enews.patricbrc.org/wp-content/uploads/2013/02/Quorum-sensing-pmlI-regulated-proteins.xlsx)
-* [Network-predicted heat-shocked proteins (genes from the maximum relatedness of clusters network analysis, from clusters C131 and C265)](http://enews.patricbrc.org/wp-content/uploads/2013/02/Network-predicted-heat-shocked-proteins.xlsx)
+* [Quorum sensing (pmlI) regulated proteins (genes significantly differentially expressed, 562 up-regulated and 625 down-regulated, between quorum sensing mutants and wild-type Bp](images/Quorum-sensing-pmlI-regulated-proteins.xlsx)
+* [Network-predicted heat-shocked proteins (genes from the maximum relatedness of clusters network analysis, from clusters C131 and C265)](images/Network-predicted-heat-shocked-proteins.xlsx)
 
 ---
 

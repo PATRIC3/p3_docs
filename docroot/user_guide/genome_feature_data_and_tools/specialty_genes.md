@@ -61,7 +61,7 @@ For each specialty genes class, PATRIC:
 which contains the genes identified as playing a role in virulence in
 certain organisms. Each PATRIC\_VF gene is linked to one or more journal
 articles that establish its virulence based on experimental evidence.
-For more details, see [PATRIC\_VF FAQs.](http://enews.patricbrc.org/faqs/patric-curated-virulence-factors-faqs/)
+For more details, see [PATRIC\_VF FAQs.](https://docs.patricbrc.org/user_guide/genome_feature_data_and_tools/curated_virulence_factors.html/)
 
 ------------------------------------------------------------------------
 

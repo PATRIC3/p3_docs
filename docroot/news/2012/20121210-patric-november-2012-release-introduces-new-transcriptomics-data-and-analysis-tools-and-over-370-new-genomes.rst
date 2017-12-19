@@ -1099,7 +1099,7 @@ Shewanella
 
 Fore more information on transcriptomics data, related analysis tools
 and how to use them, please visit `Transcriptomics Data
-FAQs <http://enews.patricbrc.org/faqs/transcriptomics-faqs/>`__.
+FAQs <http://docs.patricbrc.org/tutorial/index.html#transcriptomics>`__.
 
 **Genomes and Annotations**
 

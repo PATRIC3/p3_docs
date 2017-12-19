@@ -136,7 +136,7 @@ interactive visualization.  Users’ can conveniently access the Group
 Explorer from the Feature Cart icon at the top of every PATRIC page.
 
 For more information, see the PATRIC `Group Explorer
-FAQs <http://enews.patricbrc.org/group-explorer-faqs/>`__.
+FAQs <https://docs.patricbrc.org/user_guide/workspace_and_group/workspace_and_group.html>`__.
 
 .. improved-protein-family-sorter-1:
 

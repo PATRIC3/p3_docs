@@ -9,7 +9,7 @@ Pathways
       <!-- Section: Data -->
       <div class="data-tab" id="tab1">
         <h3>PATRIC Data is Linked to Associated Biochemical Pathways</h3>
-          <div class="large"><p>Our analysis tools and interactive visualizations allow users to highlight regions of genome loss or conservation and ultimately look for changes within the context of functional pathways. Pathways of interest can be identified using the <a href="http://enews.patricbrc.org/faqs/comparative-pathway-tool-faqs/" target="_blank">Comparative Pathway Tool</a> and then analyzed individually, or in selected sets, via the Comparative Pathway Heatmap and KEGG Map.</p>
+          <div class="large"><p>Our analysis tools and interactive visualizations allow users to highlight regions of genome loss or conservation and ultimately look for changes within the context of functional pathways. Pathways of interest can be identified using the <a href="https://docs.patricbrc.org/user_guide/comparative_pathway_tool/index.html" target="_blank">Comparative Pathway Tool</a> and then analyzed individually, or in selected sets, via the Comparative Pathway Heatmap and KEGG Map.</p>
           </div>
         <div class="data-box collapse-bottom" id="dlp-pathways-conservation-header">
           <h3 class="ribbon-title">Pathway Conservation in Pathogenic Bacteria</h3>
