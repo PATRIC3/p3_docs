@@ -8,8 +8,8 @@ Data from the new [Omics4TB](http://www.omics4tb.org/) project will be included 
 
 For more information on the two recently completed bacterial projects and integration of the data into the PATRIC resource, please visit:
 
-* [TB Systems Biology](https://www.patricbrc.org/webpage/website/data_collections/content/tb-systems-biology.html)
-* [Center for Systems Biology of EnteroPathogens (SysBEP)](https://www.patricbrc.org/webpage/website/data_collections/content/center-for-systems-biology-of-enteropathogens-sysbep.html)
+* [TB Systems Biology](https://www.patricbrc.org/webpage/website/data_collections/content/tb_systems_biology.html)
+* [Center for Systems Biology of EnteroPathogens (SysBEP)](https://www.patricbrc.org/webpage/website/data_collections/content/center_for_systems_biology_enteropathogens_sysbep.html)
 
 ## Systems biology work specific to antibacterial resistance:
 
