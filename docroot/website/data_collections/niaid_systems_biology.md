@@ -8,15 +8,15 @@ Data from the new [Omics4TB](http://www.omics4tb.org/) project will be included 
 
 For more information on the two recently completed bacterial projects and integration of the data into the PATRIC resource, please visit:
 
-* [TB Systems Biology](https://www.patricbrc.org/webpage/website/data_collections/content/tb-systems-biology.html)
-* [Center for Systems Biology of EnteroPathogens (SysBEP)](https://www.patricbrc.org/webpage/website/data_collections/content/center-for-systems-biology-of-enteropathogens-sysbep.html)
+* [TB Systems Biology](https://www.patricbrc.org/webpage/website/data_collections/content/tb_systems_biology.html)
+* [Center for Systems Biology of EnteroPathogens (SysBEP)](https://www.patricbrc.org/webpage/website/data_collections/content/center_for_systems_biology_enteropathogens_sysbep.html)
 
 ## Systems biology work specific to antibacterial resistance:
 
 The following systems biology projects use a multi-disciplinary systems biology approach to study the molecular interaction networks of the pathogen and the host in association with antibacterial resistance or in response to treatment of antibacterial resistant infections.
 
-* [Systems Biology of Clostridium Difficile Infection](https://www.patricbrc.org/webpage/website/data_collections/content/systems-biology-of-clostridium-difficile-infection.html)
-* [Predicting the emergence of antibiotic resistance through multi-omics approaches and immune system surveillance](https://www.patricbrc.org/webpage/website/data_collections/content/predicting-the-emergence-of-antibiotic-resistance-through-multi-omics-approaches-and-immune-system-surveillance.html)
-* [Systems biology approach to redefine susceptibility testing and treatment of AMR pathogens in the context of host immunity](https://www.patricbrc.org/webpage/website/data_collections/content/systems-biology-approach-to-redefine-susceptibility-testing-and-treatment-of-amr-pathogens-in-the-context-of-host-immunity.html)
-* [Systems immunolobiology of antibiotic-persistent MRSA infection](https://www.patricbrc.org/webpage/website/data_collections/content/systems-immunolobiology-of-antibiotic-persistent-mrsa-infection.html)
-* [Systems biology of microbiome-mediated resilience to antibiotic-resistance pathogens](https://www.patricbrc.org/webpage/website/data_collections/content/systems-biology-of-microbiome-mediated-resilience-to-antibiotic-resistance-pathogens.html)
+* [Systems Biology of Clostridium Difficile Infection](https://www.patricbrc.org/webpage/website/data_collections/content/systems_biology_of_clostridium_difficile_infection.html)
+* [Predicting the emergence of antibiotic resistance through multi-omics approaches and immune system surveillance](https://www.patricbrc.org/webpage/website/data_collections/content/predicting_the_emergence_antibiotic_resistance.html)
+* [Systems biology approach to redefine susceptibility testing and treatment of AMR pathogens in the context of host immunity](https://www.patricbrc.org/webpage/website/data_collections/content/systems_biology_approach.html)
+* [Systems immunolobiology of antibiotic-persistent MRSA infection](https://www.patricbrc.org/webpage/website/data_collections/content/systems_immunolobiology.html)
+* [Systems biology of microbiome-mediated resilience to antibiotic-resistance pathogens](https://www.patricbrc.org/webpage/website/data_collections/content/systems_biology_of_microbiome_mediated_resilence.html)
