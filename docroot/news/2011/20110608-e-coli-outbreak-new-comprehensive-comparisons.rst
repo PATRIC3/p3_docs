@@ -68,9 +68,9 @@ See the `Protein Family Sorter
 FAQs <../../../../../protein-family-sorter/>`__ for help in using the
 sorter.  An Excel file with tabs containing lists of proteins in these
 islands is available by clicking `E coli protein
-islands <http://enews.patricbrc.org/wp-content/uploads/2011/06/E-coli-protein-islands.xlsx>`__.
+islands <http://docs.patricbrc.org/news/2011/files/E-coli-protein-islands.xlsx>`__.
 
-` <http://enews.patricbrc.org/wp-content/uploads/2011/06/E.-coli-Ty-island.png>`__
+.. image:: images/E.-coli-Ty-island.png
 
 .. raw:: html
 

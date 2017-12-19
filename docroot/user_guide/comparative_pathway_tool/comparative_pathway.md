@@ -6,7 +6,7 @@ An advanced search, described below, may be conducted from the “Searches
 and Tools” tab at the top of the PATRIC site and from the “Search Tools”
 box on any Organism Landing page. To learn about Organism Landing pages,
 see the [PATRIC Data Organization Overview
-tutorial](http://enews.patricbrc.org/patric-data-organization-overview/).
+tutorial](https://docs.patricbrc.org/tutorial/patric-data-organization-overview.html).
 
 -   Note: Searches conducted using Comparative Pathway Tool from the
     “Search Tools” box on an Organism Landing page will be pre-scoped to

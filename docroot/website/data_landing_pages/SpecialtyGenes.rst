@@ -9,7 +9,7 @@ Specialty Genes
       <!-- Section: Data -->
       <div class="data-tab" id="tab1">
         <h3></h3>
-          <div class='large'><p>Specialty Genes refers to genes that are of particular interest to infectious disease researchers, such as virulence factors, antibiotic resistance genes, drug targets, and human homologs. For each class, reference genes are collected from reputed external databases or manually curated by the PATRIC team and then mapped to their homologs based on sequence similarity using BLASTP. For more details, see <a href="http://enews.patricbrc.org/faqs/specialty-genes-faqs/" target="_blank">Specialty Genes FAQs</a>. We also provide a data summary targeted specifically to <a href="/view/DataType/AntibioticResistance">Antibiotic Resistance Data</a>.</p>
+          <div class='large'><p>Specialty Genes refers to genes that are of particular interest to infectious disease researchers, such as virulence factors, antibiotic resistance genes, drug targets, and human homologs. For each class, reference genes are collected from reputed external databases or manually curated by the PATRIC team and then mapped to their homologs based on sequence similarity using BLASTP. For more details, see <a href=https://docs.patricbrc.org/website/data_landing_pages/SpecialtyGenes.html" target="_blank">Specialty Genes FAQs</a>. We also provide a data summary targeted specifically to <a href="/view/DataType/AntibioticResistance">Antibiotic Resistance Data</a>.</p>
           </div>
 
         <!--  -->

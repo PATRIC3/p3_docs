@@ -41,7 +41,7 @@ Click image to enlarge
 
 A list of all proteins and their conformity scores is provided in an
 Excel file
-(`TY2482-LB226692_Vir_ABR_Conformity_All <http://enews.patricbrc.org/wp-content/uploads/2011/06/TY2482-LB226692_Vir_ABR_Conformity_All.xls>`__). 
+(`TY2482-LB226692_Vir_ABR_Conformity_All <http://docs.patricbrc.org/news/2011/files/TY2482-LB226692_Vir_ABR_Conformity_All.xls>`__). 
 Some of the proteins found in TY-2482 and LB226692 have no homologs in
 *E. coli*.  In the conformity score column, these “unique” proteins are
 identified by a “-“.  The data for the unique proteins for both species

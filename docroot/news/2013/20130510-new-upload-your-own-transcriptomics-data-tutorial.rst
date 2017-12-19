@@ -43,5 +43,5 @@ where you can use PATRIC analysis tools and functionality.
    </table>
 
 To learn more about how to use PATRIC, see `PATRIC
-FAQs <http://enews.patricbrc.org/faqs/>`__ and visit `PATRICBRC on
+FAQs <http://docs.patricbrc.org/user_guide/>`__ and visit `PATRICBRC on
 YouTube <http://www.youtube.com/PATRICBRC>`__.
