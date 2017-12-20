@@ -20,6 +20,8 @@ Genomics
    variation_analysis_service/variation_analysis_service.md
    tn-seq/tn-seq.md
    phylogenetic_tree_building/tree_building.md
+   metagenomic_binning/metagenomic_binning
+   metagenomic_binning/metagenomic_output
 
 
 Transcriptomics
@@ -62,6 +64,4 @@ Others
    genome_groups/creating_genome_groups.md
    amr/amr.md
    binning_overview
-   metagenomic_binning/metagenomic_binning
-   metagenomic_binning/metagenomic_output
    dev_at_argonne
