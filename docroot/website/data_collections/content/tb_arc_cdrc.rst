@@ -24,5 +24,5 @@ Data download:
 View data in PATRIC:
 
 - Download the PATRIC mapped files (above)
-- Go to: `<>`_
+- Go to: `<https://www.patricbrc.org/view/Genome/83332.111#view_tab=browser>`_
 - Click on File -> Open -> Select Files and upload both the corresponding .vcf.gz and .vcf.gz.tbi files, keep the default options for track type, and click Open button
