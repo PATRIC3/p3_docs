@@ -9,6 +9,19 @@ PATRIC Content Pages
    scientific_working_group.rst
    patric_dbp_mcclelland.md
    tb_arc_antibiotic_resistance_catalog.md
+   tb_arc_belarus.rst
+   tb_arc_cdrc.rst
+   tb_arc_india.rst
+   tb_arc_iran.rst
+   tb_arc_krith_2.rst
+   tb_arc_krith_kwazulu_natal.rst
+   tb_arc_m_bovis.rst
+   tb_arc_mali.rst
+   tb_arc_moldova.rst
+   tb_arc_mrc_sa.rst
+   tb_arc_ntu_taiwan.rst
+   tb_arc_romania.rst
+   tb_arc_sweden.rst
    niaid_antimicrobial_resistance_sequencing_projects.rst
    omics4tb.md
    omics4tb_chip_seq_experiments.rst
