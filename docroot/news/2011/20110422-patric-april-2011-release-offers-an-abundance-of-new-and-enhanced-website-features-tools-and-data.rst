@@ -94,11 +94,10 @@ http://patricbrc.org/portal/portal/patric/Literature?cType=taxon&cId=1386&time=a
 Tutorials focus on general site navigation and features while Use Cases
 offer more in-depth examples of gathering and analyzing data within
 PATRIC.  Videos are available on `PATRIC’s YouTube
-page. <http://www.youtube.com/user/PATRICBRC>`__
+page. <http://www.youtube.com/user/PATRICBRC>`_
 
 Videos can also be accessed from the About menu in the top navigation
-bar of the PATRIC website or by visiting PATRIC News at
-`https://docs.patricbrc.org/news/`__
+bar of the PATRIC website or by visiting `PATRIC News <https://docs.patricbrc.org/news/>`_
 
 **New Searches and Tools**
 ==========================

@@ -410,19 +410,14 @@ human
    </table>
 
 BioProject:
-`PRJNA255984 <http://www.ncbi.nlm.nih.gov/bioproject/255984>`__
+`PRJNA255984 <http://www.ncbi.nlm.nih.gov/bioproject/255984>`_
 
-Submission: `Seattle Biomed <http://www.seattlebiomed.org/>`__, Serdar
+Submission: `Seattle Biomed <http://www.seattlebiomed.org/>`_, Serdar
 Turkarslan; 2014-07-23
 
-All raw sequencing data for ChIP-seq experiments in BAM format are
-available at NCBI under BioProject number PRJNA255984
-(:download:`ChIPSeq-meta.xls <../files/201603/chIPSeq-meta.xls>`__)
-(GenBank`PRJNA255984 <http://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA255984>`__).
-In addition, sorted and indexed BAM files are available at the MTB
-Network Portal (http://networks.systemsbiology.net/mtb/chipseq-gateway).
-The MTB Network Portal enables exploration of ChIP-seq data for each TF
-as UCSC Genome Browser Tracks and also provides download links for
-sorted BAM files. Binding events identified as described in Methods
-section are also presented along with associated transcriptional
-consequences.
+All raw sequencing data for ChIP-seq experiments in BAM format are available at NCBI under BioProject number PRJNA255984
+`Download ChIP-Seq Meta <https://docs.patricbrc.org/news/files/201603/chIPSeq-meta.xls>`_
+
+GenBank PRJNA255984 `<http://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA255984>`_
+
+In addition, sorted and indexed BAM files are available at the MTB Network Portal (http://networks.systemsbiology.net/mtb/chipseq-gateway). The MTB Network Portal enables exploration of ChIP-seq data for each TF as UCSC Genome Browser Tracks and also provides download links for sorted BAM files. Binding events identified as described in Methods section are also presented along with associated transcriptional consequences.

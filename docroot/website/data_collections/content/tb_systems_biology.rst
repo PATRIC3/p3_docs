@@ -34,7 +34,7 @@ Hypoxic time course experiments.
 - Publication: `The Mycobacterium tuberculosis regulatory network and hypoxia`_
 
 .. _TB Systems Biology: http://genome.tbdb.org/annotation/genome/tbdb/SysBioHome.html
-.. _PATRIC: https://www.patricbrc.org/content/tb-systems-biology
+.. _PATRIC: https://www.patricbrc.org/webpage/website/data_collections/content/tb_systems_biology.html
 .. _binding sites: http://brcdownloads.patricbrc.org/BRC_Mirrors/TBSysBio/ChIP-Seq_broad/chip-seq-regions_4dec13.txt
 .. _Broad TDF files: http://tuberculosis.bu.edu//share/ChIPseq_4dec13/ChIP-Seq/TDF/
 .. _Broad WIG files: http://brcdownloads.patricbrc.org/BRC_Mirrors/TBSysBio/ChIP-Seq_broad/WIG/
