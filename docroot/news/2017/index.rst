@@ -4,6 +4,7 @@ Archives 2017
 .. toctree::
    :maxdepth: 1
 
+   20171220-phylogenetic-tree-video-tutorial
    20171130-patric-november-2017-release
    20171122-patric-webinar
    20170930-patric-september-2017-data-release
