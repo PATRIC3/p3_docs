@@ -9,7 +9,7 @@ News
    :description: PATRIC News RSS feed
    :link: https://docs.patricbrc.org/
 
-   20171220-phylogenetic-tree-video-tutorial
+   2017/20171220-phylogenetic-tree-video-tutorial
    2017/20171130-patric-november-2017-release
    2017/20171122-patric-webinar
 
