@@ -1,5 +1,5 @@
-TB-ARC India
-===========
+TB-ARC M. bovis
+===============
 
 .. image:: images/broad.jpg
 
