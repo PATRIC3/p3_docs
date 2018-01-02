@@ -24,7 +24,7 @@ In this release, PATRIC now includes 21 curated host-response gene
 expression datasets, 19 of which are from `Expression
 Atlas <http://www.ebi.ac.uk/gxa/home>`__ and 2 from the `Omics4TB NIAID
 Systems Biology
-Center <https://www.patricbrc.org/content/omics4tb>`__.   All datasets
+Center <https://www.patricbrc.org/webpage/website/data_collections/content/omics4tb.html>`__.   All datasets
 were processed and incorporated into PATRIC using our enhanced
 `Expression Import
 Service <https://www.patricbrc.org/app/Expression>`__. In PATRIC, users
