@@ -1,75 +1,38 @@
 # Genome Metadata
 
-## Genome Metadata Overview
+## Overview
 
-Genome Metadata is descriptive data about single genomes. Genome
-metadata on PATRIC consists of 61 different metadata fields, called
-attributes, which are organized into the following seven broad
-categories: Organism Info, Isolate Info, Host Info, Sequence Info,
-Phenotype Info, Project Info, and Others.
+Genome Metadata is additional information about genomes beyond the genome sequence and annotations linked to the sequence. Genome metadata on PATRIC consists of 61 different metadata fields, called attributes, which are organized into the following seven broad categories: Organism Info, Isolate Info, Host Info, Sequence Info, Phenotype Info, Project Info, and Other.
+
+### See also
+* [Genome Page Overview](../organisms_genome/overview.html)
+* [Genome Table](../organisms_taxon/genome_table.html)
+* [Genome Annotations](../organisms_taxon/genome_annotations.html)
+
+### Accessing Genome Metadata on the PATRIC Website
+Genome metadata can be accessed in multiple ways on the PATRIC website:
+
+* **Clicking the Overview Tab in Genome View:** Displays summary information about the genome, including associated metadata. Note that metadata fields that do not contain values are not displayed. See [Genome Page Overview](../organisms_genome/overview.html).
+
+* **Clicking the Filter Button above the Genome Table on the Genomes Tab in the Taxon View:** Opens a filter panel above the genome list, displaying column names (metadata attributes) from the table and values for those columns with counts of occurence. See [Genome Table](../organisms_taxon/genome_table.html).
+
+* **Using metadata values in the Global Search:** Displays search results of genomes, and other data, containing the terms specified in the search. See [Global Search](../global_search.html).
 
 ### Metadata Attributes
 
--   Organism Info Attributes: Genome Info Id, Genome Name, NCBI Taxon
-    Id, Genome Status, Organism Name, Strain, Serovar, Biovar, Pathovar,
-    Culture Collection, and Type Strain
+* **Organism Info:** Genome ID, Genome Name, Organism Name, NCBI Taxon ID, Genome Status, Strain, Serovar, Biovar, Pathovar, MLST, Other Typing, Culture Collection, and Type Strain.
 
--   Isolate Info Attributes: Isolation Site, Isolation Source, Isolation
-    Comments, Collection Date, Isolation Country, Geographic Location,
-    Latitude, Longitude, Altitude, and Depth.
+* **Isolate Info:** Isolation Site, Isolation Source, Isolation Comments, Collection Date, Isolation Country, Geographic Location, Latitude, Longitude, Altitude, Depth, and Other Environmental.
 
--   Host Info Attributes: Host Name, Host Gender, Host Age, Host Health,
-    Body Sample Site, and Body Sample Subsite.
+* **Host Info:** Host Name, Host Gender, Host Age, Host Health, Body Sample Site, Body Sample Subsite, and Other Clinical.
 
--   Sequence Info Attributes: Sequencing Status, Sequencing Platform,
-    Sequencing Depth, Assembly Method, Chromosomes, Plasmids, Contigs,
-    Sequences, Genome Length, CG Content, RAST CDS, BRC CDS, and RefSeq
-    CDS.
+* **Sequence Info:** Sequencing Centers, Sequencing Status, Sequencing Platform, Sequencing Depth, Assembly Method, Chromosomes, Plasmids, Contigs, Sequences, Genome Length, CG Content, PATRIC CDS, BRC1 CDS, and RefSeq CDS.
 
--   Phenotype Info Attributes: Gram Stain, Cell Shape, Motility,
-    Sporulation, Temperature Range, Optimal Temperature, Salinity,
-    Oxygen Requirement, Habitat, and Disease.
+* **Phenotype Info:** Antimicrobial Resistance, Antimicrobial Resistance Evidence, Gram Stain, Cell Shape, Motility, Sporulation, Temperature Range, Optimal Temperature, Salinity, Oxygen Requirement, Habitat, and Disease.
 
--   Project Info Attributes: Project Status, Availability, Sequencing
-    Center, Completion Date, Publication, NCBI Project Id, RefSeq
-    Project Id, Genbank Accessions, and RefSeq Accessions.
+* **Project Info:** Completion Date, Publication, BioProject Accession, BioSample Accession, Assembly Accession, GenBank Accessions, and RefSeq Accessions.
 
--   Others: Comments.
-
-### Accessing Genome Metadata on the PATRIC Website
-
--   Genome metadata can be accessed in multiple ways on the PATRIC
-    website:
--   You may view a metadata table, at any taxonomic level, via the
-    Genome List tab on any Organism Landing page.
--   Selecting “Genome Metadata” from the “Searches and Tools” tab in the
-    main navigation along the top of the PATRIC site will take you to
-    the Genome List tab for all available bacteria data on PATRIC.
--   The Overview tab on each Organism Landing page (at any taxonomic
-    level) provides a key metadata attribute summary in the “Taxonomy
-    Summary” table. Clicking on “View all genomes and summary terms” at
-    the bottom of this table will take you to the table provided under
-    the Genome List tab.
-    -   Note: The Taxonomy Summary table does not show all attributes or
-        attribute data available, however it shows the top 2 hits
-        associated with each visible attribute.
--   Once you drill down to the Genome level within PATRIC, the Overview
-    tab on each Genome Landing page provides a key metadata attribute
-    summary in the “Genome Summary” table. Clicking “more” at the bottom
-    of this table expands the table to show all available metadata for
-    that particular genome.
+* **Other:** Comments, Additional Metadata, Insert Date, and Last Modified.
 
 ### Genome Metadata Sources
-
-PATRIC has collected metadata associated with bacterial genomes from
-multiple sources, such as NCBI’s BioProject database, GenBank records,
-and the Human Microbiome Project. Following the automated collection,
-the metadata was manually curated for consistency and accuracy,
-organized into a relational database, and integrated with the genomes
-available in PATRIC.
-
-PATRIC’s collection and refinement of genome metadata is an ongoing
-task. Future plans include integrating the genome metadata with various
-analysis tools available on the PATRIC website. If you have access to
-metadata that is not currently available on PATRIC, please contact us
-and we’ll be happy to update the site.
+PATRIC genome metadata comes from multiple sources including NCBI's BioProject database, GenBank records, NIAID Genomic Centers for Infectious Diseases (GCIDs), the Human Microbiome Project, and other data submitters. Following the automated collection, the metadata is manually curated for consistency and accuracy. Updated or additional metadata that is not currently available on PATRIC can be submitted using [help@patricbrc.org](mailto:help@patricbrc.org).
