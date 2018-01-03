@@ -6,8 +6,6 @@ The Genome Table provides a list of all the genomes and associated metadata in c
 ### See also
   * [Genome Annotations](../organisms_taxon/genome_annotations.html)
   * [Genome Metadata](../organisms_taxon/genome_metadata.html)
-  
-  https://docs.patricbrc.org//user_guides/organisms_taxon/genome_metadata.html
 
 ## Accessing the Genome Table on the PATRIC Website
 Clicking the Genomes Tab in a Taxon View displays the Genome Table, listing of all of the genomes and associated metadata in corresponding to the selected Taxon View level or for the user-defined Genome Group. 
