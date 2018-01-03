@@ -5,14 +5,16 @@ The Genome Table provides a list of all the genomes and associated metadata in c
 
 ### See also
   * [Genome Annotations](../organisms_taxon/genome_annotations.html)
-  * [Genome Metadata](../services/comparative_pathway_service.html)
+  * [Genome Metadata](../organisms_taxon/genome_metadata.html)
+  
+  https://docs.patricbrc.org//user_guides/organisms_taxon/genome_metadata.html
 
 ## Accessing the Genome Table on the PATRIC Website
 Clicking the Genomes Tab in a Taxon View displays the Genome Table, listing of all of the genomes and associated metadata in corresponding to the selected Taxon View level or for the user-defined Genome Group. 
 
 ![Genomes Table](../images/genomes_list.png)
 
-The genomes in the table include associated metadata information regarding the organism, isolate, host, sequence, phenotype, project, and other.  A complete description of the metadata fields is available in the [Genome Metadata](../services/comparative_pathway_service.html) user guide.
+The genomes in the table include associated metadata information regarding the organism, isolate, host, sequence, phenotype, project, and other.  A complete description of the metadata fields is available in the [Genome Metadata](../organisms_taxon/genome_metadata.html) user guide.
 
 ### Genome Table Tools
 Within this table you may do the following:
