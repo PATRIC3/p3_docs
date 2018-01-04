@@ -1,14 +1,14 @@
-# Taxon Overview Page
+# Taxon Overview Tab
 
 ## Overview
-For the chosen taxon level, the Taxon Overview Page provides summary information for corresponding data in PATRIC, including Taxon Info, Reference/Representative Genomes, Genomes by Antimicrobial Resistance, Genomes by Metada, and relevant Recent PubMed Articles.  
+For the chosen taxon level, the Taxon Overview Tab provides summary information for corresponding data in PATRIC, including Taxon Info, Reference/Representative Genomes, Genomes by Antimicrobial Resistance, Genomes by Metada, and relevant Recent PubMed Articles.  
 
 ### See also
   * [Taxonomy](../organisms_taxon/taxonomy.html)
   * [Antimicrobial Resistance Phenotypes](../organisms_taxon/amr_phenotypes.html)
   * [Genome Metadata](../organisms_taxon/genome_metadata.html) 
 
-## Accessing the Taxon Overview Page on the PATRIC Website
+## Accessing the Taxon Overview on the PATRIC Website
 Clicking the Overview Tab in a Taxon View displays the Taxon Overview Page, shown below. 
 
 ![Taxon Overview Page](../images/taxon_overview_page.png)
