@@ -8,7 +8,7 @@ original RefSeq annotations have been retained and are still available for compa
 Genomes that are in more than 500 contigs are not annotated by RAST. Nor are plasmid-only genomes. There is approximately a two-month interval between when sequences are submitted to RefSeq and re-annotation/integration with PATRIC, thus there may be a significant difference in the number of genomes at NCBI and at PATRIC.
 
 ## Annotated Features
-Currently, RASTtk annotates the following genomic feature types:
+Currently, PATRIC supports the following genomic feature types:
 
 * -10_signal
 * -35_signal
