@@ -1,7 +1,7 @@
-# Phylogeny and Phylogenetic Tree Viewer
+# Phylogeny Tab
 
 ## Overview
-The Phylogeny page and Phylogenetic Tree Viewer in PATRIC allows you to visualize and interact with genome trees in PATRIC.
+The Phylogeny Tab and Phylogenetic Tree Viewer in PATRIC allow you to visualize and interact with genome trees in PATRIC.
 
 ### See also
   * [Building Phylogenetic Trees in PATRIC Tutorial](https://docs.patricbrc.org//tutorial/phylogenetic_tree_building/tree_building.html)
