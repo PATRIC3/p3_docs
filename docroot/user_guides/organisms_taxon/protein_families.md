@@ -1,4 +1,4 @@
-# Protein Families
+# Protein Families Tab
 
 PATRIC provides computed protein families at 3 levels:
 [FIGfams](http://www.nmpdr.org/FIG/wiki/view.cgi/FIG/FigFam),
