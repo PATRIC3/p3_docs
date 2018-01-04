@@ -25,7 +25,7 @@ Within this table you may do the following:
 
 As with all tables in PATRIC, the Filters tool is available to narrow the display of the items in the table, show below:
   
-![Sequences Filter Panel](../images/features_filter_panel.png)
+![Features Filter Panel](../images/features_filter_panel.png)
 
 Clicking on the Filters button at the top right of the table opens the Filter Panel above the table, displaying column names from the table and values for those columns with counts of occurence.  Clicking on the filter values narrows the features displayed in the table to those matching the chosen filter values.  Clicking the Hide button closes the Filter Panel. More details are available in the [Filter Tool](../other/filter_tool.html) user guide.
 
