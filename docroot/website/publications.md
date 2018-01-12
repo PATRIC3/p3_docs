@@ -1,5 +1,14 @@
 # PATRIC Publications
 
+[**List of publications that cite PATRIC**](https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1)
+
+## 2018
+<p>Wattam AR, Brettin T, Davis JJ, Gerdes S, Kenyon R, Machi D, Mao C, Olson R, Overbeek R, Pusch GD, Shukla MP, Stevens R, Vonstein V, Warren A, Xia F, Yoo H.
+<strong>Assembly, Annotation, and Comparative Genomics in PATRIC, the All Bacterial Bioinformatics Resource Center.</strong>
+Methods Mol Biol. 2018;1704:79-101.
+    PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29277864">29277864</a>.
+
+
 ## 2017
 <p>Al Dahouk S, Köhler S, Occhialini A, Jiménez de Bagüés MP, Hammerl JA, Eisenberg T, Vergnaud G, Cloeckaert A,
 	Zygmunt MS, Whatmore AM, Melzer F, Drees KP, Foster JT, Wattam AR, Scholz HC.
@@ -11,7 +20,7 @@
 <p>Kumar P, Kaushik A, Bell DT, Chauhan V, Xia F, Stevens RL, Lamichhane G.
 	&#8220;<strong>Mutation in an Unannotated Protein Confers Carbapenem Resistance in <em>Mycobacterium tuberculosis.</em></strong>&#8221; Antimicrob Agents Chemother. 2017 Feb 23;61(3). pii: e02234-16. Print 2017 Mar.
     PMID:<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=28069655">28069655</a>.
-    PMCID:<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5328524/">PMC5328524 [Available on 2017-08-23]</a>.
+    PMCID:<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5328524/">PMC5328524</a>.
 </p>
 
 <p>Long, S. W., S. E. Linson, M. Ojeda Saavedra, C. Cantu, J. J. Davis, T. Brettin and R. J. Olsen (2017).
@@ -98,7 +107,7 @@
         Competitive Fitness of Salmonella enterica Serovar Kentucky in the Intestines of Chickens.</strong>&#8221;
     <span style="text-decoration: underline;">Appl Environ Microbiol</span> <b>81</b>(2): 502-514. PMID: <a
             href="http://www.ncbi.nlm.nih.gov/pubmed/25362062" target="_blank">25362062</a>. PMCID:
-    PMC4277580 [Available on 2015/7/1].</p>
+    PMC4277580.</p>
 <p>Warren, A. S., C. Aurrecoechea, B. Brunk, P. Desai, S. Emrich, G. I. Giraldo-Calderon, O. Harb, D. Hix,
     D. Lawson, D. Machi, C. Mao, M. McClelland, E. Nordberg, M. Shukla, L. B. Vosshall, A. R. Wattam, R. Will,
     H. S. Yoo and B. Sobral (2015). &#8220;<strong>RNA-Rocket: An RNA-Seq Analysis Resource for Infectious
@@ -185,7 +194,7 @@
     &#8220;<strong>Identification of a Salmonella ancillary copper detoxification mechanism by a comparative
         analysis of the genome-wide transcriptional response to copper and zinc excess.</strong>&#8221;
     <span style="text-decoration: underline;">Microbiology</span> <b>160</b>(Pt 8): 1659-1669. PMID: <a
-    href="http://www.ncbi.nlm.nih.gov/pubmed/24858080" target="_blank">24858080</a>. PMCID: PMC4117220 [Available on 2015/8/1].</p>
+    href="http://www.ncbi.nlm.nih.gov/pubmed/24858080" target="_blank">24858080</a>. PMCID: PMC4117220.</p>
 <p>Porwollik, S., C. A. Santiviago, P. Cheng, F. Long, P. Desai, J. Fredlund, S. Srikumar, C. A. Silva, W.
     Chu, X. Chen, R. Canals, M. M. Reynolds, L. Bogomolnaya, C. Shields, P. Cui, J. Guo, Y. Zheng, T.
     Endicott-Yazdani, H. J. Yang, A. Maple, Y. Ragoza, C. J. Blondel, C. Valenzuela, H. Andrews-Polymenis
