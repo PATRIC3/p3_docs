@@ -65,3 +65,4 @@ Others
    amr/amr.md
    binning_overview
    dev_at_argonne
+   enabling_flash/enabling_flash
