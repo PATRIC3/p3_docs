@@ -79,9 +79,39 @@ dialog:
 Select "Replace" to replace your existing installation with the
 new one. 
 
-To use the PATRIC toolkit, navigate to the Applications folder and
-doubleclick on the PATRIC
-icon. You should see the following Terminal window appear:
+Bring up a Finder window showing the Applications folder. You can do
+this by clicking the desktop background to bring Finder to the front,
+and selecting the Go menu and choosing Applications.
+
+To start PATRIC the first time, you will need to start it in a way
+that is a little clumsy. This is due to the security mechanisms in
+macOS that protect users from unguarded downloads of applications from
+the Internet.
+
+You will know you need to do this if you doubleclick the PATRIC icon
+and see this dialog:
+
+|mac_unidentified_developer|
+
+If you see this, instead of doubleclicking the PATRIC icon,
+right-click it and select Open:
+
+|mac_right_click_open|
+
+If your user account has administrative privileges you will be
+prompted to allow the application to open. Click "Open" to allow the
+application to proceed:
+
+|mac_unidentified_developer_admin|
+
+If your user account does not have administrative privileges, you will
+be prompted for an administrative account username and password:
+
+|mac_unidentified_developer_override|
+
+The PATRIC icon will bounce in the dock, possibly for several seconds
+the first time, and then a Terminal window will open with the command
+line interface prompt:
 
 |mac_cli_window|
 
@@ -149,3 +179,8 @@ PATRIC.
 .. |mac_install_copy_dialog| image:: images/mac_install_copy_dialog.png
 .. |mac_overwrite_installation| image:: images/mac_overwrite_installation.png
 .. |mac_cli_window| image:: images/mac_cli_window.png
+.. |mac_unidentified_developer| image:: images/mac_unidentified_developer.png
+.. |mac_unidentified_developer_open| image:: images/mac_unidentified_developer_open.png
+.. |mac_unidentified_developer_override| image:: images/mac_unidentified_developer_override.png
+.. |mac_right_click_open| image:: images/mac_right_click_open.png
+.. |mac_unidentified_developer_admin| image:: images/mac_unidentified_developer_admin.png
