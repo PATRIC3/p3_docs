@@ -54,14 +54,14 @@ The Protein Families Table to the right of the Filter Tool displays all of the p
 
 * **ID:** Unique identifier for the protein family. By convention, IDs prefaced by "PLF" are PLfams, "PGF_" are PGfams, and "FIG" are FIGFams.
 
-* **Proteins:** Number of proteins in the protein family
-* **Genomes:** Number of genomes in the protein family
-* **Description:** Description of the protein family, with EC number where available
-* **Proteins:** Number of proteins in the protein family
-* **Min AA Length:** Length of the shortest amino acid string in the protein family
-* **Max AA Length:** Length of the longest amino acid string in the protein family
-* **Mean:** Average length amino acid string in the protein family
-* **Std Dev:** Standard deviation among lengths of amino acid strings in the protein family
+* **Proteins:** Number of proteins in the protein family.
+* **Genomes:** Number of genomes in the protein family.
+* **Description:** Description of the protein family, with EC number where available.
+* **Proteins:** Number of proteins in the protein family.
+* **Min AA Length:** Length of the shortest amino acid string in the protein family.
+* **Max AA Length:** Length of the longest amino acid string in the protein family.
+* **Mean:** Average length amino acid string in the protein family.
+* **Std Dev:** Standard deviation among lengths of amino acid strings in the protein family.
 
 The entire table can be downloaded as text or CSV file by clicking the Download button at the top right of the table.
 
