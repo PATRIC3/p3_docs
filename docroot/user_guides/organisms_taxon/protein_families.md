@@ -11,7 +11,6 @@ The Protein Families Tab provides access to the Protein Family Sorter, which ena
 The Protein Family Sorter can be accessed by either of the following:
 
 * **Clicking the Protein Families Tab in a Taxon View:** Displays a list of all of the protein families that have any proteins assigned to them from the genomes in that taxon level.
-
 * **Launching the Protein Family Sorter Service:** Displays the Protein Family Tab for the selected genomes and protein families.
 
 ### Protein Families Filter Tool
@@ -35,9 +34,7 @@ There are 3 types of protein families computed in PATRIC:
 The checkboxes to the left side of the list of genomes provides three options for each genome.  
 
 * **Present in all families:** Shows in the table only protein families that include members from those selected genomes.
-
 * **Absent from all families:** Shows in the table only protein families that do not include members from those selected genomes.
-
 * **Either/Mixed:** Shows in the table all protein families with members from those selected genomes. This option is set by default.
 
 Clicking the checkbox in the top header section of the tool selects all the checkboxes in that column. Scrolling to the right in the Filter Tool provides additional genome metadata to aid in selection, including Genome Status, Isolation Country, Host, Disease, Collection Date, and Completion Date. 
@@ -60,19 +57,12 @@ The Protein Families Table to the right of the Filter Tool displays all of the p
 * **ID:** Unique identifier for the protein family. By convention, IDs prefaced by "PLF" are PLfams, "PGF_" are PGfams, and "FIG" are FIGFams.
 
 * **Proteins:** Number of proteins in the protein family
-
 * **Genomes:** Number of genomes in the protein family
-
 * **Description:** Description of the protein family, with EC number where available
-
 * **Proteins:** Number of proteins in the protein family
-
 * **Min AA Length:** Length of the shortest amino acid string in the protein family
-
 * **Max AA Length:** Length of the longest amino acid string in the protein family
-
 * **Mean:** Average length amino acid string in the protein family
-
 * **Std Dev:** Standard deviation among lengths of amino acid strings in the protein family
 
 The entire table can be downloaded as text or CSV file by clicking the Download button at the top right of the table.
@@ -107,13 +97,9 @@ specific genome are assigned a particular protein family.
 Genomes are listed along the Y (vertical) axis and corresponding Protein Families are listed along the X (horizontal) axis. The scale of these rows and columns may be controlled by sliding the x and/or y slidebars located at the axis intersection in the upper left corner of the Heatmap. Action buttons on the top right of the heatmap provide additional display options:
 
 * **Legend:** Displays a popup box showing the color coding scheme of the heatmap.  Clicking the Legend button again hides the popup box.
-
 * **Flip Axis:** Swaps the positions (horizontal or vertical) of the Genomes and Protein Families.
-
 * **Cluster:** Reorders the Genomes and Protein Families in their respective axes to group individual cells in the heatmap together by value (color), using Pearson Correlation.
-
 * **Advanced:** Provides advanced clustering options including clustering by Protein Families or Genomes separately, choosing alternate clustering algorithms, and choosing alternate clustering types. 
-
 * **Anchor:** Reorders the heatmap display such that all Genomes and Protein Families are baselined ("anchored") against the chosen genome.
 
 In addition to the display options described above, each individual column or row within the Heatmap may be clicked and dragged to any specified position.
@@ -121,13 +107,9 @@ In addition to the display options described above, each individual column or ro
 The following options may be accessed from a pop-up widow by clicking on any individual colored cell, any Protein Family label, or any Genome label within the Heatmap. The same information can be collected for a whole region of interest within the Heatmap by clicking and dragging to select a group of cells.
 
 * **Download Heatmap Data:** Shows the count of proteins from each Genome assigned to each Protein Family in either a text or excel file. Note: Clicking this button from a Protein Family label will produce a file with the count for each genome assigned to that Protein Family, while clicking on this button from a Genome label will produce a file with the count for that particular genome in every Protein Family.
-        
 * **Download Proteins:** Downloads the set of PATRIC features associated with the chosen proteins.  Download available as csv, txt, or Excel file.
-        
 * **Show Proteins:** Open a feature list table in PATRIC containing the features associated with the chosen proteins. This view contains the same information as any feature list in PATRIC: Genome Name, Genome ID, RefSeq Locus Tab, Gene Symbol, protein family information, Product, length, start/stop, etc. This view also allows access to sequences, enables building of multiple sequence alignments, map IDs, etc.
-    
 * **Add Proteins to Group:** button will save selected items to new, or existing, groups within the Workspace. 
-                
 * **Cancel:** Closes the pop-up window.
 
 The [Comparing Protein Families Across Genomes Tutorial](https://docs.patricbrc.org//tutorial/protein_family_sorter/protein_family_sorter.html) provides additional information and guidance in using the Protein Family Sorter.
