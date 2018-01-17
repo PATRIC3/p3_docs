@@ -24,7 +24,7 @@
 
 8. and type this into the Site item:
 ```
-[*.].patricbrc.org
+[*.]patricbrc.org
 ```
-Click "ADD" and you should see the PATRIC site in the allow list:
+This means to allow flash for patricbrc.org and any site name ending in patricbrc.org. Click "ADD" and you should see the PATRIC site in the allow list:
 ![Step 8](./images/all-done.png)
