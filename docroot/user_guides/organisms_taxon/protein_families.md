@@ -13,11 +13,13 @@ The Protein Family Sorter can be accessed by either of the following:
 * **Clicking the Protein Families Tab in a Taxon View:** Displays a list of all of the protein families that have any proteins assigned to them from the genomes in that taxon level.
 * **Launching the Protein Family Sorter Service:** Displays the Protein Family Tab for the selected genomes and protein families.
 
-### Protein Families Filter Tool
 Results will be shown in a Protein Families Filter Tool and Table, shown below.
-![Protein Families Table](../images/protein_families_table.png)
+![Protein Families Tab](../images/protein_families_tab.png)
 
+### Protein Families Filter Tool
 The Filter Tool on the left side (also used for the Protein Family Sorter, described below) provides options for selecting protein family type, presence/absence by genome, keyword, perfect/non-perfect families, and number of proteins per family.  These options are described below.
+
+![Protein Families Filter Tool](../images/protein_families_filter_tool.png)
 
 **Protein Family Types**
 
@@ -50,7 +52,11 @@ Below the Keyword filter box is the option to select either Perfect Families (on
 Below the Perfect/Non-Perfect Families option are boxes to allow filtering to specific ranges of proteins or genomes per family.  Clicking the Filter button will update the table display accordingly.
 
 ### Protein Families Table
-The Protein Families Table to the right of the Filter Tool displays all of the protein families corresponding to the selected taxonomic level or set of genomes (e.g., from a genome group), filtered based on the settings in the Filter Tool. This table provides summary information regarding the protein families: 
+The Protein Families Table to the right of the Filter Tool displays all of the protein families corresponding to the selected taxonomic level or set of genomes (e.g., from a genome group), filtered based on the settings in the Filter Tool. 
+
+![Protein Families Table](../images/protein_families_table.png)
+
+This table provides summary information regarding the protein families: 
 
 * **ID:** Unique identifier for the protein family. By convention, IDs prefaced by "PLF" are PLfams, "PGF_" are PGfams, and "FIG" are FIGFams.
 
