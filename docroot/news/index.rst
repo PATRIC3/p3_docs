@@ -17,6 +17,7 @@ News
    :maxdepth: 2
    :caption: News Archives:
 
+   2018/index
    2017/index
    2016/index
    2015/index
