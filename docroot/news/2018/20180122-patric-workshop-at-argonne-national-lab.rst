@@ -13,7 +13,7 @@ The PATRIC/RAST teams will be offering a tutorial workshop May 7-9, 2018, at Arg
 The tutorial will show participants how to assemble a genome from reads, annotate that genome, and then compare that genome to the public genomes available in PATRIC using a suite of comparative analysis tools. In addition, participants will be able to annotate sequence variation, construct a metabolic model for their genome, load and analyze RNA-Seq
 data, and use the updated BLAST service.  Participants will also learn to use PATRIC’s newest services including building phylogenetic trees, that include the ability to build a phylogenetic tree using PATRIC’s new tree-building pipeline, and do analysis of Tn-Seq data.
 
-The workshop will be limited to 40 people on a first-come, first-served basis. While there is no fee for the workshop, participants are responsible for their own travel expenses. If you wish to participate, we encourage you to respond quickly at <rast-workshop@mcs.anl.gov>.
+The workshop will be limited to 35 people on a first-come, first-served basis. While there is no fee for the workshop, participants are responsible for their own travel expenses. If you wish to participate, we encourage you to respond quickly at <rast-workshop@mcs.anl.gov>.
 
 NOTE: All workshop attendees must also separately fill out the “Argonne Visitor Request” form at: <https://apps.anl.gov/registration/visitors> as soon as possible — but especially non-U.S. Citizens, since they will take additional time to be cleared. Please enter Lisa Hundley, <lhundley@anl.gov>, for the “Sponsor’s e-mail address.”
 
