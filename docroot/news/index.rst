@@ -10,9 +10,9 @@ News
    :link: https://docs.patricbrc.org/
 
    
+   2018/20180122-patric-workshop-at-argonne-national-lab
    2017/20171220-phylogenetic-tree-video-tutorial
    2017/20171130-patric-november-2017-release
-   2017/20171122-patric-webinar
 
 
 .. toctree::
