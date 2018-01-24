@@ -71,4 +71,4 @@ After selecting one or more of the experiments by clicking the checkbox beside t
 * **Hide/Show:** Toggles (hides) the right-hand side Details Pane.
 * **Download:**  Downloads the selected items (rows).
 * **Copy:** Copies the selected items to the clipboard.
-* **Genes:** Opens the Transcriptomics Genes Filter Tool and Table/Heatmap page.  See [Transcriptomics Genes](../organisms_gene/transcriptomics.html) user guide for information on this page.
+* **Genes:** Opens the Transcriptomics Genes Filter Tool and Table/Heatmap page.  See [Transcriptomics Gene List](../organisms_taxon/transcriptomics_gene_list.html) user guide for information on this page.
