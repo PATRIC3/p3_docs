@@ -11,8 +11,6 @@ for unculturable organisms. For background we particularly recommend
          Recovery of nearly 8,000 metagenome-assembled genomes
          substantially expands the tree of life.
 
-by
-
          Parks DH, Rinke C, Chuvochina M, Chaumeil PA, Woodcroft BJ, Evans PN,
          Hugenholtz P, Tyson GW. Nat Microbiol. 2017
          PMID: 28894102
@@ -80,18 +78,17 @@ but there are other good choices.
 Once we selected a role, which we call the *seed role*, we
 constructed a blast database containing a representative collection of
 protein sequences that implement the seed role.
-We used an in-house script
+A crude version of this database can be built using the PATRIC command line tools,
+described in :doc:`/cli_tutorial/cli_getting_started`. The following sequence
+does the trick.
 
 ::
 
-       bins_protein_database -R PhenTrnaSyntAlph seed_protein.fna
+    p3-echo "Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)" | p3-find-features --attr genome_id,genome_name,patric_id,aa_sequence product | p3-tbl-to-fasta --comment=genome_id --comment=genome_name patric_id aa_sequence
 
-but the database can also be built using the PATRIC command line tools,
-described in :doc:`/cli_tutorial/cli_getting_started`. compute a representative subset of your collection (which should be
-fairly large). This script used the PATRIC database to find all
-occurrences of the identified protein in complete genomes. This database
-is permanently installed as a part of the PATRIC system and updated every
-few months.
+
+The output is then filtered to exclude proteins from low-quality genomes. The resulting
+FASTA database currently contains over 80,000 proteins.
 
 Step 1: For Each Sample, Construct a set of Contig Bins
 -------------------------------------------------------
@@ -103,8 +100,9 @@ which do not adequately cover the known seed role instance. Similarly,
 it removes hits against contigs that have less that 4-fold average
 coverage or are less than 400 base pairs in length. Each hit that remains represents
 a **bin** that will eventually be expanded into a reconstructed genome. A bin is normally
-thought of as containing a single genome, but when we cannot reasonably
-resolve two bins, we occasionally merge them into one.
+thought of as containing a single genome, but when the binning service cannot resolve two
+genomes, it may merge them into a single bin; such bins will usually receive a low quality
+score (see section 5 below), and should be set aside for further processing.
 
 Step 2: For Each Sample, Compute a Set of Reference Genomes
 -----------------------------------------------------------
@@ -147,7 +145,7 @@ Once reference genomes have been determined for each bin, we can
 partition the contigs from the sample into the
 bins. Each contig is examined for protein 12-mers in all 6 frames. In
 particular, we select for the discriminating kmers computed above.  If a
-contig has 10 or more belonging to a single bin's reference genomes, it is
+contig has 10 or more such kmers belonging to a single bin's reference genomes, it is
 placed into that bin. In particular, a contig **C** should be copied into bin **B** if and only if
 the similarity of **C** against the contigs of the reference genomes
 for **B** exceeds the specified threshold (10 discriminating kmers), and it is greater than the
