@@ -1,4 +1,4 @@
-# Experiments and Conditions Tables
+# Transcriptomics Experiments and Conditions Tables
 
 ## Overview
 The Transcriptomics Tab provides a table of all the publicly available transcriptomics experiment datasets that are incorporated into PATRIC, displayed as lists of Experiments and Comparisons. The Experiments Table shows a list of studies or datasets that contain one or more samples or experimental conditions. The Comparisons Table shows a list of curated pair-wise comparisons of two samples or experimental conditions to provide differential gene expression measurements. From these tables, the corresponding genes are available for further examination and comparative analysis.
@@ -11,7 +11,7 @@ Most PATRIC transcriptomics data has been curated from published gene expression
   * [Correlated Genes](../organisms_gene/correlated_genes.html)
   * [Expression Data Import Service](../services/expression_data_import_service.html)
 
-## Accessing the Transcriptomics Tab on the PATRIC Website
+## Accessing the Experiments and Conditions Tables on the PATRIC Website
 Clicking the Transcriptomics Tab in a Taxon View displays the Experiments Table (shown below), listing all the studies or datasets in PATRIC that contain one or more samples or experimental conditions corresponding to the selected taxon level.
 
 ### Experiments Table
