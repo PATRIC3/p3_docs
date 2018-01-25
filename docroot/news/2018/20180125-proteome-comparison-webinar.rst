@@ -6,9 +6,7 @@ PATRIC Webinar – Proteome Comparison Service, January 30, 2018, 4:00pm EST
 .. feed-entry::
    :date: 2018-01-25
 
-PATRIC provides a service that allows researchers to compare annotated proteins by bi-directional BLASTP analysis.  The Proteome Comparison tool can be used to examine up to compare nine genomes to single reference, which can be a genome that has been annotated in PATRIC or from an independent source, or a group of proteins.  
-
-On January 30th at 4pm EST we will provide a webinar demonstrates this service. Please email rwattam@vt.edu if you plan to attend so that we will know approximately how many participants to expect.
+PATRIC provides a service that allows researchers to compare annotated proteins by bi-directional BLASTP analysis.  The Proteome Comparison tool can be used to examine up to compare nine genomes to single reference, which can be a genome that has been annotated in PATRIC or from an independent source, or a group of proteins.  On January 30th at 4pm EST we will provide a webinar demonstrates this service. Please email rwattam@vt.edu if you plan to attend so that we will know approximately how many participants to expect. The webinar will be recorded and made available for later access.
 
 
 .. cut::
