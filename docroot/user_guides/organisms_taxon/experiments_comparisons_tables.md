@@ -8,6 +8,7 @@ Most PATRIC transcriptomics data has been curated from published gene expression
 ### See also
   * [Examining Transcriptomics Data Tutorial](https://docs.patricbrc.org//tutorial/examining_transcriptomics_data/examining_transcriptomics_data.html)
   * [Transcriptomics Gene List](../organisms_taxon/transcriptomics_gene_list.html)
+  * [Transcriptomics Gene List Heatmap](../organisms_taxon/transcriptomics_gene_list_heatmap.html)
   * [Transcriptomics Gene Page](../organisms_gene/transcriptomics.html)
   * [Correlated Genes](../organisms_gene/correlated_genes.html)
   * [Expression Data Import Service](../services/expression_data_import_service.html)
