@@ -6,6 +6,7 @@ A Gene List in PATRIC is a custom user-created list of genes based on the transc
 ### See also
   * [Examining Transcriptomics Data Tutorial](https://docs.patricbrc.org//tutorial/examining_transcriptomics_data/examining_transcriptomics_data.html)
   * [Transcriptomics Experiments and Comparisons](../organisms_taxon/experiments_comparisons_tables.html)
+  * [Transcriptomics Gene List Heatmap](../organisms_taxon/transcriptomics_gene_list_heatmap.html)
   * [Transcriptomics Gene Page](../organisms_gene/transcriptomics.html)
   * [Correlated Genes](../organisms_gene/correlated_genes.html)
   * [Expression Data Import Service](../services/expression_data_import_service.html)
