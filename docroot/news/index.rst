@@ -10,9 +10,9 @@ News
    :link: https://docs.patricbrc.org/
 
    
+   20180131-patric-january-2018-release
    2018/20180125-proteome-comparison-webinar
    2018/20180122-patric-workshop-at-argonne-national-lab
-   2017/20171220-phylogenetic-tree-video-tutorial
    
 
 .. toctree::
