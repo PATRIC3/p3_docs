@@ -22,9 +22,8 @@ This release features additional AMR for 988 genomes already in PATRIC, curated 
 
 **New Plasmid Database**
 
-As part of this release, we have added a new plasmid database with over 10,000 plasmid sequences, which are not associated with sequenced genomes in PATRIC. All plasmids are consistently annotated using the PATRIC Annotation Service and can be compared using various comparative genomics tools in PATRIC. Plasmids can be found in PATRIC by filtering any list of genomes in PATRIC where the Genome Status field is "Plasmid," for example, as shown `here 
-<https://www.patricbrc.org/view/GenomeList/?and(or(eq(genome_status,%22Plasmid%22)),eq(public,%22true%22))#view_tab=genomes`__.
-
+As part of this release, we have added a new plasmid database with over 10,000 plasmid sequences, which are not associated with sequenced genomes in PATRIC. All plasmids are consistently annotated using the PATRIC Annotation Service and can be compared using various comparative genomics tools in PATRIC. Plasmids can be found in PATRIC by filtering any list of genomes in PATRIC where the Genome Status field is "Plasmid," for example, as shown `here
+<https://www.patricbrc.org/view/GenomeList/?and(or(eq(genome_status,%22Plasmid%22)),eq(public,%22true%22))#view_tab=genomes>`__.
 
 New Website Features:
 --------------
