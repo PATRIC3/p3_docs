@@ -7,6 +7,7 @@ PATRIC January 2018 Data and Website Release
    :date: 2018-01-31
 
 In this release, PATRIC has added over 4,000 new genomes and associated metadata, bringing the total number of genomes and plasmids in PATRIC to over 150,000. This release also features a new Metagenomic Binning Service that allows users to assemble and annotate high-quality microbial genomes directly from metagenomic reads.
+
 .. cut::
 
 
