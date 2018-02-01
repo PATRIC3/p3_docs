@@ -26,7 +26,7 @@ As part of this release, we have added a new plasmid database with over 10,000 p
 <https://www.patricbrc.org/view/GenomeList/?and(or(eq(genome_status,%22Plasmid%22)),eq(public,%22true%22))#view_tab=genomes>`__.
 
 New Website Features:
---------------
+----------------------
 
 **Metagenomic Binning Service**
 
