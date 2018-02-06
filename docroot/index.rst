@@ -16,6 +16,7 @@ PATRIC Documentation Home
    cli_tutorial/index
    user_guide/index
    user_guides/index
+   webinar/index
    news/index
    system_architecture/index
 
