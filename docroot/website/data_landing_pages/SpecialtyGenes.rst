@@ -20,7 +20,7 @@ Specialty Genes
           </div>
 
         <!--  -->
-        <div class="data-box" id="dlp-features-data">
+        <div class="data-box" id="dlp-sp-features-data">
           <h3 class="ribbon-title">What do we mean by ...</h3>
           <br/>
           <h4>Antibiotic Resistance:</h4>
