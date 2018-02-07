@@ -20,5 +20,6 @@ Upcoming Webinars
    :maxdepth: 1
    :caption: Webinar List
 
+   patric_quickstart
    proteome_comparison
    phylogenetic_tree_builder
