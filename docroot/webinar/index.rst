@@ -1,24 +1,23 @@
 Webinars
 ==========
 
-[place holder introduction for webinars]
+PATRIC hosts webinars to introduce participants to features and functionality of the resource and allow an opportunity for questions and answers. The currently planned webinar schedule is below.  Completed webinars are recorded and made available as YouTube videos, accessible from the links below.
 
 Upcoming Webinars
 ------------------
-[place holder for upcoming webinar. ]
 
-+--------------------------------------------------------------------+-------------------------+
-| Topic                                                              | Date                    |
-+====================================================================+=========================+
-| Proteome Comparison Service                                        | 2018-01-25 4:00 pm EST  |
-+--------------------------------------------------------------------+-------------------------+
-| Phylogenetic Tree Builder                                          | 2017-12-20 4:00 pm EST  |
-+--------------------------------------------------------------------+-------------------------+
++------------------------------------------+-------------------------+-------------------------+
+| Topic                                    | Date                    | Information             |
++==========================================+=========================+=========================+
+| Metagenomic Binning Service              | 2018-02-28 3:00 pm EST  |                         |
++------------------------------------------+-------------------------+-------------------------+
+| TBA                                      | TBA                     |                         |
++------------------------------------------+-------------------------+-------------------------+
 
 
 .. toctree::
    :maxdepth: 1
-   :caption: Webinar List
+   :caption: Recorded Webinars
 
    proteome_comparison
    phylogenetic_tree_builder
