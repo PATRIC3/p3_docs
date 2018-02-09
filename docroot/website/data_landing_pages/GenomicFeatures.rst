@@ -9,7 +9,12 @@ Genomic Features
       <!-- Section: Data -->
       <div class="data-tab" id="tab1">
         <div class='large'>
-          <p>Genomic Features are defined segments of a genome. Most often features will code for proteins or RNAs, however some correspond to pseudogenes or repeat regions. We currently support over 40 <a href="https://docs.patricbrc.org/user_guide/genome_feature_data_and_tools/Genomic_Feature_Types" target="_blank">Genomic Feature Types</a>. Learn how to find and use PATRIC Feature Tables in our <a href="https://docs.patricbrc.org/user_guide/genome_feature_data_and_tools/feature_table.html" target="_blank">Feature Table FAQs</a>.</p>
+          <p>
+            Genomic Features are defined segments of a genome. Most often features will code for proteins or RNAs,
+            however some correspond to pseudogenes or repeat regions. We currently support over 40
+            <a href="https://docs.patricbrc.org/user_guides/organisms_taxon/genome_annotations.html" target="_blank">Genomic Feature Types</a>.
+            Learn how to find and use PATRIC Feature Tables in our
+            <a href="http://docs.patricbrc.org/user_guides/organisms_taxon/features.html" target="_blank">Feature Tab User Guide</a>.</p>
         </div>
 
         <div class="data-box" id="dlp-features-data">
