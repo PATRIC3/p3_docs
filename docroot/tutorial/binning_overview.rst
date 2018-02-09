@@ -59,7 +59,7 @@ hope that you will explore the approach and have fun in the process.
 Here then is basically how we build the reconstructed genomes.
 
 Preparation: Construct a Representative Collection of a Universal Protein
---------------------------------------------------------------------
+-------------------------------------------------------------------------
 
 We sought a functional role that satisfies the following criteria:
 
