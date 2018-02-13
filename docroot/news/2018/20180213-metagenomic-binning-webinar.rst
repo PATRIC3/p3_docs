@@ -22,13 +22,13 @@ Webinar connection information:
 PATRIC Webinar
 ~~~~~~~~~~~~~~~
 
-Tuesday, January 30, 2018,
+Wednesday, February 28, 2018
 
-4:00 pm Eastern Standard Time (New York, GMT-05:00), 1 hr
+3:00 pm Eastern Standard Time (New York, GMT-05:00), 1 hr
 
-<https://virginiatech.webex.com/virginiatech/j.php?MTID=m2b9bf8ee0ba76fa73fc65a0dd734f859>
+<https://virginiatech.webex.com/virginiatech/j.php?MTID=m85170d102da7f8f64147a694bd09591f>
 
-Meeting number (access code): 641 088 085
+Meeting number (access code): 649 723 633
 
 
 Audio Connection Options
