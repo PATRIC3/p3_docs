@@ -36,6 +36,7 @@ options are the following:
    as News, Publications, About PATRIC, Citing PATRIC, Scientific
    Working Group, Personnel, Collaborators, Related Sites, and System
    Architecture.
+-  `System Requirements <system_requirements.html>`_ - Minimal hardware and software needs for the user's computer in order to be able to use PATRIC's features and functionality successfully.
 
 A "PATRIC Quickstart" video tutorial providing an overview of the PATRIC
 website is available from the Help Menu .
@@ -50,3 +51,5 @@ website is available from the Help Menu .
    services_tab
    global_search
    registration
+   system_requirements
+   data_submission_to_patric
