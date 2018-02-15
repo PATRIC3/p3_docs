@@ -14,25 +14,16 @@ Clicking the Interactions Tab in a Genome View displays the Interactions Table, 
 The tables include the following columns (fields) for each interaction, and are based on [PSI-MITAB](https://wiki.reactome.org/index.php/PSI-MITAB_interactions) format:
 
 * **Interactor A:** PATRIC ID (unique primary identifier) for one of the two interacting features (protein-coding genes).
-
 * **Gene A:** Gene name for the feature, if available.
-
 * **Desc A:** Protein product (functional annotation) associated with the feature.  
-
 * **Interactor B:** PATRIC ID for the other of the two interacting features.
-
 * **Gene B:** Gene name for the feature, if available.
-
 * **Desc B:** Protein product associated with the feature.  
-
 * **Category:** Category of interaction: 
    * PPI = protein-protein interaction
    * HPI = host-pathogen interaction
-
 * **Interaction Type:** Interaction types, taken from the corresponding [PSI-MI controlled vocabulary](https://www.ebi.ac.uk/ols/ontologies/mi).
-
 * **Detection Method:** Interaction detection method, taken from the corresponding [PSI-MI controlled vocabulary](https://www.ebi.ac.uk/ols/ontologies/mi).
-
 * **Evidence:** Evidence of the interaction:
   * Experimental = identified by laboratory method
   * Computational = predicted by computational method 
@@ -41,7 +32,6 @@ The tables include the following columns (fields) for each interaction, and are 
 Within this table you may do the following:
 
 * **Download** the entire contents of the table in text, CSV, or Excel format by clicking the Download button above the table on the left side.
-
 * **Rearrange and narrow** the list of genomes in the table via sorting (using column headers), keywords (using the Keyword box), and filtering (using the Filters tool).
 
 ### Filter Tool
@@ -77,20 +67,12 @@ In the graph, proteins (interactors) are displayed as nodes and the interactions
 Additional options are available from the upper right area of the graph.  These include the following:
 
 * **Export:** Creates a png image file of the graph and makes it available for saving to disk.
-
 * **Subgraph:** Auto-selects subgraphs with more than 5, 10, or 20 nodes, or auto-selection of the largest subgraph.
-
 * **Hub Protein:** Auto-selects hub proteins with more than 5, 10, or 20 nodes, or auto-selection of the most connected hub 
-
 * **Layout:** Changes the layout of the display, with several options available
-
 ### Action buttons
 
 After selecting one or more of the nodes by clicking it (ctrl-clicking to select multiple nodes), a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
-
-
-Selecting a node by clicking on it (or multiple nodes using ctrl-click) 
-
 
 * **Hide/Show:** Toggles (hides) the right-hand side Details Pane.
 * **Download:**  Downloads the selected items (rows).
