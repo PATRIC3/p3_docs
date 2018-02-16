@@ -1,5 +1,5 @@
-Recommended System Requirements
-================================
+System Requirements
+===================
 
 The following system requirements are recommended for optimal PATRIC
 tool access and performance:
