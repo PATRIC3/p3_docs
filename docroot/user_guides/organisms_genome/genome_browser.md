@@ -1,132 +1,49 @@
 # Genome Browser
 
+## Overview
+The Genome Browser provides an interactive graphical representation of the alignment of genes and other genomic features depicted along a horizontal axis of genome coordinates.
+
+### See also
+  * [Genome Annotations](../organisms_taxon/genome_annotations.html)
+  * [Exploring a (private) genome in PATRIC Tutorial](http://docs.patricbrc.org/tutorial/private_genome/private_genome.html)
+
 ## Accessing the Genome Browser on the PATRIC Website
+Clicking the Genome Browser Tab in a Genome View displays the interactive Genome Browser, shown below. You may also access the Genome Browser from PATRIC tables that contain genomes by selecting the genome row and clicking the Genome Browser button in the vertical green Action Bar on the right side of the table.
 
-Each Organism on PATRIC has an Organism Landing Page. To get to this
-page at the Genus level, select your Genera of interest from the
-Organisms tab on the PATRIC homepage. The phylogeny of each Landing Page
-is listed across the top of the page. Once on the Genera Landing Page,
-you may access the Genome Browser by drilling down in one of the
-following ways to either the Genome or the Feature level:
+![Genome Browser](../images/genome_browser.png)
 
--   Select the Genome List tab and click on your Genome Name of
-    interest. This will take you to the chosen Genome-level Landing
-    Page. At all Genome and Feature-level Landing Pages, the Genome List
-    tab at the top of the page changes to a Genome Browser tab providing
-    direct access to the Tool.
--   Select the Genome List tab and click on any Genome Browser icon
-    within the table to visually explore a specific genome.
+The Genome Browser provides an interactive graphical representation of the alignment of genes and other genomic features depicted along a horizontal axis of genome coordinates. The Ajax-based genome browser was implemented using JBrowse
+([Skinner et al, 2009](http://www.ncbi.nlm.nih.gov/pubmed/19570905)). Features and functionality are described in detail below.
 
--   Select the Feature Table tab and click on any Genome Browser icon
-    within the table.
+## Genome Browser Features and Functionality
 
-You may also access the Genome Browser from within any PATRIC table you
-create while using PATRIC Searches and Tools where you see the Genome
-Browser icon.
+### Genome Browser Main Window
 
-## Genome Browser Overview
+![JBrowse and Browser Tracks](../images/jbrowse_tracks.png)
 
-The Genome Browser is a graphical representation of the alignment of
-genes and other genomic data depicted along a central horizontal axis of
-genome coordinates.
+* **Pan** to a region of interest in the genome by
+  * Using the forward and backward arrow buttons at the top of the Browser.
+  * Clicking and dragging the red slide box bar located within the genome coordinate axis.
+  * Entering desired start and/or end coordinates in the coordinate field and clicking on the “Go” button.
 
-### Genome Browser Features and Functionality
+* **Zoom** in/out to regions of interest by using the + and – buttons along the top of the Browser. The larger buttons will zoom further in/out with one click than the smaller buttons. Zooming to approximately 650 base pairs or less reveals a color-coded (a = green, t = red , c = blue , g = yellow) DNA sequence track for the Reference Sequence. Zooming in to 150 base pairs or less labels the nucleic acids (NA) and associated 6-frame translated amino acids (AA) with their corresponding letters.
 
-Genome Browser Main Window:
+![Reference Sequence](../images/reference_sequence.png)
 
--   Pan to a region of interest in the genome by:
-    -   Using the forward and backward arrow buttons at the top of the
-        Browser.
-    -   Clicking and dragging the red slide bar located within the
-        genome coordinate axis.
-    -   Entering your own start and/or end coordinates in the coordinate
-        field and clicking on the “Go” button.
+* **Share** the current display (location, zoom) by clicking the Share Button at the top upper right corner. Copy this url and share it or save it and visit the same area at another time.
 
--   Zoom in/out to regions of interest by using the + and – buttons
-    along the top of the Browser. The larger buttons will zoom further
-    in/out with one click than the smaller buttons.
+* **Highlight** a region of the browser using the Highlight Button in the Zoom Bar next to the sequence range near the top of the browser. Clear highlighted sections via the View menu. Note: A highlighted notation will remain when using the Share Button.
 
-Note: Once you reach a zoom level of approximately 1,300 base pairs or
-less a color-coded DNA sequence track (with associated AAs) will appear
-for the Reference Sequence. Zooming in to 150 base pairs or less will
-label the NAs and AAs with the corresponding letter.
+## Browser Tracks and Downloading
+By default, the Genome Browser initially displays PATRIC and RefSeq (if available)  annotated data tracks. If available, additional tracks from other annotation sources are located in the Available Tracks column, along the left side of the Genome Browser.
 
-A = green, T = red , C = blue , G = yellow.
+* **Add or remove tracks** by either selecting or unselecting the track name in the Available Tracks box on the left side, or alternately, either clicking the "x" beside the track name or clicking and dragging the track between the Available Tracks box and the browser window.
 
--   Any specific area you are viewing in the genome browser may be saved
-    for the future via clicking the “Link” button in the upper right.
-    Copy this url and share it or save it and visit the same area at
-    another time.
--   Using a yellow highlighter, you may highlight a region of the
-    browser. To do this either select the highlighter icon (in the zoom
-    bar) and then click and drag an area of the browser window or use
-    the View menu in the top left. Clear highlighted sections via the
-    View menu.
+* **Perform other actions tracks** by hovering the mouse cursor over the track label in the browser and selecting from the drop-down menu. The actions include displaying information about the track, pinning the track to the top row in the browser, editing the tracks configuration, removing the track to the Available Tracks box, saving track data, changing the display mode, and showing/hiding feature labels.
+  * When saving track data, you may chose to view or download either the “visible region” or the “whole reference genome” in one of the three following formats: GFF3, BED, or Sequin Table.
 
-Note: A highlighted notation will remain when using the Link tool.
+* **Upload your own tracks and add custom tracks** by selecting “Open” from the File menu in the top left corner of the browser and selecting **annotations** or **gene lists** as GFF3 files; **RNA-Seq**, **ChIP-Seq**, or **SNP data** as BigWig or BAM files; or by providing URLs that point to these files.
 
-Interacting with Browser Tracks and Downloading Track/Sequence Data:
+* **Create tracks showing specific regions of the Reference Sequence** (or it’s translations) by entering the NA or AA sequence via the “Add sequence search track” option in the File menu.
 
--   The Genome Browser will initially open showing both PATRIC (blue)
-    and RefSeq (green) annotated data tracks.
--   Additional tracks, such as those annotated by Legacy BRCs, are
-    located in the Available Tracks column, along the left side of the
-    Genome Browser.
-    -   To add or remove tracks from the Genome Browser, simply click
-        and drag them between the “Available Tracks” column and the
-        browser window.
-    -   You may also remove tracks from the browser window by clicking
-        on “Remove Track” from the drop-down menu next to the annotation
-        source label or clicking on the “x” on the annotation source
-        label.
--   From the drop down menu (accessed by hovering over the Reference
-    sequence track label,) you may see information about the track, pin
-    the track to the top row in the browser, edit the tracks
-    configuration, remove the track to the Available Tracks column, save
-    track data, and chose to show/hide forward strand, reverse strand,
-    and translation.
-    -   When saving track data, you may chose to view or download either
-        the “visible region” or the “whole reference genome” in FASTA
-        format.
--   From the drop down menu (accessed by hovering over any Annotation
-    track label,) you may see information about the track, pin the track
-    to the top of the row in the browser, edit the tracks configuration,
-    remove the track to the Available Tracks column, save the track
-    data, or show/hide feature labels.
-    -   When saving track data, you may chose to view or download either
-        the “visible region” or the “whole reference genome” in one of
-        the three following formats: GFF3, BED, or Sequin Table.
-
-Uploading Your Own Tracks and Adding Custom Tracks:
-
--   Upload and view your own annotations or gene lists as GFF3 files and
-    view them as tracks on the genome browser by selecting “Open” from
-    the File menu in the top left corner of the browser.
--   Upload and view your RNA-Seq, ChIP-Seq, or SNP data as BigWig or BAM
-    files and view them as tracks in the genome browser by selecting
-    “Open” from the File menu in the top left corner of the browser.
--   You may also create tracks showing specific regions of the Reference
-    Sequence (or it’s translations) by entering the NA or AA sequence.
-    To do this, select “Add sequence search track” from the file menu.
-
-Interacting with Individual Browser Features and Accessing Feature
-Sequence Data:
-
--   Different genomic feature types annotated by the same source are
-    grouped together as single tracks, using various shades of the same
-    color to represent different feature types. i.e. PATRIC annotations,
-    shown in blue, will range from light blue to darker blue depending
-    on the feature type.
--   Hovering over any feature within the Browser will display
-    information such as Locus Tag, Location, Strand, Type, Gene Symbol,
-    and Product.
--   Clicking on any feature within the Browser will open a pop-up with
-    feature details and, if applicable, links to the Genome Browser,
-    Compare Region Viewer, Associated Pathways, Transcriptomics Data,
-    and Correlated Genes for that particular feature. The pop-up also
-    contains the NA sequence for the feature.
-
-### Source
-
-PATRIC offers Ajax-based genome browser implemented using JBrowse
-([Skinner et al, 2009](http://www.ncbi.nlm.nih.gov/pubmed/19570905)).
+* **Access information about an individual feature** by hovering over the feature with the mouse cursor to display information such as Locus Tag, Location, Strand, Type, Gene Symbol, and Product. Click on the feature to open a pop-up box with feature details such as links to NCBI for the RefSeq Locus Tag, Protein ID, and Gene ID; links to PATRIC for the Genome ID and Genome Name; and displays of the NA and AA sequences.
