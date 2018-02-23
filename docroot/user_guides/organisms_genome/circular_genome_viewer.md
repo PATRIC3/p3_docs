@@ -1,64 +1,46 @@
 # Circular Genome Viewer
 
-## Accessing the Circular Genome Viewer on the PATRIC Website
-
-Each Organism on PATRIC has an Organism Landing Page. To get to this
-page at the Genus level, select your Genera of interest from the
-Organisms tab on the PATRIC homepage. The phylogeny of each Landing Page
-is listed across the top of the page. Once on the Genera Landing Page,
-you may access the Circular Genome Viewer by drilling down in one of the
-following ways to either the Genome or the Feature level:
-
--   Select the Genomes tab, select your Genome of interest from the
-    table, and click on the Genome icon from the green action bar. This
-    will take you to the chosen Genome View Landing Page. Click on the
-    Circular Viewer tab to access to the Tool.
--   Select the Genomes tab, select your Genome of interest from the
-    table. Press and hold on the Genome icon from the green action bar.
-    This will provide you a drop down selections. Select the Circular
-    Viewer from the list to access to the Tool.
-
--   Select the Features tab, select your Genome of interest from the
-    table, and click on the Genome icon from the green action bar. This
-    will take you to the chosen Genome View Landing Page. Click on the
-    Circular Viewer tab to access to the Tool.
--   Select the Features tab, select your Genome of interest from the
-    table. Press and hold on the Genome icon from the green action bar.
-    This will provide you a drop down selections. Select the Circular
-    Viewer from the list to access to the Tool.
-
-## Circular Genome Viewer
-
-The Circular Genome Viewer is a circular graphical representation of the
+## Overview
+The Circular Genome Viewer provides a circular interactive graphical representation of the
 alignment of genes and other genomic data.
 
-### Circular Genome Viewer Features and Functionality
+### See also
+  * [Genome Annotations](../organisms_taxon/genome_annotations.html)
+  * [Exploring a (private) genome in PATRIC Tutorial](http://docs.patricbrc.org/tutorial/private_genome/private_genome.html)
 
-Circular Genome Viewer Main Window:
+## Accessing the Circular Genome Viewer on the PATRIC Website
+Clicking the Circular Viewer tab in a Genome View displays the interactive Circular Genome Viewer, shown below. 
 
--   mouse over or mouse click on a contig in the circular graph to view
-    the genome information.
--   mouse over or mouse click on a feature in the circular graph to view
-    the feature information.
+![Circular Genome Viewer](../images/circular_viewer.png)
 
-Available Tracks Panel
+The Circular Genome Viewer provides a circular interactive graphical representation of the alignment of genes and other genomic data. The tracks on the viewer are displayed as concentric rings, from outermost to innermost: Position, Contigs/Chromosomes, CDS-forward, CDS-reverse, Non-CDS Features, GC Content, and GC Skew. Features and functionality of the viewer are described in detail below.
 
--   The Available Tracks Panel on left lists all available tracks in the
-    circular viewer.
--   You may click on the Eye icon to show/hide the tracks.
--   The color palettes in front of each track name are provided for you
-    to change the foreground color and/or background color to the colors
-    of your choice.
+## Circular Genome Viewer Features and Functionality
 
-Adding Custom Tracks and Uploading Your Own Data
+### Circular Genome Viewer Main Window:
 
--   You may add custom tracks by selecting feature type, strand and
-    keywords to show genes of interest.
--   You may upload your own data to display your data as Tile, Line,
-    Histogram, or Heatmap plot
+![Circular Genome Viewer Features](../images/circular_viewer_features.png)
 
-Export SVG Image
+The main window on the right side shows the circular view, which has interactive features triggered by mouseovers and mouse-clicks. 
 
--   Click on the Export SVG Image button from the left panel to save the
-    circular graph.
-    
+* **View the Genome information** by mousing over or clicking on a contig
+
+* **View the Feature information** by mousing over or clicking on a feature
+
+### Tracks Panel:
+
+![Circular Genome Viewer Tracks](../images/circular_viewer_tracks.png)
+
+The Available Tracks Panel on left lists all available tracks in the Circular Viewer.
+
+* **Show/hide tracks** by clicking on the eye icon to the right of the track name.
+
+* **Remove tracks** by clicking the "X" to the right of the track name.
+
+* **Change the color of the track** or background by clicking on the small squares to the left of the track name.
+
+* **Add a custom track* by selecting feature type, strand and keywords to show genes of interest.
+
+* **Add a custom track of your own data** by choosing the display option (Tile, Line, Histogram, or Heatmap) and choosing a file containing **annotations** or **gene lists** as GFF3 files; or **RNA-Seq**, **ChIP-Seq**, or **SNP data** as BigWig or BAM files.
+
+* **Export an SVG image** by clicking the Export SVG Image button.
