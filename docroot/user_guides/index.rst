@@ -36,6 +36,7 @@ options are the following:
    as News, Publications, About PATRIC, Citing PATRIC, Scientific
    Working Group, Personnel, Collaborators, Related Sites, and System
    Architecture.
+-  `Views, Tables, Action Bar <views_tables_action-bar.html>`_ - Common navigation elements and tools throughout the website. 
 -  `System Requirements <system_requirements.html>`_ - Minimal hardware and software needs for the user's computer in order to be able to use PATRIC's features and functionality successfully.
 
 A "PATRIC Quickstart" video tutorial providing an overview of the PATRIC
@@ -51,5 +52,6 @@ website is available from the Help Menu .
    services_tab
    global_search
    registration
+   views_tables_action-bar
    system_requirements
    data_submission_to_patric
