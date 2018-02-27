@@ -45,10 +45,10 @@ Publication: [PMID 28334803](https://www.ncbi.nlm.nih.gov/pubmed/28334803)
 
 Tn-Seq is an experimental method for probing the functions of genes through construction of complex random transposon insertion libraries and quantification of each mutant's abundance using next-generation sequencing. An important emerging application of Tn-Seq is for identifying genetic interactions, which involves comparing Tn mutant libraries generated in different genetic backgrounds (e.g. wild-type strain versus knockout strain). Several analytical methods have been proposed for analyzing Tn-Seq data to identify genetic interactions, including estimating relative fitness ratios and fitting a generalized linear model. However, these have limitations which necessitate an improved approach. We present a hierarchical Bayesian method for identifying genetic interactions through quantifying the statistical significance of changes in enrichment. The analysis involves a four-way comparison of insertion counts across datasets to identify transposon mutants that differentially affect bacterial fitness depending on genetic background. Our approach was applied to Tn-Seq libraries made in isogenic strains of Mycobacterium tuberculosis lacking three different genes of unknown function previously shown to be necessary for optimal fitness during infection. By analyzing the libraries subjected to selection in mice, we were able to distinguish several distinct classes of genetic interactions for each target gene that shed light on their functions and roles during infection.
 
-Data sets and additional information can be found [here](https://www.patricbrc.org/webpage/website/data_collections/content/flute-experiment-4).
+Data sets and additional information can be found [here](https://www.patricbrc.org/webpage/website/data_collections/content/flute-experiment-4.html).
 
 ## TnSeq datasets for 10 knockouts in Mtb
 
 In this experiment, knockout strains for 10 genes in Mycobacterium tuberculosis H37Rv and assayed by TnSeq to identify conditional essentials (compared to WT, using the resampling statistical method in Transit). The target genes (knockedout) are: Rv3594, Rv3717, Rv3811, Rv0307c, Rv3916c, Rv0950, Rv1096, Rv3684, Rv0954, and Rv3671c.
 
-Data sets and additional information can be found [here](https://www.patricbrc.org/webpage/website/data_collections/content/flute-experiment-5).
+Data sets and additional information can be found [here](https://www.patricbrc.org/webpage/website/data_collections/content/flute-experiment-5.html).
