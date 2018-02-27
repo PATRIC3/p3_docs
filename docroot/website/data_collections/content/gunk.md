@@ -19,7 +19,7 @@ Publication: [PMC4438207](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4438207/)
 
 Acinetobacter baumannii is a Gram-negative bacterial pathogen notorious for causing serious nosocomial infections that resist antibiotic therapy. Research to identify factors responsible for the pathogen’s success has been limited by the resources available for genome-scale experimental studies. This report describes the development of several such resources for A. baumannii strain AB5075, a recently characterized wound isolate that is multidrug resistant and displays robust virulence in animal models. We report the completion and annotation of the genome sequence, the construction of a comprehensive ordered transposon mutant library, the extension of high-coverage transposon mutant pool sequencing (Tn-seq) to the strain, and the identification of the genes essential for growth on nutrient-rich agar. These resources should facilitate large-scale genetic analysis of virulence, resistance, and other clinically relevant traits that make A. baumannii a formidable public health threat.
 
-Data sets and additional information can be found [here](https://www.patricbrc.org/webpage/website/data_collections/content/gunk-experiment-1).
+Data sets and additional information can be found [here](https://www.patricbrc.org/webpage/website/data_collections/content/gunk-experiment-1.html).
 
 ## Host-Microbe Protein Interactions during Bacterial Infection
 
@@ -27,7 +27,7 @@ Publication: PubMed PMID: [26548613](http://www.ncbi.nlm.nih.gov/pubmed/26548613
 
 Interspecies protein-protein interactions are essential mediators of infection. While bacterial proteins required for host cell invasion and infection can be identified through bacterial mutant library screens, information about host target proteins and interspecies complex structures has been more difficult to acquire. Using an unbiased chemical crosslinking/mass spectrometry approach, we identified interspecies protein-protein interactions in human lung epithelial cells infected with Acinetobacter baumannii. These efforts resulted in identification of 3,076 crosslinked peptide pairs and 46 interspecies protein-protein interactions. Most notably, the key A. baumannii virulence factor, OmpA, was identified as crosslinked to host proteins involved in desmosomes, specialized structures that mediate host cell-to-cell adhesion. Co-immunoprecipitation and transposon mutant experiments were used to verify these interactions and demonstrate relevance for host cell invasion and acute murine lung infection. These results shed new light on A. baumannii-host protein interactions and their structural features, and the presented approach is generally applicable to other systems.
 
-Data sets and additional information can be found [here](https://www.patricbrc.org/webpage/website/data_collections/content/gunk-experiment-2).
+Data sets and additional information can be found [here](https://www.patricbrc.org/webpage/website/data_collections/content/gunk-experiment-2.html).
 
 ## Joint Transcriptional Control of Virulence and Resistance to Antibiotic and Environmental Stress in Acinetobacter baumannii
 
