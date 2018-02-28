@@ -69,6 +69,18 @@ This will then take you back to the Binning Service start page.
 
 .. image:: images/service-page-6.png
 
+If you specify contigs as input, the coverage information is computed from
+the contig IDs or comments. Inside the contig ID, we look for the keywords
+``cov``, ``covg``, or ``coverage``. The coverage value is taken from the
+following number, with an underscore expected as the separator. Thus,
+a contig ID of ``NODE_20_LENGTH_8732_COV_21.5064_ID_287776`` would indicate
+a coverage of 21.5064. Most assemblers produce contig IDs of this form.
+We will also look for keywords in the comment field.
+The keyword can be any of the above or the word ``multi``. The coverage number
+should follow the keyword with an equal sign expected as a separator. Thus,
+``coverage=21.5064`` in the comment would indicate a coverage of 21.5064.
+If no coverage information can be found, a value of 50 is assumed for everything.
+
 Next, choose an output folder by clicking on the folder icon next the
 *Output Folder* choice. This will take you to the workspace browser
 where you should choose whatever Workspace folder you like. In this
