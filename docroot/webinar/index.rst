@@ -19,5 +19,6 @@ Upcoming Webinars
    :maxdepth: 1
    :caption: Recorded Webinars
 
+   metagenomic_binning
    proteome_comparison
    phylogenetic_tree_builder
