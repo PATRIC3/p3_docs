@@ -6,8 +6,6 @@ PATRIC/RAST Workshop at Argonne National Laboratory, May 7-9, 2018
 .. feed-entry::
    :date: 2018-01-22
 
-**NOTE: THE WORKSHOP IS NOW FULL.  PATRIC WILL BE OFFERING ANOTHER WORKSHOP AT ARGONNE NATIONAL LAB IN FALL OF 2018.**
-
 The PATRIC/RAST teams will be offering a tutorial workshop May 7-9, 2018, at Argonne National Laboratory in the suburbs of Chicago, IL. The workshop will run for three days, with the third day optional and devoted solely to participants working on their own problems with help from the PATRIC/RAST team members.
 
 .. cut::
