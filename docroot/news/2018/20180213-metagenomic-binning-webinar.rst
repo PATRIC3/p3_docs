@@ -10,7 +10,7 @@ PATRIC provides a new Metagenomic Binning Service that accepts either reads or c
 
 On February 28th at 3pm EST we will provide a webinar demonstrates this service. Please email rwattam@vt.edu if you plan to attend so that we will know approximately how many participants to expect. The webinar will be recorded and made available for later access.
 
-**Note: The recorded webinar is now available here: <https://docs.patricbrc.org//webinar/metagenomic_binning.html>**
+**Note: The recorded webinar is now available here:** <https://docs.patricbrc.org//webinar/metagenomic_binning.html>
 
 .. cut::
 
