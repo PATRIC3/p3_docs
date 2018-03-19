@@ -1,8 +1,8 @@
-# Comprehensive Genome Analysis Service
+# Comprehensive Genome Analysis Service (DRAFT)
 
 ## Overview
 
-The Comprehensive Genome Analysis Service allows ... (SOMEONE SHOULD PROVIDE TEXT).
+The Comprehensive Genome Analysis Service allows ...
 
 When starting with read file, ..., below is copied from Genome Assembly Service: allows single or multiple assemblers to be invoked to compare results. The service attempts to select the best assembly, i.e., assembly with the smallest number of contigs and the longest average contig length. Several assembly workflows or “recipes” are available that have been tuned to fit certain data types or desired analysis criteria such as throughput or rigor. Once the assembly process has started by clicking the Assemble button, the genome is queued as a “job” for the Assembly Service to process, and will increment the count in the Jobs information box on the bottom right of the page. Once the assembly job has successfully completed, the output file will appear in the workspace, available for use in the PATRIC comparative tools and downloaded if desired. A tutorial for using the Assembly Service is available here.
 
@@ -11,7 +11,7 @@ When starting with assembled contigs file, ..., The Genome Annotation Service us
 The Comprehensive Genome Analysis Service can be accessed from the Services Menu at the top of the PATRIC website page.
 
 ## Start with
-Start with text goes here
+Start with text goes here.
 
 ## Selected libraries
 Read files placed here will contribute to a single assembly.
