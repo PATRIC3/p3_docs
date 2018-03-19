@@ -1,0 +1,16 @@
+[{
+    "title": "PATRIC/RAST Workshop at Argonne National Laboratory, May 7-9, 2018",
+    "desc": "The PATRIC/RAST teams will be offering a tutorial workshop May 7-9, 2018, at Argonne National Laboratory in the suburbs of Chicago, IL. The workshop will run for three days, with the third day optional and devoted solely to participants working on their own problems with help from the PATRIC/RAST team members.",
+    "img": "https://www.patricbrc.org/patric/images/carousel/workshop_ANL_Aug_2017.jpg",
+    "link": "https://docs.patricbrc.org/news/2018/20180122-patric-workshop-at-argonne-national-lab.html"
+}, {
+    "title": "PATRIC Webinar Series",
+    "desc": "<b>Metagenomic Binning Service</b> accepts either reads or contigs, and attempts to \"bin\" the data into a set of genomes. This service can be used to reconstruct bacterial and archael genomes from environmental samples. <br><b>Proteome Comparison Service</b> compares annotated proteins by bi-directional BLASTP analysis. <br><b>Phylogenetic Tree Builder</b> generates whole-genome phylogenies from amino acid sequences.",
+    "img": "",
+    "link": "https://docs.patricbrc.org/webinar/"
+}, {
+    "title": "PATRIC Command Line Interface",
+    "desc": "The PATRIC Command Line Interface (CLI) includes commands and features to 1) run PATRIC services, including Genome Assembly and Annotation; 2) enable access to PATRIC workspaces; 3) manage data objects in the workspace, such as genomes; and 4) facilitate access and manipulation of data retrieved from the PATRIC databases. Full-fledged documentation for using the CLI is available as well.",
+    "img": "https:///www.patricbrc.org/patric/images/carousel/CLI.png",
+    "link": "https://docs.patricbrc.org/cli_tutorial/index.html"
+}]
