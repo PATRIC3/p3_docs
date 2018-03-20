@@ -28,3 +28,4 @@ analyses and linking of data across the website.
    model_reconstruction_service.md
    tn_seq_analysis_service.md
    metagenome_binning_service.md
+   comprehensive_genome_analysis_service.md
