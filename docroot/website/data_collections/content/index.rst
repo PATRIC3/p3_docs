@@ -23,7 +23,7 @@ PATRIC Content Pages
    tb_arc_romania.rst
    tb_arc_sweden.rst
    niaid_antimicrobial_resistance_sequencing_projects.rst
-   omics4tb.md
+   omics4tb.rst
    omics4tb_chip_seq_experiments.rst
    omics4tb_tfoe_expression_experiments.rst
    omics4tb_bedaquiline_tolerance.rst
