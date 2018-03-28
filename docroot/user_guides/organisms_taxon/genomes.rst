@@ -7,3 +7,4 @@ Genomes Tab
    genome_table
    genome_annotations
    genome_metadata
+   antimicrobial_resistance
