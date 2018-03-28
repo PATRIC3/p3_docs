@@ -7,11 +7,11 @@ Genome-level AMR metadata in PATRIC include data from GenBank, from the NIAID-fu
 
 The **Taxon Overview** tab (*shown below*) provides an interactive summary bar chart showing the relative genome counts by resistance type (defined in Antimicrobial Resistance section below) and antibiotic. Clicking a bar in the chart filters to the corresponding list of AMR Phenotypes by genome for that resistance category and antibiotic.  
 
-![Taxon Overview Tab](./images/amr_metadata_taxon_overview_tab.png)
+![Taxon Overview Tab](../images/amr_metadata_taxon_overview_tab.png)
 
 From the **Genomes** tab (*shown below*) PATRIC metadata includes information on Antimicrobial Resistance, Antimicrobial Resistance Evidence, and other related information.
 
-![Taxon Genomes Tab](./images/amr_metadata_genomes_tab.png)
+![Taxon Genomes Tab](../images/amr_metadata_genomes_tab.png)
 
 **(1) Antimicrobial Resistance** metadata field. This field shows genomes
 that have been specifically tested against certain antibiotics and the
@@ -55,4 +55,4 @@ where there is only a comment.
 
 **AMR Phenotypes.** For genomes with AMR panel data, the **AMR Phenotypes** tab (*shown below*) provides a listing of Resistance Phenotype **(2)** (Susceptible, Resistant, Intermediate) for each of the tested antibiotics/chemicals **(1)** associated with each genome. Where available, additional panel data are provided such as MIC information **(3)** (Measurement Sign, Measurement Value, Measurement Units, Testing Standard, Testing Standard Year). Additional fields for Lab Typing information (Method, Platform, Vendor, Version) and Source are also available.
 
-![Taxon AMR Phenotypes Tab](./images/amr_metadata_amr_phenotypes_tab.png)
+![Taxon AMR Phenotypes Tab](../images/amr_metadata_amr_phenotypes_tab.png)
