@@ -52,7 +52,3 @@ information. In addition, filters are available for the source of the
 information, which provides the ability, for example, to only include
 genomes that have complete AMR panel information and exclude genomes
 where there is only a comment.
-
-**AMR Phenotypes.** For genomes with AMR panel data, the **AMR Phenotypes** tab (*shown below*) provides a listing of Resistance Phenotype **(2)** (Susceptible, Resistant, Intermediate) for each of the tested antibiotics/chemicals **(1)** associated with each genome. Where available, additional panel data are provided such as MIC information **(3)** (Measurement Sign, Measurement Value, Measurement Units, Testing Standard, Testing Standard Year). Additional fields for Lab Typing information (Method, Platform, Vendor, Version) and Source are also available.
-
-![Taxon AMR Phenotypes Tab](../images/amr_metadata_amr_phenotypes_tab.png)
