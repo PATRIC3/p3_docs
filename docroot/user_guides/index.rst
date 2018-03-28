@@ -29,8 +29,8 @@ options are the following:
    Reconstruction.
 -  Help - links to pages containing a PATRIC Quickstart video,
    Tutorials, User Guides, and information to Provide Feedback.
--  `Global Search <global_search.html>`_ - [need text here]
--  `Registration <registration.html>`_ - [need text here]
+-  `Global Search <global_search.html>`_ - searches PATRIC databases to quickly locate genomes, genes, and other information via keywords.
+-  `Registration <registration.html>`_ - allows creation of a PATRIC account, enabling use of PATRIC services and a private workspace. 
 -  Other information (the three-line "hamburger" icon on the top right
    of the page) - links to pages containing additional information such
    as News, Publications, About PATRIC, Citing PATRIC, Scientific
