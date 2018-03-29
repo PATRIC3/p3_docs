@@ -20,7 +20,7 @@ Genome metadata can be accessed in multiple ways on the PATRIC website:
 
 * **Useing the column Show/Hide button (+) on top right of the table:**  opens a selection box for choosing which metadata fields to display in the main table. (*shown below*). The information is also available on the left-hand side of each Genome Overview tab. When a list of genomes is downloaded, all of the metadata fields are included.
 
-![Metadata Fields Show/Hide](../images/genome_metadata_show-hide.png)
+![Metadata Fields Show/Hide](../images/metadata_field_show-hide.png)
 
 ### Metadata Attributes
 
