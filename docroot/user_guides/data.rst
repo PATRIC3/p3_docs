@@ -5,7 +5,7 @@ Data Types
 -----------
 The Data Types submenu items link to summary information pages that provide descriptions and as well as linked examples for the various data elements in PATRIC, along with how we derive, curate, map, and/or integrate the data of that type.
 
- - Antibiotic Resistance
+ - `Antibiotic Resistance<https://patricbrc.org/view/DataType/AntibioticResistance>`_
  - Genomes
  - Genomic Features
  - Pathways
@@ -27,6 +27,3 @@ The Specialty Data Collections submenu items link to pages in PATRIC featuring d
 
 Download Data
 -------------
-
-`Python
-<http://www.python.org/>`_
