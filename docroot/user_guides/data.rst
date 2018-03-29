@@ -28,7 +28,5 @@ The Specialty Data Collections submenu items link to pages in PATRIC featuring d
 Download Data
 -------------
 
-
-
-    and how you can store/analyze data, see `Workspace and
-   Groups </content/Workspace_and_Groups>`__.
+`Python
+<http://www.python.org/>`_
