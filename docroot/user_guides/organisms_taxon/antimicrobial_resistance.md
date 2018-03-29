@@ -1,4 +1,4 @@
-# Antimicrobial Resistance and Other Clinical Metadata
+# Antimicrobial Resistance Metadata
 
 
 ## Genome-Level Antimicrobial Resistance (AMR)
