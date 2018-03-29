@@ -18,6 +18,10 @@ Genome metadata can be accessed in multiple ways on the PATRIC website:
 
 * **Using metadata values in the Global Search:** Displays search results of genomes, and other data, containing the terms specified in the search. See [Global Search](../global_search.html).
 
+* **Useing the column Show/Hide button (+) on top right of the table:**  opens a selection box for choosing which metadata fields to display in the main table. (*shown below*). The information is also available on the left-hand side of each Genome Overview tab. When a list of genomes is downloaded, all of the metadata fields are included.
+
+![Metadata Fields Show/Hide](../images/other_clinical_metadata_fields.png)
+
 ### Metadata Attributes
 
 * **Organism Info:** Genome ID, Genome Name, Organism Name, NCBI Taxon ID, Genome Status, Strain, Serovar, Biovar, Pathovar, MLST, Other Typing, Culture Collection, and Type Strain.
@@ -33,6 +37,9 @@ Genome metadata can be accessed in multiple ways on the PATRIC website:
 * **Project Info:** Completion Date, Publication, BioProject Accession, BioSample Accession, Assembly Accession, GenBank Accessions, and RefSeq Accessions.
 
 * **Other:** Comments, Additional Metadata, Insert Date, and Last Modified.
+
+## Clinical Metadata
+Some clinical metadata that is available for only a subset of the genomes available at PATRIC. This includes typing methods that are specific to a small number of genomes (such as spa type or wzi type), but are still important to researchers. These data are stored as a key-value pairs so that the Global Search can find genomes that contain any data for that field (e.g., search for 'wzi') or for genomes with specific values for that field (e.g., search for 'wzi:29')
 
 ### Genome Metadata Sources
 PATRIC genome metadata comes from multiple sources including NCBI's BioProject database, GenBank records, NIAID Genomic Centers for Infectious Diseases (GCIDs), the Human Microbiome Project, and other data submitters. Following the automated collection, the metadata is manually curated for consistency and accuracy. Updated or additional metadata that is not currently available on PATRIC can be submitted using [help@patricbrc.org](mailto:help@patricbrc.org).
