@@ -14,7 +14,7 @@ The Data Types submenu items link to summary information pages that provide desc
  - Transcriptomics
  
 Specialty Data Collections
--------------------------
+--------------------------
 The Specialty Data Collections submenu items link to pages in PATRIC featuring data sets of interest that are related either by collaborations, common programs (e.g., NIAID-funded centers), or other grouping.  Summaries, experimental information, and links to data sets and corresponding publications are provided.  Where appropriate, the data sets have been integrated into PATRIC.
 
  - PATRIC Collaborations
