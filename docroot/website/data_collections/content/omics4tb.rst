@@ -145,9 +145,9 @@ Publication: PMID: `26094805 <https://www.ncbi.nlm.nih.gov/pubmed/26094805>`_ Ce
 
 Mycobacterium tuberculosis remains a health concern due to its ability to enter a non-replicative dormant state linked to drug resistance. Understanding transitions into and out of dormancy will inform therapeutic strategies. We implemented a universally applicable, label-free approach to estimate absolute cellular protein concentrations on a proteome-wide scale based on SWATH mass spectrometry. We applied this approach to examine proteomic reorganization of M. tuberculosis during exponential growth, hypoxia-induced dormancy, and resuscitation. The resulting data set covering >2,000 proteins reveals how protein biomass is distributed among cellular functions during these states. The stress-induced DosR regulon contributes 20% to cellular protein content during dormancy, whereas ribosomal proteins remain largely unchanged at 5%-7%. Absolute protein concentrations furthermore allow protein alterations to be translated into changes in maximal enzymatic reaction velocities, enhancing understanding of metabolic adaptations. Thus, global absolute protein measurements provide a quantitative description of microbial states, which can support the development of therapeutic interventions.
 
-Raw proteomics data is available from PeptideAtlas located `here <https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_View?identifier=PASS00655>`_
+Raw proteomics data is available from PeptideAtlas located `here <https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_View?identifier=PASS00655>`__
 
-Integrated relative quantification dataset is available from PATRIC workspace located `here <https://patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB/MTB%20proteome%20composition%20and%20dynamics>`_
+Integrated relative quantification dataset is available from PATRIC workspace located `here <https://patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB/MTB%20proteome%20composition%20and%20dynamics>`__
 
 MTB Transcriptional Regulator Induction Phenotypic (TRIP) Screen
 -----------------------------------------------------------------
@@ -160,4 +160,4 @@ in absence or presence of drug, averaged across experimental replicates. Also re
 are the accompanying z-scores for each TFI strain under each condition. Data for the 
 individual replicates are provided in the second tab.
 
-Integrated dataset is available from the PATRIC workspace located `here <https://patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB/MTB%20TRIP%20relative%20fitness%20profiling>`_
+Integrated dataset is available from the PATRIC workspace located `here <https://patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB/MTB%20TRIP%20relative%20fitness%20profiling>`__
