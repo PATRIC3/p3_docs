@@ -42,6 +42,12 @@ Summary of Omics4TB Datasets
 | `MiR-155-regulated molecular network orchestrates cell fate                                 |               | - `GEO Accession: GSE79733`_ Expression Profiling data                                                    |
 | in the innate and adaptive immune response to Mycobacterium tuberculosis`_                  |               |                                                                                                           |
 +---------------------------------------------------------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------+
+| Absolute Proteome Composition and Dynamics during                                           | `26094805`_   | - `PATRIC: Proteomics Workspace`_                                                                         |
+| dormancy and resuscitation of Mycobacterium tuberculosis                                    |               |                                                                                                           |
++---------------------------------------------------------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------+
+| MTB Transcriptional Regulator Induction Phenotypic (TRIP) Screen                            |               | - `PeptideAtlas`_ Raw proteomics data                                                                     |
+|                                                                                             |               | - `PATRIC: TRIP Workspace`_                                                                               |
++---------------------------------------------------------------------------------------------+---------------+-----------------------------------------------------------------------------------------------------------+
 
 
 .. _`The DNA-binding network of Mycobacterium tuberculosis`: https://www.patricbrc.org/webpage/website/data_collections/content/omics4tb_chip_seq_experiments.html
@@ -71,6 +77,12 @@ Summary of Omics4TB Datasets
 
 .. _`MiR-155-regulated molecular network orchestrates cell fate in the innate and adaptive immune response to Mycobacterium tuberculosis`: https://www.patricbrc.org/webpage/website/data_collections/content/omics4tb_macrophage_mtb_infection.html
 .. _`GEO Accession: GSE79733`: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE79733
+
+.. _`26094805`: https://www.ncbi.nlm.nih.gov/pubmed/26094805
+.. _`PeptideAtlas`: https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_View?identifier=PASS00655
+.. _`PATRIC: Proteomics Workspace`: https://patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB/MTB%20proteome%20composition%20and%20dynamics
+
+.. _`PATRIC: Trip Workspace`: https://patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB/MTB%20TRIP%20relative%20fitness%20profiling
 
 The DNA-binding network of Mycobacterium tuberculosis
 ------------------------------------------------------
@@ -125,3 +137,27 @@ Publication: PMID: `27681624 <http://www.ncbi.nlm.nih.gov/pubmed/27681624>`__ Pr
 The regulation of host-pathogen interactions during Mycobacterium tuberculosis (Mtb) infection remains unresolved. MicroRNAs (miRNAs) are important regulators of the immune system, and so we used a systems biology approach to construct an miRNA regulatory network activated in macrophages during Mtb infection. Our network comprises 77 putative miRNAs that are associated with temporal gene expression signatures in macrophages early after Mtb infection. In this study, we demonstrate a dual role for one of these regulators, miR-155. On the one hand, miR-155 maintains the survival of Mtb-infected macrophages, thereby providing a niche favoring bacterial replication; on the other hand, miR-155 promotes the survival and function of Mtb-specific T cells, enabling an effective adaptive immune response. MiR-155-induced cell survival is mediated through the SH2 domain-containing inositol 5-phosphatase 1 (SHIP1)/protein kinase B (Akt) pathway. Thus, dual regulation of the same cell survival pathway in innate and adaptive immune cells leads to vastly different outcomes with respect to bacterial containment.
 
 Data sets and additional information can be found `here <https://www.patricbrc.org/webpage/website/data_collections/content/omics4tb_macrophage_mtb_infection.html>`__.
+
+Absolute Proteome Composition and Dynamics during dormancy and resuscitation of Mycobacterium tuberculosis
+-----------------------------------------------------------------------------------------------------------
+
+Publication: PMID: `26094805 <https://www.ncbi.nlm.nih.gov/pubmed/26094805>`_ Cell Host Microbe. 2015 Jul 8;18(1):96-108
+
+Mycobacterium tuberculosis remains a health concern due to its ability to enter a non-replicative dormant state linked to drug resistance. Understanding transitions into and out of dormancy will inform therapeutic strategies. We implemented a universally applicable, label-free approach to estimate absolute cellular protein concentrations on a proteome-wide scale based on SWATH mass spectrometry. We applied this approach to examine proteomic reorganization of M. tuberculosis during exponential growth, hypoxia-induced dormancy, and resuscitation. The resulting data set covering >2,000 proteins reveals how protein biomass is distributed among cellular functions during these states. The stress-induced DosR regulon contributes 20% to cellular protein content during dormancy, whereas ribosomal proteins remain largely unchanged at 5%-7%. Absolute protein concentrations furthermore allow protein alterations to be translated into changes in maximal enzymatic reaction velocities, enhancing understanding of metabolic adaptations. Thus, global absolute protein measurements provide a quantitative description of microbial states, which can support the development of therapeutic interventions.
+
+Raw proteomics data is available from PeptideAtlas located `here <https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_View?identifier=PASS00655>`_
+
+Integrated relative quantification dataset is available from PATRIC workspace located `here <https://patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB/MTB%20proteome%20composition%20and%20dynamics>`_
+
+MTB Transcriptional Regulator Induction Phenotypic (TRIP) Screen
+-----------------------------------------------------------------
+
+MTB  Transcriptional Regulator Induction Phenotypic (TRIP) Screen that uses 
+amplicon-based screening for probing phenotype of each TF induced strain 
+in a variety of stress conditions, in this case Isoniazid treatment. This dataset 
+reports the log2 abundance fold change of each TFI strain, relative to no induction, 
+in absence or presence of drug, averaged across experimental replicates. Also reported 
+are the accompanying z-scores for each TFI strain under each condition. Data for the 
+individual replicates are provided in the second tab.
+
+Integrated dataset is available from the PATRIC workspace located `here <https://patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB/MTB%20TRIP%20relative%20fitness%20profiling>`_
