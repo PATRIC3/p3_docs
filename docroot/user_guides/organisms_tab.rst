@@ -40,6 +40,7 @@ Browsing PATRIC by Gene
    :maxdepth: 1
 
    organisms_gene/overview
+   organisms_gene/genome_browser
    organisms_gene/compare_region_viewer
    organisms_gene/transcriptomics
    organisms_gene/correlated_genes
