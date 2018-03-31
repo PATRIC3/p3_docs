@@ -14,9 +14,16 @@ In this release, PATRIC has new subsystems functionality with precomputed subsys
 Data Updates:
 --------------
 
-**New Genomes and Metadata**
+**New Subsystems, Protein Families, Genome Metadata, and Other Data Sets**
 
-In this release, PATRIC has added over 4000 new genomes and associated metadata, along with a new plasmid database (described below) bringing the total number of genomes and plasmids in PATRIC to over 150,000. The full list of available microbial and host genomes can be accessed `here
+In this release, PATRIC has added precomputed subsystems and protein family updates for all public genomes.  The subsystem data is available through custom user interface displays, described below. It also includes additional genome metadata, including AMR panel data, for 13 bioprojects from JCVI as well as additional AMR metadata collected from publications by PATRIC curators.  Additionally, two datasets (proteomics and TRP phenotype) from the Omics4TB Systems Biology Center and new PPI data sets from the FLUTE Functional Genomics Center have been added as well, accessible `here
+<https://www.patricbrc.org/view/GenomeList/?or(keyword(Bacteria),keyword(Archaea),keyword(Eukaryota))#view_tab=genomes>`__ and 
+`here
+<https://www.patricbrc.org/view/GenomeList/?or(keyword(Bacteria),keyword(Archaea),keyword(Eukaryota))#view_tab=genomes>`__.
+
+
+
+PATRIC has added over 4000 new genomes and associated metadata, along with a new plasmid database (described below) bringing the total number of genomes and plasmids in PATRIC to over 150,000. The full list of available microbial and host genomes can be accessed `here
 <https://www.patricbrc.org/view/GenomeList/?or(keyword(Bacteria),keyword(Archaea),keyword(Eukaryota))#view_tab=genomes>`__.
 
 This release features additional AMR for 988 genomes already in PATRIC, curated from publications.  It also includes over 2000 new genomes from published AMR studies that have been assembled from SRA and incorporated into PATRIC, along with the associated AMR metadata.
