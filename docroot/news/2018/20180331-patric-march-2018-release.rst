@@ -22,21 +22,23 @@ In this release, PATRIC has added precomputed subsystems and protein family upda
 <https://www.patricbrc.org/webpage/website/data_collections/content/flute.html>`__, respectively.
 
 
-
-PATRIC has added over 4000 new genomes and associated metadata, along with a new plasmid database (described below) bringing the total number of genomes and plasmids in PATRIC to over 150,000. The full list of available microbial and host genomes can be accessed `here
-<https://www.patricbrc.org/view/GenomeList/?or(keyword(Bacteria),keyword(Archaea),keyword(Eukaryota))#view_tab=genomes>`__.
-
-This release features additional AMR for 988 genomes already in PATRIC, curated from publications.  It also includes over 2000 new genomes from published AMR studies that have been assembled from SRA and incorporated into PATRIC, along with the associated AMR metadata.
-
-**New Plasmid Database**
-
-As part of this release, we have added a new plasmid database with over 10,000 plasmid sequences, which are not associated with sequenced genomes in PATRIC. All plasmids are consistently annotated using the PATRIC Annotation Service and can be compared using various comparative genomics tools in PATRIC. Plasmids can be found in PATRIC by filtering any list of genomes in PATRIC where the Genome Status field is "Plasmid," for example, as shown `here
-<https://www.patricbrc.org/view/GenomeList/?and(or(eq(genome_status,%22Plasmid%22)),eq(public,%22true%22))#view_tab=genomes>`__.
-
 New Website Features:
 ----------------------
 
-**Metagenomic Binning Service**
+**Subsystems Functionality**
 
-This release includes a new Metagenomic Binning Service that allows users to assemble and annotate high-quality microbial genomes directly from metagenomic reads.  The service is available at `Metagenome Binning Service <https://www.patricbrc.org/app/MetagenomeBinning>`__. Note that you must be logged in to PATRIC to use the service. There is also an associated tutorial describing how to use the service: `Using the PATRIC Metagenomics Binning Service  <https://docs.patricbrc.org/tutorial/metagenomic_binning/metagenomic_binning.html>`__.
+This release includes new pages for showing subsystem data for single genome, taxon, and genome group levels.  Subsystems are curated sets of biologically related functional roles across a reference set of genomes, comprising units of expert knowledge about a single biological process like a whole metabolic pathway (Glycolysis), or a piece of a pathway (L-2-amino-adipate to lysine module), the subunits of a multi-unit enzyme (Urease) or the pieces of a structural unit like the ribosome. Subsystem data at the summary, subsystem, and gene level can be found on the Subsystem tab in any Taxon View, as shown `here
+<https://www.patricbrc.org/view/Taxonomy/234#view_tab=subsystems>`__.
+
+**Evaluation Version of New PATRIC Homepage Design**
+We are working on a new homepage design for the website to clarify, simplify, and streamline access to the ever increasing data and functionality of the PATRIC resource. We invite feedback from PATRIC users which we will use to refine the design before conversion of the website.  The evaluation version is available `here
+<https://www.alpha.patricbrc.org/home-new>`__.
+
+**Enhancements to Circular Genome Viewer**
+The PATRIC Circular Genome Viewer now has tracks for highlighting specialty genes such as AMR, VF, transporters, and drug targets.  The layout has also been improved for genomes with large numbers of contigs.  Similar improvements have been made in the circular Proteome Comparison Viewer.  The Circular Genome Viewer can be accessed by clicking the Circular Viewer tab in any Genome View, as shown `here
+<https://www.patricbrc.org/view/Genome/83332.12#view_tab=circular>`__.
+
+
+
+
 
