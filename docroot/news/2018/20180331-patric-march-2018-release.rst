@@ -17,9 +17,9 @@ Data Updates:
 **New Subsystems, Protein Families, Genome Metadata, and Other Data Sets**
 
 In this release, PATRIC has added precomputed subsystems and protein family updates for all public genomes.  The subsystem data is available through custom user interface displays, described below. It also includes additional genome metadata, including AMR panel data, for 13 bioprojects from JCVI as well as additional AMR metadata collected from publications by PATRIC curators.  Additionally, two datasets (proteomics and TRP phenotype) from the Omics4TB Systems Biology Center and new PPI data sets from the FLUTE Functional Genomics Center have been added as well, accessible `here
-<https://www.patricbrc.org/view/GenomeList/?or(keyword(Bacteria),keyword(Archaea),keyword(Eukaryota))#view_tab=genomes>`__ and 
+<https://www.patricbrc.org/webpage/website/data_collections/content/omics4tb.html>`__ and 
 `here
-<https://www.patricbrc.org/view/GenomeList/?or(keyword(Bacteria),keyword(Archaea),keyword(Eukaryota))#view_tab=genomes>`__.
+<https://www.patricbrc.org/webpage/website/data_collections/content/flute.html>`__, respectively.
 
 
 
