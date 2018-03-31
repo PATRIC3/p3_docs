@@ -9,9 +9,9 @@ News
    :description: PATRIC News RSS feed
    :link: https://docs.patricbrc.org/
 
+   2018/20180331-patric-march-2018-release
    2018/20180213-metagenomic-binning-webinar   
    2018/20180206-proteome-comparison-video-tutorial
-   2018/20180131-patric-january-2018-release
    
 
 .. toctree::
