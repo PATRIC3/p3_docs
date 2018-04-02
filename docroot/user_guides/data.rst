@@ -30,15 +30,31 @@ Specialty Data Collections
 --------------------------
 The Specialty Data Collections submenu items link to pages in PATRIC featuring data sets of interest that are related either by collaborations, common programs (e.g., NIAID-funded centers), or other grouping.  Summaries, experimental information, and links to data sets and corresponding publications are provided.  Where appropriate, the data sets have been integrated into PATRIC.
 
- - PATRIC Collaborations
- - PATRIC DBPs
- - NIAID Clinical Proteomics
- - NIAID Genome Sequencing
- - NIAID Structural Genomics
- - NIAID Systems Biology
- - NIAID Functional Genomics
+`PATRIC Collaborations
+<https://patricbrc.org/webpage/website/data_collections/patric_collaborations.html>`__
+ 
+`PATRIC DBPs
+<https://patricbrc.org/webpage/website/data_collections/patric_dbps.html>`__
+ 
+`NIAID Clinical Proteomics
+<https://patricbrc.org/webpage/website/data_collections/niaid_clinical_proteomics.html>`__
+ 
+`NIAID Genome Sequencing
+<https://patricbrc.org/webpage/website/data_collections/niaid_genome_sequencing.html>`__
+ 
+`NIAID Structural Genomics
+<https://patricbrc.org/webpage/website/data_collections/niaid_structural_genomics.html>`__
+ 
+`NIAID Systems Biology
+<https://patricbrc.org/webpage/website/data_collections/niaid_systems_biology.html>`__
+ 
+`NIAID Functional Genomics
+<https://patricbrc.org/webpage/website/data_collections/niaid_functional_genomics.html>`__
+ 
 
 Download Data
 -------------
 Provides a link to the PATRIC FTP server
- - FTP Server
+`FTP Server
+<ftp://ftp.patricbrc.org/>`__
+
