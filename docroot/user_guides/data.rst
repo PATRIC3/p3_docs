@@ -56,6 +56,4 @@ Download Data
 -------------
 Provides a link to the PATRIC FTP server
 
-`FTP Server
-<ftp://ftp.patricbrc.org/>`__
-
+ftp://ftp.patricbrc.org/
