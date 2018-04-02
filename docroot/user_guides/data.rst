@@ -7,13 +7,18 @@ The Data Types submenu items link to summary information pages that provide desc
 
 `Antibiotic Resistance
 <https://patricbrc.org/view/DataType/AntibioticResistance>`__
- - Antibiotic Resistance
- - Genomes
- - Genomic Features
- - Pathways
- - Protein Families
- - Specialty Genes
- - Transcriptomics
+`Genomes
+<https://patricbrc.org/view/DataType/Genomes>`__
+`Genomic Features
+<https://patricbrc.org/view/DataType/GenomicFeatures>`__
+`Pathways
+<https://patricbrc.org/view/DataType/Pathways>`__
+`Protein Families
+<https://patricbrc.org/view/DataType/ProteinFamilies>`__
+`Specialty Genes
+<https://patricbrc.org/view/DataType/SpecialtyGenes>`__
+`Transcriptomics
+<https://patricbrc.org/view/DataType/Transcriptomics>`__
  
 Specialty Data Collections
 --------------------------
