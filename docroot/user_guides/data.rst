@@ -55,6 +55,7 @@ The Specialty Data Collections submenu items link to pages in PATRIC featuring d
 Download Data
 -------------
 Provides a link to the PATRIC FTP server
+
 `FTP Server
 <ftp://ftp.patricbrc.org/>`__
 
