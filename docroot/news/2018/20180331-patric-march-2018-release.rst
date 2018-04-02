@@ -28,7 +28,8 @@ New Website Features:
 **Subsystems Functionality**
 
 This release includes new pages for showing subsystem data for single genome, taxon, and genome group levels.  Subsystems are curated sets of biologically related functional roles across a reference set of genomes, comprising units of expert knowledge about a single biological process like a whole metabolic pathway (Glycolysis), or a piece of a pathway (L-2-amino-adipate to lysine module), the subunits of a multi-unit enzyme (Urease) or the pieces of a structural unit like the ribosome. Subsystem data at the summary, subsystem, and gene level can be found on the Subsystem tab in any Taxon View, as shown `here
-<https://www.patricbrc.org/view/Taxonomy/234#view_tab=subsystems>`__.
+<https://www.patricbrc.org/view/Taxonomy/234#view_tab=subsystems>`__. Corresponding subsystems updates have been incorporated into the PATRIC Genome Annotation Service, available `here
+<https://www.patricbrc.org/app/Annotation>`__.
 
 **Evaluation Version of New PATRIC Homepage Design**
 We are working on a new homepage design for the website to clarify, simplify, and streamline access to the ever increasing data and functionality of the PATRIC resource. We invite feedback from PATRIC users which we will use to refine the design before conversion of the website.  The evaluation version is available `here
