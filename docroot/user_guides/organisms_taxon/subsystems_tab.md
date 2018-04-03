@@ -40,7 +40,6 @@ Two additional columns (hidden by default) are available by clicking the (+) at 
 Within this table you may do the following:
 
 * **Download** the entire contents of the table in text, CSV, or Excel format by clicking the Download button above the table on the left side.
-
 * **Rearrange and narrow** the list of genomes in the table via sorting (using column headers), keywords (using the Keyword box), and filtering (using the Filters tool).
 
 ### Filter Tool
