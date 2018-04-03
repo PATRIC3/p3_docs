@@ -27,14 +27,14 @@ The columns in this table provide additional information about each of the subsy
 * **Superclass:** One of the 11 highest level groupings of subsystems
 * **Class:** Second-level grouping of subsystems
 * **Subclass:** Third-level grouping of subsystems
-* **Name:** Name of the subsystem 
+* **Subsystem Name:** Name of the subsystem 
 * **Genome Count:** Total number of genomes that have been asserted to have an active or likely variant of the subsystem from the set of genomes chosen.
 * **Gene Count:** Total of number of unique genes that belong to this subsystem from the set of genomes chosen.
 * **Role Count:** Total of number of unique functional roles asserted for an active variant of the subsystem.
 
 Two additional columns (hidden by default) are available by clicking the (+) at the top right of the table.  They are 
 * **Variant (formerly named Active):** A subsystem can be asserted to be active or likely if one or more functional roles are missing.
-* **Subsystem ID:** Unique identifier for the subsystem (the same as subsystem name by default).	
+* **Subsystem ID:** Unique identifier for the subsystem (usually the same as Subsystem Name by default).	
 
 ### Subsystem Table Tools
 Within this table you may do the following:
