@@ -40,7 +40,7 @@ Two additional columns (hidden by default) are available by clicking the (+) at 
 Within this table you may do the following:
 
 * **Download** the entire contents of the table in text, CSV, or Excel format by clicking the Download button above the table on the left side.
-* **Rearrange and narrow** the list of genomes in the table via sorting (using column headers), keywords (using the Keyword box), and filtering (using the Filters tool).
+* **Rearrange and narrow** the list of genomes in the table via sorting (using column headers), keywords (using the Keyword box), and filtering (using the Filter Tool, described below).
 
 ### Filter Tool
 
@@ -55,27 +55,27 @@ Clicking on the Filters button at the top right of the table opens the Filter Pa
 After selecting one or more of the genomes by clicking the checkbox beside the Genomes Name in the table, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
 
 * **Hide:** Toggles (hides) the right-hand side Details Pane.
-* **Download:**  Downloads the selected items (rows).
 * **Copy:** Copies the selected items to the clipboard.
-* **Genome:** Loads the Genome View Overview page for the selected genome (if only one genome selected).
-* **Genomes:** Reloads the Genomes Table in the Genome List View, listing only the genomes that were selected.
-* **Group:** Opens a pop-up window to enable adding the selected genomes to an existing or new group in the private workspace.
+* **FASTA:** Provides the FASTA DNA or protein sequence for the features corresponding to the selected subsystem(s).
+* **Download:**  Downloads the selected items (rows).
+* **Features:** Loads the Features Table for the features corresponding to the selected subsystem(s).
+* **Group:** Opens a pop-up window to enable adding the selected subsystems to an existing or new group in the private workspace.
+* **Map:** Launches the Comparative Subsystems Heatmap, described below.
 
 More details are available in the [Action Buttons](../other/action_buttons.html) user guide.
 
+## Comparative Subsystems Heatmap
+The Heatmap is an interactive visualization tool, which provides an overview of the distribution of genomes across the set of functional roles defined by a subsystem. Patterns visible in a Heatmap can allow for many types of analysis such as, a bird’s-eye view of the conservation (or lack thereof) of particular functional roles of interest, discerning how many proteins have the same function within a single genome, and identifying proteins with multiple homologs or paralogs across a set of genomes. The Heatmap is accessible by selecting a Subsystem or Gene in the corresponding tables (described in this user guide) and then clicking the Map icon in the green action bar.
 
-Comparative Subsystems Heatmap
+### Color Coding: 
+Each cell is colored according to how many genes are annotated to perform the specific functional role within a specific genome. Note that fragments of a gene can be presented as separate entities.
 
-The Heatmap is an interactive visualization tool, which provides an overview of the distribution of genomes across the set of functional roles defined by a subsystem. Patterns visible in a Heatmap can allow for many types of analysis such as, a bird’s-eye view of the conservation (or lack thereof) of particular functional roles of interest, discerning how many proteins have the same function within a single genome, and identifying proteins with multiple homologs or paralogs across a set of genomes.
+* **Black:** No genes from the genome have the specific functional role assigned.
+* **Bright yellow:** One gene with the specific functional role
+* **Dark yellow:** Two genes with the specific functional role
+* **Dark orange:** Three or more genes with the specific functional role
 
-Color Coding: Each cell is colored according to how many genes are annotated to perform the specific functional role within a specific genome. Note that fragments of a gene can be presented as separate enteties.
-
-    Black: No genes from the genome have the specific functional role assigned.
-    Bright yellow: One gene with the specific functional role
-    Dark yellow: Two genes with the specific functional role
-    Dark orange: Three or more genes with the specific functional role
-
-Features and Functionality
+### Features and Functionality
 
 •	Functional roles needed for an “active” subsystem are listed along the Y (vertical) axis. Note that not all functional roles are always needed for a functional variant of a subsystem. Depending on a given genome one specific functional role or another can be present (non orthologous gene displacement). Also some subsystems are collections of similar functional roles for the purpose of disambiguation of paralogous genes. 
 The corresponding Genomes are listed along the X (horizontal) axis. The scale of these rows and columns may be controlled by sliding the x and/or y slidebars located at the axis intersection in the upper left corner of the Heatmap. The "Flip Axis" button at the top left of the heatmap will swap the positions (horizontal or vertical) of the Genomes and EC Numbers.
