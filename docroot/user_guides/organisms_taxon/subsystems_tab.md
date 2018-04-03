@@ -19,7 +19,7 @@ On the left side, a pie chart displays the subsystem superclasses asserted to ta
 On the right side an interactive hierarchical display of the 11 superclasses of subsystems (Metabolism, Energy, Protein Processing etc.), with matching colors the corresponding slice in the pie chart. The subsystem superclasses and nested subclasses can be expanded to progressively lower levels by clicking the arrow (>) on the left side of the subsystem name. On the right side of the subsystem name, two numbers are provided in parentheses.  The first is the count of subsystems (green) and the second is the count of senes (yellow) associated with the subsystem name. Clicking on the number displays a table containing all of the associated subsystems or genes, respectively.  These tables are described below.  
 
 ## Subsystems Table
-Clicking the Subsystems menu option displays a table of all the subsystems associated within the taxon, as shown below.  
+Clicking the Subsystems menu option displays a table of all the subsystems associated within the taxon or selected subsystem, as shown below.  
 ![Subsystems Tab - Subsystems](../images/subsystems_tab_subsystems.png)
 
 The columns in this table provide additional information about each of the subsystems:
@@ -87,4 +87,10 @@ Each cell is colored according to how many genes are annotated to perform the sp
    * Show Proteins: Open a feature list table in PATRIC containing the features associated with the chosen proteins. This view contains the same information as any feature list in PATRIC: Genome Name, Genome ID, RefSeq Locus Tab, Gene Symbol, protein family information, Product, length, start/stop, etc. This view also allows access to sequences, enables building of multiple sequence alignments, map IDs, etc.
    * Add Proteins to Group: button will save selected items to new, or existing, groups within the Workspace.
    * Cancel: Closes the pop-up window.
+
+## Genes Table
+Clicking the Subsystems menu option displays a table of all the genes associated within the taxon or selected subsystem grouped by subsystem, as shown below.  
+![Subsystems Tab - Genes](../images/subsystems_tab_genes.png)
+The functionality of this table is essentially the same as for the Subsystems Table, except the resolution is down to the gene level.
+
 
