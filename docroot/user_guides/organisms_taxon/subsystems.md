@@ -10,6 +10,6 @@ Note that not all functional roles are always needed for a functional variant of
 The functional roles curated via subsystems are used in the construction of PATRIC Local - and Global Protein Families. We will periodically add new subsystems to PATRIC, compute new Local and Global families and project them to all PATRIC genomes. Those updates will also be reflected in the PATRIC annotation services to support proper functionality of all PATRIC comparative genomics tools.
 
 ## See also
-  * [Subsystems Tab](../subsystems_tab.html)
-  * [Protein Families](../protein_families.html)
+  * [Subsystems Tab](../organisms_taxon/subsystems_tab.html)
+  * [Protein Families](../organisms_taxon/protein_families.html)
 
