@@ -18,6 +18,7 @@ Browsing PATRIC by Taxon
    organisms_taxon/specialty_genes
    organisms_taxon/protein_families
    organisms_taxon/pathways
+   organisms_taxon/subsystems
    organisms_taxon/transcriptomics
    organisms_taxon/interactions
 
