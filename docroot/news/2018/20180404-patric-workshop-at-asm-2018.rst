@@ -18,7 +18,7 @@ Registration through ASM 2018 is required.  Registration information can be foun
 
 
 **LOCATION**
-ASM Microbe, `Georgia World Congress Center
+ASM Microbe 2018, `Georgia World Congress Center
 <https://www.gwcca.org/gwcc/>`__, Atlanta, GA
 
 
