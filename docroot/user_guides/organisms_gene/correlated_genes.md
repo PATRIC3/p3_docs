@@ -17,28 +17,24 @@ Clicking the Correlated Genes tab in the Feature View displays a table showing a
 
 ![Correlated Genes Table](../images/transcriptomics_correlated_genes.png)
 
-
- 
 ### Correlated Genes Table Tools
 You may do the following with the table:
 
 * **Download** the entire contents of the data used to create the charts in text, CSV, or Excel format by clicking the Download button above the table on the left side.
 
-* **Filter** the included expression levels based on the experimental conditions that meet the search criteria entered in the Keyword text box. Filtering on the Log ratio or Z score will also filter the results to the specified cut-off score. Clicking the Filter button sets the filter, clicking the Reset Filter sets the charts back to the original display with all values.
+* **Filter** the correlated genes based on positive or negative correlation and cutoff value using the dropdown boxes above the table and clicking the Filter button. 
 
 The columns in the table include the following: 
 
-* **Title:** The title of the transcriptomics experiment
-* **PubMed:** The PubMed ID of the experiment
-* **Accession:** The accession number (typically GEO) of the experiment
-* **Strain:** The strain name of the genome
-* **Gene Modification:** Modification of the gene, if any
-* **Experimental Condition:** The experimental condition
-* **Time Point:** Time point during the experiment, if time course
-* **Avg Intensity:** 
-* **Log Ratio:** Log ratio value of the expression level based on all available data
-* **Z-score:** Z-score of the expression level based on all available data
- 
+* **PATRIC ID:** Unique PATRIC identifier for the gene, usually of the form fig|#####.##.peg.####
+* **RefSeq Locus Tag:** RefSeq locus tag for the gene, if available
+* **PATRIC Local Family:** PATRIC Local Protein Family containing the gene
+* **PATRIC Global Family:** PATRIC Global Protein Family containing the gene
+* **Gene Symbol:** Gene symbol, if available
+* **Product:** Gene product, as annotated by PATRIC
+* **Correlation:** Correlation value of the gene compared to the gene in the Feature View
+* **Comparisons:** 
+
 ### Action buttons
 
 After selecting one or more of the experiments by clicking the checkbox beside the Title column in the table, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
