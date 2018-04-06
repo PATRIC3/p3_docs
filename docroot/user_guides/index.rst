@@ -1,5 +1,5 @@
-New User Guides (Work In Progress)
-======================================
+PATRIC User Guides
+===================
 
 The PATRIC website provides an entry point to integrated data and tools
 for bacterial infectious disease research. The website is organized by
