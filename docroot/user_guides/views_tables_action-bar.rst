@@ -1,15 +1,10 @@
 Website Views, Tables, Action Bar
 =================================
-COMING SOON
+PATRIC has some fundamental navigation and interaction schemes that are used throughout the website. The user guides below provide a detailed description of each that, once understood, will make using the PATRIC easier and more intuitive.
 
-Views
------
+.. toctree::
+   :maxdepth: 1
 
-
-Tables
-------
-
-
-Action Bar
-----------
- 
+   website_views
+   tables
+   action_bar
