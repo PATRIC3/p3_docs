@@ -8,10 +8,8 @@ The PATRIC website is designed to provide context-sensitive data access and func
 * **Genome List View:** All genomes within a selected list and related data
 * **Genome Group View:** All genomes within a created group and related data
 
-The view type is automatically generated based on the selection. 
-
 ### Taxon View
-For instance, when one of the genera is chosen from the Organisms menu, the **Taxon View**  is displayed, and all of the data tabs (Overview, Phylogeny, Genomes, Features, etc.) contain the genomes and related data _**within that taxon**_.  As illustrated below, selecting _Clostridium_ from the Organisms menu displays the Taxon View for _Clostridium_. 
+The view type is automatically generated based on the selection. For instance, when one of the genera is chosen from the Organisms menu, the **Taxon View**  is displayed, and all of the data tabs (Overview, Phylogeny, Genomes, Features, etc.) contain the genomes and related data _**within that taxon**_.  As illustrated below, selecting _Clostridium_ from the Organisms menu displays the Taxon View for _Clostridium_. 
 
 ![Organisms Menu Option](./images/organisms_menu_taxon.png) 
 ![Taxon View](./images/taxon_view.png)
