@@ -15,7 +15,9 @@
 
 **Project data:** [PATRIC FTP Site](ftp://ftp.patricbrc.org/BRC_Mirrors/FLUTE/), [PATRIC Public Workspace](https://www.patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Functional%20Genomics%20Centers/FLUTE%20-%20Functionalizing%20Lists%20of%20Unknown%20TB%20Entities)
 
-## High-Resolution Phenotypic Profiling Defines Genes Essential for Mycobacterial Growth and Cholesterol Catabolism
+## Publications
+
+### High-Resolution Phenotypic Profiling Defines Genes Essential for Mycobacterial Growth and Cholesterol Catabolism
 
 PMID:[21980284](https://www.ncbi.nlm.nih.gov/pubmed/?term=21980284)
 
@@ -23,7 +25,7 @@ The pathways that comprise cellular metabolism are highly interconnected, and al
 
 Data sets and additional information can be found [here](https://www.patricbrc.org/webpage/website/data_collections/content/flute-experiment-1.html).
 
-## Peptidoglycan synthesis in Mycobacterium tuberculosis is organized into networks with varying drug susceptibility
+### Peptidoglycan synthesis in Mycobacterium tuberculosis is organized into networks with varying drug susceptibility
 
 PMID:[26438867](https://www.ncbi.nlm.nih.gov/pubmed/?term=26438867)
 
@@ -31,7 +33,7 @@ Peptidoglycan (PG), a complex polymer composed of saccharide chains cross-linked
 
 Data sets and additional information can be found [here](https://www.patricbrc.org/webpage/website/data_collections/content/flute-experiment-2.html).
 
-## Comprehensive Essentiality Analysis of the Mycobacterium tuberculosis Genome via Saturating Transposon Mutagenesis
+### Comprehensive Essentiality Analysis of the Mycobacterium tuberculosis Genome via Saturating Transposon Mutagenesis
 
 PMID:[28096490](https://www.ncbi.nlm.nih.gov/pubmed/?term=28096490)
 
@@ -39,7 +41,7 @@ For decades, identifying the regions of a bacterial chromosome that are necessar
 
 Data sets and additional information can be found [here](https://www.patricbrc.org/webpage/website/data_collections/content/flute-experiment-3.html).
 
-## Statistical analysis of genetic interactions in Tn-Seq data
+### Statistical analysis of genetic interactions in Tn-Seq data
 
 PMID:[28334803](https://www.ncbi.nlm.nih.gov/pubmed/?term=28334803)
 
@@ -47,7 +49,7 @@ Tn-Seq is an experimental method for probing the functions of genes through cons
 
 Data sets and additional information can be found [here](https://www.patricbrc.org/webpage/website/data_collections/content/flute-experiment-4.html).
 
-## TnSeq datasets for 10 knockouts in Mtb
+### TnSeq datasets for 10 knockouts in Mtb
 
 In this experiment, knockout strains for 10 genes in Mycobacterium tuberculosis H37Rv and assayed by TnSeq to identify conditional essentials (compared to WT, using the resampling statistical method in Transit). The target genes (knockedout) are: Rv3594, Rv3717, Rv3811, Rv0307c, Rv3916c, Rv0950, Rv1096, Rv3684, Rv0954, and Rv3671c.
 
