@@ -3,17 +3,17 @@
 
 ![CCFA](https://www.patricbrc.org/public/patric/images/cropped-LOGO_CCFA_noborder_2013-12-20.h.1002.png)
 
-*Program director:* Sean Crosson, University of Chicago
+**Program Director:** Sean Crosson, University of Chicago
 
-*Investigators:* Scientists from the University of Chicago and the Argonne National Laboratory Biosciences Division
+**Investigators:** Scientists from the University of Chicago and the Argonne National Laboratory Biosciences Division
 
-*Funding source:* NIH U19 AI107792
+**Funding Source:** NIH U19 AI107792
 
-*Project home page:* [http://ucfunction.org/](http://ucfunction.org/)
+**Project Home Page:** [http://ucfunction.org/](http://ucfunction.org/)
 
-*Project objectives:* The Chicago Center for Functional Annotation (CCFA) is defining gene function on multiple scales, using a multi-disciplinary set of cellular, genetic, molecular, and biochemical approaches. The primary goal of the CCFA is to define the biochemical and cellular functions of uncharacterized genes in the NIAID priority pathogens, Yersinia pestis and Brucella abortus.
+**Project Objectives:** The Chicago Center for Functional Annotation (CCFA) is defining gene function on multiple scales, using a multi-disciplinary set of cellular, genetic, molecular, and biochemical approaches. The primary goal of the CCFA is to define the biochemical and cellular functions of uncharacterized genes in the NIAID priority pathogens, Yersinia pestis and Brucella abortus.
 
-*Project data:* [PATRIC FTP Site](ftp://ftp.patricbrc.org/BRC_Mirrors/CCFA/), [PATRIC Workspace](https://patricbrc.org/workspace/public/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Functional%20Genomics%20Centers/CCFA%20-%20Chicago%20Center%20for%20Functional%20Annotation)
+**Project Data:** [PATRIC FTP Site](ftp://ftp.patricbrc.org/BRC_Mirrors/CCFA/), [PATRIC Workspace](https://patricbrc.org/workspace/public/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Functional%20Genomics%20Centers/CCFA%20-%20Chicago%20Center%20for%20Functional%20Annotation)
 
 ## Brucella abortus Project
 
