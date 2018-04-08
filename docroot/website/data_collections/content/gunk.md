@@ -13,7 +13,9 @@
 
 **Project Objectives:** Acinetobacter baumannii is an emerging pathogen that causes primary and opportunistic infections, and is a serious concern in the hospital and battlefield settings. This organism has significant intrinsic resistance to antibiotics as well as an ability to quickly acquire new resistance. Additionally, A. baumannii can persist in a desiccated state on fomites, making disinfection and management of nosocomial infections particularly troublesome. The goal of the GUNK center is to find unexploited therapeutic approaches by elucidating the role of uncharacterized genes of A. baumannii in this organism’s mechanisms of pathogenesis, resistance, and persistence.
 
-## Resources for Genetic and Genomic Analysis of Emerging Pathogen Acinetobacter baumannii
+## Publications
+
+### Resources for Genetic and Genomic Analysis of Emerging Pathogen Acinetobacter baumannii
 
 PMID:[25845845](https://www.ncbi.nlm.nih.gov/pubmed/?term=25845845)
 
@@ -21,7 +23,7 @@ Acinetobacter baumannii is a Gram-negative bacterial pathogen notorious for caus
 
 Data sets and additional information can be found [here](https://www.patricbrc.org/webpage/website/data_collections/content/gunk-experiment-1.html).
 
-## Host-Microbe Protein Interactions during Bacterial Infection
+### Host-Microbe Protein Interactions during Bacterial Infection
 
 PMID:[26548613](http://www.ncbi.nlm.nih.gov/pubmed/26548613)
 
@@ -29,7 +31,7 @@ Interspecies protein-protein interactions are essential mediators of infection. 
 
 Data sets and additional information can be found [here](https://www.patricbrc.org/webpage/website/data_collections/content/gunk-experiment-2.html).
 
-## Joint Transcriptional Control of Virulence and Resistance to Antibiotic and Environmental Stress in Acinetobacter baumannii
+### Joint Transcriptional Control of Virulence and Resistance to Antibiotic and Environmental Stress in Acinetobacter baumannii
 
 PMID:[26556274](https://www.ncbi.nlm.nih.gov/pubmed/?term=26556274)
 
