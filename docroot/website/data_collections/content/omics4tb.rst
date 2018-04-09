@@ -3,17 +3,17 @@ Omics4TB
 
 .. image:: https://www.patricbrc.org/public/patric/images/omics4tb.png
 
-Program directors: David Sherman and Alan Aderem, Center for Infectious Disease Research
+**Program Directors:** David Sherman and Alan Aderem, Center for Infectious Disease Research
 
-Investigators: Nitin S. Baliga, Kevin Urdahl, Daniel Zak, and Robert Moritz
+**Investigators:** Nitin S. Baliga, Kevin Urdahl, Daniel Zak, and Robert Moritz
 
-Funding source: NIH NIAID U19 AI106761
+**Funding Source:** NIH NIAID U19 AI106761
 
-Project home page: http://www.omics4tb.org
+**Project Home Page:** http://www.omics4tb.org
 
-Project data: `PATRIC FTP Site <ftp://ftp.patricbrc.org/BRC_Mirrors/Omics4TB/>`_ and `PATRIC Public Workspace <https://www.patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB>`_
+**Project Data:** `PATRIC FTP Site <ftp://ftp.patricbrc.org/BRC_Mirrors/Omics4TB/>`_ and `PATRIC Public Workspace <https://www.patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB>`_
 
-Project objectives: Mycobacterium tuberculosis causes ~9 million new cases of active disease and 1.4 million deaths each year, and our tools to combat tuberculosis (TB) disease are universally outdated and overmatched. This project combines separate advances in systems biology and network modeling to produce an experimentally grounded and verifiable systems-level model of the MTB regulatory networks that affect disease progression. Our consortium of two projects and four Cores aim to reveal key features of TB disease progression in an iterative cycle: perturb carefully chosen subnetworks within both MTB and host; collect matched omics data sets; model, predict, and validate with new experiments.
+**Project Objectives:** Mycobacterium tuberculosis causes ~9 million new cases of active disease and 1.4 million deaths each year, and our tools to combat tuberculosis (TB) disease are universally outdated and overmatched. This project combines separate advances in systems biology and network modeling to produce an experimentally grounded and verifiable systems-level model of the MTB regulatory networks that affect disease progression. Our consortium of two projects and four Cores aim to reveal key features of TB disease progression in an iterative cycle: perturb carefully chosen subnetworks within both MTB and host; collect matched omics data sets; model, predict, and validate with new experiments.
 
 Summary of Omics4TB Datasets
 -----------------------------
