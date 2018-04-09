@@ -88,6 +88,6 @@ GEO Record
 +-----------------------------------+-----------------------------------+
 
 **Dataset:** The gene expression dataset is also available from `PATRIC
-workspace </workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB/MTB%20bedaquiline%20tolerance>`__,
+workspace <https://www.patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB/MTB%20bedaquiline%20tolerance>`__,
 which allows users to view the gene expression data as an interactive
 and dynamic gene list and heat map.

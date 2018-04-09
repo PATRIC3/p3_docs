@@ -43,7 +43,7 @@ GEO Record
 +-------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 **Dataset:** This gene expression dataset is also available from `PATRIC
-workspace </workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB/MTB%20infection%20in%20macrophages>`__,
+workspace <https://www.patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB/MTB%20infection%20in%20macrophages>`__,
 which allows users to view the gene expression data as an interactive
 and dynamic gene list and heat map.
 

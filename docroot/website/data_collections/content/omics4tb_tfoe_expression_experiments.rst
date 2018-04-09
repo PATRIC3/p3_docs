@@ -79,6 +79,6 @@ A searchable Excel file enabling easy query of this large dataset can
 also be downloaded from the portal.
 
 The same `TFOE dataset is also available from a public PATRIC
-workspace </workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB>`__,
+workspace <https://patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special%20Collections/NIAID%20Systems%20Biology%20Centers/Omics4TB>`__,
 which allows users to view the gene expression data as an interactive
 and dynamic gene list and heat map.
