@@ -39,6 +39,8 @@ The increasing emergence of antibiotic-resistant bacterial pathogens represents 
 
 Acinetobacter baumannii is rapidly emerging as a significant human pathogen, largely because of disinfectant and antibiotic resistance, causing lethal infection in fragile hosts. Despite the increasing prevalence of infections with multidrug-resistant A. baumannii strains, little is known regarding not only the molecular mechanisms that allow A. baumannii to resist environmental stresses (i.e., antibiotics and disinfectants) but also how these pathogens survive within an infected host to cause disease. We employed a large-scale genetic screen to identify genes required for A. baumannii to survive and grow in an insect disease model. While we identified many known virulence factors harbored by A. baumannii, we also discovered many novel genes that likely play key roles in A. baumannii survival of exposure to antibiotics and other stress-inducing chemicals. These results suggest that selection for increased resistance to antibiotics and environmental stress may inadvertently select for increased virulence in A. baumannii.
 
+Genes required for growth of A. baumannii in G. mellonella are available [here](http://brcdownloads.patricbrc.org/BRC_Mirrors/GUNK/pmid_26556274/pmid_26556274_table_1.xlsx).
+
 ### In vivo protein interaction network analysis reveals porin-localized antibiotic inactivation in Acinetobacter baumannii strain AB5075
 
 PMID:[27834373](https://www.ncbi.nlm.nih.gov/pubmed/27834373)
