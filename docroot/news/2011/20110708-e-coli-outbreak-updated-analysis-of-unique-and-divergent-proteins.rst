@@ -25,7 +25,7 @@ provided in the figure below.
 
 A list of all proteins and their conformity scores is provided in an
 Excel file
-(`ecoli9genocav <http://docs.patricbrc.org/news/2011/files/ecoli9genocav.xls>`__). 
+(:download:`ecoli9genocav <../files/201100/ecoli9genocav.xls>`). 
 Some of the proteins found in the outbreak strains have no homologs in
 *E. coli*.  In the conformity score column, these “unique” proteins are
 identified by a “-“.  The data for the unique proteins for all nine

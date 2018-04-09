@@ -67,8 +67,7 @@ and then selecting the “Heatmap” tab.
 See the `Protein Family Sorter
 FAQs <../../../../../protein-family-sorter/>`__ for help in using the
 sorter.  An Excel file with tabs containing lists of proteins in these
-islands is available by clicking `E coli protein
-islands <http://docs.patricbrc.org/news/2011/files/E-coli-protein-islands.xlsx>`__.
+islands is available by clicking :download:`E coli protein islands <../files/201100/E-coli-protein-islands.xlsx>`.
 
 .. image:: images/E.-coli-Ty-island.png
 
