@@ -10,15 +10,23 @@ Acinetobacter baumannii is a Gram-negative bacterial pathogen notorious for caus
 As a resource for genetic analysis of AB5075, we created an arrayed library of mutants with defined transposon insertions in most nonessential genes of the organism. Our goal was to create a colony-purified library with relatively complete genome coverage that was small enough to facilitate efficient phenotype screening. We also wanted it to include several different mutations for each gene to minimize missed genotype-phenotype associations arising from noninactivating mutations or library cross-contamination and to provide immediate confirmation of associations observed. To meet these objectives, we created a library made up of two to three different insertion mutants per nonessential gene.
 
 **Conditions:**  Growth on TYE agar of individual transposon insertion mutants as described in paper.
+
 **Library:**  Comprehensive arrayed library of individual, sequence-defined transposon insertion mutants. This library serves as a curated source of individually-retrievable mutant strains.
 Transposon used:  T26 (Tn5-based, encoding tetracycline resistance, bearing LoxP sites flanking the resistance marker to facilitate marker recycling).
+
 **Protocol for library preparation:**  Electroporation of transposon-transposase complexes, followed by picking, arraying, storage and sequencing of individual mutants, as described in paper.  Second “three-allele” arrayed library was generated from the primary library by cherry-picking three mutant strains per gene.
+
 **Protocol for sequencing:**  Transposon-genome junctions from individual strains were amplified and sequenced by Sanger sequencing.
 Protocol for data processing:  custom sequence-read parsing and mapping scripts which call crossmatch for mapping.
+
 **Reference Genome:** Acinetobacter baumannii AB5075-UW
+
 **Experimenter/Researcher/Owner of Data:** Colin Manoil, University of Washington
+
 **PI/Lab:** Colin Manoil, University of Washington
+
 **Uploaded/Deposited by:** Larry Gallagher, University of Washington
+
 **Dataset:** [Supplemental file S1](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4438207/bin/supp_197_12_2027__index.html)
 
 ## Tn-seq Analysis of Acinetobacter baumannii AB5075
@@ -26,15 +34,25 @@ Protocol for data processing:  custom sequence-read parsing and mapping scripts 
 To provide an efficient procedure for screening pools of mutants for genotype-phenotype associations, we extended transposon insertion pool screening (Tn-seq) to AB5075. We used transposon Tn5-based methodology to provide high genome coverage. We compared two different Tn-seq procedures, the circle method we developed and an adaptation to Tn5 of a method that utilizes terminal deoxynucleotidyl transferase (TdT). Approximately 450,000 T26 insertion mutants selected on LB agar were pooled, and DNA from the pool was analyzed by the two methods. Both methods successfully identified insertions comparable in number to the predicted pool complexity. The two Tn-seq methods both worked well for A. baumannii AB5075 and provided remarkably similar lists of essential genes.
 
 **Conditions:** Growth on TYE agar and pooling of individual transposon insertion mutants as described in paper.
+
 **Library:** Pool of approximately 450,000 mutants.
+
 **Transposon used:** T26 (Tn5-based, encoding tetracycline resistance, bearing LoxP sites flanking the resistance marker to facilitate marker recycling).
+
 **Protocol for library preparation:**  Electroporation of transposon-transposase complexes, followed by pooling of individual mutants, as described in paper.
+
 **Protocol for TnSeq sample preparation:**  Two methods were used and compared, the circle method and the TdT method.
+
 **Protocol for sequencing:** 50-bp single-end reads on Illumina MiSeq.
+
 **Protocol for data processing:**  custom Tn-seq data processing scripts which map reads using BWA, then count reads per insertion site and normalize as described in paper.
+
 **Reference Genome:** Acinetobacter baumannii AB5075-UW
+
 **Experimenter/Researcher/Owner of Data:** Colin Manoil, University of Washington
+
 **PI/Lab:** Colin Manoil, University of Washington
+
 **Uploaded/Deposited by:** Larry Gallagher, University of Washington
 
 **Datasets:** TBD
