@@ -69,7 +69,7 @@ GEO Record
 All transcription factor overexpression data from tiling microarray
 experiments are available at NCBI GEO database under the accession
 number GSE59086
-(`tfoe-meta.xls <https://docs.patricbrc.org/news/2016/files/tfoe-meta.xls>`__)
+(`tfoe-meta.xls <https://docs.patricbrc.org/_downloads/tfoe-meta.xls>`__)
 (Gene Expression
 Omnibus \ `GSE59086 <http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE59086>`__).
 Moreover, sample information for each experiment is available at MTB

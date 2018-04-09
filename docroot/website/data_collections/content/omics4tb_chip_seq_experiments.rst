@@ -77,8 +77,8 @@ Turkarslan; 2014-07-23
 
 All raw sequencing data for ChIP-seq experiments in BAM format are
 available at NCBI under BioProject number PRJNA255984
-(`ChIPSeq-meta.xls <https://docs.patricbrc.org/news/2016/files/chIPSeq-meta.xls>`__)
-(GenBank`PRJNA255984 <http://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA255984>`__).
+(`ChIPSeq-meta.xls <https://docs.patricbrc.org/_downloads/chIPSeq-meta.xls>`__)
+(GenBank `PRJNA255984 <http://www.ncbi.nlm.nih.gov/bioproject/PRJNA255984>`__).
 In addition, sorted and indexed BAM files are available at the MTB
 Network Portal (http://networks.systemsbiology.net/mtb/chipseq-gateway).
 The MTB Network Portal enables exploration of ChIP-seq data for each TF

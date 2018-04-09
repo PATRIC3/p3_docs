@@ -58,7 +58,7 @@ Summary of Omics4TB Datasets
 .. _`Mapping and manipulating the Mycobacterium tuberculosis transcriptome using a transcription factor overexpression-derived regulatory network`: https://www.patricbrc.org/webpage/website/data_collections/content/omics4tb_tfoe_expression_experiments.html
 .. _`25380655`: http://www.ncbi.nlm.nih.gov/pubmed/25380655
 .. _`GEO Accession: GSE59086`: http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE59086
-.. _`PATRIC: tfoe-meta.xls`: https://docs.patricbrc.org/news/2016/files/tfoe-meta.xls
+.. _`PATRIC: tfoe-meta.xls`: https://docs.patricbrc.org/_downloads/tfoe-meta.xls
 .. _`MTB Network Portal TFOE`: http://networks.systemsbiology.net/mtb/content/TFOE-Searchable-Data-File
 
 .. _`25232098`: http://www.ncbi.nlm.nih.gov/pubmed/25232098
