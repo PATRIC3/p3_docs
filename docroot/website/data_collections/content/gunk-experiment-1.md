@@ -1,7 +1,7 @@
 
 # Resources for Genetic and Genomic Analysis of Emerging Pathogen Acinetobacter baumannii
 
-**Publication:** [PMC4438207](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4438207/)
+PMID:[25845845](https://www.ncbi.nlm.nih.gov/pubmed/25845845)
 
 Acinetobacter baumannii is a Gram-negative bacterial pathogen notorious for causing serious nosocomial infections that resist antibiotic therapy. Research to identify factors responsible for the pathogen’s success has been limited by the resources available for genome-scale experimental studies. This report describes the development of several such resources for A. baumannii strain AB5075, a recently characterized wound isolate that is multidrug resistant and displays robust virulence in animal models. We report the completion and annotation of the genome sequence, the construction of a comprehensive ordered transposon mutant library, the extension of high-coverage transposon mutant pool sequencing (Tn-seq) to the strain, and the identification of the genes essential for growth on nutrient-rich agar. These resources should facilitate large-scale genetic analysis of virulence, resistance, and other clinically relevant traits that make A. baumannii a formidable public health threat.
 
