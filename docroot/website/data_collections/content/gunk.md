@@ -45,7 +45,7 @@ PMID:[27834373](https://www.ncbi.nlm.nih.gov/pubmed/27834373)
 
 The nosocomial pathogen Acinetobacter baumannii is a frequent cause of hospital-acquired infections worldwide and is a challenge for treatment due to its evolved resistance to antibiotics, including carbapenems. Here, to gain insight on A. baumannii antibiotic resistance mechanisms, we analyse the protein interaction network of a multidrug-resistant A. baumannii clinical strain (AB5075). Using in vivo chemical cross-linking and mass spectrometry, we identify 2,068 non-redundant cross-linked peptide pairs containing 245 intra- and 398 inter-molecular interactions. Outer membrane proteins OmpA and YiaD, and carbapenemase Oxa-23 are hubs of the identified interaction network. Eighteen novel interactors of Oxa-23 are identified. Interactions of Oxa-23 with outer membrane porins OmpA and CarO are verified with co-immunoprecipitation analysis. Furthermore, transposon mutagenesis of oxa-23 or interactors of Oxa-23 demonstrates changes in meropenem or imipenem sensitivity in strain AB5075. These results provide a view of porin-localized antibiotic inactivation and increase understanding of bacterial antibiotic resistance mechanisms.
 
-Cross-linked peptide pairs and protein-protein interactions identified in this study are available [here](http://brcdownloads.patricbrc.org/BRC_Mirrors/GUNK/pmid_27834373/)
+Cross-linked peptide pairs and protein-protein interactions identified in this study are available [here](http://brcdownloads.patricbrc.org/BRC_Mirrors/GUNK/pmid_27834373/).
 
 ### Importance of Core Genome Functions for an Extreme Antibiotic Resistance Trait
 
@@ -55,4 +55,4 @@ Extreme antibiotic resistance in bacteria is associated with the expression of p
 
 The inexorable increase in bacterial antibiotic resistance threatens to undermine many of the procedures that transformed medicine in the last century. One strategy to meet the challenge antibiotic resistance poses is the development of drugs that undermine resistance. To identify potential targets for such adjuvants, we identified the functions underlying resistance to an important class of antibiotics for one of the most highly resistant pathogens known.
 
-Candidate tobramycin resistance genes identified in AB5075 and AB5075ΔRI are available [here](http://brcdownloads.patricbrc.org/BRC_Mirrors/GUNK/pmid_29233894/)
+Candidate tobramycin resistance genes identified in AB5075 and AB5075ΔRI are available [here](http://brcdownloads.patricbrc.org/BRC_Mirrors/GUNK/pmid_29233894/).
