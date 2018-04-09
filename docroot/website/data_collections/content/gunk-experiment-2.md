@@ -15,8 +15,8 @@ Interspecies protein-protein interactions are essential mediators of infection. 
 
 In vivo proteomic XL-MS analysis of proteins from infected H292 lung epithelial cells generated 16,758 crosslinked peptide-peptide relationships. Of these, we identified 3,076 non-redundant peptide-peptide relationships across three biological replicates at a relationship false discovery rate (FDR) of 0.24%. Crosslinked peptide-peptide relationships were mapped to a network of 715 protein-protein interactions (PPIs) attributed to 488 human proteins and 113 bacterial proteins.
 
-* [Table S1](https://docs.patricbrc.org/news/2016/files/mmc2-1.xlsx) - All Crosslinked Peptide/Site Relationships Identified across Three Biological Replicates of for Ab5075-Infected H292 Cells
+* [Table S1](http://brcdownloads.patricbrc.org/BRC_Mirrors/GUNK/mmc2-1.xlsx) - All Crosslinked Peptide/Site Relationships Identified across Three Biological Replicates of for Ab5075-Infected H292 Cells
 
 In addition to crosslinking infected host cells, we harvested AB5075 alone and crosslinked the bacterial cells to improve network and structural coverage of bacterial interprotein and intraprotein crosslinks within AB5075.
 
-* [Table S3](https://docs.patricbrc.org/news/2016/files/mmc4.xlsx) - All Crosslinked Peptide/Site Relationships Identified for Ab5075-Alone Dataset
+* [Table S3](http://brcdownloads.patricbrc.org/BRC_Mirrors/GUNK//mmc4.xlsx) - All Crosslinked Peptide/Site Relationships Identified for Ab5075-Alone Dataset
