@@ -9,7 +9,7 @@ Interspecies protein-protein interactions are essential mediators of infection. 
 **PI/Lab:** James Bruce, University of Washington
 **Uploaded/Deposited by:** Devon Schweppe, University of Washington
 
-## Protein-Protein Interaction Datasets
+**Protein-Protein Interaction Datasets**
 
 In vivo proteomic XL-MS analysis of proteins from infected H292 lung epithelial cells generated 16,758 crosslinked peptide-peptide relationships. Of these, we identified 3,076 non-redundant peptide-peptide relationships across three biological replicates at a relationship false discovery rate (FDR) of 0.24%. Crosslinked peptide-peptide relationships were mapped to a network of 715 protein-protein interactions (PPIs) attributed to 488 human proteins and 113 bacterial proteins.
 
