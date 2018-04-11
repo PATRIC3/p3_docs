@@ -1,7 +1,17 @@
 [{
+    "title": "PATRIC/RAST Workshop at ASM Microbe 2018, June 7, 2018",
+    "desc": "The PATRIC/RAST team will be offering a 1-day tutorial workshop on June 7 at ASM Microbe 2018 in Atlanta, GA. The workshop will provide demonstrations and hands-on exercises using key PATRIC features and functionality.",
+    "img": "https://docs.patricbrc.org/_static/announcements/workshop-ASM-2018.png",
+    "link": "http://www.abstractsonline.com/pp8/#!/4623/session/1156"
+}, {
+    "title": "PATRIC Subsystems - New Functionality",
+    "desc": "PATRIC now includes subsystem data for single genome, taxon, and genome group levels.  Subsystems are curated sets of biologically related functional roles across a reference set of genomes, comprising units of expert knowledge about a single biological process.",
+    "img": "https://docs.patricbrc.org/_static/announcements/subsystems.png",
+    "link": "https://docs.patricbrc.org/user_guides/organisms_taxon/subsystems_tab.html"
+}, {
     "title": "PATRIC/RAST Workshop at Argonne National Laboratory, May 7-9, 2018",
     "desc": "The PATRIC/RAST teams will be offering a tutorial workshop May 7-9, 2018, at Argonne National Laboratory in the suburbs of Chicago, IL. The workshop will run for three days, with the third day optional and devoted solely to participants working on their own problems with help from the PATRIC/RAST team members.",
-    "img": "https://www.patricbrc.org/patric/images/carousel/workshop_ANL_Aug_2017.jpg",
+    "img": "https://docs.patricbrc.org/_static/announcements/workshop-ANL-2018.jpg",
     "link": "https://docs.patricbrc.org/news/2018/20180122-patric-workshop-at-argonne-national-lab.html"
 }, {
     "title": "PATRIC Webinar Series",
@@ -11,6 +21,6 @@
 }, {
     "title": "PATRIC Command Line Interface",
     "desc": "The PATRIC Command Line Interface (CLI) includes commands and features to 1) run PATRIC services, including Genome Assembly and Annotation; 2) enable access to PATRIC workspaces; 3) manage data objects in the workspace, such as genomes; and 4) facilitate access and manipulation of data retrieved from the PATRIC databases. Full-fledged documentation for using the CLI is available as well.",
-    "img": "https:///www.patricbrc.org/patric/images/carousel/CLI.png",
+    "img": "https://docs.patricbrc.org/_static/announcements/cli.png",
     "link": "https://docs.patricbrc.org/cli_tutorial/index.html"
 }]
