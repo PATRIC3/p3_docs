@@ -3,10 +3,14 @@
 [**List of publications that cite PATRIC**](https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1)
 
 ## 2018
+<p>Nguyen M, Brettin T, Long SW, Musser JM, Olsen RJ, Olson R, Shukla M, Stevens RL, Xia F, Yoo H, Davis JJ.  <strong>Developing an in silico minimum inhibitory concentration panel test for Klebsiella pneumoniae.</strong> Sci Rep. 2018 Jan 11;8(1):421. doi: 10.1038/s41598-017-18972-w. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+29323230">29323230</a>.
+	PMCID:<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5765115/">PMC5765115</a>.
+</p>
+
 <p>Wattam AR, Brettin T, Davis JJ, Gerdes S, Kenyon R, Machi D, Mao C, Olson R, Overbeek R, Pusch GD, Shukla MP, Stevens R, Vonstein V, Warren A, Xia F, Yoo H.
 <strong>Assembly, Annotation, and Comparative Genomics in PATRIC, the All Bacterial Bioinformatics Resource Center.</strong>
 Methods Mol Biol. 2018;1704:79-101.
-    PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29277864">29277864</a>.
+    PMID:<a href="https://www.ncbi.nlm.nih.gov/pubmed/29277864">29277864</a>.
 </p>
 
 ## 2017
@@ -35,6 +39,11 @@ Methods Mol Biol. 2018;1704:79-101.
     mBio 8(3): e00489-00417.
     PMID:<a href="https://www.ncbi.nlm.nih.gov/pubmed/28512093">28512093</a>.
     PMCID:<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5433097/">PMC5433097</a>.
+</p>
+
+<p>Roch M, Gagetti P, Davis J, Ceriana P, Errecalde L, Corso A, Rosato AE. Daptomycin Resistance in Clinical MRSA Strains Is Associated with a High Biological Fitness Cost. Front Microbiol. 2017 Dec 5;8:2303. doi: 10.3389/fmicb.2017.02303.
+	PMID:<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+29259579">29259579</a>.
+	PMCID:<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5723333/">PMC5723333</a>.
 </p>
 
 <p>Vélez JR, Cameron M, Rodríguez-Lecompte JC, Xia F, Heider LC, Saab M, McClure JT, Sánchez J (2017).  
