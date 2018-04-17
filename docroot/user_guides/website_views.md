@@ -19,10 +19,18 @@ The view type is automatically generated based on the selection. For instance, w
 ![Taxon View](./images/taxon_view.png)
 
 ### Genome View
-Similarly, selecting a genome in the Genomes Tab and then clicking the **Genome View** icon in the Action Bar displays the Genome View. Now all of the data tabs contain data and information _**for that genome only**_, as illustrated below.
+Similarly, selecting a genome in the Genomes Tab and then clicking the **Genome List View** icon in the Action Bar displays the Genome List View. Now all of the data tabs contain data and information _**for that set genome only**_, as illustrated below.
 
 ![Genome View Action Button](./images/genome_action_button.png) 
 ![Genome View](./images/genome_view.png)
+
+### Genome List View
+Alternatively, selecting multiple genomes in the Genomes Tab and then clicking the **Genome View** icon in the Action Bar displays the Genome View. Now all of the data tabs contain data and information _**for that genome only**_, as illustrated below. The **Genome Group View** works the same way except that the list of genomes comes from a saved group.
+
+![Genome View Action Button](./images/genome_list_action_button.png) 
+![Genome View](./images/genome_list_view.png)
+
+
 
 ## Feature-Based Views
 * **Feature View:** Single genomic feature (gene, etc.) and its related data
