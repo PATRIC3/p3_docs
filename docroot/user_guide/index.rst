@@ -1,7 +1,8 @@
 :github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/user_guide/index.rst
 
-User Guides
-==================================
+User Guides (ARCHIVE)
+========================================
+This is an archive of older, outdated PATRIC user guides, and will soon be removed.
 
 .. toctree::
    :maxdepth: 2
