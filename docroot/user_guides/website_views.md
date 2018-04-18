@@ -31,9 +31,9 @@ Alternatively, selecting multiple genomes in the Genomes Tab and then clicking t
 ![Genome View](./images/genome_list_view.png)
 
 ## Feature-Based Views
-* **Feature View:** Single genomic feature (gene, etc.) and its related data
-* **Feature List View:** All features within a selected list and related data
-* **Feature Group View:** All features within a created group and related data
+![Feature View Icon](./images/feature_view_icon.png) **Feature View:** Single genomic feature (gene, etc.) and its related data
+![Feature List View Icon](./images/feature_view_icon.png) **Feature List View:** All features within a selected list and related data
+![Feature Group View Icon](./images/feature_view_icon.png) **Feature Group View:** All features within a created group and related data
 
 ### Feature View
 Selecting a genome in the Features Tab and then clicking the **Feature View** icon in the Action Bar displays the Feature View. Now all of the data tabs contain data and information _**for that feature only**_, as illustrated below.
@@ -46,8 +46,3 @@ Alternatively, selecting multiple features in the Features Tab and then clicking
 
 ![Feature List View Action Button](./images/feature_list_action_button.png) 
 ![Feature List View](./images/feature_list_view.png)
-
-
-
-
-
