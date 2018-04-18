@@ -19,18 +19,16 @@ The view type is automatically generated based on the selection. For instance, w
 ![Taxon View](./images/taxon_view.png)
 
 ### Genome View
-Similarly, selecting a genome in the Genomes Tab and then clicking the **Genome List View** icon in the Action Bar displays the Genome List View. Now all of the data tabs contain data and information _**for that set genome only**_, as illustrated below.
+Similarly, selecting a single genome in the Genomes Tab and then clicking the **Genome View** icon in the Action Bar displays the Genome View. Now all of the data tabs contain data and information _**for that selectec genome only**_, as illustrated below.
 
 ![Genome View Action Button](./images/genome_action_button.png) 
 ![Genome View](./images/genome_view.png)
 
 ### Genome List View
-Alternatively, selecting multiple genomes in the Genomes Tab and then clicking the **Genome View** icon in the Action Bar displays the Genome View. Now all of the data tabs contain data and information _**for that genome only**_, as illustrated below. The **Genome Group View** works the same way except that the list of genomes comes from a saved group.
+Alternatively, selecting multiple genomes in the Genomes Tab and then clicking the **Genome List View** icon in the Action Bar displays the Genome LIst View. Now all of the data tabs contain data and information _**for that set of genomes**_, as illustrated below. The **Genome Group View** works the same way except that the list of genomes comes from a saved group.
 
 ![Genome View Action Button](./images/genome_list_action_button.png) 
 ![Genome View](./images/genome_list_view.png)
-
-
 
 ## Feature-Based Views
 * **Feature View:** Single genomic feature (gene, etc.) and its related data
@@ -44,7 +42,7 @@ Selecting a genome in the Features Tab and then clicking the **Feature View** ic
 ![Feature View](./images/feature_view.png)
 
 ### Feature List View
-Alternatively, selecting multiple features in the Features Tab and then clicking the **Feature List View** icon in the Action Bar displays the Feature List View. Now all of the data tabs contain data and information _**for that set of features only**_, as illustrated below. The **Feature Group View** works the same way except that the list of features comes from a saved group.
+Alternatively, selecting multiple features in the Features Tab and then clicking the **Feature List View** icon in the Action Bar displays the Feature List View. Now all of the data tabs contain data and information _**for that set of features**_, as illustrated below. The **Feature Group View** works the same way except that the list of features comes from a saved group.
 
 ![Feature List View Action Button](./images/feature_list_action_button.png) 
 ![Feature List View](./images/feature_list_view.png)
