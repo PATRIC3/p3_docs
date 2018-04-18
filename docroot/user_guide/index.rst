@@ -2,7 +2,7 @@
 
 User Guides (ARCHIVE)
 ========================================
-This is an archive of older, outdated PATRIC user guides, and will soon be removed.
+**NOTE: This is an archive of older, outdated PATRIC user guides, and will soon be removed.**
 
 .. toctree::
    :maxdepth: 2
