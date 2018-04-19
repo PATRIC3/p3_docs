@@ -16,15 +16,15 @@ The Selection Action Bar appears on the right side of all PATRIC tables.
 The action buttons apply to specific data types or multiple data types, depending on the operation. Below is a description of each action button, organized by their application.
 
 ### General purpose
-![Hide Action Button](./images/hide_action_button.png) **Hide:** Hides the right-hand side Details Pane (toggles between Hide and Show).
+![Hide Action Button](./images/hide_button.png) **Hide:** Hides the right-hand side Details Pane (toggles between Hide and Show).
 
-![Show Action Button](./images/show_action_button.png) **Show:** Shows (unhides) the right-hand side Details Pane (toggles between Hide and Show).
+![Show Action Button](./images/show_button.png) **Show:** Shows (unhides) the right-hand side Details Pane (toggles between Hide and Show).
 
-![Download Action Button](./images/download_action_button.png) **Download:**  Downloads the selected items (rows).
+![Download Action Button](./images/download_button.png) **Download:**  Downloads the selected items (rows).
 
-![Copy Action Button](./images/copy_action_button.png) **Copy:** Copies the selected items to the clipboard.
+![Copy Action Button](./images/copy_button.png) **Copy:** Copies the selected items to the clipboard.
 
-![Group Action Button](./images/group_action_button.png) **Group:** Opens a pop-up window to enable adding the selected items to an existing or new group in the private workspace.
+![Group Action Button](./images/group_button.png) **Group:** Opens a pop-up window to enable adding the selected items to an existing or new group in the private workspace.
 
 ### Genomes and Features
 ![Genome View Action Button](./images/genome_view_action_button.png) **Genome:** Loads the Genome View Overview page corresponding to the selected genome/feature.  *Available only if a single feature is selected.*
