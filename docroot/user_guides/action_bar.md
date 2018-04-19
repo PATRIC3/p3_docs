@@ -16,26 +16,36 @@ The Selection Action Bar appears on the right side of all PATRIC tables.
 The action buttons apply to specific data types or multiple data types, depending on the operation. Below is a description of each action button, organized by their application.
 
 ### General purpose
-* **Hide:** Hides the right-hand side Details Pane (toggles between Hide and Show).
-* **Show:** Shows (unhides) the right-hand side Details Pane (toggles between Hide and Show).
-* **Download:**  Downloads the selected items (rows).
-* **Copy:** Copies the selected items to the clipboard.
-* **Group:** Opens a pop-up window to enable adding the selected items to an existing or new group in the private workspace.
+![Hide Action Button](./images/hide_action_button.png) **Hide:** Hides the right-hand side Details Pane (toggles between Hide and Show).
+
+![Show Action Button](./images/show_action_button.png) **Show:** Shows (unhides) the right-hand side Details Pane (toggles between Hide and Show).
+
+![Download Action Button](./images/download_action_button.png) **Download:**  Downloads the selected items (rows).
+
+![Copy Action Button](./images/copy_action_button.png) **Copy:** Copies the selected items to the clipboard.
+
+![Group Action Button](./images/group_action_button.png) **Group:** Opens a pop-up window to enable adding the selected items to an existing or new group in the private workspace.
 
 ### Genomes and Features
-* **Genome:** Loads the Genome View Overview page corresponding to the selected genome/feature.  *Available only if a single feature is selected.*
-* **Genomes:** Loads the Genomes Table, listing the genomes that correspond to the selected genomes/features. *Available only if multiple features are selected.*
+![Genome View Action Button](./images/genome_view_action_button.png) **Genome:** Loads the Genome View Overview page corresponding to the selected genome/feature.  *Available only if a single feature is selected.*
+
+![Genome List View Action Button](./images/genome_list_view_action_button.png) **Genomes:** Loads the Genomes Table, listing the genomes that correspond to the selected genomes/features. *Available only if multiple features are selected.*
 
 ### Features
-* **Feature:** Loads the Feature Page for the selected feature. *Available only if a single feature is selected.*
-* **Features:** Loads the Features Table for the selected features. *Available only if multiple features are selected.*
-* **FASTA:** Provides the FASTA DNA or protein sequence for the selected feature(s).
-* **ID Map:** Provides the option to map the selected feature(s) to multiple other idenfiers, such as RefSeq and UniProt.
-* **MSA:** Launches the PATRIC Multiple Sequence Alignment (MSA) tool and aligns the selected features by DNA or protein sequence in an interactive viewer.
-* **Pathway:** Loads the Pathway Summary Table containing a list of all the pathways in PATRIC in which the selected features are found.
+![Feature View Action Button](./images/feature_view_action_button.png) **Feature:** Loads the Feature Page for the selected feature. *Available only if a single feature is selected.*
+
+![Feature List View Action Button](./images/feature_list_view_action_button.png) **Features:** Loads the Features Table for the selected features. *Available only if multiple features are selected.*
+
+![FASTA Sequence Action Button](./images/fasta_sequence_action_button.png) **FASTA:** Provides the FASTA DNA or protein sequence for the selected feature(s).
+
+![ID Mapping Action Button](./images/id_mapping_action_button.png) **ID Mapping:** Provides the option to map the selected feature(s) to multiple other idenfiers, such as RefSeq and UniProt.
+
+![MSA Action Button](./images/msa_action_button.png) **MSA:** Launches the PATRIC Multiple Sequence Alignment (MSA) tool and aligns the selected features by DNA or protein sequence in an interactive viewer.
+
+![Pathway Action Button](./images/Pathway_action_button.png) **Pathway:** Loads the Pathway Summary Table containing a list of all the pathways in PATRIC in which the selected features are found.
 
 ### Protein Families
-* **Protein Family Members** 
+![Protein Families Action Button](./images/protein_families_action_button.png) **Protein Family Members** 
 
 
 
