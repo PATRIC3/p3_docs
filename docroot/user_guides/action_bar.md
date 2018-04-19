@@ -27,14 +27,14 @@ The action buttons apply to specific data types or multiple data types, dependin
 ![Group Action Button](./images/group_button.png) **Group:** Opens a pop-up window to enable adding the selected items to an existing or new group in the private workspace.
 
 ### Genomes and Features
-![Genome View Action Button](./images/genome_view_button.png) **Genome:** Loads the Genome View Overview page corresponding to the selected genome/feature.  *Available only if a single feature is selected.*
+![Genome View Action Button](./images/genome_view_button.png) **Genome:** Displays the Genome View Overview page corresponding to the selected genome/feature.  *Available only if a single feature is selected.*
 
-![Genome List View Action Button](./images/genome_list_view_button.png) **Genomes:** Loads the Genomes Table, listing the genomes that correspond to the selected genomes/features. *Available only if multiple features are selected.*
+![Genome List View Action Button](./images/genome_list_view_button.png) **Genomes:** Displays the Genomes Table, listing the genomes that correspond to the selected genomes/features. *Available only if multiple features are selected.*
 
 ### Features
-![Feature View Action Button](./images/feature_view_button.png) **Feature:** Loads the Feature Page for the selected feature. *Available only if a single feature is selected.*
+![Feature View Action Button](./images/feature_view_button.png) **Feature:** Displays the Feature Page for the selected feature. *Available only if a single feature is selected.*
 
-![Feature List View Action Button](./images/feature_list_view_button.png) **Features:** Loads the Features Table for the selected features. *Available only if multiple features are selected.*
+![Feature List View Action Button](./images/feature_list_view_button.png) **Features:** Displays the Features Table for the selected features. *Available only if multiple features are selected.*
 
 ![FASTA Data Action Button](./images/fasta_data_button.png) **FASTA:** Provides the FASTA DNA or protein sequence for the selected feature(s).
 
@@ -42,7 +42,7 @@ The action buttons apply to specific data types or multiple data types, dependin
 
 ![MSA Action Button](./images/msa_button.png) **MSA:** Launches the PATRIC Multiple Sequence Alignment (MSA) tool and aligns the selected features by DNA or protein sequence in an interactive viewer.
 
-![Pathway Action Button](./images/pathway_button.png) **Pathway:** Loads the Pathway Summary Table containing a list of all the pathways in PATRIC in which the selected features are found.
+![Pathway Action Button](./images/pathway_button.png) **Pathway:** Displays the Pathway Summary Table containing a list of all the pathways in PATRIC in which the selected features are found.
 
 ### Protein Families
-![Protein Families Action Button](./images/family_members_button.png) **Protein Family Members** 
+![Protein Families Action Button](./images/family_members_button.png) **Protein Family Members** Displays a list of all of the features in the selected protein family within the current genome or taxonomic level.
