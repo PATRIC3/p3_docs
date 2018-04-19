@@ -16,10 +16,11 @@ The Selection Action Bar appears on the right side of all PATRIC tables.
 The action buttons apply to specific data types or multiple data types, depending on the operation. Below is a description of each action button, organized by their application.
 
 ### General purpose
-* **Hide/Show:** Toggles (hides) the right-hand side Details Pane.
+* **Hide:** Hides the right-hand side Details Pane (toggles between Hide and Show).
+* **Show:** Shows (unhides) the right-hand side Details Pane (toggles between Hide and Show).
 * **Download:**  Downloads the selected items (rows).
 * **Copy:** Copies the selected items to the clipboard.
-* **Group:** Opens a pop-up window to enable adding the selected sequences to an existing or new group in the private workspace.
+* **Group:** Opens a pop-up window to enable adding the selected items to an existing or new group in the private workspace.
 
 ### Genomes and Features
 * **Genome:** Loads the Genome View Overview page corresponding to the selected genome/feature.  *Available only if a single feature is selected.*
