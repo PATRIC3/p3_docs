@@ -12,3 +12,13 @@ The Selection Action Bar appears on the right side of all PATRIC tables.
 
 ![Selection Action Bar](./images/action_bar.png) 
 
+## Section Action Bar Buttons
+The action buttons apply to specific data types or multiple data types, depending on the operation. Below is a description of each action button, organized by their application.
+
+### General purpose
+
+
+
+
+
+
