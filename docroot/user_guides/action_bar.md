@@ -36,7 +36,7 @@ The action buttons apply to specific data types or multiple data types, dependin
 
 ![Feature List View Action Button](./images/feature_list_view_button.png) **Features:** Loads the Features Table for the selected features. *Available only if multiple features are selected.*
 
-![FASTA Sequence Action Button](./images/fasta_sequence_button.png) **FASTA:** Provides the FASTA DNA or protein sequence for the selected feature(s).
+![FASTA Data Action Button](./images/fasta_data_button.png) **FASTA:** Provides the FASTA DNA or protein sequence for the selected feature(s).
 
 ![ID Mapping Action Button](./images/id_mapping_button.png) **ID Mapping:** Provides the option to map the selected feature(s) to multiple other idenfiers, such as RefSeq and UniProt.
 
