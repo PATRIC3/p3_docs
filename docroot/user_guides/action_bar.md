@@ -42,7 +42,7 @@ The action buttons apply to specific data types or multiple data types, dependin
 
 ![MSA Action Button](./images/msa_button.png) **MSA:** Launches the PATRIC Multiple Sequence Alignment (MSA) tool and aligns the selected features by DNA or protein sequence in an interactive viewer.
 
-![Pathway Action Button](./images/Pathway_button.png) **Pathway:** Loads the Pathway Summary Table containing a list of all the pathways in PATRIC in which the selected features are found.
+![Pathway Action Button](./images/pathway_button.png) **Pathway:** Loads the Pathway Summary Table containing a list of all the pathways in PATRIC in which the selected features are found.
 
 ### Protein Families
 ![Protein Families Action Button](./images/family_members_button.png) **Protein Family Members** 
