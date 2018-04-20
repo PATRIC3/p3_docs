@@ -35,29 +35,9 @@ PATRIC tables include a variety of tools for accessing, filtering, sorting, and 
 
 10. **Row Selector** in the left-most column of the table provides checkboxes for selecting items (rows) in the table. The options in the Selection Action Bar and data displayed in the Information Panel (both described below) on the right side of the table are updated based on the rows selected. Clicking the top checkbox in the Column Header row selects/de-selects all of the rows in the table, including those on other pages.
 
-11. **Selection Action Bar** along the right side of the table (vertical green bar) display buttons that 
+11. **Selection Action Bar** along the right side of the table (vertical green bar) display buttons that provide access to related data or tools to operate on the data corresponding to the selected row(s). See [Select Action Bar](./action_bar.html) for more information.
 
-
-
-The Genomes Tab provides a list of all the genomes and associated metadata in corresponding to the selected Taxon View level or for the user-defined Genome Group. From this page, genomes can be sorted, filtered, collected into groups, and downloaded. 
-
-### See also
-  * [Genome Annotations](../organisms_taxon/genome_annotations.html)
-  * [Genome Metadata](../organisms_taxon/genome_metadata.html)
-
-## Accessing the Genomes Tab on the PATRIC Website
-Clicking the Genomes Tab in a Taxon View displays the Genome Table, listing of all of the genomes and associated metadata in corresponding to the selected Taxon View level or for the user-defined Genome Group. 
-
-![Genomes Table](../images/genomes_list.png)
-
-The genomes in the table include associated metadata information regarding the organism, isolate, host, sequence, phenotype, project, and other.  A complete description of the metadata fields is available in the [Genome Metadata](../organisms_taxon/genome_metadata.html) user guide.
-
-### Genomes Table Tools
-Within this table you may do the following:
-
-* **Download** the entire contents of the table in text, CSV, or Excel format by clicking the Download button above the table on the left side.
-
-* **Rearrange and narrow** the list of genomes in the table via sorting (using column headers), keywords (using the Keyword box), and filtering (using the Filters tool).
+12. **Information Panel** provides details on the selected item(s).  If a single item (row) is selected, it provides a listing of the column (category) and the corresponding value for that item.  If mutiple items (rows) are selected, it provides a summary of the number of items selected.
 
 ### Filter Tool
 
