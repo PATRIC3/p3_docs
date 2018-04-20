@@ -57,6 +57,7 @@ Clicking the Apply Button removes the non-matching genomes and *resets the scope
 
 ![Apply Filter Button](./images/apply_filter.png)
 
+Clicking the Hide button closes the Filter Panel.   
 
-Clicking the Hide button closes the Filter Panel.   More details are available in the [Filter Tool](../other/filter_tool.html) user guide.
+![Apply Filter Button](./images/hide_filter_button.png)
 
