@@ -17,11 +17,19 @@ PATRIC tables include a variety of tools for accessing, filtering, sorting, and 
 
 1. **Breadcrumbs** at the top of the page provide summary information regarding what data the table contains including a count of the items in the table.  The breadcrumbs are interactive, so clicking on an item in the breadcrumb resets the table to contain the corresponding items for the selection. For instance, in a Taxon View, clicking a higher taxon level will update the table to contain all of the items (genomes for instance) in that higher level taxon.
 
-2. **Download Button** at the top left of the page below the tabs will download the entire contents of the table in TXT, CSV, or Excel format.
+2. **Download Button** at the top left of the table will download the entire contents of the table in TXT, CSV, or Excel format.
 
-3. **Keyword Box** at the top left of the page below the tabs and to the right of the Download Button allows filtering the contents of the table based on particular keywords. Clicking the "X" underneath the box will remove the filter.  Entering multiple keywords in the box will filter the table to show only those items which contain *all* of the keywords.
+3. **Keyword Box** at the top left of the table, just to the right of the Download Button, allows filtering the contents of the table based on particular keywords. Clicking the "X" underneath the box will remove the filter.  Entering multiple keywords in the box will filter the table to show only those items which contain *all* of the keywords.
 
-4. 
+4. **Filters** at the top right of the table provide a detailed filter selection capability, described in more detail in the Filter Tools section below.
+
+5. **Column Headers** provide the category name of the data in that column. Clicking on the column header sorts/resorts the table based on the alphanumeric order of the contents of that column.
+
+6. **Table Body** presents the data in the table.
+
+7. **Results Count** provides the total number of items (rows) of the table and how many are currently being displayed.
+
+8. **Page Count** shows the total number of pages in the table, plus which one is currently being displayed.  Clicking on one of the numbers scrolls the table to that page.
 
 The Genomes Tab provides a list of all the genomes and associated metadata in corresponding to the selected Taxon View level or for the user-defined Genome Group. From this page, genomes can be sorted, filtered, collected into groups, and downloaded. 
 
