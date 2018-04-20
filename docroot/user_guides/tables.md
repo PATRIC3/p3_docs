@@ -5,7 +5,7 @@ Interactive Tables are used throughout the PATRIC website to present and provide
 
 ### See also:
   * [Website Views](./website_views.html)
-  * [Select Action Bar](./action_bar.html)
+  * [Selection Action Bar](./action_bar.html)
 
 ## Accessing Tables on the PATRIC Website
 Tables are used throughout the PATRIC website where lists of data items are presented, for example, in data tabs such as Genomes, Features, Protein Families, Pathways, Transcriptomics, Interactions, etc. The example below shows a PATRIC Table listing a set of genomes in a particular taxon.
@@ -41,9 +41,17 @@ PATRIC tables include a variety of tools for accessing, filtering, sorting, and 
 
 ### Filter Tool
 
-As with all tables in PATRIC, the Filters tool is available to narrow the display of the items in the table, show below:
+As with all tables in PATRIC, the Filter Tool is available to narrow the display of the items in the table, shown below:
   
-![Genomes Filter Panel](../images/genomes_filter_panel.png)
+![Filter Button](../images/filter_button.png)
 
-Clicking on the Filters button at the top right of the table opens the Filter Panel above the table, displaying column names from the table and values for those columns with counts of occurence.  Clicking on the filter values narrows the genomes *displayed* in the table to those matching the chosen filter values.  Clicking the Hide button closes the Filter Panel.  Clicking the Apply button removes the non-matching genomes and *resets the scope* in the Taxonomic View to only the genomes matching the filter criteria. More details are available in the [Filter Tool](../other/filter_tool.html) user guide.
+Clicking on the Filters Button at the top right of the table opens the Filter Panel above the table, displaying column names from the table and values for those columns with counts of occurence. This provides a summary view of the contents of the table.  
+
+![Filter Panel](../images/filter_panel.png)
+
+
+
+
+
+Clicking on the filter values narrows the genomes *displayed* in the table to those matching the chosen filter values.  Clicking the Hide button closes the Filter Panel.  Clicking the Apply button removes the non-matching genomes and *resets the scope* in the Taxonomic View to only the genomes matching the filter criteria. More details are available in the [Filter Tool](../other/filter_tool.html) user guide.
 
