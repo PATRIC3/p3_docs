@@ -23,13 +23,21 @@ PATRIC tables include a variety of tools for accessing, filtering, sorting, and 
 
 4. **Filters** at the top right of the table provide a detailed filter selection capability, described in more detail in the Filter Tools section below.
 
-5. **Column Headers** provide the category name of the data in that column. Clicking on the column header sorts/resorts the table based on the alphanumeric order of the contents of that column.
+5. **Column Headers** across the top of the table provide the category name of the data in that column. Clicking on the column header sorts/resorts the table based on the alphanumeric order of the contents of that column.
 
 6. **Table Body** presents the data in the table.
 
-7. **Results Count** provides the total number of items (rows) of the table and how many are currently being displayed.
+7. **Results Count** at the bottom left of the table provides the total number of items (rows) of the table and how many are currently being displayed.
 
-8. **Page Count** shows the total number of pages in the table, plus which one is currently being displayed.  Clicking on one of the numbers scrolls the table to that page.
+8. **Page Count** at the bottom right of the table shows the total number of pages in the table, plus which one is currently being displayed.  Clicking on one of the numbers scrolls the table to that page.
+
+9. **Column Selector** at the top right of the table, below the filter buttons, allows showing/hiding of all columns in the table.  By default, most tables only show a portion of the available columns. Cicking on the (+ -) button of the column selector displays a checklist of all of the available columns for the table.  Checking or unchecking the column name adds or removes (respectively) that column from the table display.
+
+10. **Row Selector** in the left-most column of the table provides checkboxes for selecting items (rows) in the table. The options in the Selection Action Bar and data displayed in the Information Panel (both described below) on the right side of the table are updated based on the rows selected. Clicking the top checkbox in the Column Header row selects/de-selects all of the rows in the table, including those on other pages.
+
+11. **Selection Action Bar** along the right side of the table (vertical green bar) display buttons that 
+
+
 
 The Genomes Tab provides a list of all the genomes and associated metadata in corresponding to the selected Taxon View level or for the user-defined Genome Group. From this page, genomes can be sorted, filtered, collected into groups, and downloaded. 
 
