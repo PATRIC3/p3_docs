@@ -9,8 +9,13 @@ Interactive Tables are used throughout the PATRIC website to present and provide
 
 ## Accessing Tables on the PATRIC Website
 Tables are used throughout the PATRIC website where lists of data items are presented, for example, in data tabs such as Genomes, Features, Protein Families, Pathways, Transcriptomics, Interactions, etc. The example below shows a PATRIC Table listing a set of genomes in a particular taxon.
+![PATRIC Table](./images/patric_table.png) 
 
-![PATRIC Table](./images/action_bar.png) 
+## Table Tools
+PATRIC tables include a variety of tools for accessing, filtering, sorting, and arranging the data in the table.  These are described below.
+![PATRIC Table Tools](./images/patric_table_tools.png) 
+
+
 
 
 
