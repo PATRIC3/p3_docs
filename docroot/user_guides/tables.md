@@ -40,19 +40,21 @@ PATRIC tables include a variety of tools for accessing, filtering, sorting, and 
 12. **Information Panel** provides details on the selected item(s).  If a single item (row) is selected, it provides a listing of the column (category) and the corresponding value for that item.  If mutiple items (rows) are selected, it provides a summary of the number of items selected.
 
 ### Filter Tool
-
 As with all tables in PATRIC, the Filter Tool is available to narrow the display of the items in the table, shown below:
   
 ![Filter Button](./images/filter_button.png)
 
+**Accessing the Filter Panel**
 Clicking on the Filters Button at the top right of the table opens the Filter Panel above the table, displaying column names from the table and values for those columns with counts of occurence. This provides a summary view of the contents of the table, shown below.  
 
 ![Filter Panel](./images/filter_panel.png)
 
+**Adding Filters**
 Clicking on the filter values narrows the items *displayed* in the table to those matching the chosen filter values. However, the total number of items in the table does not change.  This can be seen by the Results Count on the bottom left of the table and the number at the end of the Breadcrumbs above the table.  Also, the selected filter values are shown beside the Keyword Box above the Filter Panel. The individual filter items can be removed by clicking the "X" underneath the filter value. See noted areas in figure below. 
 
-![Filtered Table](./images/filter_panel.png)
+![Filtered Table](./images/filtered_table.png)
 
+**Applying Filters**
 Clicking the Apply Button removes the non-matching genomes and *resets the scope* in the current View, and so, the table as well, to only those items matching the filter criteria. This can be verified by checking that the number in the Breadcrumbs and in the Results Count are now the same. Also, the Breadcrumbs will be updated to include the Filter criteria that were applied. See noted areas in figure below.
 
 ![Apply Filter Button](./images/apply_filter.png)
