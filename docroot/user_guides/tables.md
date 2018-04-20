@@ -21,7 +21,7 @@ PATRIC tables include a variety of tools for accessing, filtering, sorting, and 
 
 3. **Keyword Box** at the top left of the table, just to the right of the Download Button, allows filtering the contents of the table based on particular keywords. Clicking the "X" underneath the box will remove the filter.  Entering multiple keywords in the box will filter the table to show only those items which contain *all* of the keywords.
 
-4. **Filters** at the top right of the table provide a detailed filter selection capability, described in more detail in the Filter Tools section below.
+4. **Filters** at the top right of the table provide a detailed filter selection capability, described in more detail in the Filter Tool section below.
 
 5. **Column Headers** across the top of the table provide the category name of the data in that column. Clicking on the column header sorts/resorts the table based on the alphanumeric order of the contents of that column.
 
