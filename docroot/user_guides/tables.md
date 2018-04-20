@@ -1,2 +1,2 @@
-# PATRIC tables
+# PATRIC Tables and Filters
 [In development]
