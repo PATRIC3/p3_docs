@@ -43,11 +43,11 @@ PATRIC tables include a variety of tools for accessing, filtering, sorting, and 
 
 As with all tables in PATRIC, the Filter Tool is available to narrow the display of the items in the table, shown below:
   
-![Filter Button](../images/filter_button.png)
+![Filter Button](./images/filter_button.png)
 
 Clicking on the Filters Button at the top right of the table opens the Filter Panel above the table, displaying column names from the table and values for those columns with counts of occurence. This provides a summary view of the contents of the table.  
 
-![Filter Panel](../images/filter_panel.png)
+![Filter Panel](./images/filter_panel.png)
 
 
 
