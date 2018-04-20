@@ -1,5 +1,5 @@
-Website Views, Tables, Action Bar
-=================================
+Website Views, Tables, Filters, Action Bar
+==========================================
 PATRIC has some fundamental navigation and interaction schemes that are used throughout the website. The user guides below provide a detailed description of each that, once understood, will make using PATRIC easier and more intuitive.
 
 .. toctree::
