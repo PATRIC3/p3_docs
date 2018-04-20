@@ -45,13 +45,18 @@ As with all tables in PATRIC, the Filter Tool is available to narrow the display
   
 ![Filter Button](./images/filter_button.png)
 
-Clicking on the Filters Button at the top right of the table opens the Filter Panel above the table, displaying column names from the table and values for those columns with counts of occurence. This provides a summary view of the contents of the table.  
+Clicking on the Filters Button at the top right of the table opens the Filter Panel above the table, displaying column names from the table and values for those columns with counts of occurence. This provides a summary view of the contents of the table, shown below.  
 
 ![Filter Panel](./images/filter_panel.png)
 
+Clicking on the filter values narrows the items *displayed* in the table to those matching the chosen filter values. However, the total number of items in the table does not change.  This can be seen by the Results Count on the bottom left of the table and the number at the end of the Breadcrumbs above the table.  Also, the selected filter values are shown beside the Keyword Box above the Filter Panel. The individual filter items can be removed by clicking the "X" underneath the filter value. See noted areas in figure below. 
+
+![Filtered Table](./images/filter_panel.png)
+
+Clicking the Apply Button removes the non-matching genomes and *resets the scope* in the current View, and so, the table as well, to only those items matching the filter criteria. This can be verified by checking that the number in the Breadcrumbs and in the Results Count are now the same. Also, the Breadcrumbs will be updated to include the Filter criteria that were applied. See noted areas in figure below.
+
+![Apply Filter Button](./images/apply_filter.png)
 
 
-
-
-Clicking on the filter values narrows the genomes *displayed* in the table to those matching the chosen filter values.  Clicking the Hide button closes the Filter Panel.  Clicking the Apply button removes the non-matching genomes and *resets the scope* in the Taxonomic View to only the genomes matching the filter criteria. More details are available in the [Filter Tool](../other/filter_tool.html) user guide.
+Clicking the Hide button closes the Filter Panel.   More details are available in the [Filter Tool](../other/filter_tool.html) user guide.
 
