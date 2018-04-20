@@ -15,9 +15,13 @@ Tables are used throughout the PATRIC website where lists of data items are pres
 PATRIC tables include a variety of tools for accessing, filtering, sorting, and arranging the data in the table.  These are described below.
 ![PATRIC Table Tools](./images/patric_table_tools.png) 
 
+1. **Breadcrumbs** at the top of the page provide summary information regarding what data the table contains including a count of the items in the table.  The breadcrumbs are interactive, so clicking on an item in the breadcrumb resets the table to contain the corresponding items for the selection. For instance, in a Taxon View, clicking a higher taxon level will update the table to contain all of the items (genomes for instance) in that higher level taxon.
 
+2. **Download Button** at the top left of the page below the tabs will download the entire contents of the table in TXT, CSV, or Excel format.
 
+3. **Keyword Box** at the top left of the page below the tabs and to the right of the Download Button allows filtering the contents of the table based on particular keywords. Clicking the "X" underneath the box will remove the filter.  Entering multiple keywords in the box will filter the table to show only those items which contain *all* of the keywords.
 
+4. 
 
 The Genomes Tab provides a list of all the genomes and associated metadata in corresponding to the selected Taxon View level or for the user-defined Genome Group. From this page, genomes can be sorted, filtered, collected into groups, and downloaded. 
 
