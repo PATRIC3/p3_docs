@@ -7,7 +7,7 @@ Accessing the Protein Family Heatmap on the PATRIC Website
 This tool is accessible via the “Heatmap” Tab on the initial search
 results page generated within our Protein Family Sorter Tool. For
 information on how to use the Protein Family Sorter please see `Protein
-Family Sorter FAQs </content/Protein_Family_Sorter>`__.
+Family Sorter FAQs <http://docs.patricbrc.org/user_guide/protein_family_sorter/protein_family_sorter.html>`__.
 
 Protein Family Heatmap Overview
 -------------------------------

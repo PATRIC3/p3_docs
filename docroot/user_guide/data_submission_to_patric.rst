@@ -21,7 +21,7 @@ downloadable files on the `PATRIC FTP
 server <ftp://ftp.patricbrc.org/patric2>`__.
 
 -  Genomes (annotated with the `PATRIC Genome Annotation
-   Service </app/Annotation>`__)
+   Service <https://patricbrc.org/app/Annotation>`__)
 -  Gene annotations, which will be associated with the corresponding
    gene in PATRIC as a structured assertion on the gene page
 -  Expression data, including microarray, protein, and RNA-Seq
@@ -35,26 +35,26 @@ To upload your data into a PATRIC workspace for analysis or sharing with other r
 You will then be able to upload your data into a private workspace and
 use the analysis tools listed below. You can also create special
 workspace for sharing with specific other registered users, or share as
-a "`public workspace </workspace/public>`__" available to all other
+a "`public workspace <https://patricbrc.org/workspace/public>`__" available to all other
 registered users who are logged in.
 
 **Genomics**
-    -  `Genome Assembly </app/Assembly>`__
-    -  `Genome Annotation </app/Annotation>`__
-    -  `Similar Genome Finder </app/GenomeDistance>`__
-    -  `Variation Analysis </app/Variation>`__
-    -  `Tn-Seq Analysis </app/Tnseq>`__
-    -  `Phylogenetic Tree Builder </app/PhylogeneticTree>`__
+    -  `Genome Assembly <https://patricbrc.org/app/Assembly>`__
+    -  `Genome Annotation <https://patricbrc.org/app/Annotation>`__
+    -  `Similar Genome Finder <https://patricbrc.org/app/GenomeDistance>`__
+    -  `Variation Analysis <https://patricbrc.org/app/Variation>`__
+    -  `Tn-Seq Analysis <https://patricbrc.org/app/Tnseq>`__
+    -  `Phylogenetic Tree Builder <https://patricbrc.org/app/PhylogeneticTree>`__
 
 **Transcriptomics**
-    -  `Expression Import </app/Expression>`__
-    -  `RNA-Seq Analysis </app/Rnaseq>`__
+    -  `Expression Import <https://patricbrc.org/app/Expression>`__
+    -  `RNA-Seq Analysis <https://patricbrc.org/app/Rnaseq>`__
 
 **Protein Tools**
-    -  `Proteome Comparison </app/SeqComparison>`__
+    -  `Proteome Comparison <https://patricbrc.org/app/SeqComparison>`__
 
 **Metabolomics**
-    -  `Model Reconstruction </app/Reconstruct>`__
+    -  `Model Reconstruction <https://patricbrc.org/app/Reconstruct>`__
 
 **Data**
-    -  `ID Mapper </app/IDMapper>`__
+    -  `ID Mapper <https://patricbrc.org/app/IDMapper>`__
