@@ -6,7 +6,6 @@ Master Index
 
    tutorial/index
    cli_tutorial/index
-   user_guide/index
    user_guides/index
    news/index
    system_architecture/index
