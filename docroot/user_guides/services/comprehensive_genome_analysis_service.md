@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Comprehensive Genome Analysis Service allows ...
+The Comprehensive Genome Analysis Service provides a streamlined analysis “meta-service” that accepts raw reads and performs a comprehensive analysis including assembly, annotation, identification of nearest neighbors, a basic comparative analysis that includes a subsystem summary, phylogenetic tree, and the features that distinguish the genome from its nearest neighbors.
 
 When starting with read file, ..., below is copied from Genome Assembly Service: allows single or multiple assemblers to be invoked to compare results. The service attempts to select the best assembly, i.e., assembly with the smallest number of contigs and the longest average contig length. Several assembly workflows or “recipes” are available that have been tuned to fit certain data types or desired analysis criteria such as throughput or rigor. Once the assembly process has started by clicking the Assemble button, the genome is queued as a “job” for the Assembly Service to process, and will increment the count in the Jobs information box on the bottom right of the page. Once the assembly job has successfully completed, the output file will appear in the workspace, available for use in the PATRIC comparative tools and downloaded if desired. A tutorial for using the Assembly Service is available here.
 
