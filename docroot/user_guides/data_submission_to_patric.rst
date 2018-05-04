@@ -1,6 +1,6 @@
 =================================
 
-How to submit data to PATRIC
+Data Submission to PATRIC
 -----------------------------
 
 PATRIC provides a repository of genomic and other data types, collected and integrated from multiple sources including public repositories, special studies, and individual researchers. There are two methods for depositing and making your data available in PATRIC:
