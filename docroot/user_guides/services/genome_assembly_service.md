@@ -117,7 +117,7 @@ postprocessor.
 **Example 3: "tagdust none" "megahit velvet" sspace**  You can use quotes to specify alternative modules you would like to try at each step. This example will launch a cartesian combination of four parallel pipelines: tagdust+megahit+sspace, tagdust+velvet+sspace, megahit+sspace, velvet+sspace.
 
 *Note:* The pipeline parameter overrides the assembly strategy parameter. Not all modules combine well.
-[List of modules supported](ftp://ftp.patricbrc.org/workshop/arast/arast_modules.txt)
+[List of modules supported](https://github.com/PATRIC3/p3_docs/blob/master/docroot/user_guides/services/arast_supported_modules.txt).
 
 ## Buttons
 
