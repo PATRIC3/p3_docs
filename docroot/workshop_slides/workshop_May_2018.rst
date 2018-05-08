@@ -55,6 +55,7 @@ SNP and MNP Variation service
 
 Metagenome Binning Service
 ---------------------------
+:download:`pdf <./files/Metagenomic_Binning_May_2018.pdf>`
 
 
 Building a metabolic model
