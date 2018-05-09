@@ -61,3 +61,7 @@ Metagenome Binning Service
 Building a metabolic model
 ---------------------------
 
+
+PATRIC Command Line Interface
+------------------------------
+:download:`pdf <./files/CLI_May_2018.pdf>`
