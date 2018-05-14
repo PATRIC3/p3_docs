@@ -19,7 +19,7 @@ options are the following:
    Antibiotic Resistance, Genomes, Genome Features, Pathways, Protein
    Families, Specialty Genes, Transcriptomics, and special featured data
    sets.
--  `Workspaces <workspaces.html>`_ - links to the private workspace and subdirectories in the
+-  `Workspaces <workspace_groups_upload.html>`_ - links to the private workspace and subdirectories in the
    private workspace.
 -  `Services <services_tab.html>`_ - links to data processing and analysis pipelines in PATRIC.
    Currently, services are available for processing user-supplied data
@@ -48,7 +48,7 @@ website is available from the Help Menu .
 
    organisms_tab
    data
-   workspaces
+   workspace_groups_upload
    services_tab
    global_search
    registration
