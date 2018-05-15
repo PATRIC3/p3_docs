@@ -7,7 +7,7 @@ The PATRIC Workspace provides a private area in the website for uploading data, 
   * [Groups](../groups.html)
   * [Data Upload](../data_upload.html)
   * [Registration](../registration.html)
-  * [Services and Tools](.
+  * [Services and Tools](./services_tab.html)
 
 ## Accessing the Private Workspace on the PATRIC Website
 Registration is required to use the PATRIC private Workspace. The registration link is at the top right corner of the PATRIC website. If you have already registered, clicking the Login button beside the registration link will display the Login page. 
