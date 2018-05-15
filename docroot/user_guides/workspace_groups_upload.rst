@@ -5,6 +5,6 @@ The PATRIC Workspace provides a private area in the website for uploading data, 
 .. toctree::
    :maxdepth: 1
 
-   workspace
-   groups
-   data_upload
+   workspaces/workspace
+   workspaces/groups
+   workspaces/data_upload
