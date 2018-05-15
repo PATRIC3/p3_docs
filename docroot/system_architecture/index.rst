@@ -328,12 +328,6 @@ PATRIC services are as follows:
 
    -  256 GB RAM
 
--  Production support services
-
-   -  12 x E5-2620 CPUs
-
-   -  256 GB RAM
-
 -  User Data Management and Compute Scheduling
 
    -  12 x E5-2620 CPUs

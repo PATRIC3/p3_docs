@@ -1,12 +1,11 @@
 =================================
 
-How to submit data to PATRIC
+Data Submission to PATRIC
 -----------------------------
 
 PATRIC provides a repository of genomic and other data types, collected and integrated from multiple sources including public repositories, special studies, and individual researchers. There are two methods for depositing and making your data available in PATRIC:
 
-To make your data fully integrated and publicly available in PATRIC
--------------------------------------------------------------------
+**To make your data fully integrated and publicly available in PATRIC**
 
 Please contact the PATRIC team at help@patricbrc.org and we will work with you to incorporate your data along with the associated metadata that will enhance its search-ability and enable advanced comparative analyses with other PATRIC data. Currently supported data types include those listed below. Other data types can potentially be included as downloadable files on the `PATRIC FTP server <ftp://ftp.patricbrc.org/patric2>`__.
 
@@ -16,8 +15,7 @@ Please contact the PATRIC team at help@patricbrc.org and we will work with you t
 -  Tn-Seq data
 -  Protein-protein interactions
 
-To upload your data into a PATRIC workspace for analysis or sharing with other registered PATRIC users
--------------------------------------------------------------------------------------------------------
+**To upload your data into a PATRIC workspace for analysis or sharing with other registered PATRIC users**
 
 The first step in uploading data into PATRIC is to `register <https://user.patricbrc.org/register>`__ and log in. You will then be able to upload your data into a private workspace and use the analysis tools listed below. You can also create special workspace for sharing with specific other registered users, or share as a "`public workspace <https://patricbrc.org/workspace/public>`__" available to all other registered users who are logged in.
 
