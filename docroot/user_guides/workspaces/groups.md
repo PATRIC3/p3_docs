@@ -1,7 +1,7 @@
 # PATRIC Groups
 
 ## Overview
-In PATRIC, "Groups" are custom collections of selected items. They are particularly useful for organizing and managing data sets of interest for further exploration and analysis.
+In PATRIC, "Groups" are custom collections of selected genomes or features. They are particularly useful for organizing and managing data sets of interest for further exploration and analysis.
 
 ### See also:
   * [Workspace](../workspaces/workspace.html)
@@ -9,8 +9,9 @@ In PATRIC, "Groups" are custom collections of selected items. They are particula
   * [Action Bar](../action_bar.html)
 
 ## Creating and Accessing Groups on the PATRIC Website
-A group is created by selecting a set of desired items in any table in PATRIC and clicking the Group button on the vertical green Action Bar on the right side of the table. This will open a pop-up window to enable creating a new group containing the selected items or to addomg the selected items to an existing group in the Workspace.
+A group can created by selecting a set of desired items genomes or features in a table in PATRIC and clicking the Group button on the vertical green Action Bar on the right side of the table. This will open a pop-up window to enable creating a new group containing the selected items or to add the selected items to an existing group in the Workspace.
 
+![Creating a Group](../images/create_group.png)
 
 ## Using Workspace Groups in the PATRIC Website
 Many PATRIC features are available to work with data in groups, including analyzing the items in the group with PATRIC's tools.
