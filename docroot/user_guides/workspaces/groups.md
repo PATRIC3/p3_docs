@@ -28,7 +28,7 @@ An initial set of directory folders are provided as default locations for groups
 ### Group Comparison
 The PATRIC workspace provides Venn Diagram tool for comparison of membership of items in a groups. Selecting 2 or 3 groups (using <control>, <command>, or <shift> click) enables the Venn Diagram button in the vertical green Action Bar on the right side of the table. 
  
-![Venn Diagram Button](../images/venn_diagram_button.png)
+![Venn Diagram Button](../images/venn_diagram_action.png)
 
 Clicking the Venn Diagram button displays an interactive Venn Diagram showing the selected groups and the counts of items from each group in the intersecting and non-intetersecting sections. Clicking one of the sections (or multi-selecting using <command> click) displays a table on the right side listing the genomes matching the selection(s) and a Boolean statement defining the selected section(s). Using the options at the top left above the Venn Diagram, the colors can be changed, an SVG image file can be created, and a new group can be created from the selection(s).
 
