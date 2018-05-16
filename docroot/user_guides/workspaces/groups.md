@@ -20,7 +20,7 @@ Once created, the new group will appear in the home Workspace. By default, Genom
 ## Using Workspace Groups in the PATRIC Website
 Many PATRIC features are available to work with data in groups, including analyzing the items in the group with PATRIC's tools. For example, after creating a Genome Group, you could use the Phylogenetic Tree Building Service to build a phylogenetic tree using the genomes in the group by selecting the group from the "select genome group" dropdown list. All the genome groups you have created will appear in this list.
 
-![Phylogenetic Tree Using Genome Group](../images/phylo_tree_using_group.png)
+![Phylogenetic Tree Using Genome Group](../images/phylo_tree_genome_group.png)
 
 ## Managing Your Groups and Data in the Workspace
 The Workspace contains directory folders for organizing data and groups. An initial set of directory folders are provided as default locations, based on data type. Clicking on one of the directory folder names selects it. The Information Panel on the right-hand side provides additional details about the selected item on the left-hand side. Double-clicking the folder displays the content of that folder.  For example, double-clicking a of the Genome Group shows a listing of the genomes in that group. 
