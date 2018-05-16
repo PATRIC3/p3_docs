@@ -22,7 +22,9 @@ Many PATRIC features are available to work with data in groups, including analyz
 
 ![Phylogenetic Tree Using Genome Group](../images/phylo_tree_genome_group.png)
 
-## Managing Your Groups and Data in the Workspace
+## Managing Groups in the Workspace
 The Workspace contains directory folders for organizing data and groups. An initial set of directory folders are provided as default locations, based on data type. Clicking on one of the directory folder names selects it. The Information Panel on the right-hand side provides additional details about the selected item on the left-hand side. Double-clicking the folder displays the content of that folder.  For example, double-clicking a of the Genome Group shows a listing of the genomes in that group. 
 
-Within a Group folder, several options are available, such as downloading the data, deleting items from the group, linking to additional information, and other actions. Selecting the desired item(s) will display the full range of options for those items in the vertical green Action Bar to on the right side.
+Within a Group folder, several options are available, such as downloading the data, deleting items from the group, linking to additional information, and other actions. Selecting the desired item(s) will display the full range of options for those items in the vertical green Action Bar to on the right side. 
+
+See [Workspace](../workspaces/workspace.html) for more information.
