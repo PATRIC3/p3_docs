@@ -48,6 +48,8 @@ The action buttons apply to specific data types or multiple data types, dependin
 ![Protein Families Action Button](./images/family_members_button.png) **Protein Family Members** Displays a list of all of the features in the selected protein family within the current genome or taxonomic level.
 
 ### Workspace
+![Venn Diagram Button](.images/venn_diagram_button.png) **Venn Diagram:** Displays an interactive Venn diagram showing the intersection of up to 3 groups. Available only when more than one group is selected.
+
 ![Delete Action Button](./images/delete_button.png) **Delete:** Deletes the selected items (rows).
 
 ![Rename Action Button](./images/rename_button.png) **Rename:** Allows renaming the selected item. *Available only if a single item is selected.*
