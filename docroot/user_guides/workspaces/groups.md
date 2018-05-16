@@ -23,8 +23,19 @@ Many PATRIC features are available to work with data in groups, including analyz
 ![Phylogenetic Tree Using Genome Group](../images/phylo_tree_genome_group.png)
 
 ## Managing Groups in the Workspace
-The Workspace contains directory folders for organizing data and groups. An initial set of directory folders are provided as default locations, based on data type. Clicking on one of the directory folder names selects it. The Information Panel on the right-hand side provides additional details about the selected item on the left-hand side. Double-clicking the folder displays the content of that folder.  For example, double-clicking a of the Genome Group shows a listing of the genomes in that group. 
+An initial set of directory folders are provided as default locations for groups based on data type, incluidng Genome Groups and Feature Groups. Double-clicking the folder displays a list of the groups in that folder. Clicking the group name selects it, and information about the group is provided in the Information Panel on the right-hand side. See [Workspace](../workspaces/workspace.html) for more information.
 
-Within a Group folder, several options are available, such as downloading the data, deleting items from the group, linking to additional information, and other actions. Selecting the desired item(s) will display the full range of options for those items in the vertical green Action Bar to on the right side. 
+### Group Comparison
+The PATRIC workspace provides a tool for comparison of membership 
 
-See [Workspace](../workspaces/workspace.html) for more information.
+### Action Bar
+After selecting one or more groups in the Workspace, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
+
+* **Hide:** Toggles (hides) the right-hand side Details Pane.
+* **Genomes:** Displays the Genomes Table, listing the genomes that correspond to the selected group.
+* **Venn Diagram:** Displays an interactive Venn diagram showing the intersection of up to 3 genome groups. *Available only when more than one group is selected.*
+* **Download:** Downloads the selected item.
+* **Delete:** Deletes the selected items (rows).
+* **Rename:** Allows renaming the selected item.
+* **Copy:** Creates copies the selected items and allows the copies to be put into another folder in the Workspace.
+* **Move:** Allows moving of the selected item(s) into another folder in the Workspace.
