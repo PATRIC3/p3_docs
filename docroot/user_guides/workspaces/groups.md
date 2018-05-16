@@ -13,6 +13,10 @@ A group can created by selecting a set of desired items genomes or features in a
 
 ![Creating a Group](../images/create_group.png)
 
+Once created, the new group will appear in the home Workspace. By default, Genome Groups will appear in the "Genome Groups" folder, and likewise, Feature Groups will appear in the "Feature Groups" folder.
+
+![Genome Group](../images/create_group.png)
+
 ## Using Workspace Groups in the PATRIC Website
 Many PATRIC features are available to work with data in groups, including analyzing the items in the group with PATRIC's tools.
 
