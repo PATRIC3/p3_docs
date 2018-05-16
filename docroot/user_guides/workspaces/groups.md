@@ -26,7 +26,13 @@ Many PATRIC features are available to work with data in groups, including analyz
 An initial set of directory folders are provided as default locations for groups based on data type, incluidng Genome Groups and Feature Groups. Double-clicking the folder displays a list of the groups in that folder. Clicking the group name selects it, and information about the group is provided in the Information Panel on the right-hand side. See [Workspace](../workspaces/workspace.html) for more information.
 
 ### Group Comparison
-The PATRIC workspace provides a tool for comparison of membership 
+The PATRIC workspace provides Venn Diagram tool for comparison of membership of items in a groups. Selecting 2 or 3 groups (using <control>, <command>, or <shift> click) enables the Venn Diagram button in the vertical green Action Bar on the right side of the table. 
+ 
+![Venn Diagram Button](../images/venn_diagram_button.png)
+
+Clicking the Venn Diagram button displays an interactive Venn Diagram showing the selected groups and the counts of items from each group in the intersecting and non-intetersecting sections. Clicking one of the sections (or multi-selecting using <command> click) displays a table on the right side listing the genomes matching the selection(s) and a Boolean statement defining the selected section(s). Using the options at the top left above the Venn Diagram, the colors can be changed, an SVG image file can be created, and a new group can be created from the selection(s).
+
+![Venn Diagram](../images/venn_diagram.png)
 
 ### Action Bar
 After selecting one or more groups in the Workspace, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
