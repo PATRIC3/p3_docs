@@ -40,7 +40,7 @@ Refining Searches
 
 **Matching Any/Exact Terms:** Clicking the drop-down list on the right side of the Global Search box facilitates changing how the search tool interprets the entered terms, including matching Any, All Exact, or Any Exact.
 
-.. image:: ./images/global_search_terms.png
+.. image:: ./images/global_search_term.png
     :width: 527px
     :align: left
     :height: 116px
