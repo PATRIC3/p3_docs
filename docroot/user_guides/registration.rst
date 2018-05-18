@@ -8,10 +8,10 @@ Registration and login as a PATRIC user provides additional capabilities not ava
 See Also
 --------
 
-- `Workspace <./workspaces/workspace>`__
-- `Services and Tools <./services_tab>`__
-- `Groups <./workspaces/groups>`__
-- `Data Upload <./workspaces/data_upload>`__
+- `Workspace <./workspaces/workspace.html>`__
+- `Services and Tools <./services_tab.html>`__
+- `Groups <./workspaces/groups.html>`__
+- `Data Upload <./workspaces/data_upload.html>`__
 
 Registration and Login Process
 ------------------------------
@@ -53,7 +53,7 @@ Benefits of Registration
 
 Registration and login provide additional capabilities in PATRIC not avaialable otherwise.  These include the following:
 
-- **Access to a private workspace** wherein you can store, manage, and share private data. See `Workspace <./workspaces/workspace>`__.
-- **Access to analysis services** including a variety of tools for Genomics, Transcriptomics, Metabolomics, and other analyses. See `Services and Tools <./services_tab>`__.
-- **Capability to create groups** for storing and analyzing custom sets of data including genomes and features. See `Groups <./workspaces/groups>`__.
-- **Capability to upload data**, including batch file uploads, into the Workspace for analysis. See `Data Upload <./workspaces/data_upload>`__.
+- **Access to a private workspace** wherein you can store, manage, and share private data. See `Workspace <./workspaces/workspace.html>`__.
+- **Access to analysis services** including a variety of tools for Genomics, Transcriptomics, Metabolomics, and other analyses. See `Services and Tools <./services_tab.html>`__.
+- **Capability to create groups** for storing and analyzing custom sets of data including genomes and features. See `Groups <./workspaces/groups.html>`__.
+- **Capability to upload data**, including batch file uploads, into the Workspace for analysis. See `Data Upload <./workspaces/data_upload.html>`__.
