@@ -32,9 +32,7 @@ Refining Searches
 
 Global searches can be refined in several ways:
 
-**Limiting by Data Type**
-
-Clicking the drop-down list on the left side of the Global Search box allows filtering to a particular data type, such as Genomes, Features, Specialty Genes, Taxa, Transcriptomics Experiments, and Antibiotics
+**Limiting by Data Type:** Clicking the drop-down list on the left side of the Global Search box allows filtering to a particular data type, such as Genomes, Features, Specialty Genes, Taxa, Transcriptomics Experiments, and Antibiotics
 
 .. image:: ./images/global_search_data_type.png
     :width: 551px
