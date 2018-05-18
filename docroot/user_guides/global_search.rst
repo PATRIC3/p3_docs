@@ -1,9 +1,23 @@
 Global Search
 =============
 
-PATRIC provides a global search capability to quickly locate data of
-interest. The Search box is available on the right side of the menu bar
-at the top of each PATRIC page. Features of the Global Search include:
+Overview
+--------
+
+PATRIC provides a Global Search capability to quickly locate data of interest. Searches return top matches grouped by data type. Searches can be restricted to specific data types and combinations of search terms
+
+Accessing the Global Search on the PATRIC Website
+-------------------------------------------------
+
+The Global Search box is available on the right side of the menu bar at the top of each PATRIC page. 
+
+
+
+
+
+
+
+Features of the Global Search include:
 
 -  Top matches, sorted by data types, including genomes, genomic
    features, taxa, specialty genes, and transcriptomics experiments.
