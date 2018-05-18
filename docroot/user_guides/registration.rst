@@ -16,7 +16,7 @@ See Also
 Registration Process
 --------------------
 
-Clicking the "Register" button located at the top right corner of the PATRIC website will open the User Registration dialog box. A username and email address are required.  The username will be the name you log in with, and the email address is required so that a link can be sent to you so that you can set your password. The other information is optional. * Note: The registration information will remain completely private. Under no circumstances will PATRIC sell, distribute or lease this information to third parties.*
+Clicking the "Register" button located at the top right corner of the PATRIC website will open the User Registration dialog box. A username and email address are required.  The username will be the name you log in with, and the email address is required so that a link can be sent to you so that you can set your password. The other information is optional. *Note: The registration information will remain completely private. Under no circumstances will PATRIC sell, distribute or lease this information to third parties.*
 
 .. image:: ./images/register_button.png
     :width: 877px
