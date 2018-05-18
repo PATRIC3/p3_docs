@@ -40,6 +40,14 @@ Global searches can be refined in several ways:
     :height: 178px
     :alt: Global Search by Data Type
 
+**Matching Any/Exact Terms:** Clicking the drop-down list on the right side of the Global Search box facilitates changing how the search tool interprets the entered terms, including matching Any, All Exact, or Any Exact.
+
+.. image:: ./images/global_search_terms.png
+    :width: 527px
+    :align: left
+    :height: 335px
+    :alt: Global Search Term Matching
+
 
 
 Features of the Global Search include:
