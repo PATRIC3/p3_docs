@@ -13,7 +13,7 @@ See Also
 - `Groups <./workspaces/groups>`__
 - `Data Upload <./workspaces/data_upload>`__
 
-Registration Process
+Registration and Login Process
 --------------------
 
 .. image:: ./images/register_button.png
@@ -29,6 +29,28 @@ Clicking the "Register" button located at the top right corner of the PATRIC web
     :align: left
     :height: 391px
     :alt: User Registration Dialog Box
+
+Clicking the "Login" button located at the top right corner of the website beside the "Register" button will open the Login dialog box, where a username and password are required to complete the login.
+
+.. image:: ./images/login_dialog.png
+    :width: 446px
+    :align: left
+    :height: 347px
+    :alt: Login Dialog Box
+
+Once logged in, the top right corner of the webiste will display an icon of a person.  Clicking on this icon will allow you to see the account settings (username, email, etc.) and logout.
+
+.. image:: ./images/logged_in_icon.png
+    :width: 175px
+    :align: left
+    :height: 111px
+    :alt: Logged In Icon
+
+
+
+
+
+
 
 
 -  Reegistered user, you will have access to various services such
