@@ -3,7 +3,7 @@ Registration
 
 Overview
 --------
-Registration and login as a PATRIC user provides additional capabilities not available through just navigating through the webiste alone. These include uploading data into a private workspace, access to analysis services, ability to save data in custom groups, and sharing data with other users.
+Registration and login as a PATRIC user provides additional capabilities not available through just navigating through the website alone. These include uploading data into a private workspace, access to analysis services, ability to save data in custom groups, and sharing data with other users.
 
 See Also
 --------
@@ -16,14 +16,13 @@ See Also
 Registration Process
 --------------------
 
-Clicking the "Register" button located at the top right corner of the PATRIC website will open the User Registration dialog box. A username and email address are required.  The username will be the name you log in with, and the email address is required so that a link can be sent to you so that you can set your password. The other information is optional.
+Clicking the "Register" button located at the top right corner of the PATRIC website will open the User Registration dialog box. A username and email address are required.  The username will be the name you log in with, and the email address is required so that a link can be sent to you so that you can set your password. The other information is optional. * Note: The registration information will remain completely private. Under no circumstances will PATRIC sell, distribute or lease this information to third parties.*
 
-Note: The registration information will remain completely private. Under no circumstances will PATRIC sell,
-distribute or lease this information to third parties.
-
-
-
-
+.. image:: /images/register_button.png
+    :width: 877px
+    :align: left
+    :height: 53px
+    :alt: Register Button
 
 
 -  Reegistered user, you will have access to various services such
