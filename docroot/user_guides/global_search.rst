@@ -27,13 +27,20 @@ Entering a search term in the Global Search box and either pressing <Enter> or c
     :height: 906px
     :alt: Global Search Example
 
-**Refining Searches**
+Refining Searches
+-----------------
 
 Global searches can be refined in several ways:
 
+**Limiting by Data Type**
 
+Clicking the drop-down list on the left side of the Global Search box allows filtering to a particular data type, such as Genomes, Features, Specialty Genes, Taxa, Transcriptomics Experiments, and Antibiotics
 
-
+.. image:: ./images/global_search_data_type.png
+    :width: 551px
+    :align: left
+    :height: 178px
+    :alt: Global Search by Data Type
 
 
 
