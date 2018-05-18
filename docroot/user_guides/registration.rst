@@ -38,7 +38,7 @@ Clicking the "Login" button located at the top right corner of the website besid
     :height: 347px
     :alt: Login Dialog Box
 
-**Forgotten Password** Clicking the "Forgot your password?" link at the bottom of the Login dialog box will display another dialog box wherein you can enter your email address and a email will be sent with instrutions on resetting your password.
+**Forgotten Password:** Clicking the "Forgot your password?" link at the bottom of the Login dialog box will display another dialog box wherein you can enter your email address and a email will be sent with instrutions on resetting your password.
 
 Once logged in, the top right corner of the webiste will display an icon of a person.  Clicking on this icon will allow you to see the account settings (username, email, etc.) and logout.
 
