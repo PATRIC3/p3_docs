@@ -11,7 +11,14 @@ Accessing the Global Search on the PATRIC Website
 
 The Global Search box is available on the right side of the menu bar at the top of each PATRIC page. 
 
+.. image:: ./images/global_search_bar.png
+    :width: 877px
+    :align: left
+    :height: 51px
+    :alt: Global Search Bar
 
+Using the Global Search
+-----------------------
 
 
 
