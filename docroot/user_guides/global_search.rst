@@ -19,6 +19,19 @@ The Global Search box is available on the right side of the menu bar at the top 
 
 Using the Global Search
 -----------------------
+Entering a search term in the Global Search box and either pressing <Enter> or clicking the magnifying glass icon will start the search. Matching results are returned with a summary information box at the top of the page, and matching top results grouped by data type further down the page. Clicking on the summary result numbers will display page(s) containing those results.  Clicking on a specific item will display that particular result.
+
+.. image:: ./images/global_search_example.png
+    :width: 930px
+    :align: left
+    :height: 906px
+    :alt: Global Search Example
+
+**Refining Searches**
+
+Global searches can be refined in several ways:
+
+
 
 
 
