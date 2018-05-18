@@ -9,20 +9,26 @@ See Also
 --------
 
 - `Workspace <./workspaces/workspace>`__
+- `Services and Tools <./services_tab>`__
 - `Groups <./workspaces/groups>`__
 - `Data Upload <./workspaces/data_upload>`__
 
-
 Registration Process
 --------------------
-
-Clicking the "Register" button located at the top right corner of the PATRIC website will open the User Registration dialog box. A username and email address are required.  The username will be the name you log in with, and the email address is required so that a link can be sent to you so that you can set your password. The other information is optional. *Note: The registration information will remain completely private. Under no circumstances will PATRIC sell, distribute or lease this information to third parties.*
 
 .. image:: ./images/register_button.png
     :width: 877px
     :align: left
     :height: 53px
     :alt: Register Button
+
+Clicking the "Register" button located at the top right corner of the PATRIC website will open the User Registration dialog box. A username and email address are required.  The username will be the name you log in with, and the email address is required so that a link can be sent to you so that you can set your password. The other information is optional. *Note: The registration information will remain completely private. Under no circumstances will PATRIC sell, distribute or lease this information to third parties.*
+
+.. image:: ./images/registration_dialog.png
+    :width: 533px
+    :align: left
+    :height: 391px
+    :alt: User Registration Dialog Box
 
 
 -  Reegistered user, you will have access to various services such
