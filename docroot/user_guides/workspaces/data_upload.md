@@ -6,7 +6,7 @@ In order to use your own private data with the PATRIC analysis services and tool
 ### See also:
   * [Workspace](../workspaces/workspace.html)
   * [Registration](../registration.html)
-  * [Services and Tools](./services_tab.html)
+  * [Services and Tools](../services_tab.html)
 
 ## Accessing the Upload function in the Workspace
 
