@@ -58,3 +58,28 @@ After selecting one or more of files or folders in the Workspace, a set of optio
   * reads (sequence)
   * diffexp_input_data (expression data)
   * diffexp_input_metadata (metadata for expression data)
+  
+## Creating and Sharing Workspaces
+
+### Create New Workspace
+Registered PATRIC users can create new workspaces and share them with other registered users, if desired. Upon logging in, the default workspace shown is "home." Clicking "Parent folder" at the top of the table in the home directory will display the root directory, which corresponds to the user name. 
+
+![Parent Folder](../images/parent_folder.png)
+
+Within the root directory, new workspaces can be created.  Clicking the Create Workspace button at the top right of the workspace table will open the Create Workspace dialog box which asks for a name for the new workspace:
+
+![Create Workspace Button](../images/create_workspace.png)
+
+### Share Workspace
+This new workspace (or any other workspace) can be shared with other registered users. This means that any user with which the workspace is shared will have access to the contents of that workspace when they log in. Sharing is accomplished by selecting the workspace name and clicking the "Share Folder" button on the vertical green Action Bar on the right side. This will open the Edit Sharing dialog box to allow sharing with a single or multiple other registered users, with view-only or edit privileges. The workspace can also be made "Publicly Readable" which makes it accessible by any registered user. : 
+
+![Share Workspace Button](../images/share_workspace.png)
+
+Once the workspace has been shared, the row in the workspace will list the number of "Members" in the workspace (number of registered users with access to the workspace). Clicking on the workspace name will list the registered users with access to the workspace. 
+
+![Shared Workspace](../images/shared_workspace.png)
+
+### Removing Sharing from Workspace
+Sharing of the workspace can be removed by selecting the workspace name, clicking the Share Folder button in the Action Bar, and then clicking the "trashcan icon" beside the user's name.
+
+
