@@ -73,7 +73,7 @@ Within the root directory, new workspaces can be created.  Clicking the Create W
 ### Share Workspace
 This new workspace (or any other workspace) can be shared with other registered users. This means that any user with which the workspace is shared will have access to the contents of that workspace when they log in. Sharing is accomplished by selecting the workspace name and clicking the "Share Folder" button on the vertical green Action Bar on the right side. This will open the Edit Sharing dialog box to allow sharing with a single or multiple other registered users, with view-only or edit privileges. The workspace can also be made "Publicly Readable" which makes it accessible by any registered user. : 
 
-![Share Workspace Button](../images/share_workspace.png)
+![Share Workspace Button](../images/share_workspace_button.png)
 
 Once the workspace has been shared, the row in the workspace will list the number of "Members" in the workspace (number of registered users with access to the workspace). Clicking on the workspace name will list the registered users with access to the workspace. 
 
