@@ -4,8 +4,8 @@
 The PATRIC Workspace provides a private area in the website for uploading data, running analysis services on the data, storing the analysis results, and managing groups of data created within the PATRIC website.
 
 ### See also:
-  * [Groups](./groups.html)
-  * [Data Upload](./data_upload.html)
+  * [Groups](../groups.html)
+  * [Data Upload](../data_upload.html)
   * [Registration](../registration.html)
   * [Services and Tools](../services_tab.html)
 
@@ -26,6 +26,8 @@ The table in the workspace lists the Names of folders and files, their Size (fil
 
 ## Workspace Tools
 Generally, within the Workspace, you can Upload files, Add Folders, and Show Hidden files and folders. Each of these is described below.
+
+![Workspace Tools](../images/workspace_tools.png)
 
 ### Upload
 See [Data Upload](../data_upload.html) for details.
@@ -80,6 +82,6 @@ Once the workspace has been shared, the row in the workspace will list the numbe
 ![Shared Workspace](../images/shared_workspace.png)
 
 ### Removing Sharing from Workspace
-Sharing of the workspace can be removed by selecting the workspace name, clicking the Share Folder button in the Action Bar, and then clicking the "trashcan icon" beside the user's name.
+Sharing of the workspace can be removed by selecting the workspace name, clicking the Share Folder button in the Action Bar, or by clicking the "Edit" link beside the "Workspace Members" in the Information Panel on the right side and then clicking the "trashcan" icon beside the user's name.
 
-
+![Remove Workspace Sharing](../images/remove_workspace_sharing.png)
