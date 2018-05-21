@@ -32,6 +32,20 @@ server {
 	listen 80;
 	server_name docs.patric.local;
 	root /p3_docs/docroot/_build/html;
+
+        # to avoid Cross-Origin Request Blocked error
+        location / { 
+          if ($request_method = 'OPTIONS') {
+             add_header 'Access-Control-Allow-Origin' '*';
+             add_header 'Access-Control-Allow-Methods' 'GET, OPTIONS';
+             add_header 'Access-Control-Allow-Headers' 'Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range';
+             return 204;
+          }
+          if ($request_method = 'GET') {
+             add_header 'Access-Control-Allow-Origin' '*';
+             add_header 'Access-Control-Allow-Methods' 'GET, OPTIONS';
+          }
+        }
 }
 ```
 

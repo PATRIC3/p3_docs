@@ -1,5 +1,6 @@
 Services and Tools
 ===================
+PATRIC offers a wide range of services and tools for analyzing data. The PATRIC private Workspace (available via registration) provides a means for accessing and securely using the services with your own data, and then interacting with your data in the context of the full PATRIC data and tools. Detailed descriptions of the various services are available from the links below. 
 
 Genomics
 ---------
