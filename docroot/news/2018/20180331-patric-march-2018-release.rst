@@ -35,9 +35,14 @@ This release includes new pages for showing subsystem data for single genome, ta
 We are working on a new homepage design for the website to clarify, simplify, and streamline access to the ever increasing data and functionality of the PATRIC resource. We invite feedback from PATRIC users which we will use to refine the design before conversion of the website.  The evaluation version is available `here
 <https://www.alpha.patricbrc.org/home-new>`__.
 
-**Enhancements to Circular Genome Viewer**
+**Enhancements to the Circular Genome Viewer**
 The PATRIC Circular Genome Viewer now has tracks for highlighting specialty genes such as AMR, VF, transporters, and drug targets.  The layout has also been improved for genomes with large numbers of contigs.  Similar improvements have been made in the circular Proteome Comparison Viewer.  The Circular Genome Viewer can be accessed by clicking the Circular Viewer tab in any Genome View, as shown `here
 <https://www.patricbrc.org/view/Genome/83332.12#view_tab=circular>`__.
+
+**Enhancements to RNA-Seq Analysis Service**
+*Note: Released April 7, 2018.* The RNA-Seq pipeline at PATRIC has been updated to use HISAT2 to generate alignments for reads and now uses FastQC and SAMStat to generate quality reports for fastq files and alignment files respectively. This new functionality allows users to assess how much of their sample has been aligned and to investigate potential causes of poor performance. In addition the pipeline now automatically generates PATRIC's Differential Expression objects so that users can investigate which genes are significantly up or down regulated between conditions using the PATRIC heatmap functionality. The RNA-Seq Analysis Service can be accessed `here
+<https://patricbrc.org/app/Rnaseq>`__.
+
 
 
 
