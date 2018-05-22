@@ -4,6 +4,7 @@
 The Protein Family Sorter Service tool enables researchers to examine the distribution of specific protein families, known as FIGfams, across a set of user-selected genomes. Results are displayed in a page showing all the families associated with the selected genomes, plus filter controls and an interactive heatmap.
 
 ### See also
+  * [Protein Families Tab](../organisms_taxon/protein_families.html)
   * [Comparing Protein Families Across Genomes Tutorial](https://docs.patricbrc.org//tutorial/protein_family_sorter/protein_family_sorter.html)
 
 ## Using the Protein Family Sorter Service
@@ -38,4 +39,4 @@ strains.
 ## Buttons
 
 ### Search
-Launches the Protein Family Sorter Service and, upon completion, displays a page in PATRIC showing all the families associated with the selected genomes, plus filter controls and an interactive heatmap.
+Launches the Protein Family Sorter Service and, upon completion, displays a page in PATRIC showing all the families associated with the selected genomes, plus filter controls and an interactive heatmap. See [Protein Families Tab](../organisms_taxon/protein_families.html) for a detailed description of how to use the Protein Family Sorter filters and heatmap.
