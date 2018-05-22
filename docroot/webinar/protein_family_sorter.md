@@ -7,12 +7,19 @@ The Protein Family Sorter Service enables comparison of the distribution of spec
 Topic: PATRIC Webinar: Protein Family Sorter
 Time: May 31, 2018 3:00 PM Eastern Time (US and Canada)
 
-Join from PC, Mac, Linux, iOS or Android: https://virginiatech.zoom.us/j/654377946
+### Join from PC, Mac, Linux, iOS or Android: 
+https://virginiatech.zoom.us/j/654377946
 
-Or iPhone one-tap :
-    US: +16699006833,,654377946#  or +19294362866,,654377946# 
-Or Telephone:
-    Dial(for higher quality, dial a number based on your current location): 
-        US: +1 669 900 6833  or +1 929 436 2866 
-    Meeting ID: 654 377 946
-    International numbers available: https://zoom.us/u/ca1zzJ0EG
+### Or iPhone one-tap :
+
+US: +16699006833,,654377946#  or +19294362866,,654377946# 
+
+### Or Telephone:
+
+Dial(for higher quality, dial a number based on your current location): 
+
+US: +1 669 900 6833  or +1 929 436 2866 
+
+Meeting ID: 654 377 946
+
+International numbers available: https://zoom.us/u/ca1zzJ0EG
