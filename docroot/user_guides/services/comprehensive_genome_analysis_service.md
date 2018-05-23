@@ -1,28 +1,44 @@
-# Comprehensive Genome Analysis Service (BETA)
+# Comprehensive Genome Analysis Service (beta)
 
 ## Overview
+The Comprehensive Genome Analysis Service provides a streamlined analysis **"meta-service"** that accepts raw reads and performs a comprehensive analysis including assembly, annotation, identification of nearest neighbors, a basic comparative analysis that includes a subsystem summary, phylogenetic tree, and the features that distinguish the genome from its nearest neighbors.
 
-The Comprehensive Genome Analysis Service provides a streamlined analysis “meta-service” that accepts raw reads and performs a comprehensive analysis including assembly, annotation, identification of nearest neighbors, a basic comparative analysis that includes a subsystem summary, phylogenetic tree, and the features that distinguish the genome from its nearest neighbors.
+### See also
+  * [Genome Assembly Service](./genome_assembly_service.html)
+  * [Genome Annotation Service](./genome_annotation_service.html)
+  * [Phylogenetic Tree Building Service](./phylogenetic_tree_building_service.html)
 
-When starting with read file, ..., below is copied from Genome Assembly Service: allows single or multiple assemblers to be invoked to compare results. The service attempts to select the best assembly, i.e., assembly with the smallest number of contigs and the longest average contig length. Several assembly workflows or “recipes” are available that have been tuned to fit certain data types or desired analysis criteria such as throughput or rigor. Once the assembly process has started by clicking the Assemble button, the genome is queued as a “job” for the Assembly Service to process, and will increment the count in the Jobs information box on the bottom right of the page. Once the assembly job has successfully completed, the output file will appear in the workspace, available for use in the PATRIC comparative tools and downloaded if desired. A tutorial for using the Assembly Service is available here.
 
-When starting with assembled contigs file, ..., The Genome Annotation Service uses the RAST tool kit (RASTtk) to provide annotation of genomic features. Once the annotation process has started by clicking the Annotate button, the genome is queued as a “job” for the Annotation Service to process, and will increment the count in the Jobs information box on the bottom right of the page. Once the annotation job has successfully completed, the output file will appear in the workspace, available for use in the PATRIC comparative tools and downloaded if desired. A tutorial for using the Annotation Service is available here.
+## Using the Comprehensive Genome Analysis Service
+The **Comprehensive Genome Analysis** submenu option under the **Services** main menu (Genomics category) opens the Comprehensive Genome Analysis input form (*shown below*). *Note: You must be logged into PATRIC to use this service.*
 
-The Comprehensive Genome Analysis Service can be accessed from the Services Menu at the top of the PATRIC website page.
+![Comprehensive Genome Analysis Menu](../images/services_menu.png)
+
+## Options
+![Comprehensive Genome Analysis Input Form](../images/genome_analysis_input_form.png) 
 
 ## Start with
-Start with text goes here.
+The service can accept either read files or assembled contigs. If the "Read Files" option is selected, the Assembly Service will be invoked automatically to assemble the reads into contigs before invoking the Annotation Service. If the "Assembled Contigs" option is chosen, the Annotation Service will automatically be invoked, bypassing the Assembly Service.
+
+## Read Input File
+Depending on the option chosen above (Read File or Assembled Contigs), the Input File section will request read files or assembled contigs, respectively.
+
+### Paired read library
+**Read File 1 & 2:**  Many paired read libraries are given as file pairs, with each file containing half of each read pair. Paired read files are expected to be sorted such that each read in a pair occurs in the same Nth position as its mate in their respective files. These files are specified as READ FILE 1 and READ FILE 2. For a given file pair, the selection of which file is READ 1 and which is READ 2 does not matter.
+
+### Single read library
+**Read File:** The fastq file containing the reads.
+
+### SRA run accession
+Allows direct upload of read files from the [NCBI Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) to the PATRIC Assembly Service. Entering the SRR accession number and clicking the arrow will add the file to the selected libraries box for use in the assembly. 
 
 ## Selected libraries
 Read files placed here will contribute to a single assembly.
 
-## Read Input File
-(TEXT needs proof read). You can provide read file in paired read library, single read library or SRA run accession. For paired read library, many paired read libraries are given as file pairs, with each file containing half of each read pair. Paired read files are expected to be sorted such that each read in a pair occurs in the same Nth position as its mate in their respective files. These files are specified as READ FILE 1 and READ FILE 2. For a given file pair, the selection of which file is READ 1 and which is READ 2 does not matter.
-
 ## Parameters
 
 ### Assembly Strategy
-ONLY when you choose to start with read file.
+*Note: Available only when "Read File" is selected above.*
 
 #### auto
   * For short reads:
@@ -63,19 +79,15 @@ ONLY when you choose to start with read file.
 - For long reads (PacBio or Nanopore):
   1. Assembles with MiniASM
 
-### Contigs
-The target FASTA file containing the genome sequence to annotate.
-
 ### Domain
 The taxonomic domain of the target organism: bacteria or archaea.
 
-### Taxon information
+### Taxonomy Name
 Taxon must be specified at the genus level or below to get the latest
 protein family predictions.
 
-### Organism Name
-Type or select an organism name. If the target species or strain is not listed
-select the most specific, accurate taxonomic level available.
+### Taxonomy ID
+Auto-populated after entering Taxonomy Name. If a Taxonomy ID is entered, auto-populates the Taxonomy Name 
 
 ### Genetic Code
 The codon translation used in calling genes.
