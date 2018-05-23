@@ -10,7 +10,7 @@ The Comprehensive Genome Analysis Service provides a streamlined analysis **"met
 
 
 ## Using the Comprehensive Genome Analysis Service
-The **Comprehensive Genome Analysis** submenu option under the **Services** main menu (Genomics category) opens the Comprehensive Genome Analysis input form (*shown below*). *Note: You must be logged into PATRIC to use this service.*
+The **Comprehensive Genome Analysis** submenu option under the **Services** main menu (Genomics category) opens the Comprehensive Genome Analysis input form (shown below). *Note: You must be logged into PATRIC to use this service.*
 
 ![Comprehensive Genome Analysis Menu](../images/services_menu.png)
 
