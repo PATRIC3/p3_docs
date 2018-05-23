@@ -1,4 +1,4 @@
-# Comprehensive Genome Analysis Service (DRAFT)
+# Comprehensive Genome Analysis Service (BETA)
 
 ## Overview
 
