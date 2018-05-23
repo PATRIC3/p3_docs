@@ -17,7 +17,7 @@ Upcoming Webinars
 
 .. toctree::
    :maxdepth: 1
-   :caption: Webinar Information
+   :caption: Recorded and Scheduled Webinars
    
    protein_family_sorter
    metagenomic_binning
