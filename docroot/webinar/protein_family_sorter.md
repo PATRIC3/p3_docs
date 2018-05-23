@@ -5,6 +5,9 @@ The Protein Family Sorter Service enables comparison of the distribution of spec
 
 ![Protein Family Sorter Heatmap](./images/protein_family_sorter_heatmap.png)
 
+## Registration
+Registration is not required to participate in the webinar, but we would appreciate it if you would let us know if you plan to attend so that we will know the number of participants to expect. Please send an email to [Rebecca Wattam](mailto:rwattam@vt.edu).
+
 ## Webinar Connection Information
 **Topic:** PATRIC Webinar: Protein Family Sorter
 
