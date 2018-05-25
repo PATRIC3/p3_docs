@@ -15,7 +15,7 @@ Registration is not required to participate in the webinar, but we would appreci
 **Date & Time:** May 31, 2018 3:00 PM Eastern Time (US and Canada)
 
 ### Join from PC, Mac, Linux, iOS or Android: 
-https://virginiatech.zoom.us/j/654377946
+![https://virginiatech.zoom.us/j/654377946](https://virginiatech.zoom.us/j/654377946)
 
 ### Or iPhone one-tap :
 
@@ -29,4 +29,4 @@ US: +1 669 900 6833  or +1 929 436 2866
 
 Meeting ID: 654 377 946
 
-International numbers available: https://zoom.us/u/ca1zzJ0EG
+International numbers available: [https://zoom.us/u/ca1zzJ0EG](https://zoom.us/u/ca1zzJ0EG)
