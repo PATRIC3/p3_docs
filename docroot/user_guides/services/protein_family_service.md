@@ -1,7 +1,7 @@
 # Protein Family Sorter Service
 
 ## Overview
-The Protein Family Sorter Service tool enables researchers to examine the distribution of specific protein families, known as FIGfams, across a set of user-selected genomes. Results are displayed in a page showing all the families associated with the selected genomes, plus filter controls and an interactive heatmap.
+The Protein Family Sorter Service tool enables researchers to examine the distribution of protein families across a set of user-selected genomes. Results are displayed in a page showing all the families associated with the selected genomes, plus filter controls and an interactive heatmap.
 
 ### See also
   * [Protein Families Tab](../organisms_taxon/protein_families.html)
