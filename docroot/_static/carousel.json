@@ -1,4 +1,9 @@
 [{
+    "title": "PATRIC Webinars",
+    "desc": "The PATRIC team provides interactive webinars with video tutorials on how to use the various services and tools in the PATRIC resource. The webinars are recorded and made available as YouTube videos for review. The full list of upcoming and recorded webinars is available in the link below.",
+    "img": "https://docs.patricbrc.org/_static/announcements/patric_webinars_small.png",
+    "link": "https://docs.patricbrc.org/webinar/"
+},{
     "title": "PATRIC/RAST Workshop at ASM Microbe 2018, June 7, 2018",
     "desc": "The PATRIC/RAST team will be offering a 1-day tutorial workshop on June 7 at ASM Microbe 2018 in Atlanta, GA. The workshop will provide demonstrations and hands-on exercises using key PATRIC features and functionality.",
     "img": "https://docs.patricbrc.org/_static/announcements/workshop-ASM-2018.png",
@@ -8,11 +13,6 @@
     "desc": "PATRIC now includes subsystem data for single genome, taxon, and genome group levels.  Subsystems are curated sets of biologically related functional roles across a reference set of genomes, comprising units of expert knowledge about a single biological process.",
     "img": "https://docs.patricbrc.org/_static/announcements/subsystems.png",
     "link": "https://docs.patricbrc.org/user_guides/organisms_taxon/subsystems_tab.html"
-}, {
-    "title": "PATRIC Webinar Series",
-    "desc": "<b>Metagenomic Binning Service</b> accepts either reads or contigs, and attempts to \"bin\" the data into a set of genomes. This service can be used to reconstruct bacterial and archael genomes from environmental samples. <br><b>Proteome Comparison Service</b> compares annotated proteins by bi-directional BLASTP analysis. <br><b>Phylogenetic Tree Builder</b> generates whole-genome phylogenies from amino acid sequences.",
-    "img": "",
-    "link": "https://docs.patricbrc.org/webinar/"
 }, {
     "title": "PATRIC Command Line Interface",
     "desc": "The PATRIC Command Line Interface (CLI) includes commands and features to 1) run PATRIC services, including Genome Assembly and Annotation; 2) enable access to PATRIC workspaces; 3) manage data objects in the workspace, such as genomes; and 4) facilitate access and manipulation of data retrieved from the PATRIC databases. Full-fledged documentation for using the CLI is available as well.",
