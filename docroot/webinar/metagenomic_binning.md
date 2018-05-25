@@ -1,4 +1,4 @@
-# Webinar: Metagenomic Binning Service
+# Video: Metagenomic Binning Service
 Using PATRIC's Metagenomic Binning Service to analyze sequence reads from metagenomic samples.
 
 ## Description
