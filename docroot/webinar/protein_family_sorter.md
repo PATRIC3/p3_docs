@@ -1,4 +1,4 @@
-# Upcoming Webinar: Protein Family Sorter
+# UPCOMING Webinar: Protein Family Sorter
 Exploring the Pan-Proteome and Pathway Differences with PATRIC'S Protein Family Sorter.
 
 ## Description
