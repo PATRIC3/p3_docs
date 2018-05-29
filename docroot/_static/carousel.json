@@ -1,8 +1,8 @@
 [{
-    "title": "PATRIC Webinars",
-    "desc": "The PATRIC team provides interactive webinars with video tutorials on how to use the various services and tools in the PATRIC resource. The webinars are recorded and made available as YouTube videos for review. The full list of upcoming and recorded webinars is available in the link below.",
+    "title": "Webinar: Protein Family Sorter",
+    "desc": "Learn how to compare 100s of genomes using PATRIC's Protein Family Sorter.  We are hosting a webinar on May 31, 2018 at 3pm EST.",
     "img": "https://docs.patricbrc.org/_static/announcements/patric_webinars_small.png",
-    "link": "https://docs.patricbrc.org/webinar/"
+    "link": "http://docs.patricbrc.org/webinar/protein_family_sorter.html"
 },{
     "title": "PATRIC/RAST Workshop at ASM Microbe 2018, June 7, 2018",
     "desc": "The PATRIC/RAST team will be offering a 1-day tutorial workshop on June 7 at ASM Microbe 2018 in Atlanta, GA. The workshop will provide demonstrations and hands-on exercises using key PATRIC features and functionality.",
