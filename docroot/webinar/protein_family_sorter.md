@@ -15,7 +15,7 @@ Registration is not required to participate in the webinar, but we would appreci
 **Date & Time:** May 31, 2018 3:00 PM Eastern Time (US and Canada)
 
 ### Join from PC, Mac, Linux, iOS or Android: 
-![https://virginiatech.zoom.us/j/654377946](https://virginiatech.zoom.us/j/654377946)
+[https://virginiatech.zoom.us/j/654377946](https://virginiatech.zoom.us/j/654377946)
 
 ### Or iPhone one-tap :
 
