@@ -9,9 +9,9 @@ News
    :description: PATRIC News RSS feed
    :link: https://docs.patricbrc.org/
 
+   2018/20180531-patric-may-2018-release
    2018/20180404-patric-workshop-at-asm-2018
    2018/20180331-patric-march-2018-release
-   2018/20180213-metagenomic-binning-webinar
    
 
 .. toctree::
