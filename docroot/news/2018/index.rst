@@ -4,6 +4,7 @@ Archives 2018
 .. toctree::
    :maxdepth: 1
 
+   20180531-patric-may-2018-release
    20180404-patric-workshop-at-asm-2018
    20180331-patric-march-2018-release
    20180213-metagenomic-binning-webinar
