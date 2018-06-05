@@ -17,7 +17,7 @@ Data Updates:
 **New Genomes**
 
 In this release, PATRIC has added over 13,000 new genomes and associated metadata, bringing the total number of genomes and plasmids to over 164,000. The full list of available microbial and host genomes can be accessed `here
-<https://www.patricbrc.org/view/GenomeList/?or(keyword(Bacteria),keyword(Archaea),keyword(Eukaryota))#view_tab=genomes>`.
+<https://www.patricbrc.org/view/GenomeList/?or(keyword(Bacteria),keyword(Archaea),keyword(Eukaryota))#view_tab=genomes>`__.
 
 
 New Website Features:
