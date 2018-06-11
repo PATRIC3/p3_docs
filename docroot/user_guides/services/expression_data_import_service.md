@@ -25,11 +25,11 @@ Files should contain data in one of the following formats:
 
 *Gene Matrix:* Gene IDs are represented in the first column with extra columns for each of the comparisons in the form of log ratio, i.e., log2(test/control). Below is an example of transcriptomics data in Gene Matrix format:
 
-![Sample Gene Matrix](https://docs.patricbrc.org/_images/sample_gene_matrix.png)
+![Sample Gene Matrix](../images/sample_gene_matrix.png)
 
 *Gene List:* Data are represented in three columns: Gene ID, Comparison ID, and Log Ratio of expression value, i.e., log2(test/control). Below is an example of transcriptomics data in Gene List format:
 
-![Sample Gene List](https://docs.patricbrc.org/_images/sample_gene_list.png)
+![Sample Gene List](../images/sample_gene_list.png)
 
 ### Experiment Type
 Dropdown list specifying the the experiment type, either Transcriptomics, Proteomics, or Phenomics.
