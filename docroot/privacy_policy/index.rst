@@ -22,9 +22,9 @@ User Behavior Data Collection
 
 PATRIC uses Google Analytics to track website traffic, specifically to monitor long-term (monthly, yearly) overall trends in website hits, sessions, average pages accessed, average session duration, and total number of new and returning users.  On occasion, we will drill down to a particular period in time (week, day) and location (country, city, network) if we notice an unusual spike in usage to understand if the spike is due to a PATRIC event such as a workshop, conference presentation, or other. 
 
-Google Analytics mainly uses first-party cookies to report on visitor (aka. user) interactions on Google Analytics customers’ websites. Users may disable cookies or delete any individual cookie. [Learn more](https://policies.google.com/technologies/cookies)
+Google Analytics mainly uses first-party cookies to report on visitor (aka. user) interactions on Google Analytics customers’ websites. Users may disable cookies or delete any individual cookie. `Learn more <https://policies.google.com/technologies/cookies>`_.
 
-In addition, Google Analytics supports an optional browser [add-on](https://tools.google.com/dlpage/gaoptout/) that - once installed and enabled - disables measurement by Google Analytics for any site a user visits. Note that this add-on only disables Google Analytics measurement.
+In addition, Google Analytics supports an optional browser `add-on <https://tools.google.com/dlpage/gaoptout/>`_ that - once installed and enabled - disables measurement by Google Analytics for any site a user visits. Note that this add-on only disables Google Analytics measurement.
 
 Google Analytics also collects Internet Protocol (IP) addresses to provide and protect the security of the service, and to give website owners a sense of which country, state, or city in the world their users come from (also known as "IP geolocation"). Note that website owners have access to their users’ IP addresses even if the website owners do not use Google Analytics.
 
@@ -62,5 +62,5 @@ Changes
 
 This PATRIC Privacy Policy may change from time to time. Your rights under this policy will not be reduced without your explicit consent. Changes will be posted on this page, and, if significant, will be provided more prominently via email or notification when you sign in.
 
-Users may at any time review, update, correct or delete the personal information in their profiles by signing in to their PATRIC account and using the edit or remove functions available from their personal profile page. Users may also delete there account and associated private data from PATRIC by contacting us at help@patricbrc.org.
+Users may at any time review, update, correct or delete the personal information in their profiles by signing in to their PATRIC account and using the edit or remove functions available from their personal profile page. Users may also delete there account and associated private data from PATRIC by contacting us at `help@patricbrc.org <mailto:help@patricbrc.org>`_.
 
