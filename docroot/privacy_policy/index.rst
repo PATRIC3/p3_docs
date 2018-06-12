@@ -45,7 +45,7 @@ Aggregated usage analyses do not link to individual personal information but may
 
 Users should also understand that once their research data is made public that PATRIC reserves the right to integrate this information into meta-analyses that the PATRIC system might perform.
 
-Information PATRIC discloses
+Information PATRIC Discloses
 ----------------------------
 
 PATRIC is committed to maintaining the confidentiality, integrity, and security of users’ personal private information and data. PATRIC considers this information to be private and held in confidence or shared as designated under user control until a user makes it public.
