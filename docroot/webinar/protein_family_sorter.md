@@ -1,4 +1,4 @@
-# UPCOMING Webinar: Protein Family Sorter - May 31, 2018 3:00pm ET
+# Recorded Webinar: Protein Family Sorter
 Exploring the Pan-Proteome and Pathway Differences with PATRIC'S Protein Family Sorter.
 
 ## Description
