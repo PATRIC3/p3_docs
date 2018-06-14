@@ -5,9 +5,9 @@ It is possible to share a genome annoted using the PATRIC Genome Annotation Serv
 
 
 ### See also:
-  * [Genome Annotation Service (../services/genome_annotation_service.html)
-  * [Genomes Tab (../organisms_taxon/genomes.html)
-  * [Genome Overview Tab (../organisms_genome/overview.html)
+  * [Genome Annotation Service](../services/genome_annotation_service.html)
+  * [Genomes Tab](../organisms_taxon/genomes.html)
+  * [Genome Overview Tab](../organisms_genome/overview.html)
 
 ## Sharing Genomes on the PATRIC website
 When logged in, clicking on the "My Genomes" option in the Workspaces top menu displays the list of genomes that have been annotated using the Genome Annotation Service. These genomes are accessible by 
