@@ -11,15 +11,17 @@ It is possible to share a genome annoted using the PATRIC Genome Annotation Serv
 
 ## Sharing Genomes on the PATRIC website
 
+When logged in, clicking on the "My Genomes" option in the Workspaces top menu displays the list of genomes that have been annotated using the Genome Annotation Service. 
+
 ![Workspaces Menu](../images/workspaces_menu.png)
 
-When logged in, clicking on the "My Genomes" option in the Workspaces top menu displays the list of genomes that have been annotated using the Genome Annotation Service. 
+Selecting one or more of the genomes in the table enables the "Share" button in the vertical green Action Bar on the right side of the table.
 
 ![My Genomes Table](../images/my_genomes_table.png)
 
+Clicking the Share button opens a dialog box for selecting other users with whom to share the genome.
 
 
 
 
 
-Once created, the new group will appear in the home Workspace. By default, Genome Groups will appear in the "Genome Groups" folder, and likewise, Feature Groups will appear in the "Feature Groups" folder.
