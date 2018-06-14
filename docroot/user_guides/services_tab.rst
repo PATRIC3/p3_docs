@@ -10,6 +10,7 @@ Genomics
 
    services/genome_assembly_service.md
    services/genome_annotation_service.md
+   services/comprehensive_genome_analysis_service.md
    services/blast.md
    services/similar_genome_finder_service.md
    services/variation_analysis_service.md
