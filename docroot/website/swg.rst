@@ -28,7 +28,5 @@ community in relation to the resource.
 +---------------------------+--------------------------------------------------------------------+
 | Andrei Osterman           | Sanford-Burnham Medical Research Institute                         |
 +---------------------------+--------------------------------------------------------------------+
-| Howard Shuman             | University of Chicago, Howard Taylor Ricketts Laboratory           |
-+---------------------------+--------------------------------------------------------------------+
 | Bryan White               | University of Illinois at Urbana-Champaign                         |
 +---------------------------+--------------------------------------------------------------------+
