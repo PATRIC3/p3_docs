@@ -1,13 +1,13 @@
 [{
+    "title": "PATRIC May Data and Website Release",
+    "desc": "This PATRIC release includes a new Comprehensive Genome Analysis Service, a new homepage design, Genome-Sharing capability, and over 13,000 new genomes.",
+    "img": "https://docs.patricbrc.org/_static/announcements/homepage.png",
+    "link": "https://docs.patricbrc.org/news/2018/20180531-patric-may-2018-release.html#patric-may-2018-data-and-website-release"
+},{
     "title": "Webinar: Protein Family Sorter",
-    "desc": "Learn how to compare 100s of genomes using PATRIC's Protein Family Sorter.  We are hosting a webinar on May 31, 2018 at 3pm EST.",
+    "desc": "Learn how to compare 100s of genomes using PATRIC's Protein Family Sorter. New recorded webinar now available.",
     "img": "https://docs.patricbrc.org/_static/announcements/patric_webinars_small.png",
     "link": "https://docs.patricbrc.org/webinar/protein_family_sorter.html"
-},{
-    "title": "PATRIC/RAST Workshop at ASM Microbe 2018, June 7, 2018",
-    "desc": "The PATRIC/RAST team will be offering a 1-day tutorial workshop on June 7 at ASM Microbe 2018 in Atlanta, GA. The workshop will provide demonstrations and hands-on exercises using key PATRIC features and functionality.",
-    "img": "https://docs.patricbrc.org/_static/announcements/workshop-ASM-2018.png",
-    "link": "https://www.abstractsonline.com/pp8/#!/4623/session/1156"
 }, {
     "title": "PATRIC Subsystems - New Functionality",
     "desc": "PATRIC now includes subsystem data for single genome, taxon, and genome group levels.  Subsystems are curated sets of biologically related functional roles across a reference set of genomes, comprising units of expert knowledge about a single biological process.",
