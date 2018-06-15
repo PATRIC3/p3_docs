@@ -28,9 +28,18 @@ New Website Features:
 The Comprehensive Genome Analysis Service provides a streamlined analysis "meta-service" that accepts raw reads and performs a comprehensive analysis including Assembly, Annotation with a comparative analysis that includes a Subsystem summary, a Phylogenetic Tree, and the features that distinguish the genome from its nearest neighbors. The PATRIC Comprehensive Genome Analysis Service is available `here
 <https://patricbrc.org/app/ComprehensiveGenomeAnalysis>`__.
 
+**New PATRIC Homepage Design** *Note: Released June 6, 2018.* 
+We have redesigned the PATRIC homepage to clarify, simplify, and streamline access to the ever increasing data and functionality of the PATRIC resource. The new homepage is available `here
+<https://www.patricbrc.org/>`__. For a limited time, we will also maintain the previous version of the homepage until users are accustomed to the new page. The previous homepage is available `here
+<https://www.patricbrc.org/home-prev/>`__.
+
+**Genome Sharing** *Note: Released June 6, 2018.*
+You can now share genomes you have annotated in PATRIC so that other users can access them in an integrated way in PATRIC in the same manner that you can. Instructions for genome sharing are available `here
+<https://docs.patricbrc.org//user_guides/workspaces/genome_sharing.html>`__.
+
 **Updated Documentation**
 We have updated all of the User Guides for the PATRIC website, which provide instructions for using PATRIC tools and features.  The PATRIC User Guides are available `here
-<https://docs.patricbrc.org/user_guides/>`__.
+<https://docs.patricbrc.org/user_guides/index.html>`__.
 
 
 
