@@ -8,7 +8,7 @@ PATRIC Webinar – Genome Assembly via Command Line Interface, July 19, 2018, 3:
 
 PATRIC provides a Genome Assembly Service for prokaryotes that allows single or multiple assemblers to be invoked to compare results. The service attempts to select the best assembly, i.e., assembly with the smallest number of contigs and the longest average contig length. Several assembly workflows or "recipes" are available.  
 
-On July 19th at 4pm ET PATRIC will host a webinar demonstrates this capability. Please email rwattam@vt.edu if you plan to attend so that we will know approximately how many participants to expect.
+On July 19th at 3pm ET PATRIC will host a webinar demonstrates this capability. Please email rwattam@vt.edu if you plan to attend so that we will know approximately how many participants to expect.
 
 
 .. cut::
