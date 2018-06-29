@@ -1,4 +1,9 @@
 [{
+    "title": "Webinar – Genome Assembly via CLI",
+    "desc": "On July 19th at 3pm ET, PATRIC will host a webinar demonstrates this capability using the PATRIC Command Line Interface (CLI)",
+    "img": "https://docs.patricbrc.org/_images/webinar_cli.png",
+    "link": "https://docs.patricbrc.org/news/2018/20180628-assembly-cli-webinar.html"
+},{
     "title": "PATRIC May Data and Website Release",
     "desc": "This PATRIC release includes a new Comprehensive Genome Analysis Service, a new homepage design, Genome-Sharing capability, and over 13,000 new genomes.",
     "img": "https://docs.patricbrc.org/_static/announcements/homepage.png",
@@ -13,9 +18,4 @@
     "desc": "PATRIC now includes subsystem data for single genome, taxon, and genome group levels.  Subsystems are curated sets of biologically related functional roles across a reference set of genomes, comprising units of expert knowledge about a single biological process.",
     "img": "https://docs.patricbrc.org/_static/announcements/subsystems.png",
     "link": "https://docs.patricbrc.org/user_guides/organisms_taxon/subsystems_tab.html"
-}, {
-    "title": "PATRIC Command Line Interface",
-    "desc": "The PATRIC Command Line Interface (CLI) includes commands and features to 1) run PATRIC services, including Genome Assembly and Annotation; 2) enable access to PATRIC workspaces; 3) manage data objects in the workspace, such as genomes; and 4) facilitate access and manipulation of data retrieved from the PATRIC databases. Full-fledged documentation for using the CLI is available as well.",
-    "img": "https://docs.patricbrc.org/_static/announcements/cli.png",
-    "link": "https://docs.patricbrc.org/cli_tutorial/index.html"
 }]
