@@ -22,6 +22,7 @@ Genomics
    phylogenetic_tree_building/tree_building.md
    metagenomic_binning/metagenomic_binning
    metagenomic_binning/metagenomic_output
+   submitting-the-comprehensive-genome-analysis-job/submitting-the-comprehensive-genome-analysis-job.md
 
 
 Transcriptomics
@@ -67,3 +68,4 @@ Others
    dev_at_argonne
    enabling_flash/enabling_flash
    sharing_data_in_the_workplace/sharing_data_in_the_workplace.md
+   sharing-a-private-genome-in-patric.md
