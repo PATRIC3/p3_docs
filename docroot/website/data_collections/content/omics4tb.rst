@@ -69,7 +69,7 @@ Summary of Omics4TB Datasets
 .. _`PATRIC: TFOE Expression`: https://www.patricbrc.org/webpage/website/data_collections/content/omics4tb_tfoe_expression_experiments.html
 .. _`GEO Accession: GSE59086`: http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE59086
 .. _`MTB Network Portal TFOE`: http://networks.systemsbiology.net/mtb/content/TFOE-Searchable-Data-File
-.. _`PATRIC: TFOE Expression Workspace`: `https://www.patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special Collections/NIAID Systems Biology Centers/Omics4TB`
+.. _`PATRIC: TFOE Expression Workspace`: https://www.patricbrc.org/workspace/PATRIC@patricbrc.org/home/Special Collections/NIAID Systems Biology Centers/Omics4TB`
 
 .. _`Network analysis identifies Rv0324 and Rv0880 as regulators of bedaquiline tolerance in Mycobacterium tuberculosis`: https://www.patricbrc.org/webpage/website/data_collections/content/omics4tb_bedaquiline_tolerance.html
 .. _`27573104`: http://www.ncbi.nlm.nih.gov/pubmed/27573104
