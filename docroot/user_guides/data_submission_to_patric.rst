@@ -17,7 +17,7 @@ Please contact the PATRIC team at help@patricbrc.org and we will work with you t
 
 **To upload your data into a PATRIC workspace for analysis or sharing with other registered PATRIC users**
 
-The first step in uploading data into PATRIC is to `register <https://user.patricbrc.org/register>`__ and log in. You will then be able to upload your data into a private workspace and use the analysis tools listed below. You can also create special workspace for sharing with specific other registered users, or share as a "`public workspace <https://patricbrc.org/workspace/public>`__" available to all other registered users who are logged in.
+The first step in uploading data into PATRIC is to `register <registration.html>`__ and log in. You will then be able to upload your data into a private workspace and use the analysis tools listed below. You can also create special workspace for sharing with specific other registered users, or share as a "`public workspace <https://patricbrc.org/workspace/public>`__" available to all other registered users who are logged in.
 
 **Genomics**
     -  `Genome Assembly <https://patricbrc.org/app/Assembly>`__
