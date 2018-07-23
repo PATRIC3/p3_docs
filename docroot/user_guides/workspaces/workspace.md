@@ -30,7 +30,7 @@ Generally, within the Workspace, you can Upload files, Add Folders, and Show Hid
 ![Workspace Tools](../images/workspace_tools.png)
 
 ### Upload
-See [Data Upload](../data_upload.html) for details.
+See [Data Upload](../workspaces/data_upload.html) for details.
 
 ### Add Folder
 Initially, the home Workspace is pre-populated with several folders that correspond to common PATRIC data types and are the default locations for data of those type, listed below. Additional custom folders can be created using the Add Folder button at the top right of the workspace table.
