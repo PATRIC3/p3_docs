@@ -7,9 +7,9 @@ The Genomes Browser provides an interactive linear display of the genome and ann
   * [Genome Annotations](../organisms_taxon/genome_annotations.html)
 
 ## Accessing the Genome Browser on the PATRIC Website
-Clicking the Genomes Tab in a Taxon View displays the Genome Table, listing of all of the genomes and associated metadata in corresponding to the selected Taxon View level or for the user-defined Genome Group. 
+Clicking the Genome Browser Tab in a Genome View displays the Genome Browser which provides an interactive linear display of the genome and associated PATRIC annotations. If available, RefSeq annotations are provided as well as an additional track on the browser.  
 
-![Genomes Table](../images/genomes_list.png)
+![Genome Browser](../images/genome_browser.png)
 
 The genomes in the table include associated metadata information regarding the organism, isolate, host, sequence, phenotype, project, and other.  A complete description of the metadata fields is available in the [Genome Metadata](../organisms_taxon/genome_metadata.html) user guide.
 
