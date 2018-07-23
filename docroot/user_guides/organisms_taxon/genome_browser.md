@@ -14,6 +14,9 @@ Clicking the Genome Browser Tab in a Genome View displays the Genome Browser whi
 The genomes in the table include associated metadata information regarding the organism, isolate, host, sequence, phenotype, project, and other.  A complete description of the metadata fields is available in the [Genome Metadata](../organisms_taxon/genome_metadata.html) user guide.
 
 ### Genome Browser Tools
+
+![Genome Browser Tools](../images/genome_browser_tools.png)
+
 Within this viewer you may do the following:
 
 * **Scroll** along the length of the genome using the left and right arrows near the top of the display.
@@ -23,6 +26,8 @@ Within this viewer you may do the following:
 * **Zoom Out** by clicking the magnifying glass with the "-" sign.  The larger magnifying glass zooms in larger increments, and likewise the smaller one zooms in smaller increments.
 
 * **Zoom to particular region** by entering the start and/or stop positions in the text box to the right of the magnifying glass buttons and clicking the "Go" button. 
+
+* **Highlight a particular region** by clicking the highlight button to the right of the "Go" button and then dragging the mouse pointer across the desired length of the genome. 
 
 
 
