@@ -56,7 +56,7 @@ For more information about each projects, follow the project title link to the i
 .. _Genome List 3: https://www.patricbrc.org/view/GenomeList/?keyword(%22Enterococcus%20I%20comparative%22)#view_tab=genomes
 .. _Genome List 4: https://www.patricbrc.org/view/GenomeList/?and(keyword(%22Identifying%20the%20genomic%20changes%20in%20Staphylococcus%22),keyword(%22that%20confer%20resistance%20to%20peptidoglycan%20hydrolase%20antimicrobial%20enzymes%22))#view_tab=genomes
 .. _Genome List 5: https://www.patricbrc.org/view/GenomeList/?keyword(%22clinical%20isolates%20of%20Klebsiella%20pneumoniae%20to%20identify%20features%20associated%20with%20infection%20and%20colistin%20resistance%22)#view_tab=genomes
-.. _Genome List 6: https://www.patricbrc.org/portal/portal/patric/GenomeList?cType=taxon&cId=2&dataSource=&displayMode=&pk=&kw=%22MRSA%20ST398%22
+.. _Genome List 6: https://patricbrc.org/view/GenomeList/?and(keyword(MRSA),keyword(%22ST398%22))
 .. _Genome List 7: https://www.patricbrc.org/view/GenomeList/?keyword(%22MRSA%20ST398%22)#view_tab=genomes
 .. _Genome List 8: https://www.patricbrc.org/view/GenomeList/?keyword(%22Whole%20Genome%20Sequence%20Analysis%20of%20Carbapenem-resistant%20Enterobacteriaceae%22)#view_tab=genomes
 .. _Genome List 9: https://www.patricbrc.org/view/GenomeList/?keyword(%22Whole%20Genome%20Sequence%20Analysis%20of%20Pseudomonas%20aeruginosa%20clinical%20Isolates%22)#view_tab=genomes
