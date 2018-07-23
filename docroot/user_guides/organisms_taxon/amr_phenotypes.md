@@ -5,8 +5,7 @@ The AMR Phenotypes Tab provides a tabular view of all of the AMR phenotype data 
 
 ### See also
 
-  * [Antibiotic Resistance Data](../data/antibiotic_resistance.html)
-  * [Antibiotics Data](../data/antibiotics.html)
+  * [Antibiotic Resistance Data](https://patricbrc.org/view/DataType/AntibioticResistance)
 
 ## Accessing AMR Phenotypes on the PATRIC Website
 Clicking the AMR Phenotypes Tab in a Taxon View displays a table with rows for each genome/antibiotic combination for which there is an AMR phenotype designation or MIC value in that taxonomic level, as shown below:
@@ -28,7 +27,7 @@ As with all tables in PATRIC, the Filters tool is available to narrow the displa
   
 ![AMR Phenotypes Filter Panel](../images/amr_phenotypes_filter_panel.png)
 
-Clicking on the Filters button at the top right of the table opens the Filter Panel above the table, displaying column names from the table and values for those columns with counts of occurence.  Clicking on the filter values narrows the genomes displayed in the table to those matching the chosen filter values.  Clicking the Hide button closes the Filter Panel.  More details are available in the [Filter Tool](../other/filter_tool.html) user guide.
+Clicking on the Filters button at the top right of the table opens the Filter Panel above the table, displaying column names from the table and values for those columns with counts of occurence.  Clicking on the filter values narrows the genomes displayed in the table to those matching the chosen filter values.  Clicking the Hide button closes the Filter Panel.  More details are available in the [PATRIC Tables and Filters](../tables.html) user guide.
 
 ### Action buttons
 
@@ -38,7 +37,7 @@ After selecting one or more of the genomes by clicking the checkbox beside the G
 * **Download:**  Downloads the selected items (rows).
 * **Copy:** Copies the selected items to the clipboard.
 * **Genome:** Loads the Genome View Overview page for the selected genome (if only one genome selected).
-* **Antibiotic:** Loads the Antibiotic Overview for the corresponding antibiotic selected (available only if one genome/antibiotic row is selected). The Antibiotic Overview provides detailed information regarding the antibiotic.  See [Antibiotics Data](../data/antibiotics.html).
+* **Antibiotic:** Loads the Antibiotic Overview for the corresponding antibiotic selected (available only if one genome/antibiotic row is selected). The Antibiotic Overview provides detailed information regarding the antibiotic.  See [Antibiotics Data](https://patricbrc.org/view/DataType/AntibioticResistance).
 * **Group:** Opens a pop-up window to enable adding the selected genome/antibiotic records to an existing or new group in the private workspace.
 
-More details are available in the [Action Buttons](../other/action_buttons.html) user guide.
+More details are available in the [Selection Action Bar](../action_bar.html) user guide.
