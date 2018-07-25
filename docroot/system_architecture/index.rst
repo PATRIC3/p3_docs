@@ -210,7 +210,7 @@ The associated resources are, respectively:
 
 -  ``https://www.patricbrc.org/api/{{data type}}/{{ id }}``
 
--  https://www.patricbrc.org/api/{{ data type }}/?{{ query }}
+-  ``https://www.patricbrc.org/api/{{ data type }}/?{{ query }}``
 
 In addition to the API for querying and retrieving data, there is also
 an API endpoint for submitting new data to the system to be indexed in
