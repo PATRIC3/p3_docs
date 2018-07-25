@@ -212,9 +212,8 @@ RETURN
  
 
 
-.. _/n_metric
 n_metric
----------
+--------
 
 
 
