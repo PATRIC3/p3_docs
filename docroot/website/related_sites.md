@@ -27,7 +27,8 @@ Human viral pathogens
 
 [NIAID](http://www3.niaid.nih.gov/)
 
-[NIAID Category A, B, and C Priority Pathogens](http://www3.niaid.nih.gov/topics/BiodefenseRelated/Biodefense/research/CatA.htm)
+[NIAID Emerging Infectious Diseases/Pathogens]
+(https://www.niaid.nih.gov/research/emerging-infectious-diseases-pathogens)
 
 ### Systems Biology for Infectious Disease Research
 
