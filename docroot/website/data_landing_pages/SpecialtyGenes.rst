@@ -15,7 +15,7 @@ Specialty Genes
               For each class, reference genes are collected from reputed external databases or manually curated by the PATRIC
               team and then mapped to their homologs based on sequence similarity using BLASTP.
               For more details, see <a href="http://docs.patricbrc.org/user_guides/organisms_taxon/specialty_genes.html" target="_blank">Specialty Genes</a>.
-              We also provide a data summary targeted specifically to <a href="/view/DataType/AntibioticResistance">Antibiotic Resistance Data</a>.
+              We also provide a data summary targeted specifically to <a href="https://patricbrc.org/view/DataType/AntibioticResistance">Antibiotic Resistance Data</a>.
            </p>
           </div>
 
