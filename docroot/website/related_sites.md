@@ -57,7 +57,7 @@ Human viral pathogens
 [J. Craig Venter Institute (JCVI)](http://gsc.jcvi.org/)
 
 [Broad
-Institute](http://www.broadinstitute.org/science/projects/gscid/genomic-sequencing-center-infectious-diseases)
+Institute](https://www.broadinstitute.org/scientific-community/science/projects/gscid/genomic-center-infectious-diseases)
 
 [Institute for Genome Sciences (IGS) at the University of Maryland
 School of Medicine](http://gscid.igs.umaryland.edu/index.php)
