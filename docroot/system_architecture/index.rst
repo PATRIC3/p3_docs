@@ -208,7 +208,7 @@ The data API has two functions for each data type:
 
 The associated resources are, respectively:
 
--  https://www.patricbrc.org/api/{{data type}}/{{ id }}
+-  ``https://www.patricbrc.org/api/{{data type}}/{{ id }}``
 
 -  https://www.patricbrc.org/api/{{ data type }}/?{{ query }}
 
