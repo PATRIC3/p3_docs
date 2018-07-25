@@ -212,8 +212,8 @@ RETURN
  
 
 
-
-/n_metric
+.. _/n_metric
+n_metric
 ---------
 
 
