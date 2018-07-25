@@ -23,7 +23,7 @@ Human viral pathogens
 
 ### NIH/NIAID
 
-[Bioinformatics Resource Centers](http://www.niaid.nih.gov/labsandresources/resources/dmid/brc/Pages/default.aspx)
+[Bioinformatics Resource Centers](https://www.niaid.nih.gov/research/bioinformatics-resource-centers)
 
 [NIAID](https://www.niaid.nih.gov/)
 
