@@ -25,10 +25,9 @@ Human viral pathogens
 
 [Bioinformatics Resource Centers](http://www.niaid.nih.gov/labsandresources/resources/dmid/brc/Pages/default.aspx)
 
-[NIAID](http://www3.niaid.nih.gov/)
+[NIAID](https://www.niaid.nih.gov/)
 
-[NIAID Emerging Infectious Diseases/Pathogens]
-(https://www.niaid.nih.gov/research/emerging-infectious-diseases-pathogens)
+[NIAID Emerging Infectious Diseases/Pathogens](https://www.niaid.nih.gov/research/emerging-infectious-diseases-pathogens)
 
 ### Systems Biology for Infectious Disease Research
 
