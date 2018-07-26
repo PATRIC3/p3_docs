@@ -62,6 +62,7 @@ Others
 .. toctree::
    :maxdepth: 1
 
+   genome_quality_report/genome_quality_report.md
    genome_groups/creating_genome_groups.md
    amr/amr.md
    binning_overview
