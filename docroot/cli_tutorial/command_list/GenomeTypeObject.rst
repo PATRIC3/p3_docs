@@ -182,7 +182,7 @@ RETURN
  
  N50
   
-  The N50 of the contig lengths (see `/n_metric </n_metric>`_).
+  The N50 of the contig lengths (see /n_metric_).
   
  
  
@@ -211,8 +211,7 @@ RETURN
  
  
 
-
-
+.. _/n_metric:
 n_metric
 --------
 

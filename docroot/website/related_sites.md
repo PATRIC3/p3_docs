@@ -23,11 +23,11 @@ Human viral pathogens
 
 ### NIH/NIAID
 
-[Bioinformatics Resource Centers](http://www.niaid.nih.gov/labsandresources/resources/dmid/brc/Pages/default.aspx)
+[Bioinformatics Resource Centers](https://www.niaid.nih.gov/research/bioinformatics-resource-centers)
 
-[NIAID](http://www3.niaid.nih.gov/)
+[NIAID](https://www.niaid.nih.gov/)
 
-[NIAID Category A, B, and C Priority Pathogens](http://www3.niaid.nih.gov/topics/BiodefenseRelated/Biodefense/research/CatA.htm)
+[NIAID Emerging Infectious Diseases/Pathogens](https://www.niaid.nih.gov/research/emerging-infectious-diseases-pathogens)
 
 ### Systems Biology for Infectious Disease Research
 
@@ -57,7 +57,7 @@ Human viral pathogens
 [J. Craig Venter Institute (JCVI)](http://gsc.jcvi.org/)
 
 [Broad
-Institute](http://www.broadinstitute.org/science/projects/gscid/genomic-sequencing-center-infectious-diseases)
+Institute](https://www.broadinstitute.org/scientific-community/science/projects/gscid/genomic-center-infectious-diseases)
 
 [Institute for Genome Sciences (IGS) at the University of Maryland
 School of Medicine](http://gscid.igs.umaryland.edu/index.php)

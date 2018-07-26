@@ -15,7 +15,7 @@ Specialty Genes
               For each class, reference genes are collected from reputed external databases or manually curated by the PATRIC
               team and then mapped to their homologs based on sequence similarity using BLASTP.
               For more details, see <a href="http://docs.patricbrc.org/user_guides/organisms_taxon/specialty_genes.html" target="_blank">Specialty Genes</a>.
-              We also provide a data summary targeted specifically to <a href="/view/DataType/AntibioticResistance">Antibiotic Resistance Data</a>.
+              We also provide a data summary targeted specifically to <a href="https://patricbrc.org/view/DataType/AntibioticResistance">Antibiotic Resistance Data</a>.
            </p>
           </div>
 
@@ -63,7 +63,7 @@ Specialty Genes
           <p>Virulence factors refer to the gene products that enable bacteria to establish itself on or within a host organism
           and enhance its potential to cause disease. We have integrated and mapped virulence factor genes from the following sources:</p>
           <dl>
-            <dd><a href="/view/SpecialtyGeneList/?and(eq(source,PATRIC_VF),eq(evidence,Literature))" target="_blank">PATRIC_VF</a></dd>
+            <dd><a href="https://patricbrc.org/view/SpecialtyGeneList/?and(eq(source,PATRIC_VF),eq(evidence,Literature))" target="_blank">PATRIC_VF</a></dd>
             <dd><a href="http://www.mgc.ac.cn/VFs/" target="_blank">VFDB</a></dd>
             <dd><a href="http://www.phidias.us/victors/" target="_blank">Victors</a></dd>
           </dl>
