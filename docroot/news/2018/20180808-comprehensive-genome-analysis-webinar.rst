@@ -1,12 +1,12 @@
 :github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2018/20180808-comprehensive-genome-analysis-webinar.rst
 
-PATRIC Webinar – Comprehensive Genome Analysis Service, August 8, 2018, 2:00pm EDT
+PATRIC Webinar – Comprehensive Genome Analysis Service, August 8, 2018, 2:00pm ET
 ======================================================================================
 
 .. feed-entry::
    :date: 2018-07-30
 
-PATRIC’s new Comprehensive Genome Analysis Service provides a streamlined automated workflow that accepts raw reads and then performs a comprehensive analysis including assembly, annotation, identification of nearest neighbors, building a phylogenetic tree, and a basic comparative analysis that includes a subsystem summary. The service also indicates genome quality and provides quality statistics.  We will provide a webinar demonstrating this new service on August 8th at 2pm EST.  Please email rwattam@vt.edu if you plan to attend so that we will know approximately how many participants to expect.
+PATRIC’s new Comprehensive Genome Analysis Service provides a streamlined automated workflow that accepts raw reads and then performs a comprehensive analysis including assembly, annotation, identification of nearest neighbors, building a phylogenetic tree, and a basic comparative analysis that includes a subsystem summary. The service also indicates genome quality and provides quality statistics.  We will provide a webinar demonstrating this new service on August 8th at 2pm ET.  Please email rwattam@vt.edu if you plan to attend so that we will know approximately how many participants to expect.
 
 .. cut::
 
