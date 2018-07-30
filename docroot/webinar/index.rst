@@ -9,7 +9,7 @@ Upcoming Webinars
 +------------------------------------------+-------------------------+-------------------------+
 | Topic                                    | Date                    | Information             |
 +==========================================+=========================+=========================+
-| Comprehensive Genome Analysis            | TBA                     | N/A                     |
+| Comprehensive Genome Analysis            | August 8, 2018          | see below               |
 +------------------------------------------+-------------------------+-------------------------+
 | TBA                                      | TBA                     | N/A                     |
 +------------------------------------------+-------------------------+-------------------------+
@@ -19,6 +19,7 @@ Upcoming Webinars
    :maxdepth: 1
    :caption: Recorded and Scheduled Webinars
    
+   ../news/2018/20180808-comprehensive-genome-analysis-webinar
    protein_family_sorter
    metagenomic_binning
    proteome_comparison
