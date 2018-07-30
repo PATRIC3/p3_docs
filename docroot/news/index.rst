@@ -9,9 +9,9 @@ News
    :description: PATRIC News RSS feed
    :link: https://docs.patricbrc.org/
 
+   2018/20180808-comprehensive-genome-analysis-webinar
    2018/20180628-assembly-cli-webinar
    2018/20180531-patric-may-2018-release
-   2018/20180404-patric-workshop-at-asm-2018
    
 
 .. toctree::
