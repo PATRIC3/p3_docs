@@ -6,15 +6,12 @@ PATRIC Webinar – Comprehensive Genome Analysis Service, August 8, 2018, 2:00pm
 .. feed-entry::
    :date: 2018-07-30
 
-PATRIC provides a Genome Assembly Service for prokaryotes that allows single or multiple assemblers to be invoked to compare results. The service attempts to select the best assembly, i.e., assembly with the smallest number of contigs and the longest average contig length. Several assembly workflows or "recipes" are available.  
-
-On July 19th at 3pm ET PATRIC will host a webinar demonstrates this capability using the PATRIC Command Line Interface (CLI). Please email rwattam@vt.edu if you plan to attend so that we will know approximately how many participants to expect.
-
+PATRIC’s new Comprehensive Genome Analysis Service provides a streamlined automated workflow that accepts raw reads and then performs a comprehensive analysis including assembly, annotation, identification of nearest neighbors, building a phylogenetic tree, and a basic comparative analysis that includes a subsystem summary. The service also indicates genome quality and provides quality statistics.  We will provide a webinar demonstrating this new service on August 8th at 2pm EST.  Please email rwattam@vt.edu if you plan to attend so that we will know approximately how many participants to expect.
 
 .. cut::
 
-.. figure:: ../images/webinar_cli.png
-   :alt: PATRIC Webinar Genome Assembly via CLI
+.. figure:: ../images/webinar_cga.png
+   :alt: PATRIC Webinar - Comprehensive Genome Analysis Service
 
 
 Webinar connection information:
