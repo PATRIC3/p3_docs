@@ -1,10 +1,10 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2018/20180628-assembly-cli-webinar.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2018/20180808-comprehensive-genome-analysis-webinar.rst
 
-PATRIC Webinar – Genome Assembly via Command Line Interface, July 19, 2018, 3:00pm EDT
+PATRIC Webinar – Comprehensive Genome Analysis Service, August 8, 2018, 2:00pm EDT
 ======================================================================================
 
 .. feed-entry::
-   :date: 2018-06-28
+   :date: 2018-07-30
 
 PATRIC provides a Genome Assembly Service for prokaryotes that allows single or multiple assemblers to be invoked to compare results. The service attempts to select the best assembly, i.e., assembly with the smallest number of contigs and the longest average contig length. Several assembly workflows or "recipes" are available.  
 
