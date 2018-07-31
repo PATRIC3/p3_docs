@@ -1,4 +1,9 @@
 [{
+    "title": "Comprehensive Genome Analysis Webinar",
+    "desc": "On August 8th at 2pm ET, PATRIC will host a webinar to demonstrate our new Comprehensive Genome Analysis Service. It provides a streamlined automated workflow that accepts raw reads and then performs a comprehensive analysis including assembly, annotation, identification of nearest neighbors, building a phylogenetic tree, and a basic comparative analysis that includes a subsystem summary.",
+    "img": "https://docs.patricbrc.org/_images/cpa-webinar.png",
+    "link": "https://docs.patricbrc.org/news/2018/20180808-comprehensive-genome-analysis-webinar.html"
+},{
     "title": "Webinar – Genome Assembly via CLI",
     "desc": "On July 19th at 3pm ET, PATRIC will host a webinar demonstrates this capability using the PATRIC Command Line Interface (CLI)",
     "img": "https://docs.patricbrc.org/_images/webinar_cli.png",
