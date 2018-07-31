@@ -188,10 +188,14 @@ us that the role is very likely not a problem.
 
 .. image:: images/false_negative_double.JPG
 
+.. image:: images/correspondence.fw.png
+
 In this next example, only one of the two features had a correspondent in the reference genome. We presume this feature (``fig|610.163.peg.2490``) is good, while the
 other one is suspicious.
 
 .. image:: images/one_suspect_feature.JPG
+
+.. image:: images/correspondence2.fw.png
 
 Sometimes there are fewer implementing features than expected. In the example below, there were three implementing features in the reference genome (the expected number)
 but only two in our genome. The third feature has no similar proteins in our genome.
