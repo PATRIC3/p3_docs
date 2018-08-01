@@ -97,3 +97,23 @@ The workspace folder where results will be placed.
 
 ### Output Name
 Name used to uniquely identify results.
+
+## Output Results
+The Comprehensive Genome Analysis Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
+
+ * **FullGenomeReport.html:** A web-browser-viewable report that summarizes the results of the service including 
+   * Summary information - genome name, quality, 
+   * Genome assembly information - contigs, GC content, plasmids, L50, genome length, chromosomes
+   * Genome annotation information - taxonomy, CDS, tRNA, rRNA, partial CDS, misc RNA, repeat regions, protein feature summary, circular view with annotations
+   * Specialty genes - antibiotic resistance, drug targets, transporters, virulence factors
+   * Subsystem analysis - summary
+   * Phylogenetic analysis - phylogenetic tree generated using the analyzed genome and the closest Reference and Representative genomes
+   * References - citations to all tools used by the service
+   
+   
+   
+
+
+
+
+
