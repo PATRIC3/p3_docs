@@ -99,6 +99,8 @@ The workspace folder where results will be placed.
 Name used to uniquely identify results.
 
 ## Output Results
+![Comprehensive Genome Analysis Output Files](../images/cga_service_output_files.png) 
+
 The Comprehensive Genome Analysis Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
  * **FullGenomeReport.html:** A web-browser-viewable report that summarizes the results of the service including 
