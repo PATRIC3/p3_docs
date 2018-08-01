@@ -4,11 +4,6 @@
     "img": "https://docs.patricbrc.org/_static/announcements/cga-webinar.png",
     "link": "https://docs.patricbrc.org/news/2018/20180808-comprehensive-genome-analysis-webinar.html"
 },{
-    "title": "Webinar – Genome Assembly via CLI",
-    "desc": "On July 19th at 3pm ET, PATRIC will host a webinar demonstrates this capability using the PATRIC Command Line Interface (CLI)",
-    "img": "https://docs.patricbrc.org/_images/webinar_cli.png",
-    "link": "https://docs.patricbrc.org/news/2018/20180628-assembly-cli-webinar.html"
-},{
     "title": "PATRIC May Data and Website Release",
     "desc": "This PATRIC release includes a new Comprehensive Genome Analysis Service, a new homepage design, Genome-Sharing capability, and over 13,000 new genomes.",
     "img": "https://docs.patricbrc.org/_static/announcements/homepage.png",
