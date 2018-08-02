@@ -337,39 +337,19 @@ b.  The original pop-up window will appear. Find the name of the new
 
 **References**
 
-1\. Kodama, Y., M. Shumway, and R. Leinonen, *The Sequence Read Archive:
-explosive growth of sequencing data.* Nucleic acids research, 2012.
-**40**(D1): p. D54-D56.2. Nikolenko, S.I., A.I. Korobeynikov, and M.A.
-Alekseyev, *BayesHammer: Bayesian clustering for error correction in
-single-cell sequencing.* BMC genomics, 2013. **14**(1): p. S7.3.
-Zerbino, D.R. and E. Birney, *Velvet: algorithms for de novo short read
-assembly using de Bruijn graphs.* Genome research, 2008. **18**(5): p.
-821-829.4. Peng, Y., et al. *IDBA--a practical iterative de Bruijn graph
-de novo assembler*. in *Annual international conference on research in
-computational molecular biology*. 2010. Springer.5. Li, D., et al.,
-*MEGAHIT: an ultra-fast single-node solution for large and complex
-metagenomics assembly via succinct de Bruijn graph.* Bioinformatics,
-2015. **31**(10): p. 1674-1676.6. Antipov, D., et al., *plasmidSPAdes:
-assembling plasmids from whole genome sequencing data.* bioRxiv, 2016:
-p. 048942.7. Namiki, T., et al., *MetaVelvet: an extension of Velvet
-assembler to de novo metagenome assembly from short sequence reads.*
-Nucleic acids research, 2012. **40**(20): p. e155-e155.8. Clark, S., et
-al., *ALE: a generic assembly likelihood evaluation framework for
-assessing the accuracy of genome and metagenome assemblies.*
-Bioinformatics, 2013: p. bts723.9. Vicedomini, R., et al., *GAM-NGS:
-genomic assemblies merger for next generation sequencing.* BMC
-bioinformatics, 2013. **14**(7): p. S6.10. Li, H., *Minimap and miniasm:
-fast mapping and de novo assembly for noisy long sequences.*
-Bioinformatics, 2016. **32**(14): p. 2103-2110.11. Overbeek, R., et al.,
-*The SEED and the Rapid Annotation of microbial genomes using Subsystems
-Technology (RAST).* Nucleic Acids Res, 2014. **42**(Database issue): p.
-D206-14.12. Ondov, B.D., et al., *Mash: fast genome and metagenome
-distance estimation using MinHash.* Genome biology, 2016. **17**(1): p.
-132.13. Davis, J.J., et al., *PATtyFams: Protein Families for the
-Microbial Genomes in the PATRIC Database.* Front Microbiol, 2016. **7**:
-p. 118.14. Edgar, R.C., *MUSCLE: multiple sequence alignment with high
-accuracy and high throughput.* Nucleic acids research, 2004. **32**(5):
-p. 1792-1797.15. Stamatakis, A., *RAxML version 8: a tool for
-phylogenetic analysis and post-analysis of large phylogenies.*
-Bioinformatics, 2014. **30**(9): p. 1312-1313.
+1.	Kodama, Y., M. Shumway, and R. Leinonen, The Sequence Read Archive: explosive growth of sequencing data. Nucleic acids research, 2012. 40(D1): p. D54-D56.
+2.	Nikolenko, S.I., A.I. Korobeynikov, and M.A. Alekseyev, BayesHammer: Bayesian clustering for error correction in single-cell sequencing. BMC genomics, 2013. 14(1): p. S7.
+3.	Zerbino, D.R. and E. Birney, Velvet: algorithms for de novo short read assembly using de Bruijn graphs. Genome research, 2008. 18(5): p. 821-829.
+4.	Peng, Y., et al. IDBA–a practical iterative de Bruijn graph de novo assembler. in Annual international conference on research in computational molecular biology. 2010. Springer.
+5.	Li, D., et al., MEGAHIT: an ultra-fast single-node solution for large and complex metagenomics assembly via succinct de Bruijn graph. Bioinformatics, 2015. 31(10): p. 1674-1676.
+6.	Antipov, D., et al., plasmidSPAdes: assembling plasmids from whole genome sequencing data. bioRxiv, 2016: p. 048942.
+7.	Namiki, T., et al., MetaVelvet: an extension of Velvet assembler to de novo metagenome assembly from short sequence reads. Nucleic acids research, 2012. 40(20): p. e155-e155.
+8.	Clark, S., et al., ALE: a generic assembly likelihood evaluation framework for assessing the accuracy of genome and metagenome assemblies. Bioinformatics, 2013: p. bts723.
+9.	Vicedomini, R., et al., GAM-NGS: genomic assemblies merger for next generation sequencing. BMC bioinformatics, 2013. 14(7): p. S6.
+10.	Li, H., Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences. Bioinformatics, 2016. 32(14): p. 2103-2110.
+11.	Overbeek, R., et al., The SEED and the Rapid Annotation of microbial genomes using Subsystems Technology (RAST). Nucleic Acids Res, 2014. 42(Database issue): p. D206-14.
+12.	Ondov, B.D., et al., Mash: fast genome and metagenome distance estimation using MinHash. Genome biology, 2016. 17(1): p. 132.
+13.	Davis, J.J., et al., PATtyFams: Protein Families for the Microbial Genomes in the PATRIC Database. Front Microbiol, 2016. 7: p. 118.
+14.	Edgar, R.C., MUSCLE: multiple sequence alignment with high accuracy and high throughput. Nucleic acids research, 2004. 32(5): p. 1792-1797.
+15.	Stamatakis, A., RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies. Bioinformatics, 2014. 30(9): p. 1312-1313.
 
