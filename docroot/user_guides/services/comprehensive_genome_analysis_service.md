@@ -111,7 +111,8 @@ The Comprehensive Genome Analysis Service generates several files that are depos
    * Subsystem analysis - summary
    * Phylogenetic analysis - phylogenetic tree generated using the analyzed genome and the closest Reference and Representative genomes
    * References - citations to all tools used by the service
-   
+ * **annotated.genome:** A special "Genome Typed Object (GTO)" JSON-format file that encapsulates all the data from the annotated genome. See [Extracting and Mining Genome Typed Objects](https://docs.patricbrc.org/cli_tutorial/cli_getting_started.html#extracting-and-mining-genome-typed-objects-gtos) for more information.   
+  
    
    
 
