@@ -23,7 +23,6 @@ Genomics
    phylogenetic_tree_building/tree_building.md
    metagenomic_binning/metagenomic_binning
    metagenomic_binning/metagenomic_output
-   submitting-the-comprehensive-genome-analysis-job/comprehensive-genome-analysis.md
 
 
 Transcriptomics
