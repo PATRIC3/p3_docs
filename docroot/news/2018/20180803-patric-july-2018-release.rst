@@ -25,5 +25,8 @@ New Website Features:
 
 **Bacteriophage Resource**
 
-PATRIC now has bacteriophage genome data and related functionalty. Included are 4,722 phage genomes from GenBank, annotated using PATRIC’s phage-specific annotation service. Phage group-specific protein families have been constructed to support comparative analysis. The `Similar Genome Finder Service<https://patricbrc.org/app/GenomeDistance>`_ can be used to identify similar genomes and phage genes and proteins cam be searched using the new phage-specific `BLAST<https://patricbrc.org/app/BLAST>`_ databases.  All phages and related data are accessible from the PATRIC homepage, `here<https://patricbrc.org/view/Taxonomy/10239>`_.  
+PATRIC now has bacteriophage genome data and related functionalty. Included are 4,722 phage genomes from GenBank, annotated using PATRIC’s phage-specific annotation service. Phage group-specific protein families have been constructed to support comparative analysis. The `Similar Genome Finder Service
+<https://patricbrc.org/app/GenomeDistance>`_ can be used to identify similar genomes and phage genes and proteins cam be searched using the new phage-specific `BLAST
+<https://patricbrc.org/app/BLAST>`_ databases.  All phages and related data are accessible from the PATRIC homepage, `here
+<https://patricbrc.org/view/Taxonomy/10239>`_.  
 
