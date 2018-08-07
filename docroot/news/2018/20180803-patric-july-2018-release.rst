@@ -7,6 +7,7 @@ PATRIC July 2018 Data and Website Release
    :date: 2018-08-03
 
 This PATRIC release includes a new Bacteriophage resource including over 4700 phage genomes, over 5000 new *Salmonella enterica* genomes with AMR panel data, over 9600 additional new bacterial and archeal genomes, updated protein functions and families, updated subsystems and AMR genes.
+
 .. cut::
 
 
