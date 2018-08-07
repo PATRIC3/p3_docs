@@ -1,13 +1,12 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2018/20180531-patric-may-2018-release.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2018/20180803-patric-july-2018-release.rst
 
-PATRIC May 2018 Data and Website Release
+PATRIC July 2018 Data and Website Release
 ==============================================
 
 .. feed-entry::
-   :date: 2018-05-31
+   :date: 2018-08-03
 
-This PATRIC release includes a new Comprehensive Genome Analysis Service, new Website Homepage, Genome-Sharing capability, and over 13,000 new genomes.
-
+This PATRIC release includes a new Bacteriophage resource including over 4700 phage genomes, over 5000 new *Salmonella enterica* genomes with AMR panel data, over 9600 additional new bacterial and archeal genomes, updated protein functions and families, updated subsystems and AMR genes.
 .. cut::
 
 
@@ -16,7 +15,7 @@ Data Updates:
 
 **New Genomes**
 
-In this release, PATRIC has added over 13,000 new genomes and associated metadata, bringing the total number of genomes and plasmids to over 164,000. The full list of available microbial and host genomes can be accessed `here
+In this release, PATRIC has added over 15,000 new genomes and associated metadata, bringing the total number of genomes and plasmids to over 177,000. Included are 9691 new bacterial and archeal genome from GenBank and 5278 new *Salmonella enterica* genomes from the FDA that have AMR panel data. The *Salmonella* genomes were assembled and annotated by PATRIC.  The full list of available microbial and host genomes can be accessed `here
 <https://www.patricbrc.org/view/GenomeList/?or(keyword(Bacteria),keyword(Archaea),keyword(Eukaryota))#view_tab=genomes>`__.
 
 
