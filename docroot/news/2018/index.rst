@@ -4,6 +4,7 @@ Archives 2018
 .. toctree::
    :maxdepth: 1
 
+   20180803-patric-july-2018-release.rst
    20180808-comprehensive-genome-analysis-webinar
    20180628-assembly-cli-webinar
    20180531-patric-may-2018-release
