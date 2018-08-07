@@ -7,13 +7,14 @@ Introduction
 
 Genome quality analysis is automatically performed when :doc:`/tutorial/metagenomic_binning/metagenomic_binning`
 or :doc:`/tutorial/genome_annotation/annotation`. You can also manually perform quality analysis
-on an existing PATRIC genome using the ``p3-eval-genome`` script of the :doc:`/cli_tutorial/index`
+on an existing PATRIC genome using the ``p3-eval-genome`` script of the :doc:`/cli_tutorial/index`. Noate that the quality
+tools only work on genomes annotated using the PATRIC RAST service.
 
 The genome quality tools look at the functional roles present in an annotated genome to determine if the genome looks correct.
 Two separate mechanisms are used to predict the number of times each role should be found in the genome. A role is *good* if it
 occurs the predicted number of times; otherwise it is *problematic*.
 
-The first quality tool (**EvalG**) checks the *completeness* and *contamination* of the genome using the
+The first quality tool (**EvalG**) checks the *completeness* and *contamination* of the genome using a re-implementation of the
 `checkM algorithm <http://genome.cshlp.org/content/early/2015/05/14/gr.186072.114>`__ described
 in the paper
 
@@ -23,17 +24,18 @@ in the paper
         1043-1055.
 
 EvalG identifies *universal roles* that are expected to occur exactly once in all genomes
-of a particular taxonomic grouping. Missing roles indicate less completeness; extra roles indicate contamination.
+of a particular taxonomic grouping. Missing roles indicate the genoem is less complete; extra roles indicate the genome may be
+contaminated.
 
 The second quality tool (**EvalCon**) checks the *consistency* of the genome annotation. Over 1300 roles that have a predictable relationship
 to other roles were identified by a machine learning process. EvalCon determines how many instances of each role
 are expected given the list of other roles in the genome. If a role in the genome is unexpected, or an expected role is missing,
-this is considered *coarse inconsistency*. If a role occurs a different number of times than the expectation, this is
+this is considered *coarse inconsistency*. If a role occurs a different number of times than predicted, this is
 *fine inconsistency*.
 
-The four numbers-- *completeness*, *contamination*, *coarse consistency*, and *fine consistency*-- express the quality of the
-genome. The tools tell us not only the numbers, but also identify the problematic roles that occur the wrong number of times.
-All of this is summarized in the Quality Report web page. The web page is divided into three sections-- the `Summary Section`_ that
+The four numbers-- *completeness*, *contamination*, *coarse consistency*, and *fine consistency*-- express measures of the quality of the
+genome. **EvalG** and **EvalCon** tell us not only the numbers, but also identify the problematic roles that occur an unexpected number of times.
+The preceding are summarized in the Quality Report web page. The report is divided into three sections-- the `Summary Section`_ that
 describes the genome itself, the `Problematic Roles Report`_ that lists the roles whose expected and actual occurrence numbers
 do not match, and the `Contig Report`_ that lists the contigs containing problematic roles.
 
@@ -62,13 +64,13 @@ Reference Genomes:
     in rare circumstances. The reference genomes are always public PATRIC genomes, and the links lead to each genome's main page.
 
 Coarse Consistency:
-    This is the percentage of roles whose presence or absence was correctly predicted by EvalCon. A higher number indicates the genome is more
-    consistent. A lower number means the genome is less consistent.
+    This is the percentage of roles whose presence or absence was correctly predicted by EvalCon. A higher number indicates the genome annotation
+    is more self-consistent. A lower number means the genome annotation is less self-consistent.
 
 Fine Consistency:
     This is the percentage of roles whose exact number of occurrences was correctly predicted by EvalCon. A higher number indicates the genome is
-    more consistent. A lower number means the genome is less consistent. This number is always less than the coarse consistency. The roles whose
-    numbers did not match will all appear in the `Problematic Roles Report`_.
+    more self-consistent. A lower number means the genome is less self-consistent. This number is always less than or equal to the coarse consistency.
+    The roles whose predicted and actual numbers did not match will all appear in the `Problematic Roles Report`_.
 
 Completeness:
     This is the percentage of universal roles that appeared in the genome. A higher number indicates the genome is more complete. A lower number
@@ -77,16 +79,16 @@ Completeness:
 
 Contamination:
     This is an estimate of the percentage of the genome's DNA that does not belong, computed by locating universal roles that occur more than once.
-    A higher number indicates the genome is contaminated. A lower number indicates the genome is clean. Unlike the other three numbers, this one
+    A higher number indicates the genome is contaminated. A lower number indicates the genome is relativaely clean. Unlike the other three numbers, this one
     is better when it is lower. The roles with extra occurrences will be listed in the `Problematic Roles Report`_ with the notation **Universal Role**.
-    If the genome is not a Bacteria or Archaea, this number will always be 0.
+    If the genome is not a Bacteria or Archaea, this number will always be 100.
 
 Evaluation Group:
     This is the taxonomic grouping that was used by EvalG to determine the universal roles. The smaller this grouping, the more accurate the completeness
     and contamination will be.
 
 Contig Count:
-    The number of contigs in the genome. A lower number indicates a better-quality assembly.
+    The number of contigs in the genome. For a given assembly size, a lower number indicates a better-quality assembly.
 
 DNA size (bp):
     The number of base pairs in the genome. This number provides context for the N50.
@@ -124,13 +126,13 @@ Role:
     :doc:`/user_guides/organisms_taxon/features`.
 
 Predicted Count:
-    The number of features implementing the role as predicted by the quality tools.
+    The number of features implementing the role, as predicted by the quality tools.
 
 Annotated Count:
-    The actual number of features annotated as implementing the roles.
+    The actual number of features annotated as implementing the given role.
 
 Feature Link:
-    A link for viewing the features implementing the role. If there are none, no link will be present. If there is a single feature implementing the role,
+    A link for viewing the features implementing the role. If there are no such features, no link will be present. If there is a single feature implementing the role,
     the link will go to that feature's :doc:`/user_guides/organisms_gene/overview`. If there are multiple feature's implementing the role, the link will
     go to a :doc:`/user_guides/organisms_taxon/features` listing all the features.
 
@@ -168,9 +170,9 @@ You will also be told if the contig is short if 70% or more of the DNA is in lon
 .. image:: images/short_contig.JPG
 
 Our experience has shown that in genomes formed by binning metagenomic samples, short contigs are more likely to be placed in the wrong bin.
-Another indication of this is if there are no good roles in the contig; that is, all of the roles found for features in the contig were
-problematic roles. This is a much looser criterion than the short-contig rule, since many of the features in the contig may implement roles
-for which EvalG and EvalCon have no information.
+Another indication of contamination during binning is if there are no good roles in the contig; that is, all of the roles found for features
+in the contig were problematic roles. This is a much looser criterion than the short-contig rule, since many of the features in the contig may
+implement roles for which EvalG and EvalCon have no information.
 
 .. image:: images/no_good_contig.JPG
 
@@ -181,10 +183,11 @@ If the feature starts or ends near the edge of the contig, this is also noted in
 Advanced Comments When Reference Genomes Are Available
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-If a reference genome is available, the features implementing the role in the reference genome are extracted and compared. This can tell us when the quality tools are
-giving us a false negative. In the example below, EvalCon predicted a single occurrence of the *LSU ribosomal protein L31p*, but two were found. We see from the comments,
+If a reference genome is available, the features implementing the role in the reference genome are extracted and compared, which can tell us when the quality tools are
+giving us a false indication. In the example below, EvalCon predicted a single occurrence of the *LSU ribosomal protein L31p*, but two were found. We see from the comments,
 however, that two instances of the role were found in the reference genome as well, and each one is close to a different feature in our genome. This correspondence tells
-us that the role is very likely not a problem.
+us that the role is very likely not a problem. In this case, the genome being evaluated is an instance of Vibro haemolyticus, one of a few species that has two versions
+of `LSU ribosomal protein L31p`-- a version that is used when zinc is present and a version that is used when zinc is not present.
 
 .. image:: images/false_negative_double.JPG
 
@@ -207,7 +210,7 @@ first role is not present in the reference genome, so we presume it is not a pro
 
 .. image:: images/missing_one_on_one_off.JPG
 
-Sometimes an extra feature is present because a frame shift or an assembly has split the protein in two. In the next example, one *TolA protein* was expected, but two were
+Sometimes an extra feature is present because a frame shift or an assembly error has split a gene in two. In the next example, one *TolA protein* was expected, but two were
 found. One of them starts at the edge of a contig and the other ends at the edge of a contig. Only one implementation of the role was found in a reference genome, and it
 is close to one of the features.
 
