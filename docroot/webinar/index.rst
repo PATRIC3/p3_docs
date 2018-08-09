@@ -17,7 +17,7 @@ Upcoming Webinars
    :maxdepth: 1
    :caption: Recorded and Scheduled Webinars
    
-   comprehensive-genome-analysis
+   comprehensive_genome_analysis
    protein_family_sorter
    metagenomic_binning
    proteome_comparison
