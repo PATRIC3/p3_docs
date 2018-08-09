@@ -1,4 +1,4 @@
-# Recorded Webinar: Proteome Comparison Service
+# Recorded Webinar: Comprehensive Genome Analysis Service
 Starting with a set of reads, Use PATRIC's Comprehensive Genome Analysis Service to assemble, annotate, and provide summary analysis of the resulting annotated genome.
 
 ## Description
