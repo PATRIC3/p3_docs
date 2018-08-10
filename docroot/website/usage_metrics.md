@@ -1,6 +1,10 @@
 # PATRIC Metrics
  
 ## Website Traffic
+Pageviews and Sessions for the past 6 months:
+![Pageviews and Sessions](./images/pageviews_sessions_6_months.png)
+
+Unique Users and Pages/Visit for past 6 months:
 ![Pages and Users](./images/pages_users_6_months.png)
 
 ## Computational Service Jobs
