@@ -24,12 +24,9 @@ Past 6 months:
 ![Users 6 months](./images/users_6_months.png)
 
 
+## Analysis Service Jobs
 
-
-Unique Users and Pages/Session for past 6 months:
-
-## Computational Service Jobs
-
+![Service Jobs 6 months](./images/jobs_6_months.png)
 
 
 ## Cumulative Metrics
