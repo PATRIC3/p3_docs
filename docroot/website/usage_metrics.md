@@ -41,7 +41,7 @@ Past 6 months:
 
 [PATRIC Publications:](https://patricbrc.org/webpage/website/publications.html) **77**
 
-## PATRIC Workshops
+### PATRIC Workshops
 
 [PATRIC Workshops:](https://patricbrc.org/webpage/website/workshops.html) **62**
 
