@@ -6,18 +6,21 @@
 Last month: **149,086**
 
 Past 6 months:
+
 ![Pageviews 6 months](./images/pageviews_6_months.png)
 
 ### Sessions
 Last month: **15,808** 
 
 Past 6 months:
+
 ![Sessions 6 months](./images/sessions_6_months.png)
 
 ### Users
 Last month: 5,442
 
 Past 6 months:
+
 ![Users 6 months](./images/users_6_months.png)
 
 
