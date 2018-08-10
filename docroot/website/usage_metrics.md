@@ -39,16 +39,14 @@ Past 6 months:
 
 Publications That Cite PATRIC and RAST: **>7,700**
 
-[List of publications that cite PATRIC](https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1)
+[Publications that cite PATRIC:](https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1) **>7,700**
 
 PATRIC Publications: **77**
 
-[PATRIC Publications](https://patricbrc.org/webpage/website/publications.html)
+[PATRIC Publications:](https://patricbrc.org/webpage/website/publications.html) **77**
 
 ## PATRIC Workshops
 
-Total number of workshops: **62**
+[PATRIC Workshops:](https://patricbrc.org/webpage/website/workshops.html) **62**
 
 Total number of participants: **>1860**
-
-[PATRIC Workshops](https://patricbrc.org/webpage/website/workshops.html)
