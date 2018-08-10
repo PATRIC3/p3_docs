@@ -26,7 +26,7 @@ Past 6 months:
 
 ## Analysis Service Jobs
 
-Last month: 
+Last month: **6,470**
 
 Past 6 months:
 
