@@ -1,9 +1,13 @@
-# PATRIC Usage Metrics
+# PATRIC Metrics
+ 
+## Website usage
 
-## Website Traffic
+### Website Traffic
 
 
-## Computational Jobs
+### Computational Service Jobs
+
+## Cumulative Metrics
 
 
 ## Publications That Cite PATRIC and RAST
