@@ -1,19 +1,20 @@
 # PATRIC Metrics
  
 ## Website Traffic
+Pageviews and Sessions for the past 6 months:
+![Pageviews and Sessions](./images/pageviews_sessions_6_months.png)
+
 Pageviews last month: **149,086**
 
 Sessions last month: **15,808** 
 
-Pageviews and Sessions for the past 6 months:
-![Pageviews and Sessions](./images/pageviews_sessions_6_months.png)
+Unique Users and Pages/Session for past 6 months:
+![Pages and Users](./images/pages_users_6_months.png)
 
 Users last month: **5,442**
 
 Pages/Session last month: **9.4** 
 
-Unique Users and Pages/Session for past 6 months:
-![Pages and Users](./images/pages_users_6_months.png)
 
 ## Computational Service Jobs
 
