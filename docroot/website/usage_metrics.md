@@ -10,23 +10,16 @@ Last month: **149,086**
 ### Sessions
 Last month: **15,808** 
 
-Past 6 months:
-
 ![Sessions 6 months](./images/sessions_6_months.png)
 
 ### Users
 Last month: 5,442
 
-Past 6 months:
-
 ![Users 6 months](./images/users_6_months.png)
-
 
 ## Analysis Service Jobs
 
 Last month: **6,470**
-
-Past 6 months:
 
 ![Service Jobs 6 months](./images/analysis_jobs_6_months.png)
 
