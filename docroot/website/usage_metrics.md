@@ -37,11 +37,7 @@ Past 6 months:
 
 ### Citations and Publications
 
-Publications That Cite PATRIC and RAST: **>7,700**
-
-[Publications that cite PATRIC:](https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1) **>7,700**
-
-PATRIC Publications: **77**
+[Publications that cite PATRIC/RAST:](https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1) **>7,700**
 
 [PATRIC Publications:](https://patricbrc.org/webpage/website/publications.html) **77**
 
