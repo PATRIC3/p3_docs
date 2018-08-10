@@ -1,12 +1,11 @@
 # PATRIC Metrics
  
-## Website usage
+## Website Traffic
+![Pages and Users](./images/pages_users6_months)
+
+## Computational Service Jobs
 
 
-### Website Traffic
-
-
-### Computational Service Jobs
 
 ## Cumulative Metrics
 
