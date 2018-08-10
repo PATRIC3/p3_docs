@@ -1,7 +1,7 @@
 # PATRIC Metrics
  
 ## Website Traffic
-![Pages and Users](./images/pages_users6_months)
+![Pages and Users](./images/pages_users6_months.png)
 
 ## Computational Service Jobs
 
