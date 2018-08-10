@@ -5,8 +5,6 @@
 ### Pageviews
 Last month: **149,086**
 
-Past 6 months:
-
 ![Pageviews 6 months](./images/pageviews_6_months.png)
 
 ### Sessions
