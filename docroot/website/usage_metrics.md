@@ -26,7 +26,7 @@ Past 6 months:
 
 ## Analysis Service Jobs
 
-![Service Jobs 6 months](./images/jobs_6_months.png)
+![Service Jobs 6 months](./images/analysis_jobs_6_months.png)
 
 
 ## Cumulative Metrics
