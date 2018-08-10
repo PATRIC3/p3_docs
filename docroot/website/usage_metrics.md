@@ -2,16 +2,28 @@
  
 ## Website Traffic
 
-## Pageviews and Sessions
-Pageviews last month: **149,086**
-
-Sessions last month: **15,808** 
+### Pageviews
+Last month: **149,086**
 
 Past 6 months:
-![Pageviews and Sessions](./images/pageviews_sessions_6_months.png)
+![Pageviews 6 months](./images/pageviews_6_months.png)
+
+### Sessions
+Last month: **15,808** 
+
+Past 6 months:
+![Sessions 6 months](./images/sessions_6_months.png)
+
+### Users
+Last month: 5,442
+
+Past 6 months:
+![Users 6 months](./images/users_6_months.png)
+
+
+
 
 Unique Users and Pages/Session for past 6 months:
-![Pages and Users](./images/pages_users_6_months.png)
 
 ## Computational Service Jobs
 
