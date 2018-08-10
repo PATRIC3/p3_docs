@@ -1,6 +1,8 @@
 # PATRIC Metrics
  
 ## Website Traffic
+Pageviews last month: **149,086**
+Sessions last month: **15,808** 
 Pageviews and Sessions for the past 6 months:
 ![Pageviews and Sessions](./images/pageviews_sessions_6_months.png)
 
