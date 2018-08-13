@@ -3,16 +3,22 @@
 ## Website Traffic
 
 ### Pageviews
-6 Last month: **149,086**
+6-month total: **819,694**   
+
+Last month: **149,086**
 
 ![Pageviews 6 months](./images/pageviews_6_months.png)
 
 ### Sessions
+6-month total: **97,085**   
+
 Last month: **15,808** 
 
 ![Sessions 6 months](./images/sessions_6_months.png)
 
 ### Users
+6-month total: **35,484**   
+
 Last month: **5,442**
 
 ![Users 6 months](./images/users_6_months.png)
