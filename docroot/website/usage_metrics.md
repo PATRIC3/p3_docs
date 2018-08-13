@@ -16,7 +16,7 @@ Last month: **15,808**
 
 ![Sessions 6 months](./images/sessions_6_months.png)
 
-### Users
+### Unique Users
 6-month total: **35,484**   
 
 Last month: **5,442**
