@@ -2,6 +2,8 @@
 
 There are a variety of programs that can be used to assemble the reads that are produced from sequencing machines into contigs or chromosomes, but these can require an advanced programming ability that research biologists are sometimes lacking.  To meet this need PATRIC allows researchers to assemble short reads that are single or paired (typically from Illumina machines), and also long reads from PacBio or Nanopore [1] machines.   PATRIC provides several assembly tools and pipelines, the results of which are downloaded into a researcher’s private workspace.  Below is the methodology showing the assembly for single reads using the default assembly method.
 
+**Keywords:** Genome assembly, Bacterial genome assembly, Genome Assembly pipeline, Assembly service, Assembly server, De novo assembly, Contig assembly
+
 ##  Locating the Assembly Service App
 1. At the top of any PATRIC page, find the Services tab, and click on Assembly
 ![Step 1](./images/image1.png "Step 1")
