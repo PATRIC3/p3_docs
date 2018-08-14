@@ -1,4 +1,11 @@
-# Submitting a Comprehensive Genome Analysis job
+
+# Comprehensive Genome Analysis Service
+
+The Comprehensive Genome Analysis Service is a streamlined analysis "meta-service" that accepts raw genome reads and performs a comprehensive analysis including assembly, annotation, identification of nearest neighbors, a basic comparative analysis that includes a subsystem summary, phylogenetic tree, and the features that distinguish the genome from its nearest neighbors.
+
+**Keywords:** Genome analysis, Genome assembly, Genome annotation, Genome quality, Similar genomes, Comparative genomics, Phylogenetic tree, Genome Report.  
+
+## Submitting a Comprehensive Genome Analysis job
 
 1.  Finding the service.
 
