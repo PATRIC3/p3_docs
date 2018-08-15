@@ -4,6 +4,8 @@ The top-level Organisms Menu provides direct access to genus-level data for bact
 
 .. image:: ./images/organisms_menu.png
 
+Clicking on one of the menu items will display the corresponding taxon-level Overview page in PATRIC. From there, data are accessible at the taxon, genome, and feature levels, as described in the User Guides below. 
+
 Browsing PATRIC by Taxon
 -------------------------
 
