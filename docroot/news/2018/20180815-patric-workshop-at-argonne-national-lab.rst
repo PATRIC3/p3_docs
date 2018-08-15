@@ -80,7 +80,7 @@ Wednesday, October 24, 2018
    5:00 pm   Day 2 Adjourn 
 
 
-Wednesday, May 9, 2018
+Thursday, October 25, 2018
 ::
 
    9:00 am   Introduction to PATRIC Command Line Interface (CLI)
