@@ -1,4 +1,6 @@
 # BLAST Service
+
+## Overview
 The PATRIC BLAST service integrates the BLAST (Basic Local Aligment Search Tool) algorithms to perform searches against against public or private genomes in PATRIC or other reference databases using a DNA or protein sequence and find matching genomes, genes, RNAs, or proteins.  
 
 ### See also
