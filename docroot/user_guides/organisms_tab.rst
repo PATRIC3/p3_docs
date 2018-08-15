@@ -1,6 +1,6 @@
 Organisms
 ===========
-
+The top-level Organisms Menu in PATRIC provides direct access to genus-level data for bacteria corresponding to `NIAID's Priority Pathogens <https://www.niaid.nih.gov/research/emerging-infectious-diseases-pathogens>`_. It also provides direct access to summary-level data for all bacteria, archaea, phages, and eukaryotic hosts in PATRIC.
 
 Browsing PATRIC by Taxon
 -------------------------
