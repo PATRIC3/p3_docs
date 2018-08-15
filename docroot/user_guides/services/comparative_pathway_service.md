@@ -1,4 +1,6 @@
 # Comparative Pathway Service
+
+## Overview
 The Comparative Pathway Service allows users to identify a set of pathways based on taxonomy, EC number, pathway ID, pathway name and/or specific annotation type. 
 
 ### See also
