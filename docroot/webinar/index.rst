@@ -15,7 +15,7 @@ Upcoming Webinars
 
 .. toctree::
    :maxdepth: 1
-   :caption: Recorded and Scheduled Webinars
+   :caption: Recorded Webinars
    
    comprehensive_genome_analysis
    protein_family_sorter
