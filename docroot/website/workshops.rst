@@ -2,16 +2,16 @@ PATRIC Workshops
 ================
 PATRIC provides 1/2-day, up to 3-day, workshops to provide hands-on instruction in the use of PATRIC analysis tools and website features.  Workshops can be customized to focus on particular areas of analysis (e.g., assembly/annotation, comparative genomic analysis, gene expression analysis) or on organisms, biological systems, or data sets of interest to the participants. 
 
-PATRIC hosts two open workshops annually, usually at Argonne National Laboratory in the suburbs of Chicago, IL. The PATRIC team can also travel to an onsite location provided that the requesting host can draw at least 20 participants and provide an appropriate training room with fast Internet access. Note that all PATRIC workshops require pre-approval by our sponsor, NIAID, and are limited in number by available funds. International workshops require special permission.
+PATRIC hosts two open workshops annually, usually at Argonne National Laboratory in the suburbs of Chicago, IL. The PATRIC team can also travel to an onsite location provided that the requesting host can draw at least 20 participants and provide an appropriate training room with fast Internet access. Note that all PATRIC workshops require pre-approval by our sponsor, NIAID, and are limited in number by available funds. International workshops require special permission. To request a workshop, contact us at `help@patricbrc.org  
+<mailto:help@patricbrc.org>`_.
 
 The map below shows locations of past workshops and the tables following provide more detailed information on each workshop.
 
-
-
-
-
-
-
+.. image:: workshop_map.png
+    :width: 716px
+    :align: center
+    :height: 345px
+    :alt: Map of PATRIC workshops
 
 PATRIC 3
 --------
