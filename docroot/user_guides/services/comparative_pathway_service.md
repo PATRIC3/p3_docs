@@ -4,7 +4,8 @@
 The Comparative Pathway Service allows users to identify a set of pathways based on taxonomy, EC number, pathway ID, pathway name and/or specific annotation type. 
 
 ### See also
-  * [Comparing Pathways Across Genomes Tutorial](https://docs.patricbrc.org//tutorial/comparative_pathways/comparative_pathways.html)
+* [Comparative Pathway Service](https://patricbrc.org/app/ComparativePathway)
+* [Comparing Pathways Across Genomes Tutorial](https://docs.patricbrc.org//tutorial/comparative_pathways/comparative_pathways.html)
   * [Comparative Pathway Tool](../organisms_taxon/pathways.html)
 
 ## Using the Comparative Pathway Service
