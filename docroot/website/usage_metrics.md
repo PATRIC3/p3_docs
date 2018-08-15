@@ -1,5 +1,5 @@
 # PATRIC Metrics
-PATRIC monitors website traffic, analysis jobs, citations, publications, workshops, and other metrics to quantitatively measure usage of the resource and trends. Summaries of these key metrics are provided below. 
+PATRIC monitors website traffic, analysis jobs, citations, publications, workshops, and other metrics to quantitatively measure usage of the resource and identify trends. Summaries of these key metrics are provided below. 
 
 ## Website Traffic
 
