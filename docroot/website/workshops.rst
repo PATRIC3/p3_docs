@@ -19,35 +19,35 @@ PATRIC 3
 +----------------------------------------------+---------------+---------+--------------+
 | Institute/Conference                         | Location      | Date    | Participants |
 +==============================================+===============+=========+==============+
-| American Type Culture Collection (ATCC)      | Manassas,     | Jul-    |    34        |
-|                                              | VA            | 18      |              |
+| American Type Culture Collection (ATCC)      | Manassas,     | Jul '18 |    34        |
+|                                              | VA            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Virginia Tech Honors Course                  | Blacksburg,   | Jun-    |    8         |
-|                                              | VA            | 18      |              |
+| Virginia Tech Honors Course                  | Blacksburg,   | Jun '18 |    8         |
+|                                              | VA            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| ASM Microbe 2018                             | Atlanta, GA   | Jun-    |    34        |
-|                                              |               | 18      |              |
+| ASM Microbe 2018                             | Atlanta, GA   | Jun '18 |    34        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Argonne National Laboratory                  | Argonne, IL   | May-    |    25        |
-|                                              |               | 18      |              |
+| Argonne National Laboratory                  | Argonne, IL   | May '18 |    25        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Baylor College of Medicine                   | Houston, TX   | Mar-    |    37        |
-|                                              |               | 18      |              |
+| Baylor College of Medicine                   | Houston, TX   | Mar '18 |    37        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| University of California, San Diego          | San Diego, CA | Jan-    |    30        |
-|                                              |               | 18      |              |
+| University of California, San Diego          | San Diego, CA | Jan '18 |    30        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Argonne National Laboratory                  | Argonne, IL   | Nov-    |    34        |
-|                                              |               | 17      |              |
+| Argonne National Laboratory                  | Argonne, IL   | Nov '17 |    34        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Indo-US Workshop on Genomics and             | Faridabad,    | Sep-    |    25        |
-| Bioinformatics                               | India         | 17      |              |
+| Indo-US Workshop on Genomics and             | Faridabad,    | Sep '17 |    25        |
+| Bioinformatics                               | India         |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| International Conference for Systems Biology | Blacksburg,   | Aug-    |    8         |
-| (ISCB)                                       | VA            | 17      |              |
+| International Conference for Systems Biology | Blacksburg,   | Aug '17 |    8         |
+| (ISCB)                                       | VA            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Argonne National Laboratory                  | Argonne, IL   | Aug-    |    30        |
-|                                              |               | 17      |              |
+| Argonne National Laboratory                  | Argonne, IL   | Aug '17 |    30        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
 | Max Planck Institute of Marine Microbiology  | Bremen,       | Aug-    |    25        |
 |                                              | Germany       | 17      |              |
