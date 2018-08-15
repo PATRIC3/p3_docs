@@ -19,8 +19,8 @@ PATRIC 3
 +----------------------------------------------+---------------+---------+--------------+
 | Institute/Conference                         | Location      | Date    | Participants |
 +==============================================+===============+=========+==============+
-| American Type Culture Collection (ATCC)      | Manassas,     | Jul     |    34        |
-|                                              | VA            | 2018    |              |
+| American Type Culture Collection (ATCC)      | Manassas,     | Jul '18 |    34        |
+|                                              | VA            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
 | Virginia Tech Honors Course                  | Blacksburg,   | Jun '18 |    8         |
 |                                              | VA            |         |              |
@@ -49,89 +49,89 @@ PATRIC 3
 | Argonne National Laboratory                  | Argonne, IL   | Aug '17 |    30        |
 |                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Max Planck Institute of Marine Microbiology  | Bremen,       | Aug     |    25        |
-|                                              | Germany       | 2017    |              |
+| Max Planck Institute of Marine Microbiology  | Bremen,       | Aug '17 |    25        |
+|                                              | Germany       |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Universidad El Bosque                        | Bogotá,       | Aug-    |    35        |
-|                                              | Colombia      | 17      |              |
+| Universidad El Bosque                        | Bogotá,       | Aug '17 |    35        |
+|                                              | Colombia      |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Siriraj Medical Research Building (SiMR),    | Bangkok,      | Jul-    |    40        |
-| Siriraj Hospital, Mahidol University         | Thailand      | 17      |              |
+| Siriraj Medical Research Building (SiMR),    | Bangkok,      | Jul '17 |    40        |
+| Siriraj Hospital, Mahidol University         | Thailand      |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| University of Michigan                       | Ann Arbor, MI | Jul-    |    25        |
-|                                              |               | 17      |              |
+| University of Michigan                       | Ann Arbor, MI | Jul '17 |    25        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| ASM Microbe                                  | New Orleans   | Jun-    |    52        |
-|                                              |               | 17      |              |
+| ASM Microbe                                  | New Orleans   | Jun '17 |    52        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Virginia Tech Honors Course                  | Blacksburg,   | Jun-    |    8         |
-|                                              | VA            | 17      |              |
+| Virginia Tech Honors Course                  | Blacksburg,   | Jun '17 |    8         |
+|                                              | VA            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| GLBIO 2017                                   | Chicago, IL   | May-    |    20        |
-|                                              |               | 17      |              |
+| GLBIO 2017                                   | Chicago, IL   | May '17 |    20        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Sloan Kettering Cancer Center                | New York, NY  | May-    |    20        |
-|                                              |               | 17      |              |
+| Sloan Kettering Cancer Center                | New York, NY  | May '17 |    20        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| North Carolina State University              | Raleigh, NC   | Mar-    |    25        |
-|                                              |               | 17      |              |
+| North Carolina State University              | Raleigh, NC   | Mar '17 |    25        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Argonne National Laboratory                  | Argonne, IL   | Dec-    |    20        |
-|                                              |               | 16      |              |
+| Argonne National Laboratory                  | Argonne, IL   | Dec '16 |    20        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| TWAS-ROESEAP Workshop                        | Bangkok,      | Dec-    |    40        |
-|                                              | Thailand      | 16      |              |
+| TWAS-ROESEAP Workshop                        | Bangkok,      | Dec '16 |    40        |
+|                                              | Thailand      |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| University of Florida                        | Gainesville,  | Oct-    |    32        |
-|                                              | FL            | 16      |              |
+| University of Florida                        | Gainesville,  | Oct '16 |    32        |
+|                                              | FL            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Argonne National Laboratory                  | Argonne, IL   | Jul-    |    20        |
-|                                              |               | 16      |              |
+| Argonne National Laboratory                  | Argonne, IL   | Jul '16 |    20        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Biotechnology Educators Conference           | Blacksburg,   | Jul-    |    30        |
-|                                              | VA            | 16      |              |
+| Biotechnology Educators Conference           | Blacksburg,   | Jul '16 |    30        |
+|                                              | VA            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| ASM Microbe                                  | Boston, MA    | Jun-    |    64        |
-|                                              |               | 16      |              |
+| ASM Microbe                                  | Boston, MA    | Jun '16 |    64        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Sanford Burnham Prebys Medical Discovery     | San Diego, CA | May-    |    30        |
-| Institute                                    |               | 16      |              |
+| Sanford Burnham Prebys Medical Discovery     | San Diego, CA | May '16 |    30        |
+| Institute                                    |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| India International Center                   | New Delhi,    | Jan-    |    32        |
-|                                              | India         | 16      |              |
+| India International Center                   | New Delhi,    | Jan '16 |    32        |
+|                                              | India         |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| 2015 Brucellosis Conference                  | Chicago, IL   | Dec-    |    12        |
-|                                              |               | 15      |              |
+| 2015 Brucellosis Conference                  | Chicago, IL   | Dec '15 |    12        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| University of Nebraska Medical Center        | Omaha, NE     | Sep-    |    15        |
-|                                              |               | 15      |              |
+| University of Nebraska Medical Center        | Omaha, NE     | Sep '15 |    15        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Mayo Clinic                                  | Rochester, MN | Aug-    |    8         |
-|                                              |               | 15      |              |
+| Mayo Clinic                                  | Rochester, MN | Aug '15 |    8         |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Houston Methodist Research Institute         | Houston, TX   | Aug-    |    28        |
-|                                              |               | 15      |              |
+| Houston Methodist Research Institute         | Houston, TX   | Aug '15 |    28        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| University of Florida                        | Gainesville,  | Jul-    |    35        |
-|                                              | FL            | 15      |              |
+| University of Florida                        | Gainesville,  | Jul '15 |    35        |
+|                                              | FL            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| San Diego State University                   | San Diego, CA | Jul-    |    22        |
-|                                              |               | 15      |              |
+| San Diego State University                   | San Diego, CA | Jul '15 |    22        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Biotechnology Educators Conference           | Blacksburg,   | Jul-    |    37        |
-|                                              | VA            | 15      |              |
+| Biotechnology Educators Conference           | Blacksburg,   | Jul '15 |    37        |
+|                                              | VA            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| University of Chicago/ANL                    | Argonne, IL   | Jun-    |    20        |
-|                                              |               | 15      |              |
+| University of Chicago/ANL                    | Argonne, IL   | Jun '15 |    20        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| China (3 workshops)                          | Beijing,      | Jun-    |    130       |
-|                                              | Shanghai      | 15      |              |
+| China (3 workshops)                          | Beijing,      | Jun '15 |    130       |
+|                                              | Shanghai      |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Virginia Tech Research Center                | Arlington, VA | May-    |    15        |
-|                                              |               | 15      |              |
+| Virginia Tech Research Center                | Arlington, VA | May '15 |    15        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| ISCB-Latin America X-Meeting in              | Belo          | Oct-    |    40        |
-| Bioinformatics1                              | Horizonte,    | 14      |              |
+| ISCB-Latin America X-Meeting in              | Belo          | Oct '14 |    40        |
+| Bioinformatics1                              | Horizonte,    |         |              |
 |                                              | Brazil        |         |              |
 +----------------------------------------------+---------------+---------+--------------+
 
