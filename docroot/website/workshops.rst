@@ -177,40 +177,40 @@ PATRIC 2
 | Seattle Biomed                               | Seattle, WA   | Feb '13 |    52        |
 |                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Pacific Northwest National Laboratory (PNNL) | Richland, WA  | Feb-    |    12        |
-|                                              |               | 13      |              |
+| Pacific Northwest National Laboratory (PNNL) | Richland, WA  | Feb '13 |    12        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Louisiana State University National Hansens  | Baton Rouge,  | Jan-    |    38        |
-| Disease (Leprosy) Clinical Center            | LA            | 13      |              |
+| Louisiana State University National Hansens  | Baton Rouge,  | Jan '13 |    38        |
+| Disease (Leprosy) Clinical Center            | LA            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Brucellosis 2012 (65th) International        | Chicago, IL   | Dec-    |    50        |
-| Research Conference                          |               | 12      |              |
+| Brucellosis 2012 (65th) International        | Chicago, IL   | Dec '12 |    50        |
+| Research Conference                          |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Global Consortium for Drug-resistant TB      | Web-based     | Nov-    |    28        |
-| Diagnostics                                  | workshop      | 12      |              |
+| Global Consortium for Drug-resistant TB      | Web-based     | Nov '12 |    28        |
+| Diagnostics                                  | workshop      |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| University of North Carolina, Duke           | Durham, NC    | Oct-    |    50        |
-| University, North Carolina State             |               | 12      |              |
+| University of North Carolina, Duke           | Durham, NC    | Oct '12 |    50        |
+| University, North Carolina State             |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Albert Einstein School of Medicine           | Bronx, NY     | Jun-    |    29        |
-|                                              |               | 12      |              |
+| Albert Einstein School of Medicine           | Bronx, NY     | Jun '12 |    29        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Tuberculosis Community Annotation Annotation | Arlington, VA | Mar-    |    20        |
-| Project (TBCAP) Jamboree                     |               | 12      |              |
+| Tuberculosis Community Annotation Annotation | Arlington, VA | Mar '12 |    20        |
+| Project (TBCAP) Jamboree                     |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Texas A&M College of Medicine Health Science | College       | Feb-    |    53        |
-| Center                                       | Station, TX   | 12      |              |
+| Texas A&M College of Medicine Health Science | College       | Feb '12 |    53        |
+| Center                                       | Station, TX   |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| VT Genomics, Bioinformatics, and             | Blacksburg,   | Oct-    |    24        |
-| Computational Biology (GBCB) graduate        | VA            | 11      |              |
+| VT Genomics, Bioinformatics, and             | Blacksburg,   | Oct '11 |    24        |
+| Computational Biology (GBCB) graduate        | VA            |         |              |
 | program                                      |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| UC Davis                                     | Davis, CA     | Apr-    |    16        |
-|                                              |               | 11      |              |
+| UC Davis                                     | Davis, CA     | Apr '11 |    16        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| NIAID Office of Cyberinfrastructure and      | Bethesda, MD  | Feb-    |    16        |
-| Computational Biology (OCICB)                |               | 11      |              |
+| NIAID Office of Cyberinfrastructure and      | Bethesda, MD  | Feb '11 |    16        |
+| Computational Biology (OCICB)                |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| XX Latin-American Meeting on Microbiology    | Montevideo,   | Sep-    |    50        |
-|                                              | Uruguay       | 10      |              |
+| XX Latin-American Meeting on Microbiology    | Montevideo,   | Sep '10 |    50        |
+|                                              | Uruguay       |         |              |
 +----------------------------------------------+---------------+---------+--------------+
