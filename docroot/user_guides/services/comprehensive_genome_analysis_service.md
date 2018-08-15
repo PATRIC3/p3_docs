@@ -4,9 +4,11 @@
 The Comprehensive Genome Analysis Service provides a streamlined analysis **"meta-service"** that accepts raw reads and performs a comprehensive analysis including assembly, annotation, identification of nearest neighbors, a basic comparative analysis that includes a subsystem summary, phylogenetic tree, and the features that distinguish the genome from its nearest neighbors.
 
 ### See also
-  * [Genome Assembly Service](./genome_assembly_service.html)
-  * [Genome Annotation Service](./genome_annotation_service.html)
-  * [Phylogenetic Tree Building Service](./phylogenetic_tree_building_service.html)
+  * [Comprehensive Genome Analysis Service](https://patricbrc.org/app/ComprehensiveGenomeAnalysis)
+  * [Comprehensive Genome Analysis Service Tutorial](https://docs.patricbrc.org//tutorial/comprehensive-genome-analysis/comprehensive-genome-analysis.html)
+  * [Genome Assembly Service User Guide](./genome_assembly_service.html)
+  * [Genome Annotation Service User Guide](./genome_annotation_service.html)
+  * [Phylogenetic Tree Building Service User Guide](./phylogenetic_tree_building_service.html)
 
 
 ## Using the Comprehensive Genome Analysis Service
