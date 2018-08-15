@@ -19,8 +19,8 @@ PATRIC 3
 +----------------------------------------------+---------------+---------+--------------+
 | Institute/Conference                         | Location      | Date    | Participants |
 +==============================================+===============+=========+==============+
-| American Type Culture Collection (ATCC)      | Manassas,     | Jul '18 |    34        |
-|                                              | VA            |         |              |
+| American Type Culture Collection (ATCC)      | Manassas,     | Jul     |    34        |
+|                                              | VA            | 2018    |              |
 +----------------------------------------------+---------------+---------+--------------+
 | Virginia Tech Honors Course                  | Blacksburg,   | Jun '18 |    8         |
 |                                              | VA            |         |              |
@@ -49,8 +49,8 @@ PATRIC 3
 | Argonne National Laboratory                  | Argonne, IL   | Aug '17 |    30        |
 |                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Max Planck Institute of Marine Microbiology  | Bremen,       | Aug-    |    25        |
-|                                              | Germany       | 17      |              |
+| Max Planck Institute of Marine Microbiology  | Bremen,       | Aug     |    25        |
+|                                              | Germany       | 2017    |              |
 +----------------------------------------------+---------------+---------+--------------+
 | Universidad El Bosque                        | Bogotá,       | Aug-    |    35        |
 |                                              | Colombia      | 17      |              |
