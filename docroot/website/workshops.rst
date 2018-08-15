@@ -7,7 +7,7 @@ PATRIC hosts two open workshops annually, usually at Argonne National Laboratory
 
 The map below shows locations of past workshops and the tables following provide more detailed information on each workshop.
 
-.. image:: workshop_map.png
+.. image:: ./images/workshop_map.png
     :width: 716px
     :align: center
     :height: 345px
