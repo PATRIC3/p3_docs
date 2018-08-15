@@ -141,41 +141,41 @@ PATRIC 2
 +----------------------------------------------+---------------+---------+--------------+
 | Institute/Conference                         | Location      | Date    | Participants |
 +==============================================+===============+=========+==============+
-| Nestle Institute of Health Sciences          | Lausanne,     | May-    |    25        |
-|                                              | Switzerland   | 14      |              |
+| Nestle Institute of Health Sciences          | Lausanne,     | May '14 |    25        |
+|                                              | Switzerland   |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| University of Montpellier                    | Montpellier,  | May-    |    25        |
-|                                              | France        | 14      |              |
+| University of Montpellier                    | Montpellier,  | May '14 |    25        |
+|                                              | France        |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| University of Chicago                        | Chicago, IL   | May-    |    33        |
-|                                              |               | 14      |              |
+| University of Chicago                        | Chicago, IL   | May '14 |    33        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Weill Cornell Medical College                | New York, NY  | Feb-    |    28        |
-|                                              |               | 14      |              |
+| Weill Cornell Medical College                | New York, NY  | Feb '14 |    28        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Albert Einstein College of Medicine          | New York, NY  | Feb-    |    15        |
-|                                              |               | 14      |              |
+| Albert Einstein College of Medicine          | New York, NY  | Feb '14 |    15        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| K-RITH                                       | Durban, South | Sep-    |    30        |
-|                                              | Africa        | 13      |              |
+| K-RITH                                       | Durban, South | Sep '13 |    30        |
+|                                              | Africa        |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Centers for Disease Control (CDC)            | Atlanta, GA   | Jul-    |    29        |
-|                                              |               | 13      |              |
+| Centers for Disease Control (CDC)            | Atlanta, GA   | Jul '13 |    29        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| NIH Office of Cyberinfrastructure and        | Bethesda, MD  | Apr-    |    22        |
-| Computational Biology (OCICB)                |               | 13      |              |
+| NIH Office of Cyberinfrastructure and        | Bethesda, MD  | Apr '13 |    22        |
+| Computational Biology (OCICB)                |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Colorado State University (CSU)              | Fort Collins, | Apr-    |    57        |
-|                                              | CO            | 13      |              |
+| Colorado State University (CSU)              | Fort Collins, | Apr '13 |    57        |
+|                                              | CO            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Virginia Bioinformatics Institute (VBI) of   | Blacksburg,   | Mar-    |    29        |
-| Virginia Tech (VT)                           | VA            | 13      |              |
+| Virginia Bioinformatics Institute (VBI) of   | Blacksburg,   | Mar '13 |    29        |
+| Virginia Tech (VT)                           | VA            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Johns Hopkins University (JHU)               | Baltimore, MD | Mar-    |    24        |
-|                                              |               | 13      |              |
+| Johns Hopkins University (JHU)               | Baltimore, MD | Mar '13 |    24        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Seattle Biomed                               | Seattle, WA   | Feb-    |    52        |
-|                                              |               | 13      |              |
+| Seattle Biomed                               | Seattle, WA   | Feb '13 |    52        |
+|                                              |               |         |              |
 +----------------------------------------------+---------------+---------+--------------+
 | Pacific Northwest National Laboratory (PNNL) | Richland, WA  | Feb-    |    12        |
 |                                              |               | 13      |              |
