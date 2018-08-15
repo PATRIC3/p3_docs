@@ -3,6 +3,9 @@
 ## Overview
 The ID Mapper tool maps PATRIC identifiers to those from other prominent external databases such as GenBank, RefSeq, EMBL, UniProt, KEGG, etc. Alternatively, it can map a list of external database identifiers to the corresponding PATRIC features. 
 
+### See also
+* [ID Mapper Service](https://patricbrc.org/app/IDMapper)
+
 ## ID Mapping Sources
   * First, PATRIC CDSs (protein coding genes) are mapped to
     corresponding CDSs in RefSeq/GenBank by matching their stop position
