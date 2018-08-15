@@ -59,25 +59,23 @@ Wednesday, October 24, 2018
 
    9:00 am   BLAST at PATRIC
 
-   9:45 am   Similar Genome Finder Service
+   9:30 am   RNA-Seq Pipeline, Downloading Data into PATRIC and Differential Expression
 
   10:00 am   Break
 
-  10:15 am   RNA-Seq Pipeline, Downloading Data into PATRIC and Differential Expression
+  10:15 am   Expression Data Import Service
 
-  11:15 am   Expression Data Import Service
+  10:45 pm   Comparative Transcriptomics: Exploring Public and Private Expression Data in PATRIC
 
   12:00 pm   Lunch
 
-   1:00 pm   Comparative Transcriptomics: Exploring Public and Private Expression Data
+   1:00 pm   SNP and MNP Variation service
 
-   2:00 pm   SNP and MNP Variation service
+   2:00 pm   Metagenome Binning Service
 
-   3:00 pm   Metagenome Binning Service
+   3:00 pm   Building a Metabolic Model
 
-   3:30 pm   Building a Metabolic Model
-
-   4:30 pm   Question and Answer Session and Hands-on Work
+   4:00 pm   Question and Answer Session and Hands-on Work
 
    5:00 pm   Day 2 Adjourn 
 
