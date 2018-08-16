@@ -1,5 +1,10 @@
 Data
 =====
+The top-level Data Menu provides direct access to data sets by type or special grouping in PATRIC.
+
+.. image:: ./images/data_menu.png
+
+Clicking on one of the menu items will display the corresponding summary-level page in PATRIC, as described below. 
 
 Data Types
 -----------

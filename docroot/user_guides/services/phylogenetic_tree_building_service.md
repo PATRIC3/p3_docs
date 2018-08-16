@@ -4,7 +4,8 @@
 The Phylogenetic Tree Building Service enables construction of custom phylogenetic trees for up to 50 user-selected genomes. The service builds trees using conserved protein sequences, which is the same methodology used to build the public genus-level phylogenetic trees in the PATRIC website.The service returns a Newick file which can be downloaded or viewed in html or rendered in the interactive Phylogenetic Tree Viewer in PATRIC.
 
 ### See also
-  * [Building Phylogenetic Trees in PATRIC  Tutorial](https://docs.patricbrc.org//tutorial/phylogenetic_tree_building/tree_building.html)
+* [Phylogenetic Tree Building Service](https://patricbrc.org/app/PhylogeneticTree)
+* [Building Phylogenetic Trees in PATRIC  Tutorial](https://docs.patricbrc.org//tutorial/phylogenetic_tree_building/tree_building.html)
 
 ## Using the Phylogenetic Tree Building Service
 The **Phylogenetic Tree** submenu option under the **Services** main menu (Genomics category) opens the Phylogenetic Tree input form (*shown below*). *Note: You must be logged into PATRIC to use this service.*

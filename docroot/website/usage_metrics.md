@@ -1,5 +1,6 @@
 # PATRIC Metrics
- 
+PATRIC monitors website traffic, analysis jobs, citations, publications, workshops, and other metrics to quantitatively measure usage of the resource and identify trends. Summaries of these key metrics are provided below. 
+
 ## Website Traffic
 
 ### Pageviews
@@ -44,3 +45,9 @@ Last month: **6,470**
 [PATRIC Workshops:](https://patricbrc.org/webpage/website/workshops.html) **62**
 
 [Total number of participants:](https://patricbrc.org/webpage/website/workshops.html) **>1900**
+
+[Workshop locations:](https://patricbrc.org/webpage/website/workshops.html)
+
+![PATRIC workshop locations](./images/workshop_map.png)
+
+
