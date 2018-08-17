@@ -42,20 +42,23 @@ The workspace folder where results will be placed.
 ### Output Name
 Name used to uniquely identify results.
 
-### Paired read library
+## Paired read library
 
-#### Read File 1 & 2
+### Read File 1 & 2
 Many paired read libraries are given as file pairs, with each file containing half of each read pair. Paired read files are expected to be sorted such that each read in a pair occurs in the same Nth position as its mate in their respective files. These files are
 specified as READ FILE 1 and READ FILE 2. For a given file pair, the selection of which file is READ 1 and which is READ 2 does not matter. Click the arrow button (->) to move the files into the Selected Libraries to treat as a single RNA-Seq analysis.  See "Selected Libraries" description below. 
 
-#### Condition
+### Condition
 Dropdown list for selecting conditions to associate with the read files.  *Note:* The conditions are defined by the user in the Groups/Conditions section of the form (see below). The group/condition specified will be used to determine contrasts in the differential expression portion of the analysis. Each group will be compared to every other group in all vs. all fashion. Reads assigned to the same group will be used as replicates.
 
-### Groups/Conditions
+## Groups/Conditions
 Turning on Groups/Conditions also turns on differential expression analysis. In this panel the user has the ability to specify conditions that can be assigned to read libraries. When this option is enabled each read library moved to the "Selected libraries" panel must have a group designation. Read libraries assigned to different groups will be compared for differential expression in all vs. all fashion. Two or more read libraries marked with the same group will be regarded as replicates.
 
-### Selected libraries
+## Selected libraries
 Read files placed here will contribute to a single RNA-Seq analysis. If the Groups/Conditions option is turned on, read files placed into this table under the same group will be considered replicates.
+
+## Contrasts
+In development.
 
 ## Output Results
 ![RNA-Seq Service Output Files](../images/rna_seq_job_result.png) 
