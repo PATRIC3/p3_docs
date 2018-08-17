@@ -28,23 +28,11 @@ The tables include the following columns (fields) for each interaction, and are 
   * Experimental = identified by laboratory method
   * Computational = predicted by computational method 
 
-## Interactions Table Tools
-Within this table you may do the following:
-
-* **Download** the entire contents of the table in text, CSV, or Excel format by clicking the Download button above the table on the left side.
-* **Rearrange and narrow** the list of genomes in the table via sorting (using column headers), keywords (using the Keyword box), and filtering (using the Filters tool).
-
-### Filter Tool
-
-As with all tables in PATRIC, the Filters tool is available to narrow the display of the items in the table, show below:
-  
-![Interactions Filter Panel](../images/interactions_filter_panel_genome.png)
-
-Clicking on the Filters button at the top right of the table opens the Filter Panel above the table, displaying column names from the table and values for those columns with counts of occurence.  Clicking on the filter values narrows the genomes *displayed* in the table to those matching the chosen filter values.  Clicking the Hide button closes the Filter Panel.  Clicking the Apply button removes the non-matching genomes and *resets the scope* in the Taxonomic View to only the genomes matching the filter criteria. More details are available in the [Filter Tool](../other/filter_tool.html) user guide.
+## Interactions Table
 
 ### Action buttons
 
-After selecting one or more of the interactions by clicking the checkbox beside row on the left side of the table, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
+After selecting a feature by clicking the checkbox beside row on the left side of the table, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
 
 * **Hide/Show:** Toggles (hides) the right-hand side Details Pane.
 * **Download:**  Downloads the selected items (rows).
@@ -58,7 +46,7 @@ More details are available in the [Action Buttons](../other/action_buttons.html)
 ## Interactions Viewer
 Clicking the **Graph** option at the top left of the table displays the [Cytoscape](http://www.cytoscape.org/)-based Interactions Viewer. 
 
-![Interactions Viewer](../images/interactions_viewer.png)
+![Interactions Viewer](../images/interactions_viewer_feature.png)
 
 In the graph, proteins (interactors) are displayed as nodes and the interactions between the nodes are displayed as lines. Scrolling with the mouse zooms in/out in the graph.  Clicking and dragging with the mouse moves the graph in the display. Gene names, where available, are displayed on the nodes. Mousing over a node or line displays detailed information about that interactor/interaction. Clicking and dragging on a node moves it in the graph, allowing rearrangement for better visualization.
 
