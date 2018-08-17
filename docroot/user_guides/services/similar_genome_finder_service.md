@@ -29,9 +29,9 @@ Alternate option for uploading a FASTA file to use as the basis of comparison. *
 
 **Max Hits:** The maximum number of matching genomes to return. 
 
-**P-Value Threshold:** Cutoff threshold for p-value.
+**P-Value Threshold:** Sets the maximum allowable p-value associated with the [Mash](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4915045/) Jaccard estimate used in calculating the distance.
 
-**Distance:** Mash distance, which estimates the rate of sequence mutation under as simple evolutionary model using k-mers. 
+**Distance:**  Mash distance, which estimates the rate of sequence mutation under as simple evolutionary model using k-mers. The Distance parameter sets the maximum Mash distance to include in the Similar Genome Finder Service results. Mash distances are probabilistic estimates associated with p-values. 
 
 **Scope:** Option for limiting the search to only Reference and Representative genomes, or all genomes in PATRIC.
 
