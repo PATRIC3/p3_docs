@@ -50,8 +50,6 @@ Clicking the **Graph** option at the top left of the table displays the [Cytosca
 
 In the graph, proteins (interactors) are displayed as nodes and the interactions between the nodes are displayed as lines. Scrolling with the mouse zooms in/out in the graph.  Clicking and dragging with the mouse moves the graph in the display. Gene names, where available, are displayed on the nodes. Mousing over a node or line displays detailed information about that interactor/interaction. Clicking and dragging on a node moves it in the graph, allowing rearrangement for better visualization.
 
-![Interactions Viewer Detail](../images/interactions_viewer_detail.png)
-
 Additional options are available from the upper right area of the graph.  These include the following:
 
 * **Export:** Creates a png image file of the graph and makes it available for saving to disk.
