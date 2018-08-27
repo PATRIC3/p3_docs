@@ -14,6 +14,7 @@ Genomics
 
    genome_assembly/assembly.md
    genome_annotation/annotation.md
+   comprehensive-genome-analysis/comprehensive-genome-analysis.md
    private_genome/private_genome.md
    blast/blast.md
    similar_genome_finder/similar_genome_finder.md
@@ -22,7 +23,6 @@ Genomics
    phylogenetic_tree_building/tree_building.md
    metagenomic_binning/metagenomic_binning
    metagenomic_binning/metagenomic_output
-   submitting-the-comprehensive-genome-analysis-job/submitting-the-comprehensive-genome-analysis-job.md
 
 
 Transcriptomics

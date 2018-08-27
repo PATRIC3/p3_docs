@@ -1,5 +1,9 @@
 # Submitting a Variant analysis job at PATRIC
 
+The Variation Analysis Service can be used to identify and annotate sequence variations, including SNPs, SNVs, and indels. 
+
+**Keywords:** Variation analysis, SNP analysis, SNPs, SNVs, Indels, Variant calling, Variant analysis, Variant annotation. 
+
 ## I. Locating the Variant Service App
 1. At the top of any PATRIC page, find the Services tab. Click on Variant analysis.
 ![Step 1](./images/image1.png)

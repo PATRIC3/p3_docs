@@ -4,8 +4,9 @@
 The Protein Family Sorter Service tool enables researchers to examine the distribution of protein families across a set of user-selected genomes. Results are displayed in a page showing all the families associated with the selected genomes, plus filter controls and an interactive heatmap.
 
 ### See also
-  * [Protein Families Tab](../organisms_taxon/protein_families.html)
-  * [Comparing Protein Families Across Genomes Tutorial](https://docs.patricbrc.org//tutorial/protein_family_sorter/protein_family_sorter.html)
+* [Protein Family Sorter Service](https://patricbrc.org/app/ProteinFamily)
+* [Comparing Protein Families Across Genomes Tutorial](https://docs.patricbrc.org//tutorial/protein_family_sorter/protein_family_sorter.html)
+* [Protein Families Tab User Guide](../organisms_taxon/protein_families.html)
 
 ## Using the Protein Family Sorter Service
 The **Protein Family Sorter** submenu option under the **Services** main menu (Protein Tools category) opens the Protein Family Sorter input form (*shown below*).

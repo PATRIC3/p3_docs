@@ -1,5 +1,9 @@
 # Building Phylogenetic trees in PATRIC
 
+The Phylogenetic Tree Building Service allows construction of custom phylogenetic trees for up to 50 user-selected genomes. 
+
+**Keywords:** Phylogenetic tree, Phylogeny, Phylogenomics, Whole-genome tree, Phylogenetic tree contrustion, Evolutionary biology, Evolutionary analysis, Comparative genomics, Bacteria, Archaea. 
+
 ## 1. Selecting an “ingroup” of genomes for the tree.
 1.1. In the Global text box, which is found at the right side of the header on any PATRIC page, enter the genus of interest, then hit return.
 ![Step 1](./images/image1.png)

@@ -2,6 +2,8 @@
 
 Transposon insertion sequencing (Tn-Seq for short) is a popular experimental methodology for determining essential (and conditionally essential) regions in bacterial genomes. Tn-Seq (in the broad sense used in this paper) refers to a family of related methods that use deep sequencing to survey a transposon insertion library and quantify the abundance of insertions at different sites in the genome.
 
+**Keywords:** Tn-seq analysis, Transposon insertion sequencing, Essential genes, Gene essentiality, Identification, Detection, Bacteria, Archaea. 
+
 ## I. Locating the Tn-Seq Service App.
 
 1.	At the top of any PATRIC page, find the Services tab. Click on Tn-Seq Analysis.

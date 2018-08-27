@@ -14,6 +14,12 @@ Clicking the AMR Phenotypes Tab in a Taxon View displays a table with rows for e
 ![AMR Phenotypes Table](../images/amr_phenotypes_tab.png)
 The table provides a listing of Resistance Phenotype (Susceptible, Resistant, Intermediate) for each of the tested antibiotics/chemicals associated with each genome. Where available, additional panel data are provided such as MIC information (Measurement Sign, Measurement Value, Measurement Units, Testing Standard, Testing Standard Year). Additional fields for Lab Typing information (Method, Platform, Vendor, Version) and Source are also available.
 
+### Predicted AMR Phenotypes
+![Predicted AMR Phenotypes](../images/predicted_amr_phenotypes.png)
+The PATRIC Genome Annotation Service provides predictions of AMR Phenotypes for genomes for which AMR classifiers have been built For these predicted phenotypes, the Lab Typing Method will be "Computational Prediction", the Lab Typing Platform will show the classifier type (e.g., "AdaBoost Classifier"), The Lab Typing Vendor will show the source of the classifier producer (e.g., "PATRIC"), and the Lab Typing Version will show the accuracy and other scores associated with the prediction (e.g., "Accuracy:0.995, F1 scroe:0.995, AUC:0.991"). 
+
+See [Davis, JJ, et al. 2016](https://www.nature.com/articles/srep27930) and [PATRIC AdaBoost Classification Software](http://tutorial.theseed.org/AdaBoost_Installation_Tutorial.htm) for more information on how AMR classifiers are constructed and used in PATRIC. 
+
 ### AMR Phenotypes Table Tools
 Within this table you may do the following:
 
