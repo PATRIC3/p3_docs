@@ -6,9 +6,7 @@ Introduction
 ============
 
 Genome quality analysis is automatically performed when :doc:`/tutorial/metagenomic_binning/metagenomic_binning`
-or :doc:`/tutorial/genome_annotation/annotation`. You can also manually perform quality analysis
-on an existing PATRIC genome using the ``p3-eval-genome`` script of the :doc:`/cli_tutorial/index`. Noate that the quality
-tools only work on genomes annotated using the PATRIC RAST service.
+or :doc:`/tutorial/genome_annotation/annotation`.
 
 The genome quality tools look at the functional roles present in an annotated genome to determine if the genome looks correct.
 Two separate mechanisms are used to predict the number of times each role should be found in the genome. A role is *good* if it
@@ -24,7 +22,7 @@ in the paper
         1043-1055.
 
 EvalG identifies *universal roles* that are expected to occur exactly once in all genomes
-of a particular taxonomic grouping. Missing roles indicate the genoem is less complete; extra roles indicate the genome may be
+of a particular taxonomic grouping. Missing roles indicate the genome is less complete; extra roles indicate the genome may be
 contaminated.
 
 The second quality tool (**EvalCon**) checks the *consistency* of the genome annotation. Over 1300 roles that have a predictable relationship
@@ -147,8 +145,7 @@ Universal Role
 ++++++++++++++
 
 If the comment includes **Universal Role**, then the role is considered a universal role for the genome's taxonomic grouping by EvalG: that is, it is expected to occur
-exactly once. Universal roles are used to compute the completeness and contamination scores. Note that if a role is predicted by EvalCon, it will not have this
-marking, as the EvalCon prediction overrides the EvalG predictions.
+exactly once. Universal roles are used to compute the completeness and contamination scores.
 
 Basic Present-Feature Comments
 ++++++++++++++++++++++++++++++
