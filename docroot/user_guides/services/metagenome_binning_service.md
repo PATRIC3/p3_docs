@@ -33,3 +33,16 @@ Name used to uniquely identify results.
 
 ### Genome Group Name
 Name used to create genome group with identified genomes.
+
+## Output Results
+![Metagenomic Binning Service Output Files](../images/metagenomic_binning_result.png) 
+
+The Metagenomic Binning Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
+
+* **BinningReport.html** - Document containing the list of bins and other summary information. Double-clicking on this file to display it.
+![Metagenomic Binning Report](../images/metagenomic_binning_report.png) 
+* **bin.#.####** - Annotation job result of bin number #.
+* **bin.#.####.fa** - a FASTA file containing the bin’s contigs for bin number #.
+* **bins.json** - 
+* **bins.stats.txt** - 
+* **coverage.stats.txt** - 
