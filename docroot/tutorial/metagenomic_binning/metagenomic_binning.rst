@@ -5,7 +5,7 @@
 Basic Steps
 ===========
 
-1. Log in to the Patric web site with your Patric credentials.
+1. Log in to the PATRIC web site with your PATRIC credentials.
 
 2. Provide an input file.
 
