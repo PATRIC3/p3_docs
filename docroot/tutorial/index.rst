@@ -14,6 +14,7 @@ Genomics
 
    genome_assembly/assembly.md
    genome_annotation/annotation.md
+   genome_quality_report/genome_quality_report
    comprehensive-genome-analysis/comprehensive-genome-analysis.md
    private_genome/private_genome.md
    blast/blast.md
@@ -62,6 +63,7 @@ Others
 .. toctree::
    :maxdepth: 1
 
+   genome_quality_report/genome_quality_report.md
    genome_groups/creating_genome_groups.md
    amr/amr.md
    binning_overview
