@@ -43,6 +43,4 @@ The Metagenomic Binning Service generates several files that are deposited in th
 ![Metagenomic Binning Report](../images/metagenomic_binning_report.png) 
 * **bin.#.####** - Annotation job result of bin number #.
 * **bin.#.####.fa** - a FASTA file containing the bin’s contigs for bin number #.
-* **bins.json** - 
-* **bins.stats.txt** - 
-* **coverage.stats.txt** - 
+
