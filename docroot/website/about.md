@@ -20,14 +20,6 @@ Institute of Virginia Tech.
 * **Freely Available Data and Analysis Results**, presented in tabular, graphic, and downloadable formats.
 * **A Personal Workspace** to permanently save groups of genomic data, gene associations, and uploaded private data. Both private and public data can be analyzed together using a suite of tools to perform comparative genomic or transcriptomic analysis. Customize PATRIC preferences to streamline searches and data browsing.
 
-## PATRIC Tools and Comparative Analyses
-![Comparative Analyses](https://docs.patricbrc.org/_static/Comarative-Analyses-970x1024.png)
-
-[Download this information in a PATRIC brochure](https://docs.patricbrc.org/_static/PATRIC_Final_Pamphlet.pdf)
-
-[PATRIC Data Release Policy](./data_release_policy.html)
-
-
 ## About the Computation Institute
 The <a href="https://www.ci.uchicago.edu/" target="_blank">Computation Institute</a> (CI), a joint initiative between The University of Chicago and Argonne National Laboratory, advances science through innovative computational approaches.
 The CI is both an intellectual nexus and resource center for those building and applying computational
