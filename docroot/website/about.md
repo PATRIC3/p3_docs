@@ -21,8 +21,8 @@ Institute of Virginia Tech.
 * **A Personal Workspace** to permanently save groups of genomic data, gene associations, and uploaded private data. Both private and public data can be analyzed together using a suite of tools to perform comparative genomic or transcriptomic analysis. Customize PATRIC preferences to streamline searches and data browsing.
 
 ## PATRIC Brochure
-Updated September 2018
 ![PATRIC Brochure](./images/patric_brochure_thumbnail.png)
+Updated September 2018
 
 
 ## About the Computation Institute
