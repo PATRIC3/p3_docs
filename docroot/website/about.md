@@ -27,12 +27,12 @@ Updated September 2018
 
 
 
-[<img src="./images/patric_brochure_thumbnail.png">](http://patricbrc.org)
+[<img src="./images/patric_brochure_thumbnail.png">](./images/PATRIC_flyer_2018_8.5x11.pdf)
 
 
 
 
-images/PATRIC_flyer_2018_8.5x11.pdf
+
 
 
 
