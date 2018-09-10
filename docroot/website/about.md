@@ -12,10 +12,10 @@ Institute of Virginia Tech.
 
 ## What PATRIC Offers
 
-* **Consistent Annotation** across all sequenced bacterial species from GenBank and other sources via RAST the most widely used and highly cited automated microbial annotation system. Annotate your bacterial genome for free in less than 24 hours.
-* **A Wealth of Associated, Descriptive Genome Metadata** parsed from a variety of sources in over 60 fields such as, isolation source, geographic location, year of isolation, and the host and/or environment from which the sample was collected.
+* **Comprehensive Collection of Consistently Annotated Genomes** across all sequenced bacterial species from GenBank and other sources via RAST, a highly cited automated prokaryotic annotation system.
+* **Rich Genome Metadata** parsed from a variety of sources in over 60 fields such as, isolation source, geographic location, year of isolation, host and/or environment, antimicrobial resistance (AMR) phenotype, among others.
 * **Data Integration** across sources, data types, molecular entities, and organisms. Data types include genomics, transcriptomics, protein-protein interactions, 3D protein structures, sequence typing data, and metadata, and are summarized and organized at various taxon, genome, and gene levels.
-* **Various Search Tools** help you easily find data and genomes of interest including single specific genomes, whole genome sets within certain taxa, sets of genomes that share common metadata, and even closely related sets of genomes based on phylogeny.
+* **Suite of Easy-To-Use High-Throughput Computationa Analysis Services** including Comprehensive Genome Analysis, Genome Assembly, Genome Annotation, Similar Genome Finder, Proteome Comparison, Protein Family Sorter, Pathway Comparison, Metabolic Model Reconstruction, Phylogenetic Tree Construction, Variation/SNP Analysis, RNA-Seq Analysis, Differential Expression Analysis, TN-Seq Analysis, Metagenomic Binning, and others.
 * **Upload Your Own Data** and analyze it privately and securely with PATRIC analysis tools by itself or against public datasets.
 * **Freely Available Data and Analysis Results**, presented in tabular, graphic, and downloadable formats.
 * **A Personal Workspace** to permanently save groups of genomic data, gene associations, and uploaded private data. Both private and public data can be analyzed together using a suite of tools to perform comparative genomic or transcriptomic analysis. Customize PATRIC preferences to streamline searches and data browsing.
