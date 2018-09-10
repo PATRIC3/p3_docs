@@ -25,6 +25,17 @@ Institute of Virginia Tech.
 Updated September 2018
 
 
+
+
+[<img src="./images/patric_brochure_thumbnail.png">](http://patricbrc.org)
+
+
+
+
+images/PATRIC_flyer_2018_8.5x11.pdf
+
+
+
 ## About the Computation Institute
 The <a href="https://www.ci.uchicago.edu/" target="_blank">Computation Institute</a> (CI), a joint initiative between The University of Chicago and Argonne National Laboratory, advances science through innovative computational approaches.
 The CI is both an intellectual nexus and resource center for those building and applying computational
