@@ -17,7 +17,7 @@ The **Comprehensive Genome Analysis** submenu option under the **Services** main
 ![Comprehensive Genome Analysis Menu](../images/services_menu.png)
 
 ## Options
-![Comprehensive Genome Analysis Input Form](../images/genome_analysis_input_form.png) 
+![Comprehensive Genome Analysis Input Form](../images/genome_analysis_input_form.png)
 
 ## Start with
 The service can accept either read files or assembled contigs. If the "Read Files" option is selected, the Assembly Service will be invoked automatically to assemble the reads into contigs before invoking the Annotation Service. If the "Assembled Contigs" option is chosen, the Annotation Service will automatically be invoked, bypassing the Assembly Service.
@@ -32,7 +32,7 @@ Depending on the option chosen above (Read File or Assembled Contigs), the Input
 **Read File:** The fastq file containing the reads.
 
 ### SRA run accession
-Allows direct upload of read files from the [NCBI Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) to the PATRIC Assembly Service. Entering the SRR accession number and clicking the arrow will add the file to the selected libraries box for use in the assembly. 
+Allows direct upload of read files from the [NCBI Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) to the PATRIC Assembly Service. Entering the SRR accession number and clicking the arrow will add the file to the selected libraries box for use in the assembly.
 
 ## Selected libraries
 Read files placed here will contribute to a single assembly.
@@ -89,7 +89,7 @@ Taxon must be specified at the genus level or below to get the latest
 protein family predictions.
 
 ### Taxonomy ID
-Auto-populated after entering Taxonomy Name. If a Taxonomy ID is entered, auto-populates the Taxonomy Name 
+Auto-populated after entering Taxonomy Name. If a Taxonomy ID is entered, auto-populates the Taxonomy Name
 
 ### Genetic Code
 The codon translation used in calling genes.
@@ -101,19 +101,19 @@ The workspace folder where results will be placed.
 Name used to uniquely identify results.
 
 ## Output Results
-![Comprehensive Genome Analysis Output Files](../images/cga_service_output_files.png) 
+![Comprehensive Genome Analysis Output Files](../images/cga_service_output_files.png)
 
 The Comprehensive Genome Analysis Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
- * **FullGenomeReport.html** - A web-browser-viewable report that summarizes the results of the service including 
-   * Summary information - genome name, quality, 
+ * **FullGenomeReport.html** - A web-browser-viewable report that summarizes the results of the service including
+   * Summary information - genome name, quality,
    * Genome assembly information - contigs, GC content, plasmids, L50, genome length, chromosomes
    * Genome annotation information - taxonomy, CDS, tRNA, rRNA, partial CDS, misc RNA, repeat regions, protein feature summary, circular view with annotations
    * Specialty genes - antibiotic resistance, drug targets, transporters, virulence factors
    * Subsystem analysis - summary
    * Phylogenetic analysis - phylogenetic tree generated using the analyzed genome and the closest Reference and Representative genomes
    * References - citations to all tools used by the service
- * **annotated.genome** - A special "Genome Typed Object (GTO)" JSON-format file that encapsulates all the data from the annotated genome. See [Extracting and Mining Genome Typed Objects](https://docs.patricbrc.org/cli_tutorial/cli_getting_started.html#extracting-and-mining-genome-typed-objects-gtos) for more information. 
+ * **annotated.genome** - A special "Genome Typed Object (GTO)" JSON-format file that encapsulates all the data from the annotated genome. See [Extracting and Mining Genome Typed Objects](https://docs.patricbrc.org/cli_tutorial/cli_getting_started.html#extracting-and-mining-genome-typed-objects-gtos) for more information.
  * **annotation** - The Annotation sub-job that was run as part of the CGA Service. Double-clicking this item will display the Annotation job results. Note that sub-jobs are indicated by the "checkered flag" icon beside the name.
  * **assembly** - The Assembly sub-job that was run as part of the CGA Service. Double-clicking this item will display the Assembly job results. Note that sub-jobs are indicated by the "checkered flag" icon beside the name.
  * **circos.svg** - SVG-format rendering of the circular genome view used in the FullGenomeReport.html file.
