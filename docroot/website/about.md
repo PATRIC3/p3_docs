@@ -14,7 +14,7 @@ PATRIC is the ***Bacterial Bioinformatics Resource Center***, an information sys
 ## PATRIC Brochure
 ![PATRIC Brochure thumbnail](./images/patric_brochure_thumbnail.png)
 
-[Click here to view brochure](./images/PATRIC_flyer_2018_8.5x11.pdf)
+[Click here to view brochure](../_static/website/patric-flyer-2018.pdf)
 
 ## About the Computation Institute
 The <a href="https://www.ci.uchicago.edu/" target="_blank">Computation Institute</a> (CI), a joint initiative between the University of Chicago and Argonne National Laboratory, advances science through innovative computational approaches. The CI is both an intellectual nexus and resource center for those building and applying computational platforms for science. As an intellectual nexus, it brings together researchers from different disciplines with common interests in advancing the state-of-the-art in computing and its applications. As a resource center, it provides expert assistance to scholars whose work requires the most advanced computational methods. The CI’s research has increasingly broad impact as advanced computational and informatics approaches are becoming critical to future research breakthroughs in almost every scientific discipline. The CI is home to over 100 researchers and staff, including more than 70 fellows from University of Chicago faculty and Argonne scientists that have active collaborations with over 50 prestigious academic and research institutions across the globe. Current research is targeted at solving complex system-level problems in bioinformatics, biomedicine, neuroscience, genomics, metagenomics, energy and climate, astronomy and astrophysics, computational economics, and molecular engineering.
