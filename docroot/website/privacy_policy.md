@@ -12,7 +12,7 @@ You may at your discretion also provide in your personal profile further biograp
 
 PATRIC does not track information in your personal research data. Access to this information is strictly under your control to share or make public. If you are having problems with your data in the private workspace or in using PATRIC services and you request our help, we may access your workspace and data files to troubleshoot and help resolve the problem for you.
 
-Once you share data or workspaces with others PATRIC users, those users will be able to access the data. You can turn off the sharing at a later time if you desire.
+Once you share data or workspaces with others PATRIC users or make it public, be aware that other users will be able to access the data. You can turn off the sharing at a later time if you desire.
 
 ## User behavioral profile
 When you use PATRIC services that require login (such as Genome Annotation), usage information is automatically recorded by your Username including what services you used
