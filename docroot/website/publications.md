@@ -33,6 +33,12 @@ Methods Mol Biol. 2018;1704:79-101.
     PMCID:<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541162/">PMC5541162</a>.
 </p>
 
+<p>Antonopoulos DA, Assaf R, Aziz RK, Brettin T, Bun C, Conrad N, Davis JJ, Dietrich EM, Disz T, Gerdes S, Kenyon RW, Machi D, Mao C, Murphy-Olson DE, Nordberg EK, Olsen GJ, Olson R, Overbeek R, Parrello B, Pusch GD, Santerre J, Shukla M, Stevens RL, VanOeffelen M, Vonstein V, Warren AS, Wattam AR, Xia F, Yoo H.
+<strong>PATRIC as a unique resource for studying antimicrobial resistance.</strong>
+Brief Bioinform. 2017 Jul 31. doi: 10.1093/bib/bbx083.
+    PMID:<a href="https://www.ncbi.nlm.nih.gov/pubmed/28968762">28968762</a>.
+</p>
+
 <p>Long, S. W., R. J. Olsen, T. N. Eagar, S. B. Beres, P. Zhao, J. J. Davis, T. Brettin, F. Xia and
     J. M. Musser (2017). "<strong>Population Genomic Analysis of 1,777 Extended-Spectrum Beta-Lactamase-Producing
     <em>Klebsiella pneumoniae</em> Isolates, Houston, Texas: Unexpected Abundance of Clonal Group 307.</strong>"  
