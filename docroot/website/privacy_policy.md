@@ -3,12 +3,11 @@
 The PATRIC Bioinformatics Resource Center is provided as a public resource for the research community. This Privacy Policy describes the ways PATRIC collects, stores, uses, discloses and protects the personal information about users and how they use PATRIC. A link to this policy appears in the footer of patricbrc.org webpage and other prominent locations such as the Registration page where it must be acknowledged to obtain a PATRIC User Account. PATRIC never collects information for commercial marketing or any purpose unrelated to PATRIC functions.
 
 **Information PATRIC collects**
-
 Many functions of PATRIC, such as data browsing, may be used without a PATRIC User Account. PATRIC uses Google Analytics to accumulate this type of web traffic information in order to measure and report overall usage of the website portion of the resource. More information can be found in [Google Analytics data practices](https://support.google.com/analytics/answer/6004245?hl=en). 
 
 If you choose to have a PATRIC User Account, you are asked to provide your name and an email address so that we may contact you if needed, for instance, if there is a problem with your account. This information is stored in your private personal profile. You are also required to provide a Username, which is used for logging in and appears along with data that you choose to share. PATRIC Usernames are not treated as personal information and it is recommended that you not include personal information in your Username.
 
-**User-provided personal information and data**
+**User-provided personal information and data.**
 
 You may at your discretion also provide in your personal profile further biographical information including your organization, organisms of interest, and other research interests. This information may be used in aggregate to understand the PATRIC userbase in order to improve the resource.
 
