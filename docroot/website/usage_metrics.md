@@ -25,11 +25,11 @@ Last month: **5,905**
 ![Users 6 months](./images/users_6_months_Aug2018.png)
 
 ## Analysis Service Jobs
-6-month total: **35,554**   
+6-month total: **33,791**   
 
-Last month: **6,470**
+Last month: **5,331**
 
-![Service Jobs 6 months](./images/analysis_jobs_6_months.png)
+![Service Jobs 6 months](./images/analysis_jobs_6_months_Aug2018.png)
 
 
 ## Cumulative Metrics
