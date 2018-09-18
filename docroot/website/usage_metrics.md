@@ -36,7 +36,7 @@ Last month: **6,470**
 
 ### Citations and Publications
 
-[Publications that cite PATRIC/RAST:](https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1) **>7,700**
+[Publications that cite PATRIC/RAST:](https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1) **>7,900**
 
 [PATRIC Publications:](https://patricbrc.org/webpage/website/publications.html) **77**
 
