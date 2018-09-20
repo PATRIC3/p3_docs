@@ -6,7 +6,7 @@ The NIAID Systems Biology for Infectious Diseases Research Program develops and 
 ## Systems Biology: Antibacterial Resistance Program
 There are six centers that conduct systems biology research specific to antimicrobial resistance (AMR). The purpose of these projects is to identify, quantify, model, and predict the molecular interactions of AMR bacterial pathogens and their host during infectious disease initiation and progression or in response to antibacterial treatment.
 
-* [Baylor College of Medicine](): 
+* [Baylor College of Medicine](https://www.patricbrc.org/webpage/website/data_collections/content/SysBio_Baylor_College.html): 
 Decoding Antibiotic-Induced Susceptibility to Clostridium difficile Infection
 
 * [Boston College](https://www.patricbrc.org/webpage/website/data_collections/content/predicting_the_emergence_antibiotic_resistance.html): 
@@ -31,10 +31,10 @@ The centers in the Systems Biology: The Next Generation Program conduct research
 * [Seattle Biomedical Research Institute](https://www.patricbrc.org/webpage/website/data_collections/content/omics4tb.html):
 OMICS for TB: Response to Infection and Treatment
 
-* [Northwestern University at Chicago]():
+* [Northwestern University at Chicago](https://www.patricbrc.org/webpage/website/data_collections/content/SysBio_SCRIPT.html):
 Successful Clinical Response in Pneumonia Therapy (SCRIPT) Systems Biology
 
-* [University of California, San Francisco](): 
+* [University of California, San Francisco](https://www.patricbrc.org/webpage/website/data_collections/content/SysBio_HPMI.html): 
 HPMI: Host Pathogen Mapping Initiative
 
 
