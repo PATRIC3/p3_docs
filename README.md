@@ -3,6 +3,13 @@
 This repository is for manage PATRIC static contents such as Website Tutorial, CLI Tutorial, User Guides, and PATRIC eNews. 
 See [here](./Setup.md) for configuration.
 
+## Nginx
+After following the Sphinx/Nginx [Setup Guide](./Setup.md) make sure your local Nginx server is running.
+```
+sudo nginx
+```
+And enter your password. You'll need to turn this on everytime you restart your computer unless you have it set to start automatically.
+
 ## How to add an entry
 1. Create a folder. If you don't have image associated, then you can ommit the images folder.
 ```
@@ -13,11 +20,18 @@ mkdir -p tutorial/excel_formatting/images/
 
 3. Place images under `./images` sub folder
 
-4. Add a link in the category index file (e.g. `tutorial/index.rst`)
+4. If you have a file attachment to link, place the file in the '_static' directory, and reference it from there. (Sphinx will ignore attachment files such as .PDF, .XLSX, etc)
 
-5. build html
+5. Add a link in the category index file (e.g. `tutorial/index.rst`)
+
+6. build html
 ```
 $ make html
+```
+
+Note: You may need to completely clear your previously built docs application to see new changes made. You can run this command to delete and rebuild from within the docroot directory.
+```
+rm -rf _build && make html
 ```
 
 ## How to add a News entry
@@ -38,8 +52,18 @@ Check a sample entry [here](https://github.com/PATRIC3/p3_docs/blob/master/docro
 3. When you build html, `news.rss` will be updated.
 
 ## Resources
--  Markdown [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+We write our documentation pages in both Markdown (.md) and reStructuredText (.rst). Sphinx uses the CommonMark version of Markdown when it builds the documentation site. It is slightly different than the GitHub Flavored MarkDown used by GitHub so make sure to take note of any subtle differences. Use these resources to write and develop documentation for PATRIC without causing warnings or failures. There is only one flavor of reStructuredText.
 
--  [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+### Markdown
 
-- ReST [quick reference](http://docutils.sourceforge.net/docs/user/rst/quickref.html)
+- [CommonMark](https://commonmark.org/)
+- [CommonMark Reference](https://commonmark.org/)
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+- [GitHub Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [GitHub Mastering Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+
+### reStructuredText
+
+- [reStructuredText](http://docutils.sourceforge.net/rst.html)
+- [reStructuredText Markup Specification](http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html)
+- [reStructuredText Quick Reference](http://docutils.sourceforge.net/docs/user/rst/quickref.html)
