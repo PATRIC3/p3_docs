@@ -1,4 +1,4 @@
-The PATRIC Command Line Interface
+Command Line Interface
 ==================================
 
 `PATRIC <https://www.patricbrc.org>`_ is an integration of different

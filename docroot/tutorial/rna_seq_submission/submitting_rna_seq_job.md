@@ -115,6 +115,16 @@ PATRIC offers three different RNA-Seq strategies:
 ![Step 30](./images/image30.png)
 
 4. Transcripts.txt file.  This text file contains the data on a per gene bases.  This data includes the contig, the transcription and translation stop and end sites, the strand, PATRIC and RefSeq locus tags, the functional description, estimates of abundance levels per gene, and the q-value.  Estimates of transcription abundance sum the number of reads for a transcript and divides that by the transcript’s length and normalization factor. The q-value is an adjusted p-value, taking in to account the false discovery rate (FDR).
+
+Per [McClure 2013], "From the resulting P-values, differentially expressed genes are determined by computing q-values based on Benjamini–Hochberg correction (34) with a false discovery rate <1%."
+
+https://stats.stackexchange.com/questions/165119/choosing-the-q-value-in-the-benjamini-hochberg-procedure-to-control-false-discov/166392
+
+"The q value (lower case) is the Q value (upper case) at which that particular comparison would be right at the border of being a discovery. You can then report the q value for each comparison, rather than just a list of which comparisons are "discoveries" using an arbitrary value of Q."
+
+http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
+
+
 ![Step 31](./images/image31.png)
 
 5. BAM files.  PATRIC also provides BAM files.  BAM is the compressed binary version of the Sequence Alignment/Map (SAM) format, a compact and index-able representation of nucleotide sequence alignments, and uploaded into a genome browser so that researchers can see the alignment of the reads compared to the annotation for the genome in question.

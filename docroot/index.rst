@@ -18,6 +18,8 @@ PATRIC Documentation Home
    webinar/index
    news/index
    system_architecture/index
+   brochure/brochure
+   website/privacy_policy
 
 .. Indices and tables
 .. ==================
