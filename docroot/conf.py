@@ -99,6 +99,7 @@ html_theme_options = {
 }
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_logo = "_static/patric_logo.png"
+html_favicon = "_static/favicon.ico"
 html_title = "PATRIC Documentation"
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -111,6 +112,11 @@ html_title = "PATRIC Documentation"
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# A list of paths that contain extra files not directly relation to the docs
+# Relative paths to the config.py file
+# Copied directly to the output directly (_build/html)
+html_extra_path = ['sitemap.xml']
 
 
 # -- Options for HTMLHelp output ------------------------------------------
