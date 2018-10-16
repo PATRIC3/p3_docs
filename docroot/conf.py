@@ -113,6 +113,11 @@ html_title = "PATRIC Documentation"
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+# A list of paths that contain extra files not directly relation to the docs
+# Relative paths to the config.py file
+# Copied directly to the output directly (_build/html)
+html_extra_path = ['sitemap.xml']
+
 
 # -- Options for HTMLHelp output ------------------------------------------
 
