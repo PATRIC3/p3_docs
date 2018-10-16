@@ -99,6 +99,7 @@ html_theme_options = {
 }
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_logo = "_static/patric_logo.png"
+html_favicon = "_static/favicon.ico"
 html_title = "PATRIC Documentation"
 
 # Theme options are theme-specific and customize the look and feel of a theme
