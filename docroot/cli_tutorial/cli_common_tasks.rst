@@ -20,26 +20,26 @@ can be used to search for the genomes.
 The following commands all return the genome *Streptococcus mutans
 UA159*.
 
-.. code:: 
+.. code::
 
     p3-all-genomes --eq genbank_accessions,AE014133
 
-.. code:: 
+.. code::
 
     p3-all-genomes --eq refseq_accessions,NC_004350
 
-.. code:: 
+.. code::
 
     p3-all-genomes --eq ncbi_project_id,333
 
-.. code:: 
+.. code::
 
     p3-all-genomes --eq refseq_project_id,57947
 
 Because no attributes were specified, the output in each case is
 solely the genome ID, a single output record in a single column.
 
-.. code:: 
+.. code::
 
     genome.genome_id
     210007.7
@@ -53,7 +53,6 @@ are indexed for fast retrieval.
 #. gene. The common gene name (e.g. ``ciaR``). Not all features will
    have a common gene ID
 #. gene\_id. The gene number
-#. gi. The GI accession number
 #. refseq\_locus\_tag. The locus tag from REFSEQ
 
 The command :ref:`cli::p3-find-features` is used to retrieve features based
