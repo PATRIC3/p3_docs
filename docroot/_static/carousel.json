@@ -4,10 +4,10 @@
     "img": "https://docs.patricbrc.org/_static/announcements/workshop-ANL-2018.jpg",
     "link": "https://docs.patricbrc.org/news/2018/20180815-patric-workshop-at-argonne-national-lab.html" 
 },{
-    "title": "PATRIC July 2018 Data and Website Release",
-    "desc": "This PATRIC release includes a new Bacteriophage resource including over 4,700 phage genomes, over 5,000 new Salmonella enterica genomes with AMR panel data, over 9600 additional new bacterial and archeal genomes, updated protein functions and families, updated subsystems, and updated AMR genes.",
-    "img": "https://docs.patricbrc.org/_static/announcements/phage.png",
-    "link": "https://docs.patricbrc.org/news/2018/20180803-patric-july-2018-release.html" 
+    "title": "PATRIC September 2018 Data Release",
+    "desc": "This PATRIC release includes over 15,000 new genomes bringing the total to over 200,000, as well as AMR data for over 2,800 genomes, and other data updates.",
+    "img": "",
+    "link": "http://docs.patric.local/news/2018/20181023-patric-september-2018-release.html"
 },{
     "title": "Recorded Webinar: Comprehensive Genome Analysis Service",
     "desc": "Starting with a set of reads, use PATRIC's Comprehensive Genome Analysis Service to assemble, annotate, and provide a summary analysis of the resulting annotated genome.",
