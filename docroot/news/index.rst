@@ -9,10 +9,9 @@ News
    :description: PATRIC News RSS feed
    :link: https://docs.patricbrc.org/
 
+   20181023-patric-september-2018-release
    20180815-patric-workshop-at-argonne-national-lab
    2018/20180803-patric-july-2018-release
-   2018/20180808-comprehensive-genome-analysis-webinar
-   
 
 .. toctree::
    :maxdepth: 2
