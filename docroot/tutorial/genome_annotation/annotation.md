@@ -2,6 +2,8 @@
 
 The Genome Annotation Service in PATRIC [1] uses the RAST tool kit (RASTtk) [2] to provide annotation of genomic features. All genomes in PATRIC have been annotated with this service, and researchers can submit their own private genome to the annotation service, where it will be deposited into their private workspace for their perusal.
 
+**Keywords:** Bacterial genome annotation, Genome annotation, Automated annotation, Annotation service, Annotation pipeline, Annotation server, Bacteria, Archaea, Plasmid, Phage.
+
 ## Locating the Annotation Service App
 1. At the top of any PATRIC page, find the Services tab and then click on Genome Annotation
 ![Step 1](./images/image1.png "Step 1")
@@ -44,7 +46,7 @@ The Genome Annotation Service in PATRIC [1] uses the RAST tool kit (RASTtk) [2] 
 
     ![Step 10](./images/image10.png "Step 10")
 
-7. Mousing over the word “Uploads” will show a list of recent uploads. This indicates that the uploads are complete.
+7. Mousing over the word "Uploads" will show a list of recent uploads. This indicates that the uploads are complete.
 
     ![Step 11](./images/image11.png "Step 11")
 
@@ -81,6 +83,35 @@ The Genome Annotation Service in PATRIC [1] uses the RAST tool kit (RASTtk) [2] 
 2. This will open the Jobs Status page where researchers can see the status of their annotation job.  The statuses of all the service jobs that have been submitted to PATRIC are also available.
 
     ![Step 19](./images/image19.png "Step 19")
+
+3. Once the job is completed, you can select the job by clicking on it and click the "View"
+button on the right-hand bar to see the results.
+
+    ![Step 20](./images/image20.png "Step 20")
+
+4. The results page will consist of a header describing the job and a list of output files,
+as shown below.
+
+    ![Step 21](./images/image21.png "Step 21")
+
+5. The first file is *GenomeReport.html*, which is described in [Analyzing Genome Quality](/tutorial/genome_quality_report/genome_quality_report).
+This file contains a link to the genome's pages in the PATRIC Genome Browser as well as
+information about the general quality of the genome. The remaining files shown are as
+follows.
+
+*   **contigs.fasta** contains the assembled contigs of the genome in DNA FASTA format.
+*   **embl** contains an EMBL dump of the annotated genome.
+*   **feature_dna.fasta** contains all the feature sequences of the genome in DNA FASTA format.
+*   **feature_protein.fasta** contains all the protein sequences of the genome in protein
+    FASTA format.
+*   **features.txt** is a tab-delimited text file listing all the features of the genome.
+    For each feature, it contains the PATRIC ID, the location string, the feature type,
+    the functional assignment, any alternated IDs found, and (for protein-coding genes)
+    the protein MD5 checksum.
+*   **gb** contains the annotated genome in GENBANK format.
+*   **genome** contains a special "Genome Typed Object (GTO)" JSON-format file that encapsulates all the data from the annotated genome. See [Extracting and Mining Genome Typed Objects](https://docs.patricbrc.org/cli_tutorial/cli_getting_started.html#extracting-and-mining-genome-typed-objects-gtos) for more information.
+*   **gff** lists all the features of the genome in General Feature Format.
+
 
 ## References
 

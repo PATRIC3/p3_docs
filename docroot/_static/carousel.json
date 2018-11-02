@@ -1,26 +1,16 @@
 [{
-    "title": "Comprehensive Genome Analysis Webinar",
-    "desc": "On August 8th at 2pm ET, PATRIC will host a webinar to demonstrate our new Comprehensive Genome Analysis Service. It provides a streamlined automated workflow that accepts raw reads and then performs a comprehensive analysis including assembly, annotation, identification of nearest neighbors, building a phylogenetic tree, and a basic comparative analysis that includes a subsystem summary.",
+    "title": "PATRIC/RAST Workshop at Argonne National Laboratory, October 23-25, 2018",
+    "desc": "The PATRIC/RAST teams will be offering a tutorial workshop October 23-25, 2018, at Argonne National Laboratory in the suburbs of Chicago, IL. The workshop will run for three days",
+    "img": "https://docs.patricbrc.org/_static/announcements/workshop-ANL-2018.jpg",
+    "link": "https://docs.patricbrc.org/news/2018/20180815-patric-workshop-at-argonne-national-lab.html" 
+},{
+    "title": "PATRIC September 2018 Data Release",
+    "desc": "This PATRIC release includes over 15,000 new genomes bringing the total to over 200,000, as well as AMR data for over 2,800 genomes, and other data updates.",
+    "img": "",
+    "link": "http://docs.patric.local/news/2018/20181023-patric-september-2018-release.html"
+},{
+    "title": "Recorded Webinar: Comprehensive Genome Analysis Service",
+    "desc": "Starting with a set of reads, use PATRIC's Comprehensive Genome Analysis Service to assemble, annotate, and provide a summary analysis of the resulting annotated genome.",
     "img": "https://docs.patricbrc.org/_static/announcements/cga-webinar.png",
-    "link": "https://docs.patricbrc.org/news/2018/20180808-comprehensive-genome-analysis-webinar.html"
-},{
-    "title": "Webinar – Genome Assembly via CLI",
-    "desc": "On July 19th at 3pm ET, PATRIC will host a webinar demonstrates this capability using the PATRIC Command Line Interface (CLI)",
-    "img": "https://docs.patricbrc.org/_images/webinar_cli.png",
-    "link": "https://docs.patricbrc.org/news/2018/20180628-assembly-cli-webinar.html"
-},{
-    "title": "PATRIC May Data and Website Release",
-    "desc": "This PATRIC release includes a new Comprehensive Genome Analysis Service, a new homepage design, Genome-Sharing capability, and over 13,000 new genomes.",
-    "img": "https://docs.patricbrc.org/_static/announcements/homepage.png",
-    "link": "https://docs.patricbrc.org/news/2018/20180531-patric-may-2018-release.html#patric-may-2018-data-and-website-release"
-},{
-    "title": "Webinar: Protein Family Sorter",
-    "desc": "Learn how to compare 100s of genomes using PATRIC's Protein Family Sorter. New recorded webinar now available.",
-    "img": "https://docs.patricbrc.org/_static/announcements/patric_webinars_small.png",
-    "link": "https://docs.patricbrc.org/webinar/protein_family_sorter.html"
-}, {
-    "title": "PATRIC Subsystems - New Functionality",
-    "desc": "PATRIC now includes subsystem data for single genome, taxon, and genome group levels.  Subsystems are curated sets of biologically related functional roles across a reference set of genomes, comprising units of expert knowledge about a single biological process.",
-    "img": "https://docs.patricbrc.org/_static/announcements/subsystems.png",
-    "link": "https://docs.patricbrc.org/user_guides/organisms_taxon/subsystems_tab.html"
+    "link": " https://docs.patricbrc.org/webinar/comprehensive_genome_analysis.html"
 }]

@@ -5,7 +5,7 @@
 Basic Steps
 ===========
 
-1. Log in to the Patric web site with your Patric credentials.
+1. Log in to the PATRIC web site with your PATRIC credentials.
 
 2. Provide an input file.
 
@@ -18,7 +18,8 @@ Basic Steps
 Log in to the PATRIC Website
 ----------------------------
 
-See :doc:`/user_guides/registration` for information on logging in to the PATRIC website.
+See `Registration User Guide
+<https://docs.patricbrc.org/user_guides/registration.html>`_ for information on logging in to the PATRIC website.
 Once you are registered and logged in, you should see something like this:
 
 .. image:: images/website.png
@@ -28,8 +29,8 @@ Provide an input file
 
 Input to the Binning Service must be found in a PATRIC workspace. You
 can upload files or use pre-existing files in your Workspace or
-in other Workspaces available to you. See :doc:`/user_guides/workspaces`
-for more about using the PATRIC Workspaces.
+in other Workspaces available to you. See `Workspace User Guide
+<https://docs.patricbrc.org/user_guides/workspaces/workspace.html>`_ for more information about using the PATRIC Workspaces.
 
 You can supply paired reads for assembly,
 or you can supply assembled contigs.

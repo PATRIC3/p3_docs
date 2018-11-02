@@ -1,5 +1,9 @@
 # Comparing Protein Families across individual genomes and genome groups
 
+The Protein Family Sorter tool enables researchers to examine the distribution of specific protein families across different genomes.
+
+**Keywords:** Comparative genomics, Protein family comparison, Protein family analysis, Protein families, Pan proteome, Core proteome, Accessory proteome, Conserved protein families, Presence/absence, Heatmap, Clustering. 
+
 ## I.  Locating the Protein Family Sorter tool.
 1. At the top of any PATRIC page, find the Services tab. Click on Genome Groups.
 ![Step 1](./images/image1.png)

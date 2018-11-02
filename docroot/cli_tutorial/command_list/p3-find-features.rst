@@ -31,39 +31,33 @@ The positional parameter is the name of the field used to match the incoming key
 
 
 refseq_locus_tag
- 
+
  The locus tag from REFSEQ
- 
+
 
 
 protein_id
- 
+
  The REFSEQ protein ID.
- 
+
 
 
 gene
- 
+
  The common gene name (e.g. \ ``rpoA``\ ).
- 
+
 
 
 gene_id
- 
+
  The standard gene number.
- 
 
-
-gi
- 
- The GI accession number.
- 
 
 
 aa_sequence_md5
- 
+
  The protein sequence MD5 code.
- 
+
 
 
 The standard input can be overridden using the options in :ref:`cli-input-options`.
@@ -72,9 +66,9 @@ Additional command-line options are those given in :ref:`cli-data-options` and :
 
 
 keyNames
- 
+
  Rather than processing the input, list the valid key names.
- 
+
 
 
 
