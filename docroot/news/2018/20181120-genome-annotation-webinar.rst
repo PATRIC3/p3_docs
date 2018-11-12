@@ -8,6 +8,8 @@ PATRIC Webinar – Genome Annotation Service, November 20, 2018, 11:00am EST
 
 More than 82,000 genome annotation jobs have been submitted to PATRIC since the service was enabled through the PATRIC system in 2015.  On 20 November 2018 at 11am EST we will offer a PATRIC webinar that demonstrates submitting an annotation job and examining the results once it is completed.  PATRIC’s annotation service uses the RASTtk pipeline and the resulting genomes are stored in a private workspace.  Private genomes can be compared to any of the 190,000 genomes that are publicly available in PATRIC.  To register, please contact Rebecca Wattam (wattam@virginia.edu).
 
+.. cut::
+
 Webinar Connection Information
 ------------------------------
 Topic: PATRIC Genome Assembly Webinar
