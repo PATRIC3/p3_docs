@@ -1,9 +1,17 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2018/20181130-patric-office-hours.rst
 
+PATRIC Office Hours, November 30, 2018, 11:00am EST
+======================================================================================
 
+.. feed-entry::
+   :date: 2018-11-30
 
+Have a question on data or how to do something in PATRIC?  We’re trying something new.  On Friday, November 16th between 2 and 3 pm EST we will have our first in a series of office hours.  Login to the Zoom account listed below and ask a question, and we will show you how it can be answered using PATRIC.  No registration is required, but please contact Rebecca Wattam (wattam@virginia.edu) if you plan to attend.
 
+.. cut::
 
-
+Webinar Connection Information
+------------------------------
 Topic: PATRIC Office Hours
 Time: Nov 30, 2018 11:00 AM Eastern Time (US and Canada)
 
