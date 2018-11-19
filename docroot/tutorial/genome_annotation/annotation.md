@@ -94,7 +94,7 @@ as shown below.
 
     ![Step 21](./images/image21.png "Step 21")
 
-5. The first file is *GenomeReport.html*, which is described in [Analyzing Genome Quality](/tutorial/genome_quality_report/genome_quality_report).
+5. The first file is *GenomeReport.html*, which is described in [Analyzing Genome Quality](/tutorial/genome_quality_report/genome_quality_report.html).
 This file contains a link to the genome's pages in the PATRIC Genome Browser as well as
 information about the general quality of the genome. The remaining files shown are as
 follows.
