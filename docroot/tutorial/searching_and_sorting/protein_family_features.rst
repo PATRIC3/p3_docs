@@ -30,7 +30,7 @@ Finding a Protein Family by ID
 If you know the protein family ID, you can enter the ID in the search bar.  Select *Genomic Features* in
 the drop down to get the list of features in the family.
 
-..image:: images/protein_family_id.png
+.. image:: images/protein_family_id.png
 
 .. _feature-protein-family-function:
 
