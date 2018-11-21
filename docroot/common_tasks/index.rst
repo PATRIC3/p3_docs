@@ -9,8 +9,8 @@ Common Tasks in PATRIC
    :maxdepth: 3
    :caption: Contents:
 
-   ../cli_tutorial/cli_common_tasks
    gui_tasks
+   ../cli_tutorial/cli_common_tasks
 
 .. Indices and tables
 .. ==================
