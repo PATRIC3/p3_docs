@@ -726,6 +726,29 @@ average length is a little over 818 amino acids with a standard
 deviation of well over 193. The total range is 31 amino acids to 901
 amino acids.
 
+List the Genome and Feature ID for Each Feature in a Protein Family
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The following pipe does the trick, using
+global family PGF_00112374 as an example.
+
+    ::
+
+        p3-echo -t family PGF_00112374 | p3-get-family-features --ftype=global --attr genome_id,genome_name,patric_id
+
+    ::
+
+        family  feature.genome_id       feature.genome_name     feature.patric_id
+        PGF_00112374    1311.851        Streptococcus agalactiae strain AB-22   fig|1311.851.peg.1591
+        PGF_00112374    1311.879        Streptococcus agalactiae strain BE-PW-162       fig|1311.879.peg.755
+        PGF_00112374    1311.871        Streptococcus agalactiae strain CZ-NI-016       fig|1311.871.peg.1197
+        PGF_00112374    1311.841        Streptococcus agalactiae strain AB-11   fig|1311.841.peg.728
+        PGF_00112374    1311.903        Streptococcus agalactiae strain ES-PW-083       fig|1311.903.peg.1321
+        PGF_00112374    1311.908        Streptococcus agalactiae strain GB-PW-024       fig|1311.908.peg.1397
+        PGF_00112374    1311.960        Streptococcus agalactiae strain DE-PW-196       fig|1311.960.peg.1275
+        PGF_00112374    1311.964        Streptococcus agalactiae strain IT-PW-086       fig|1311.964.peg.1518
+        PGF_00112374    1311.965        Streptococcus agalactiae strain IT-PW-097       fig|1311.965.peg.1342
+        PGF_00112374    1311.860        Streptococcus agalactiae strain AB-70   fig|1311.860.peg.746
 
 
 Working with Features

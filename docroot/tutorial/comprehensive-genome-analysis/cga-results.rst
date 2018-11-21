@@ -15,7 +15,7 @@ The output of the pipeline looks like this
 
 The Full Genome Report contains a lengthy text analysis (with tables and diagrams) of the genome and its
 annotation.  Among the diagrams will be a phylogenetic tree showing the new genome’s relationship to its
-neighbors.  The list of neighbors will be in the text file tree_ingroup.txt.
+neighbors.  The list of neighbors will be in the text file *tree_ingroup.txt*.
 
 Checking the Annotation Quality
 -------------------------------
@@ -24,7 +24,8 @@ If you double-click on **annotation**, it will take you to the annotation job fo
 
 .. image:: images/annotation_folder.png
 
-The quality analysis of the genome can be found in *GenomeReport.html*.
+The quality analysis of the genome can be found in *GenomeReport.html*.  The summary at the top is
+shown below.
 
 .. image:: images/quality_results.png
 
@@ -50,7 +51,7 @@ proteins with the number 4 belong to the same family, and are generally found ne
 from this display is that our protein of interest in our new genome is more like something found in Helicobacter than in
 Streptococcus pyogenes.
 
-A similar search for the other suspect features returns the same result.  We can conclude the extra DNA in our original sample
+A similar search using the other two suspect features returns the same result.  We can conclude the extra DNA in our original sample
 is from Helicobacter.
 
 A Visual Comparison Using the Protein Family Sorter
@@ -65,17 +66,17 @@ of the 50 or so closest genomes.  We will select the first 10 and put them into 
 .. image:: images/selected_similar_genomes.png
 
 We are now ready to invoke the Protein Family Sorter.  In the screen shot below, we entered the new genome as an individual,
-and *new.strep.neighbots* is the name of the genome group of close neighbors we just created.
+and *new.strep.neighbors* is the name of the genome group of close neighbors we just created.
 
 .. image:: images/sorter_data_entry.png
 
-The Protein Family Sorter produces a tabular analysis and a heatmap.
+The Protein Family Sorter produces a tabular analysis and a heatmap.  The heatmap is shown below.
 
 .. image:: images/heatmap_warning.png
 
 At this resolution, every protein family is a vertical line.  Black indicates there is no protein in the family.  Yellow indicates
-there is one, and when there is more than one a shade of orange is shown.  Each row represents a genome, and our new one stands out
- dramatically.
+there is one and only one protein from that family in the genome, and when there is more than one a shade of orange is shown.
+Each row represents a genome, and our new genome stands out dramatically.
 
 You can scale the display so that the columns are wide enough to see the protein family names.  You can also click on an individual
 protein. We would like to see one of the proteins that is in the new genome but does not have family members in the neighboring genomes.

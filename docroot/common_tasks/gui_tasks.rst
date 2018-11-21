@@ -41,7 +41,7 @@ Comprehensive Genome Analysis service takes either reads or contigs and
 creates a private genome integrated into the PATRIC database. It also
 creates a web page describing the genome and places it into a phylogenetic
 tree.  There is a tutorial on how to use this service
-`here </tutorial/comprehensive-genome-analysis/comprehensive-genome-analysis>`_.
+`here </tutorial/comprehensive-genome-analysis/comprehensive-genome-analysis.html>`_.
 In :doc:`/tutorial/comprehensive-genome-analysis/cga-results` we show how to
 look at the results, find the closest genomes, and compare the protein families.
 
@@ -76,7 +76,7 @@ Working with Genomes
 Find the Roles Present in a Genome
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This is described at :doc:`tutorial/searching_and_sorting/features_with_roles`.
+This is described at :doc:`/tutorial/searching_and_sorting/features_with_roles`.
 
 Compare the Proteomes for a Set of Genomes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -89,21 +89,18 @@ Visually Compare the Protein Families in a Set of Genomes
 This is described at :doc:`/tutorial/protein_family_sorter/protein_family_sorter`.  A description of
 the output and how to manipulate it can be found `here </user_guides/organisms_taxon/protein_families.html#protein-family-sorter-heatmap>`_
 
-Working with Alignments and Trees
----------------------------------
-
-Create a Phylogenetic Tree from a DNA Alignment
+Determine the Evidence of Quality for a Genome
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Phillipe's task: Given a DNA alignment, compute a phylogenetic tree.
+A quality analysis is performed on every private genome created using :doc:`/tutorial/genome_annotation/annotation`.
+The analysis results are stored
+in a file called *GenomeReport.html* in the annotation service output folder.  A description of how to read this
+file is in the tutorial :doc:`/tutorial/genome_quality_report/genome_quality_report`.
 
-Create a Phylogenetic Tree from a Protein Alignment
+Find the Closest N Genomes to a Particular Genome
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Phillipe's task: Given a protein alignment, compute a phylogenetic tree.
-
-Given an alignment/tree and a separate sequence, insert the new sequence
-into the alignment/tree.
+Use the :doc:`/tutorial/similar_genome_finder/similar_genome_finder`.
 
 
 Working with Protein Families
@@ -112,13 +109,13 @@ Working with Protein Families
 List the Features in a Protein Family and the Genomes Containing Them
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Phillipe's task: Given a protein family get the (genome,peg) tuples for the family.
+This procedure is described in :ref:`feature-protein-family-id`.
 
 Find the Function of a Protein Family
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Phillipe's task: Given a protein family get the function of the family.
-
+First, get a list of the features in the protein family using :ref:`feature-protein-family-id`
+or :ref:`feature-protein-family-list`.  Then use the procedure in :ref:`feature-protein-family-function`.
 
 
 Working with Features
@@ -128,20 +125,17 @@ Working with Features
 Find the Sequence, Translation, and Other Known Attributes of a Gene
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Phillipe's task: Given a peg, get the known attributes of the peg (including sequence
-and translation).
+The many attributes of a feature are displayed on the :doc:`/user_guides/organisms_gene/overview`.
 
 Find the Upstream Region of a Gene
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Phillipe's task: Given a peg, get its upstream region.
+The upstream region can be seen most clearly using the :doc:`/user_guides/organisms_gene/compare_region_viewer`.
 
+Find All the Genes in the Same Protein Family As A Feature
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-Compute the CDD Domains for a Gene
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-This service is no longer available in PATRIC. A request is pending.
+This procedure is described in :ref:`feature-protein-family-list`.
 
 
 Create an Alignment and the Associated Phylogenetic Tree from a Set of Features
@@ -152,20 +146,5 @@ This is described in :doc:`/tutorial/alignments/multiple_sequence_alignment`.
 Find the Papers Relating to a Specific Feature
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Bruce text
-
-Find the Subsystems Supported by a Set of Functional Roles
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Bruce text
-
-Determine the Evidence of Quality for a Genome
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Phillipe's task: What does the "evidence of quality" for a genome mean?
-
-Find the Closest N Genomes to a Particular Genome
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Phillipe's task: Given a genome get the closest N genomes.
+This information is displayed in the right-hand column of the :doc:`/user_guides/organisms_gene/overview`.
 
