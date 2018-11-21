@@ -34,6 +34,18 @@ Extract as Many Complete Genomes as Possible from a Meta-Genomic Sample
 The :doc:`/user_guides/services/metagenome_binning_service` provides this function.  For a tutorial,
 see :doc:`/tutorial/metagenomic_binning/metagenomic_binning`.
 
+Annotate a New Genome and Compare it to Similar Genomes in PATRIC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This combines several of the tasks listed elsewhere on this page.  The
+Comprehensive Genome Analysis service takes either reads or contigs and
+creates a private genome integrated into the PATRIC database. It also
+creates a web page describing the genome and places it into a phylogenetic
+tree.  There is a tutorial on how to use this service
+`here </tutorial/comprehensive-genome-analysis/comprehensive-genome-analysis>`_.
+In :doc:`/tutorial/comprehensive-genome-analysis/cga-results` we show how to
+look at the results, find the closest genomes, and compare the protein families.
+
+
 Working with Taxonomic Groups
 -----------------------------
 
