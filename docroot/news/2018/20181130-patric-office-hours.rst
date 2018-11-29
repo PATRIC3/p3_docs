@@ -6,7 +6,7 @@ PATRIC Office Hours, November 30, 2018, 11:00am EST
 .. feed-entry::
    :date: 2018-11-30
 
-Have a question on data or how to do something in PATRIC?  We’re trying something new.  On Friday, November 30th between 2 and 3 pm EST we will have our first in a series of office hours.  Login to the Zoom account listed below and ask a question, and we will show you how it can be answered using PATRIC.  No registration is required, but please contact Rebecca Wattam (wattam@virginia.edu) if you plan to attend.
+Have a question on data or how to do something in PATRIC?  We’re trying something new.  On Friday, November 30th between 11 and 12 am EST we will have our first in a series of office hours.  Login to the Zoom account listed below and ask a question, and we will show you how it can be answered using PATRIC.  No registration is required, but please contact Rebecca Wattam (wattam@virginia.edu) if you plan to attend.
 
 .. cut::
 
