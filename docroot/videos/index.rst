@@ -10,5 +10,5 @@ Below are short YouTube instructional videos to help with performing common usef
    circular_genome_viewer
    create_genome_group
    id_mapper
-   mulitiple_sequence_alignment
+   multiple_sequence_alignment
    using_genome_group
