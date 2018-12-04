@@ -4,6 +4,7 @@ Archives 2018
 .. toctree::
    :maxdepth: 1
 
+   20181204-instructional-videos.rst
    20181130-patric-office-hours.rst
    20181120-genome-annotation-webinar.rst
    20181023-patric-september-2018-release.rst
