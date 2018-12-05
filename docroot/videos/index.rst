@@ -5,10 +5,9 @@ Below are short YouTube instructional videos to help with performing common usef
 
 .. toctree::
    :maxdepth: 1
-   :caption: Instructional Videos
    
-   circular_genome_viewer
+   cicular_genome_viewer
    create_genome_group
    id_mapper
    multiple_sequence_alignment
-   using_genome_group
+   using_genome_group.md
