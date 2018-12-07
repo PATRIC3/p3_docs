@@ -4,7 +4,7 @@ The top-level Services Menu provides access to wide range of services and tools 
 
 .. image:: ./images/services_menu.png
 
-Clicking on one of the menu items will display an input form for the the corresponding analysis service, as described below. Note that registration and login is required for most of the analysis services. 
+Clicking on one of the menu items will display an input form for the the corresponding analysis service, as described below. Note that registration and login is required for most of the analysis services.
 
 Genomics
 ---------
@@ -20,6 +20,7 @@ Genomics
    services/variation_analysis_service.md
    services/tn_seq_analysis_service.md
    services/phylogenetic_tree_building_service.md
+   services/genome_alignment_service.md
 
 
 Transcriptomics
