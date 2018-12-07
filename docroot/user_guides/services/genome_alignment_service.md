@@ -44,7 +44,7 @@ the first pass of anchoring the alignment. When aligning divergent genomes or al
 weights may provide better sensitivity. However, because Mauve also requires the matching seeds must to be unique in each
 genome, setting this value too low will reduce sensitivity.
 
-**hmm-p-go-unrelated:**  Probability of transitioning from the unrelated to the homologous state.
+**hmm-p-go-homologous:**  Probability of transitioning from the unrelated to the homologous state.
 
 **hmm-p-go-unrelated:**  Probability of transitioning from the homologous to the unrelated state
 
