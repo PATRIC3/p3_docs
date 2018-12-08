@@ -29,7 +29,7 @@ The assembly component of the **Metagenomic Binning Service** has been migrated 
 
 The **RNA-Seq Analysis Service** now supports direct import of sequence data from SRA, alleviating the need to first download the data from SRA and then upload into the service. The `RNA-Seq Analysis Service <https://patricbrc.org/app/Rnaseq>`_ is available from the Services top menu. 
 
-The **Tn-Seq Analysis Service** has been updated to use a new version of the TRANSIT software. The `Tn-Seq Service <https://patricbrc.org/app/Tnseq>`_ is available from the Services top menu.
+The **Tn-Seq Analysis Service** has been updated to use a new version of the TRANSIT software. The `Tn-Seq Analysis Service <https://patricbrc.org/app/Tnseq>`_ is available from the Services top menu.
 
 PATRIC now has an **Instructional Videos** featuring demonstrations onf how to perform some common useful tasks in PATRIC. The `Instructional Videos <https://docs.patricbrc.org/videos/>`_ page is available from the top Help menu. All PATRIC videos and recorded webinars are also available from the `PATRIC YouTube channel <https://www.youtube.com/user/PATRICBRC>`_.
 
