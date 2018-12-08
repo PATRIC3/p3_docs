@@ -6,7 +6,7 @@ PATRIC November 2018 Data and Website Release
 .. feed-entry::
    :date: 2018-12-07
 
-This PATRIC release includes a new Bacteriophage resource including over 4,700 phage genomes, over 5,000 new *Salmonella enterica* genomes with AMR panel data, over 9600 additional new bacterial and archeal genomes, updated protein functions and families, updated subsystems, and updated AMR genes.
+This PATRIC release includes a new Genome Comparison Service; enhancements to the Metagenomic Binning, Tn-Seq, and RNA-Seq Services; 5 new instructional videos; and over 10,000 new microbial genomes.  
 
 .. cut::
 
@@ -24,6 +24,10 @@ New Website Features:
 ----------------------
 
 **Genome Comparison Service** This new service (Beta version) implements wraps progressiveMauve to produce and a whole genome alignment of two or more genomes. The resulting alignment can be visualized within the PATRIC website, providing insight into homologous regions and changes due to DNA recombination. The `Genome Comparison Service <https://patricbrc.org/app/GenomeAlignment>`_ is available from the Services top menu.
+
+The assembly component of the **Metagenomic Binning Service** has been migrated to a 1024-node cluster, enabling a 10-fold increase in the throughput of assembly-based binning jobs. The `Metagenomic Binning Service <https://patricbrc.org/app/MetagenomeBinning>`_ is available from the Services top menu.
+
+The **RNA-Seq Analysis Service** now supports direct import of sequence data from SRA, alleviating the need to first download the data from SRA and then upload into the service. The `RNA-Seq Analysis Service <https://patricbrc.org/app/Rnaseq>`_ is available from the Services top menu. 
 
 
 PATRIC now has bacteriophage genome data and related functionalty. Included are 4,722 phage genomes from GenBank, annotated using PATRIC’s phage-specific annotation service. Phage protein families have been constructed to support comparative analysis. The `Similar Genome Finder Service
