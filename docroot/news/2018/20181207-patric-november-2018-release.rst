@@ -31,22 +31,12 @@ The **RNA-Seq Analysis Service** now supports direct import of sequence data fro
 
 The **Tn-Seq Analysis Service** has been updated to use a new version of the TRANSIT software. The `Tn-Seq Service <https://patricbrc.org/app/Tnseq>`_ is available from the Services top menu.
 
+PATRIC now has an `Instructional Videos page <https://docs.patricbrc.org/videos/>`_ featuring demonstrations onf how to perform some common useful tasks in PATRIC. The Instructional 
+. All PATRIC videoS and recorded webinars are also available from the `PATRIC YouTube channel <https://www.youtube.com/user/PATRICBRC>`_.
 
-
-
-PATRIC now has bacteriophage genome data and related functionalty. Included are 4,722 phage genomes from GenBank, annotated using PATRIC’s phage-specific annotation service. Phage protein families have been constructed to support comparative analysis. The `Similar Genome Finder Service
-<https://patricbrc.org/app/GenomeDistance>`_ can be used to identify similar genomes and phage genes and proteins cam be searched using the new phage-specific `BLAST
-<https://patricbrc.org/app/BLAST>`_ databases.  All phages and related data are accessible from the PATRIC homepage, `here
-<https://patricbrc.org/view/Taxonomy/10239>`_.  
-
-
-Migrated the assembly component of the Metagenomic Binning analysis tool to take advantage of Bebop, a 1024-node cluster operated by the Laboratory Computing Resource Center at Argonne National Laboratory, enabling an order-of-magnitude increase in the throughput of assembly-based binning jobs
-
-Enhancement to RNA-Seq Service to enable direct import of sequence data from SRA
-
-Enhancement to the Tn-Seq Service to use the new version of the TRANSIT software from Tom Ioerger’s group (Omics4TB)
-
-Five new short instructional videos demonstrating how to perform some common useful tasks in PATRIC
-
-
-
+ - Creating a Genome Group
+ - ID Mapping - finding genes
+ - Finding genes in a Genome Group
+ - Adding a Track to the Circular Genome Viewer
+ - Generating a Multiple Sequence Alignment
+ 
