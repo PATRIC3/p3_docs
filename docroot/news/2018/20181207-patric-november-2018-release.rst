@@ -29,6 +29,10 @@ The assembly component of the **Metagenomic Binning Service** has been migrated 
 
 The **RNA-Seq Analysis Service** now supports direct import of sequence data from SRA, alleviating the need to first download the data from SRA and then upload into the service. The `RNA-Seq Analysis Service <https://patricbrc.org/app/Rnaseq>`_ is available from the Services top menu. 
 
+The **Tn-Seq Analysis Service** has been updated to use a new version of the TRANSIT software. The `Tn-Seq Service <https://patricbrc.org/app/Tnseq>`_ is available from the Services top menu.
+
+
+
 
 PATRIC now has bacteriophage genome data and related functionalty. Included are 4,722 phage genomes from GenBank, annotated using PATRIC’s phage-specific annotation service. Phage protein families have been constructed to support comparative analysis. The `Similar Genome Finder Service
 <https://patricbrc.org/app/GenomeDistance>`_ can be used to identify similar genomes and phage genes and proteins cam be searched using the new phage-specific `BLAST
