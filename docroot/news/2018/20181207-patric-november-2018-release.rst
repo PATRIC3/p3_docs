@@ -23,7 +23,7 @@ In this release, PATRIC has added over 10,000 new genomes and associated metadat
 New Website Features:
 ----------------------
 
-**Genome Alignment Service** This new service (Beta version) implements wraps progressiveMauve to produce and a whole genome alignment of two or more genomes. The resulting alignment can be visualized within the PATRIC website, providing insight into homologous regions and changes due to DNA recombination. The `Genome Alignment Service <https://patricbrc.org/app/GenomeAlignment>`_ is available from the Services top menu.
+**Genome Alignment Service** This new service (Beta version) incorporates progressiveMauve to produce and a whole genome alignment of two or more genomes. The resulting alignment can be visualized within the PATRIC website, providing insight into homologous regions and changes due to DNA recombination. The `Genome Alignment Service <https://patricbrc.org/app/GenomeAlignment>`_ is available from the Services top menu.
 
 The assembly component of the **Metagenomic Binning Service** has been migrated to a 1024-node cluster, enabling a 10-fold increase in the throughput of assembly-based binning jobs. The `Metagenomic Binning Service <https://patricbrc.org/app/MetagenomeBinning>`_ is available from the Services top menu.
 
