@@ -1,4 +1,14 @@
 [{
+    "title": "PATRIC November 2018 Data and Website Release",
+    "desc": "This PATRIC release includes a new Genome Alignment Service; enhancements to the Metagenomic Binning, Tn-Seq, and RNA-Seq Services; 5 new instructional videos; and over 10,000 new microbial genomes.",
+    "img": "https://docs.patricbrc.org/_static/announcements/november-release-2018.png",
+    "link": "https://docs.patricbrc.org/news/2018/20181207-patric-november-2018-release.html" 
+},{
+    "title": "Introducing PATRIC Instructional Videos",
+    "desc": "In addition to the current Tutorials, User Guides, and Webinars, PATRIC now features short instructional YouTube videos that demonstrate how to perform a useful task in the PATRIC website",
+    "img": "https://docs.patricbrc.org/_static/announcements/instructional-videos.png",
+    "link": "https://docs.patricbrc.org/news/2018/20181204-instructional-videos.html"
+},{
     "title": "PATRIC Office Hours",
     "desc": "Have a question on data or how to do something in PATRIC? We’re trying something new. On Friday, November 30th between 2 and 3 pm EST we will have our first in a series of office hours.",
     "img": "https://docs.patricbrc.org/_static/announcements/office-hours.png",
