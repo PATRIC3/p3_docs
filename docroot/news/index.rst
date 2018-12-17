@@ -9,9 +9,9 @@ News
    :description: PATRIC News RSS feed
    :link: https://docs.patricbrc.org/
 
+   2018/20181207-patric-november-2018-release
+   2018/20181204-instructional-videos
    2018/20181130-patric-office-hours
-   2018/20181120-genome-annotation-webinar
-   2018/20181023-patric-september-2018-release
    
 .. toctree::
    :maxdepth: 2
