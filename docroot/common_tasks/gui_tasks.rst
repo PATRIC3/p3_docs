@@ -26,13 +26,17 @@ Create an Annotated Genome from a set of contigs and Estimate its Quality
 PATRIC provides an annotation service that constructs a private genome from
 contigs and produces a quality report.  See :doc:`/tutorial/genome_annotation/annotation`
 for instructions on submitting the contigs, and :doc:`/tutorial/genome_quality_report/genome_quality_report`
-to read the quality report.
+to read the quality report.  A sample contigs input file and the resulting job output
+can be seen `here <https://patricbrc.org/workspace/rastuser25@patricbrc.org/Common.Task.Examples/Annotation>`.
+Note that most of the links in the Genome Report will not work because all annotated genomes are private
+to the annotating user.
 
 Extract as Many Complete Genomes as Possible from a Meta-Genomic Sample
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The :doc:`/user_guides/services/metagenome_binning_service` provides this function.  For a tutorial,
-see :doc:`/tutorial/metagenomic_binning/metagenomic_binning`.
+see :doc:`/tutorial/metagenomic_binning/metagenomic_binning`.  Example input files for binning and
+their results can be found `here <https://patricbrc.org/workspace/public/PATRIC@patricbrc.org/PATRIC%20Workshop/Metagenome%20Binning/ICU%20Metagenome>`.
 
 Annotate a New Genome and Compare it to Similar Genomes in PATRIC
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -100,7 +104,8 @@ file is in the tutorial :doc:`/tutorial/genome_quality_report/genome_quality_rep
 Find the Closest N Genomes to a Particular Genome
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Use the :doc:`/tutorial/similar_genome_finder/similar_genome_finder`.
+Use the :doc:`/tutorial/similar_genome_finder/similar_genome_finder`.  For more information
+read :doc:`user_guides/services/similar_genome_finder_service`.
 
 
 Working with Protein Families
@@ -122,7 +127,7 @@ Working with Features
 ---------------------
 
 
-Find the Sequence, Translation, and Other Known Attributes of a Gene
+Find the Sequence, Protein Translation, and Other Known Attributes of a Gene
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The many attributes of a feature are displayed on the :doc:`/user_guides/organisms_gene/overview`.
@@ -130,7 +135,8 @@ The many attributes of a feature are displayed on the :doc:`/user_guides/organis
 Find the Upstream Region of a Gene
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The upstream region can be seen most clearly using the :doc:`/user_guides/organisms_gene/compare_region_viewer`.
+The upstream region can be seen most clearly using the :doc:`/user_guides/organisms_gene/compare_region_viewer`.  The
+upstream region is shown to the left of the red arrow.
 
 Find All the Genes in the Same Protein Family As A Feature
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

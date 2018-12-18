@@ -27,7 +27,8 @@ The ID is a clickable link.  Clicking it will take you to the protein family pag
 Finding a Protein Family by ID
 ------------------------------
 
-If you know the protein family ID, you can enter the ID in the search bar.  Select *Genomic Features* in
+If you know the protein family ID, you can enter the ID in the search bar.  In the example below, we
+are looking for the family **PGF_03747214**.  Select *Genomic Features* in
 the drop down to get the list of features in the family.
 
 .. image:: images/protein_family_id.png

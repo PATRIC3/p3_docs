@@ -12,12 +12,12 @@ The Genome Annotation Service in PATRIC [1] uses the RAST tool kit (RASTtk) [2] 
 
 ![Step 2](./images/image2.png "Step 2")
 
-## Finding contigs from an assembly that have been uploaded
+## Using contigs from an assembly that has been uploaded
 1.  Researchers can upload contigs from an assembly job completed in PATRIC or from an external source (see Assembling a genome in PATRIC, parts VII and VIII). Once contigs have been uploaded to the workspace, they need to be submitted to the annotation service. To do this, click on the down arrow that follows the text box underneath Contigs (Red arrow).
 
     ![Step 3](./images/image3.png "Step 3")
 
-2. This will open up a drop-down box that will show all the assemblies that currently in the researcher’s private workspace. Click on the one of interest to upload it. The name will then appear in the text box beneath the word Contigs.
+2. This will open up a drop-down box that will show all the assemblies that currently in the researcher's private workspace. Click on the one of interest to upload it. The name will then appear in the text box beneath the word Contigs.
 
     ![Step 4](./images/image4.png "Step 4")
 

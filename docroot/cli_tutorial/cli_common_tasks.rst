@@ -867,10 +867,6 @@ return the ID and functional assignment using alternate IDs.
 
 .. code::
 
-    p3-echo 24379558 | p3-find-features --attr patric_id,product gi
-
-.. code::
-
     id  feature.patric_id   feature.product
     24379558    fig|210007.7.peg.1009   Pantothenate kinase (EC 2.7.1.33)
 
