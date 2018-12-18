@@ -27,7 +27,7 @@ PATRIC provides an annotation service that constructs a private genome from
 contigs and produces a quality report.  See :doc:`/tutorial/genome_annotation/annotation`
 for instructions on submitting the contigs, and :doc:`/tutorial/genome_quality_report/genome_quality_report`
 to read the quality report.  A sample contigs input file and the resulting job output
-can be seen `here <https://patricbrc.org/workspace/rastuser25@patricbrc.org/Common.Task.Examples/Annotation>`.
+can be seen `here <https://patricbrc.org/workspace/rastuser25@patricbrc.org/Common.Task.Examples/Annotation>`_.
 Note that most of the links in the Genome Report will not work because all annotated genomes are private
 to the annotating user.
 
@@ -36,7 +36,7 @@ Extract as Many Complete Genomes as Possible from a Meta-Genomic Sample
 
 The :doc:`/user_guides/services/metagenome_binning_service` provides this function.  For a tutorial,
 see :doc:`/tutorial/metagenomic_binning/metagenomic_binning`.  Example input files for binning and
-their results can be found `here <https://patricbrc.org/workspace/public/PATRIC@patricbrc.org/PATRIC%20Workshop/Metagenome%20Binning/ICU%20Metagenome>`.
+their results can be found `here <https://patricbrc.org/workspace/public/PATRIC@patricbrc.org/PATRIC%20Workshop/Metagenome%20Binning/ICU%20Metagenome>`_.
 
 Annotate a New Genome and Compare it to Similar Genomes in PATRIC
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
