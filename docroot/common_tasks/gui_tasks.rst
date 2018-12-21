@@ -45,7 +45,7 @@ Comprehensive Genome Analysis service takes either reads or contigs and
 creates a private genome integrated into the PATRIC database. It also
 creates a web page describing the genome and places it into a phylogenetic
 tree.  There is a tutorial on how to use this service
-`here </tutorial/comprehensive-genome-analysis/comprehensive-genome-analysis.html>`_.
+:doc:`here </tutorial/comprehensive-genome-analysis/comprehensive-genome-analysis>`.
 In :doc:`/tutorial/comprehensive-genome-analysis/cga-results` we show how to
 look at the results, find the closest genomes, and compare the protein families.
 
@@ -91,7 +91,7 @@ Visually Compare the Protein Families in a Set of Genomes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This is described at :doc:`/tutorial/protein_family_sorter/protein_family_sorter`.  A description of
-the output and how to manipulate it can be found `here </user_guides/organisms_taxon/protein_families.html#protein-family-sorter-heatmap>`_
+the output and how to manipulate it can be found `here <../user_guides/organisms_taxon/protein_families.html#protein-family-sorter-heatmap>`_
 
 Determine the Evidence of Quality for a Genome
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
