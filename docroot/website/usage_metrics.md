@@ -42,9 +42,9 @@ Last month: **20,065**
 
 ### PATRIC Workshops
 
-[PATRIC Workshops:](https://patricbrc.org/webpage/website/workshops.html) **66**
+[PATRIC Workshops:](https://patricbrc.org/webpage/website/workshops.html) **69**
 
-[Total number of participants:](https://patricbrc.org/webpage/website/workshops.html) **>1900**
+[Total number of participants:](https://patricbrc.org/webpage/website/workshops.html) **>2000**
 
 [Workshop locations:](https://patricbrc.org/webpage/website/workshops.html)
 
