@@ -22,7 +22,7 @@
 <p>Wattam AR, Brettin T, Davis JJ, Gerdes S, Kenyon R, Machi D, Mao C, Olson R, Overbeek R, Pusch GD, Shukla MP, Stevens R, Vonstein V, Warren A, Xia F, Yoo H.
 <strong>Assembly, Annotation, and Comparative Genomics in PATRIC, the All Bacterial Bioinformatics Resource Center.</strong>
 Methods Mol Biol. 2018;1704:79-101.
-    PMID:<a href="https://www.ncbi.nlm.nih.gov/pubmed/29277864">29277864</a>.
+    PMID:<a href="https://www.ncbi.nlm.nih.gov/pubmed/29277864">29277864</a>. DOI: <a href="https://doi.org/10.1007/978-1-4939-7463-4_4">10.1007/978-1-4939-7463-4_4</a>
 </p>
 
 ## 2017
