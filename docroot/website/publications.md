@@ -3,7 +3,7 @@
 [**List of publications that cite PATRIC**](https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1)
 
 ## 2018
-<p>Banerjee K, Sekar P, Krishnan P, Wattam AR, Roy S, Hays JP, Menezes GA. <strong>Whole genome sequence analysis of NDM-1, CMY-4, and sHV-12 coproducing Salmonella enterica serovar typhimurium isolated from a case of fatal burn wound infection.</strong> Infection and Drug Resistance. 2018;11:2491. PMID: 30555248.
+<p>Banerjee K, Sekar P, Krishnan P, Wattam AR, Roy S, Hays JP, Menezes GA. <strong>Whole genome sequence analysis of NDM-1, CMY-4, and sHV-12 coproducing Salmonella enterica serovar typhimurium isolated from a case of fatal burn wound infection.</strong> Infection and Drug Resistance. 2018;11:2491. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30555248>30555248</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6278884/">PMC6278884</a>.
 </p>
 
 <p>Folador EL, Gomide AC, Goes-Neto AR, Azevedo VA, Wattam AR. <strong>Cell Division in genus Corynebacterium: protein-protein interaction and molecular docking of SepF and FtsZ in the understanding of cytokinesis in pathogenic species.</strong> Anais da Academia Brasileira de Ciências. 2018 Aug. 90(2 suppl 1):2179-2188. doi: 10.1590/0001-3765201820170385. Epub 2018 Feb 15. PMID: 29451601.
