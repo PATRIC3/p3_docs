@@ -16,7 +16,7 @@
 <p>Nguyen M, Long SW, McDermott PF, Olsen RJ, Olson R, Stevens RL, Tyson GH, Zhao S, Davis JJ. <strong>Using machine learning to predict antimicrobial minimum inhibitory concentrations and associated genomic features for nontyphoidal Salmonella.</strong> Journal of clinical microbiology. 2018 Oct 17:JCM-01260. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+30333126">30333126</a>. DOI: <a href="https://doi.org/10.1128/JCM.01260-18">10.1128/JCM.01260-18</a>.
 </p>
 
-<p>Viana MV, Sahm A, Neto AG, Figueiredo HC, Wattam AR, Azevedo V. <strong>Rapidly evolving changes and gene loss associated with host switching in Corynebacterium pseudotuberculosis.</strong> PloS one. 2018 Nov 12;13(11):e0207304. PMID: 30419061.
+<p>Viana MV, Sahm A, Neto AG, Figueiredo HC, Wattam AR, Azevedo V. <strong>Rapidly evolving changes and gene loss associated with host switching in Corynebacterium pseudotuberculosis.</strong> PloS one. 2018 Nov 12;13(11):e0207304. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+30419061>30419061</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6231662/">PMC6231662</a>.
 </p>
 
 <p>Wattam AR, Brettin T, Davis JJ, Gerdes S, Kenyon R, Machi D, Mao C, Olson R, Overbeek R, Pusch GD, Shukla MP, Stevens R, Vonstein V, Warren A, Xia F, Yoo H.
