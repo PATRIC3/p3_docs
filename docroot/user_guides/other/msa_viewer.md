@@ -1,21 +1,21 @@
 # Mulitiple Sequence Alignment Viewer
 
 ## Overview
-The Multiple Sequence Alignment (MSA) Viewer provides an interactive visualization of a nucleic acid or amino acid multiple sequence alignment.  It has a linked interactive tree viewer. 
+The Multiple Sequence Alignment (MSA) Viewer provides an interactive visualization of a nucleic acid or amino acid multiple sequence alignment produced by MUSCLE (Edgar 2004).  It has a linked interactive tree viewer. 
 
 ### See also
   * [Features Tab](../organisms_taxon/features.html)
 
 ## Accessing the MSA Viewer on the PATRIC Website
-The MSA can be accessed by selecting a set of features in the Features Tab or any other table that contains features/genes (nucleotide sequences) or proteins (amino acid sequences), then clicking the MSA button in the vertical green Action Bar to the right of the table. 
+The MSA can be accessed by selecting a set of features in the Features Tab or any other table that contains features/genes (nucleotide sequences) or proteins (amino acid sequences), then clicking the MSA button in the vertical green Action Bar to the right of the table, as shown below: 
 
 ![MSA Action Button Selection](../images/msa_action_button_select.png)
 
-Results will be shown in the MSA Viewer, shown below.
+Results will be shown in the MSA Viewer, shown below:
 
 ![MSA Viewer](../images/msa_nucleotide.png)
 
-
+The visualization has 3 main components: 1) Gene tree on the left-hand side that is constructed based on the alignment; 2) Sequence logo across the top wherein the hight of the letter corresponds to the amount of conservation of the corresponding nucleotide or amino acid; and 3) the multiple sequence alignment in the main body of the visualization.
 
 ### Protein Families Filter Tool
 The Filter Tool on the left side (also used for the Protein Family Sorter, described below) provides options for selecting protein family type, presence/absence by genome, keyword, perfect/non-perfect families, and number of proteins per family.  These options are described below.
@@ -58,3 +58,8 @@ The following options may be accessed from a pop-up widow by clicking on any ind
 * **Cancel:** Closes the pop-up window.
 
 The [Comparing Protein Families Across Genomes Tutorial](https://docs.patricbrc.org//tutorial/protein_family_sorter/protein_family_sorter.html) provides additional information and guidance in using the Protein Family Sorter.
+
+Edgar, R.C. (2004) MUSCLE: multiple sequence alignment with high accuracy and high throughput
+  Nucleic Acids Res. 32(5):1792-1797 [Link to PubMed]. 
+
+
