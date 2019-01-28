@@ -59,7 +59,7 @@ The following options may be accessed from a pop-up widow by clicking on any ind
 
 The [Comparing Protein Families Across Genomes Tutorial](https://docs.patricbrc.org//tutorial/protein_family_sorter/protein_family_sorter.html) provides additional information and guidance in using the Protein Family Sorter.
 
-Edgar, R.C. (2004) MUSCLE: multiple sequence alignment with high accuracy and high throughput
-  Nucleic Acids Res. 32(5):1792-1797 [Link to PubMed]. 
+* Edgar, R.C. (2004) MUSCLE: multiple sequence alignment with high accuracy and high throughput
+  Nucleic Acids Res. 32(5):1792-1797.
 
 
