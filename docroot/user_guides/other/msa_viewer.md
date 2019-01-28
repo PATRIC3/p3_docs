@@ -9,9 +9,12 @@ The Multiple Sequence Alignment (MSA) Viewer provides an interactive visualizati
 ## Accessing the MSA Viewer on the PATRIC Website
 The MSA can be accessed by selecting a set of features in the Features Tab or any other table that contains features/genes (nucleotide sequences) or proteins (amino acid sequences), then clicking the MSA button in the vertical green Action Bar to the right of the table. 
 
-![MSA Viewer](../images/msa_viewer.png)
+![MSA Action Button Selection](../images/msa_action_button_select.png)
 
 Results will be shown in the MSA Viewer, shown below.
+
+![MSA Viewer](../images/msa_nucleotide.png)
+
 
 
 ### Protein Families Filter Tool
