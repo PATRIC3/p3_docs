@@ -3,14 +3,26 @@
 [**List of publications that cite PATRIC**](https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1)
 
 ## 2018
+<p>Banerjee K, Sekar P, Krishnan P, Wattam AR, Roy S, Hays JP, Menezes GA. <strong>Whole genome sequence analysis of NDM-1, CMY-4, and sHV-12 coproducing Salmonella enterica serovar typhimurium isolated from a case of fatal burn wound infection.</strong> Infection and Drug Resistance. 2018;11:2491. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30555248">30555248</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6278884/">PMC6278884</a>.
+</p>
+
+<p>Folador EL, Gomide AC, Goes-Neto AR, Azevedo VA, Wattam AR. <strong>Cell Division in genus Corynebacterium: protein-protein interaction and molecular docking of SepF and FtsZ in the understanding of cytokinesis in pathogenic species.</strong> Anais da Academia Brasileira de Ciências. 2018 Aug. 90(2 suppl 1):2179-2188. doi: 10.1590/0001-3765201820170385. Epub 2018 Feb 15. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+29451601">29451601</a>. DOI: <a href="https://doi.org/10.1590/0001-3765201820170385">10.1590/0001-3765201820170385</a>.
+</p>
+
 <p>Nguyen M, Brettin T, Long SW, Musser JM, Olsen RJ, Olson R, Shukla M, Stevens RL, Xia F, Yoo H, Davis JJ.  <strong>Developing an in silico minimum inhibitory concentration panel test for Klebsiella pneumoniae.</strong> Sci Rep. 2018 Jan 11;8(1):421. doi: 10.1038/s41598-017-18972-w. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+29323230">29323230</a>.
 	PMCID:<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5765115/">PMC5765115</a>.
+</p>
+
+<p>Nguyen M, Long SW, McDermott PF, Olsen RJ, Olson R, Stevens RL, Tyson GH, Zhao S, Davis JJ. <strong>Using machine learning to predict antimicrobial minimum inhibitory concentrations and associated genomic features for nontyphoidal Salmonella.</strong> Journal of clinical microbiology. 2018 Oct 17:JCM-01260. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+30333126">30333126</a>. DOI: <a href="https://doi.org/10.1128/JCM.01260-18">10.1128/JCM.01260-18</a>.
+</p>
+
+<p>Viana MV, Sahm A, Neto AG, Figueiredo HC, Wattam AR, Azevedo V. <strong>Rapidly evolving changes and gene loss associated with host switching in Corynebacterium pseudotuberculosis.</strong> PloS one. 2018 Nov 12;13(11):e0207304. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+30419061">30419061</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6231662/">PMC6231662</a>.
 </p>
 
 <p>Wattam AR, Brettin T, Davis JJ, Gerdes S, Kenyon R, Machi D, Mao C, Olson R, Overbeek R, Pusch GD, Shukla MP, Stevens R, Vonstein V, Warren A, Xia F, Yoo H.
 <strong>Assembly, Annotation, and Comparative Genomics in PATRIC, the All Bacterial Bioinformatics Resource Center.</strong>
 Methods Mol Biol. 2018;1704:79-101.
-    PMID:<a href="https://www.ncbi.nlm.nih.gov/pubmed/29277864">29277864</a>.
+    PMID:<a href="https://www.ncbi.nlm.nih.gov/pubmed/29277864">29277864</a>. DOI: <a href="https://doi.org/10.1007/978-1-4939-7463-4_4">10.1007/978-1-4939-7463-4_4</a>
 </p>
 
 ## 2017

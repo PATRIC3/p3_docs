@@ -4,47 +4,47 @@ PATRIC monitors website traffic, analysis jobs, citations, publications, worksho
 ## Website Traffic
 
 ### Pageviews
-6-month total: **809,785**   
+6-month total: **799,115**   
 
-Last month: **118,781**
+Last month: **109,317**
 
-![Pageviews 6 months](./images/pageviews_6_months_Aug2018.png)
+![Pageviews 6 months](./images/pageviews_6_months_Dec2018.png)
 
 ### Sessions
-6-month total: **89,618**   
+6-month total: **91,623**   
 
-Last month: **15,334** 
+Last month: **11,976** 
 
-![Sessions 6 months](./images/sessions_6_months_Aug2018.png)
+![Sessions 6 months](./images/sessions_6_months_Dec2018.png)
 
 ### Unique Users
-6-month total: **27,454**   
+6-month total: **27,608**   
 
-Last month: **5,905**
+Last month: **4,059**
 
-![Users 6 months](./images/users_6_months_Aug2018.png)
+![Users 6 months](./images/users_6_months_Dec2018.png)
 
 ## Analysis Service Jobs
-6-month total: **33,791**   
+6-month total: **67,962**   
 
-Last month: **5,331**
+Last month: **20,065**
 
-![Service Jobs 6 months](./images/analysis_jobs_6_months_Aug2018.png)
+![Service Jobs 6 months](./images/analysis_jobs_6_months_Dec2018.png)
 
 
 ## Cumulative Metrics
 
 ### Citations and Publications
 
-[Publications that cite PATRIC/RAST:](https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1) **>7,900**
+[Publications that cite PATRIC/RAST:](https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1) **>8,500**
 
-[PATRIC Publications:](https://patricbrc.org/webpage/website/publications.html) **77**
+[PATRIC Publications:](https://patricbrc.org/webpage/website/publications.html) **82**
 
 ### PATRIC Workshops
 
-[PATRIC Workshops:](https://patricbrc.org/webpage/website/workshops.html) **66**
+[PATRIC Workshops:](https://patricbrc.org/webpage/website/workshops.html) **69**
 
-[Total number of participants:](https://patricbrc.org/webpage/website/workshops.html) **>1900**
+[Total number of participants:](https://patricbrc.org/webpage/website/workshops.html) **>2000**
 
 [Workshop locations:](https://patricbrc.org/webpage/website/workshops.html)
 
