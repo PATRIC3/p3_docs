@@ -1,7 +1,7 @@
 # Mulitiple Sequence Alignment Viewer
 
 ## Overview
-The Multiple Sequence Alignment (MSA) Viewer provides an interactive visualization of a nucleic acid or amino acid multiple sequence alignment with a linked interactive tree viewer. 
+The Multiple Sequence Alignment (MSA) Viewer provides an interactive visualization of a nucleic acid or amino acid multiple sequence alignment with a linked interactive tree viewer. Results presented in the MSA Viewer are generated using FastTree (Price 2009) and Gblocks (Castresana 2002), and Muscle (Edgar 2004).
 
 ### See also
   * [Features Tab](../organisms_taxon/features.html)
@@ -23,11 +23,11 @@ Results, whether nucleotide or amino acid, will be shown in the MSA Viewer, as s
 
 The visualization has 3 main components:
   1. Gene tree on the left-hand side that is constructed based on the alignment
-  2. Sequence logo across the top wherein the hight of the letter corresponds to the amount of conservation of the corresponding nucleotide or amino acid
-  3. The multiple sequence alignment in the main body of the visualization.
+  2. Multiple sequence alignment in the main body of the visualization.
+  3. Sequence logo across the top wherein the hight of the letter corresponds to the amount of conservation of the corresponding nucleotide or amino acid
 
 ### Gene tree
-The gene tree on the left-hand side is generated using FastTree (Price 2009) and Gblocks (Castresana 2002). Clicking on a single sequence item in the tree selects that item, as indicated with a small check mark and a red line in the tree branch.  A set of corresponding actions becomes available in the vertical green Action Bar on the right side of the visualization (explained in detail in _Action buttons_ section below).  Also, additional information and metadata about the selected item will be displayed in the information panel on the far right.  See figure below.
+The gene tree on the left-hand side is generated using . Clicking on a single sequence item in the tree selects that item, as indicated with a small check mark and a red line in the tree branch.  A set of corresponding actions becomes available in the vertical green Action Bar on the right side of the visualization (explained in detail in _Action buttons_ section below).  Also, additional information and metadata about the selected item will be displayed in the information panel on the far right.  See figure below.
 
 ![MSA Viewer - Select Item in Tree](../images/msa_node_select.png)
 
@@ -35,13 +35,10 @@ Clicking on a node in the treee selects all items in that branch, as indicated b
 
 ![MSA Viewer - Select Branch Node](../images/msa_branch_select2.png)
 
+### Multiple Sequence Alignment and Sequence Logo
 
+The multiple sequence alignment is 
 
-
-### Sequence Logo
-
-
-### Multiple Sequence Alignment
 
 ### Action buttons
 
