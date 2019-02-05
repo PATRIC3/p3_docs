@@ -13,8 +13,10 @@ The MSA can be accessed by selecting a set of features in the Features Tab or an
 
 Results, whether nucleotide or amino acid, will be shown in the MSA Viewer, as shown in the figures below:
 
+**Nucleotide MSA**
 ![MSA Viewer - Nucleotide](../images/msa_nucleotide.png)
 
+**Amino Acid MSA**
 ![MSA Viewer - Amino Acid](../images/msa_amino_acid.png)
 
 ## Features and Functionality
