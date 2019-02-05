@@ -33,7 +33,7 @@ The gene tree on the left-hand side is generated using FastTree (Price 2009) and
 
 Clicking on a node in the treee selects all items in that branch, as indicated by check marks and red lines in that branch of the tree. 
 
-![MSA Viewer - Select Branch Node](../images/msa_branch_select.png)
+![MSA Viewer - Select Branch Node](../images/msa_branch_select2.png)
 
 
 
