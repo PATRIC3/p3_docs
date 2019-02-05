@@ -37,17 +37,16 @@ Clicking on a node in the treee selects all items in that branch, as indicated b
 
 ### Multiple Sequence Alignment and Sequence Logo
 
-The multiple sequence alignment is 
-
+The multiple sequence alignment shows color-coded alginment of the letters in the sequnces in columns. The color scheme can be changed using the Colors button in the vertical green Action Bar on right side of the aignment. The sequence logo shows the amount of consservation of the letters in that column, indicated by the height of the corresponding letter.  A scrollbar between the seqeunce logo and alignment allows horizontal scrolling across the entire alignment.
 
 ### Action buttons
 
 After selecting one or more of the experiments by clicking the checkbox beside the Title column in the table, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
 
 * **Hide/Show:** Toggles (hides) the right-hand side Details Pane.
-* **Colors:** 
-* **ID Type:** 
-* **Filter:** 
+* **Colors:** Displays a list of color coding options for the sequence alignment and logo.
+* **ID Type:** Allows changing labels on in gene tree from genome name to genomes ID.
+* **Filter:** Allows filtering (hiding) of columns based on % conservation and % gaps
 * **Group:** Opens a pop-up window to enable adding the selected sequences to an existing or new group in the private workspace.
 * **MSA:** (Re-)launches the PATRIC Multiple Sequence Alignment (MSA) tool and aligns the selected features by DNA or protein sequence in an interactive viewer.
 * **Feature:** Loads the Feature Page for the selected feature. *Available only if a single feature is selected.*
@@ -55,12 +54,6 @@ After selecting one or more of the experiments by clicking the checkbox beside t
 * **Genome:** Loads the Genome View Overview page corresponding to the selected feature.  *Available only if a single feature is selected.*
 * **Genomes:** Loads the Genomes Table, listing the genomes that correspond to the selected features. *Available only if multiple features are selected.*
 * **Download:**  Downloads the selected items (rows).
-
-
-* **Copy:** Copies the selected items to the clipboard.
-* **FASTA:** Provides the FASTA DNA or protein sequence for the selected feature(s).
-* **ID Map:** Provides the option to map the selected feature(s) to multiple other idenfiers, such as RefSeq and UniProt.
-* **Pathway:** Loads the Pathway Summary Table containing a list of all the pathways in PATRIC in which the selected features are found.
 
 ## References
 * Castresana, J. (2002). Gblocks, v. 0.91 b. Online version available at: http://molevol.cmima.csic.es/castresana/Gblocks_server.html.
