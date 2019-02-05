@@ -15,27 +15,10 @@ Results will be shown in the MSA Viewer, shown below:
 
 ![MSA Viewer](../images/msa_nucleotide.png)
 
-The visualization has 3 main components: 1) Gene tree on the left-hand side that is constructed based on the alignment; 2) Sequence logo across the top wherein the hight of the letter corresponds to the amount of conservation of the corresponding nucleotide or amino acid; and 3) the multiple sequence alignment in the main body of the visualization.
-
-### Protein Families Filter Tool
-The Filter Tool on the left side (also used for the Protein Family Sorter, described below) provides options for selecting protein family type, presence/absence by genome, keyword, perfect/non-perfect families, and number of proteins per family.  These options are described below.
-
-![Protein Families Filter Tool](../images/protein_families_filter_tool.png)
-
-
-## Protein Family Sorter Heatmap
-![Protein Family Sorter Heatmap](../images/protein_family_sorter_heatmap.png)
-
-The Heatmap is an interactive visualization tool that provides an overview of the distribution of genomes across the set of protein families that comprise them, subject to the applied filter criteria set by the Protein Family Filter Tool to the left of the heatmap. Patterns visible in a Heatmap can allow for many types of analysis such as a providing a bird's-eye view of the conservation (or lack thereof) of particular genes of interest, discerning how many proteins have the same function within a single genome, and identifying proteins with multiple homologs or paralogs across a set of genomes.
-
-**Color Coding**  
-
-Each cell is colored according to how many proteins from a
-specific genome are assigned a particular protein family. 
-* **Black:** No proteins from the genome assigned that protein family 
-* **Bright yellow:** One protein assigned
-* **Dark yellow:** Two proteins assigned
-* **Dark orange:** Three or more proteins assigned
+The visualization has 3 main components:
+  1. Gene tree on the left-hand side that is constructed based on the alignment
+  2. Sequence logo across the top wherein the hight of the letter corresponds to the amount of conservation of the corresponding nucleotide or amino acid
+  3. The multiple sequence alignment in the main body of the visualization.
 
 **Features and Functionality**
 
