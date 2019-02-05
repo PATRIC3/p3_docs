@@ -1,7 +1,7 @@
 # Mulitiple Sequence Alignment Viewer
 
 ## Overview
-The Multiple Sequence Alignment (MSA) Viewer provides an interactive visualization of a nucleic acid or amino acid multiple sequence alignment produced by MUSCLE (Edgar 2004).  It has a linked interactive tree viewer. 
+The Multiple Sequence Alignment (MSA) Viewer provides an interactive visualization of a nucleic acid or amino acid multiple sequence alignment with a linked interactive tree viewer. 
 
 ### See also
   * [Features Tab](../organisms_taxon/features.html)
@@ -25,7 +25,7 @@ The visualization has 3 main components:
   3. The multiple sequence alignment in the main body of the visualization.
 
 ### Gene tree
-The gene tree on the left-hand side is generated using phylotree.js (Shank 2018). Clicking on a single sequence item in the tree selects that item.  A set of corresponding actions becomes available in the vertical green Action Bar on the right side of the visualization.  Also, additional information and metadata about the selected item will be displayed in the information panel on the far right.  See figure below.
+The gene tree on the left-hand side is generated using FastTree and GBLOCKS (Shank 2018). Clicking on a single sequence item in the tree selects that item.  A set of corresponding actions becomes available in the vertical green Action Bar on the right side of the visualization.  Also, additional information and metadata about the selected item will be displayed in the information panel on the far right.  See figure below.
 
 ![MSA Viewer - Nucleotide](../images/msa_node_select.png)
 
@@ -55,5 +55,7 @@ The [Comparing Protein Families Across Genomes Tutorial](https://docs.patricbrc.
 * Edgar, R.C. (2004) MUSCLE: multiple sequence alignment with high accuracy and high throughput
   Nucleic Acids Res. 32(5):1792-1797.
   
-* Shank, S. D., Weaver, S., & Pond, S. L. K. (2018). phylotree. js-a JavaScript library for application development and interactive data visualization in phylogenetics. BMC bioinformatics, 19(1), 276.
+* Castresana, J. (2002). Gblocks, v. 0.91 b. Online version available at: http://molevol. cmima. csic. es/castresana. Gblocks_server. html.
+
+Price, M. N., Dehal, P. S., & Arkin, A. P. (2009). FastTree: computing large minimum evolution trees with profiles instead of a distance matrix. Molecular biology and evolution, 26(7), 1641-1650.
 
