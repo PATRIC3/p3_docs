@@ -66,7 +66,7 @@ After selecting one or more of the experiments by clicking the checkbox beside t
 * **Pathway:** Loads the Pathway Summary Table containing a list of all the pathways in PATRIC in which the selected features are found.
 
 ## References
-* Castresana, J. (2002). Gblocks, v. 0.91 b. Online version available at: http://molevol. cmima. csic. es/castresana. Gblocks_server. html.
+* Castresana, J. (2002). Gblocks, v. 0.91 b. Online version available at: http://molevol.cmima.csic.es/castresana/Gblocks_server.html.
 * Edgar, R.C. (2004) MUSCLE: multiple sequence alignment with high accuracy and high throughput
   Nucleic Acids Res. 32(5):1792-1797.
 * Price, M. N., Dehal, P. S., & Arkin, A. P. (2009). FastTree: computing large minimum evolution trees with profiles instead of a distance matrix. Molecular biology and evolution, 26(7), 1641-1650.
