@@ -11,16 +11,26 @@ The MSA can be accessed by selecting a set of features in the Features Tab or an
 
 ![MSA Action Button Selection](../images/msa_action_button_select.png)
 
-Results will be shown in the MSA Viewer, shown below:
+Results, whether nucleotide or amino acid, will be shown in the MSA Viewer, as shown in the figures below:
 
-![MSA Viewer](../images/msa_nucleotide.png)
+![MSA Viewer - Nucleotide](../images/msa_nucleotide.png)
+
+![MSA Viewer - Amino Acid](../images/msa_amino_acid.png)
+
+## Features and Functionality
 
 The visualization has 3 main components:
   1. Gene tree on the left-hand side that is constructed based on the alignment
   2. Sequence logo across the top wherein the hight of the letter corresponds to the amount of conservation of the corresponding nucleotide or amino acid
   3. The multiple sequence alignment in the main body of the visualization.
 
-**Features and Functionality**
+### Gene tree
+The gene tree on the left-hand side is generated using phylotree.js (Shank 2018). Clicking on a single sequence item in the tree selects that item.  A set of corresponding actions becomes available in the vertical green Action Bar on the right side of the visualization.  Also, additional information and metadata about the selected item will be displayed in the information panel on the far right.  See figure below.
+
+![MSA Viewer - Nucleotide](../images/msa_node_select.png)
+
+
+
 
 Genomes are listed along the Y (vertical) axis and corresponding Protein Families are listed along the X (horizontal) axis. The scale of these rows and columns may be controlled by sliding the x and/or y slidebars located at the axis intersection in the upper left corner of the Heatmap. Action buttons on the top right of the heatmap provide additional display options:
 
@@ -44,5 +54,6 @@ The [Comparing Protein Families Across Genomes Tutorial](https://docs.patricbrc.
 
 * Edgar, R.C. (2004) MUSCLE: multiple sequence alignment with high accuracy and high throughput
   Nucleic Acids Res. 32(5):1792-1797.
-
+  
+* Shank, S. D., Weaver, S., & Pond, S. L. K. (2018). phylotree. js-a JavaScript library for application development and interactive data visualization in phylogenetics. BMC bioinformatics, 19(1), 276.
 
