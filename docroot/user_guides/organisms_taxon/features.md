@@ -6,6 +6,7 @@ The Features Tab provides a table of all the annotated genomic features (gene, C
 ### See also
   * [Genome Annotations](../organisms_taxon/genome_annotations.html)
   * [Genome Page Overview](../organisms_genome/overview.html)
+  * [Multiple Sequence Alignment Viewer](../other/msa_viewer.html)
 
 ## Accessing the Features Table on the PATRIC Website
 Clicking the Features Tab in a Taxon View displays the Features Table (shown below), listing all the annotated genomic features corresponding to the set of genomes in the selected taxon level.
