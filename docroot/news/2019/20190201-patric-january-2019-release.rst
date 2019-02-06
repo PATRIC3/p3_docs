@@ -19,4 +19,5 @@ In this release, PATRIC has added over 9,200 new genomes and associated metadata
 <https://www.patricbrc.org/view/GenomeList/?or(keyword(Bacteria),keyword(Archaea),keyword(Eukaryota))#view_tab=genomes>`__. 
 
 **Other Enhancements**
-PATRIC now provides an alternate URL scheme that uses genus+species names at the end of the URL string instead of taxonomy IDs for accessing taxonomic levels in the site.  For example, the full _Mycobacterium_ genus taxon level can be accessed at https://patricbrc.org/view/Taxonomy/Mycobacterium and the _Mycobacterium tuberculosis_ species taxon level can be accessed at https://patricbrc.org/view/Taxonomy/Mycobacterium+tuberculosis. This provides a more intuitive naming scheme for easily sharing URLs for PATRIC for specific organism groups.
+PATRIC now provides an alternate URL scheme that uses genus+species names at the end of the URL string instead of taxonomy IDs for accessing taxonomic levels in the site.  For example, the full *Mycobacterium* genus taxon level can be accessed at https://patricbrc.org/view/Taxonomy/Mycobacterium and the *Mycobacterium tuberculosis*
+species taxon level can be accessed at https://patricbrc.org/view/Taxonomy/Mycobacterium+tuberculosis. This provides a more intuitive naming scheme for easily sharing URLs for PATRIC for specific organism groups.
