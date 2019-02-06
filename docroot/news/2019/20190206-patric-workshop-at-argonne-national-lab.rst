@@ -1,12 +1,12 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2018/20180815-patric-workshop-at-argonne-national-lab.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2019/20190206-patric-workshop-at-argonne-national-lab.rst
 
-PATRIC/RAST Workshop at Argonne National Laboratory, October 23-25, 2018
+PATRIC/RAST Workshop at Argonne National Laboratory, April 16-18, 2019
 =========================================================================
 
 .. feed-entry::
-   :date: 2018-08-15
+   :date: 2019-02-06
 
-The PATRIC/RAST teams will be offering a tutorial workshop October 23-25, 2018, at Argonne National Laboratory in the suburbs of Chicago, IL. The workshop will run for three days, with the third day optional and devoted solely to participants working on their own problems with help from the PATRIC/RAST team members.
+The PATRIC/RAST teams will be offering a tutorial workshop April 16-18, 2019, at Argonne National Laboratory in the suburbs of Chicago, IL. The workshop will run for three days, with the third day optional and devoted solely to participants working on their own problems with help from the PATRIC/RAST team members.
 
 .. cut::
 
