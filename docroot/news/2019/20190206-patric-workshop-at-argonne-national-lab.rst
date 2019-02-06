@@ -18,13 +18,13 @@ NOTE: All workshop attendees must also separately fill out the “Argonne Visito
 
 Argonne National Laboratory
 
-Building 402, Lower Level Gallery
+240 Conference Center, Rooms 1405-1406-1407
 
 Argonne, IL 60439
 
 **DRAFT AGENDA**
 
-Tuesday, October 23, 2018
+Tuesday, April 16
 ::
 
    9:00 am   Register for PATRIC Account, Overview (www.patricbrc.org)           
@@ -53,7 +53,7 @@ Tuesday, October 23, 2018
 
    5:00 pm   Day 1 Adjourn
 
-Wednesday, October 24, 2018
+Wednesday, April 17
 
 ::
 
@@ -80,7 +80,7 @@ Wednesday, October 24, 2018
    5:00 pm   Day 2 Adjourn 
 
 
-Thursday, October 25, 2018
+Thursday, April 18
 ::
 
    9:00 am   Introduction to PATRIC Command Line Interface (CLI)
