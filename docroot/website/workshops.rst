@@ -19,8 +19,8 @@ PATRIC 3
 +----------------------------------------------+---------------+---------+--------------+
 | Institute/Conference                         | Location      | Date    | Participants |
 +==============================================+===============+=========+==============+
-| University of California, Los Angeles        | Los Angeles,  | Aug '18 |    29        |
-|                                              | CA            |         |              |
+| Albert Einstein College of Medicine          | New York,     | Jan '19 |    14        |
+|                                              | NY            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
 | Fort Detrick                                 | Frederick,    | Dec '18 |    23        |
 |                                              | MD            |         |              |
