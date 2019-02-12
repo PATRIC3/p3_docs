@@ -8,21 +8,21 @@ PATRIC monitors website traffic, analysis jobs, citations, publications, worksho
 
 Last month: **148,780**
 
-![Pageviews 6 months](./images/pageviews_6_months_Dec2018.png)
+![Pageviews 6 months](./images/pageviews_6_months_Jan2019.png)
 
 ### Sessions
 6-month total: **92,373**   
 
 Last month: **16,558** 
 
-![Sessions 6 months](./images/sessions_6_months_Dec2018.png)
+![Sessions 6 months](./images/sessions_6_months_Jan2019.png)
 
 ### Unique Users
 6-month total: **27,745**   
 
 Last month: **5,575**
 
-![Users 6 months](./images/users_6_months_Dec2018.png)
+![Users 6 months](./images/users_6_months_Jan2019.png)
 
 ## Analysis Service Jobs
 6-month total: **67,962**   
