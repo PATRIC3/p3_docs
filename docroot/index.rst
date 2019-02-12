@@ -12,12 +12,12 @@ PATRIC Documentation Home
    :maxdepth: 2
    :caption: Contents:
 
-   tutorial/index
-   cli_tutorial/index
    user_guides/index
+   tutorial/index
    common_tasks/index
-   webinar/index
+   cli_tutorial/index
    news/index
+   webinar/index
    system_architecture/index
    brochure/brochure
    website/privacy_policy
