@@ -2,6 +2,8 @@
  Using the PATRIC Metagenomic Binning Service
 ==============================================
 
+For a description of how the service constructs the bins, see :doc:`/tutorial/binning_overview`.
+
 Basic Steps
 ===========
 
@@ -18,8 +20,7 @@ Basic Steps
 Log in to the PATRIC Website
 ----------------------------
 
-See `Registration User Guide
-<https://docs.patricbrc.org/user_guides/registration.html>`_ for information on logging in to the PATRIC website.
+See :doc:`Registration User Guide </user_guides/registration>` for information on logging in to the PATRIC website.
 Once you are registered and logged in, you should see something like this:
 
 .. image:: images/website.png
@@ -29,8 +30,8 @@ Provide an input file
 
 Input to the Binning Service must be found in a PATRIC workspace. You
 can upload files or use pre-existing files in your Workspace or
-in other Workspaces available to you. See `Workspace User Guide
-<https://docs.patricbrc.org/user_guides/workspaces/workspace.html>`_ for more information about using the PATRIC Workspaces.
+in other Workspaces available to you. See :doc:`Workspace User Guide </user_guides/workspaces/workspace>` for
+more information about using the PATRIC Workspaces.
 
 You can supply paired reads for assembly,
 or you can supply assembled contigs.
@@ -109,3 +110,5 @@ above screenshot. The run we made previously today was job SRR218806
 and spawned two annotation jobs. When all the spawned jobs are
 complete, the Binning Service run is complete. Refresh your page to
 see the updated status in the right-side panel.
+
+

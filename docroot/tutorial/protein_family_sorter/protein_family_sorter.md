@@ -2,17 +2,17 @@
 
 The Protein Family Sorter tool enables researchers to examine the distribution of specific protein families across different genomes.
 
-**Keywords:** Comparative genomics, Protein family comparison, Protein family analysis, Protein families, Pan proteome, Core proteome, Accessory proteome, Conserved protein families, Presence/absence, Heatmap, Clustering. 
+**Keywords:** Comparative genomics, Protein family comparison, Protein family analysis, Protein families, Pan proteome, Core proteome, Accessory proteome, Conserved protein families, Presence/absence, Heatmap, Clustering.
 
 ## I.  Locating the Protein Family Sorter tool.
-1. At the top of any PATRIC page, find the Services tab. Click on Genome Groups.
+1. At the top of any PATRIC page, find the Services tab. Click on *Protein Family Sorter*.
 ![Step 1](./images/image1.png)
 
 2. This will open the landing page for the Protein Family Sorter tool.
 ![Step 2](./images/image2.png)
 
 ## II. Selecting Individual Genomes
-1. To include any genome (reference, representative, other public, or private genomes), click on the filter button to narrow the selection and deselect the categories that are not of interest. 
+1. To include any genome (reference, representative, other public, or private genomes), click on the filter button to narrow the selection and deselect the categories that are not of interest.
 ![Step 3](./images/image3.png)
 
 2. Typing in the text box will show a list of the genomes available that contain that text.  Private genomes are indicated by a Lock symbol.  Once the genome of interest is located, clicking on it will fill the box.
@@ -74,7 +74,7 @@ The Protein Family Sorter tool enables researchers to examine the distribution o
 ![Step 20](./images/image20.png)
 
 ## IX. Protein Family Sorter – Heatmap – Anchoring a genome
-1. The protein family sorter allows users to see the protein families in the order that they appear in any given genome.  This process is called anchoring a genome.  To re-order the protein families, click on the Anchor icon that can be seen at the upper right above the heatmap (red arrow).  This will open a box, where, if clicking on the down arrow, the list of all the genomes in the heatmap will appear.  Click on the genome of interest (blue arrow). 
+1. The protein family sorter allows users to see the protein families in the order that they appear in any given genome.  This process is called anchoring a genome.  To re-order the protein families, click on the Anchor icon that can be seen at the upper right above the heatmap (red arrow).  This will open a box, where, if clicking on the down arrow, the list of all the genomes in the heatmap will appear.  Click on the genome of interest (blue arrow).
 ![Step 21](./images/image21.png)
 
 2. The protein families in the heatmap will be reloaded to show the presence and absence of protein families across all the genomes, in the order that the genes occur in the genome that was selected as the anchor.
