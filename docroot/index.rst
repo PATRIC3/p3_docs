@@ -15,11 +15,13 @@ PATRIC Documentation Home
    tutorial/index
    cli_tutorial/index
    user_guides/index
+   common_tasks/index
    webinar/index
    news/index
    system_architecture/index
    brochure/brochure
    website/privacy_policy
+
 
 .. Indices and tables
 .. ==================
