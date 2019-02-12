@@ -105,7 +105,7 @@ Find the Closest N Genomes to a Particular Genome
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Use the :doc:`/tutorial/similar_genome_finder/similar_genome_finder`.  For more information
-read :doc:`user_guides/services/similar_genome_finder_service`.
+read :doc:`/user_guides/services/similar_genome_finder_service`.
 
 
 Working with Protein Families
