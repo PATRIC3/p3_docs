@@ -1,4 +1,14 @@
 [{
+    "title": "PATRIC/RAST Workshop at Argonne National Laboratory, April 16-18, 2019",
+    "desc": "The PATRIC/RAST teams will be offering a tutorial workshop April 16-18, 2019, at Argonne National Laboratory in the suburbs of Chicago, IL.",
+    "img": "https://docs.patricbrc.org/_static/announcements/workshop-1.png",
+    "link": "https://docs.patricbrc.org/news/2019/20190206-patric-workshop-at-argonne-national-lab.html"
+},{
+    "title": "PATRIC January 2019 Data Release",
+    "desc": "This PATRIC release includes over 9,200 new genomes bringing the total to over 215,000, as well as other minor enhancements.",
+    "img": "https://docs.patricbrc.org/_static/announcements/jan-release-2019.png",
+    "link": "https://docs.patricbrc.org/news/2019/20190201-patric-january-2019-release.html" 
+},{
     "title": "PATRIC November 2018 Data and Website Release",
     "desc": "This PATRIC release includes a new Genome Alignment Service; enhancements to the Metagenomic Binning, Tn-Seq, and RNA-Seq Services; 5 new instructional videos; and over 10,000 new microbial genomes.",
     "img": "https://docs.patricbrc.org/_static/announcements/november-release-2018.png",
@@ -8,14 +18,4 @@
     "desc": "In addition to the current Tutorials, User Guides, and Webinars, PATRIC now features short instructional YouTube videos that demonstrate how to perform a useful task in the PATRIC website",
     "img": "https://docs.patricbrc.org/_static/announcements/instructional-videos.png",
     "link": "https://docs.patricbrc.org/news/2018/20181204-instructional-videos.html"
-},{
-    "title": "PATRIC Office Hours",
-    "desc": "Have a question on data or how to do something in PATRIC? We’re trying something new. On Friday, November 30th between 2 and 3 pm EST we will have our first in a series of office hours.",
-    "img": "https://docs.patricbrc.org/_static/announcements/office-hours.png",
-    "link": "https://docs.patricbrc.org/news/2018/20181130-patric-office-hours.html"
-},{
-    "title": "PATRIC Webinar – Genome Annotation Service, November 20, 2018, 11:00am EST",
-    "desc": "We will be offering a PATRIC webinar that demonstrates submitting an annotation job and examining the results once it is completed on November 20th at 11:00am EST.",
-    "img": "https://docs.patricbrc.org/_static/announcements/annotation-webinar-2018.png",
-    "link": "https://docs.patricbrc.org/news/2018/20181120-genome-annotation-webinar.html" 
 }]
