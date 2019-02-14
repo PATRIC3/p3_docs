@@ -4,6 +4,7 @@
 
 Common Tasks in PATRIC
 ======================
+This page provides a summary of links to various documents (User Guides, Tutorials), organized by common tasks in PATRIC.
 
 .. toctree::
    :maxdepth: 3
