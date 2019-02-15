@@ -92,7 +92,7 @@ Either SNP caller is run with the default parameters. The raw SNPs are then filt
 4b. These files can be opened using excel to easily see the different variants.
 ![Step 24](./images/image24.png)
 
-5. The **lbs.txt** file. This is a text file that describes the libraries used in the comparison.
+5. The **libs.txt** file. This is a text file that describes the libraries used in the comparison.
 ![Step 25](./images/image25.png)
 
 6. The **summary.txt** files. This file provides a summary of the analysis. For each library it shows the number of reads, those that mapped to the reference, the number of bases in the reference, the median base coverage, bases with zero coverage, bases with less than (or equal to) 10 reads coverage, the raw variants that are detected by the variation calling tool, and those variants that have a high quality score.
