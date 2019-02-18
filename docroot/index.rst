@@ -18,6 +18,7 @@ PATRIC Documentation Home
    cli_tutorial/index
    news/index
    webinar/index
+   videos/index
    system_architecture/index
    brochure/brochure
    website/privacy_policy
