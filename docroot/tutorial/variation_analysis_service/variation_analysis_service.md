@@ -107,6 +107,29 @@ Either SNP caller is run with the default parameters. The raw SNPs are then filt
 9. The **.html** file. The HyperText Markup Language (HTML) file will open a webpage that shows the same data available in the .tsv file. This table can be sorted by clicking on the column headers.
 ![Step 29](./images/image29.png)
 
+* Samples - internal library read name. The corresponding user library read name can be found in libs.txt
+* Contig - contig name
+* Pos - position of the variation
+* Ref - reference nucleotide(s) at the variation position
+* Var - variant nucleotide(s) at the variation position
+* Score - quality score from the variant caller tool
+* Var_cov - variant coverage (the average read depth of the variant)
+* Var_frac - variant fraction (the fraction of the variant read depth among the all the reads that cover this region)
+* Type - variant type
+* Ref_nt - reference nucleotide(s)
+* Var_nt - variant nucleotide(s)
+* Ref_nt_pos_change - nucleotide change
+* Ref_aa_pos_change - amino acid change
+* Frameshift - frameshift variant
+* Gene_ID - PATRIC feature (peg) id
+* Locus_tag - RefSeq locus tag
+* Gene_name - gene name
+* Function - function description
+* Upstream_feature - upstream feature
+* Downstream_feature - downstream feature
+* snpEff_type - snpEFF variant type
+* snpEff_impact - snpEFF variant impact
+
 10.The **var.vcf.gz.tbi** file. This is a file that can be uploaded into a genome browser for viewing. The PATRIC variant analysis service provides a .var.vcf.gz.tbi file for each of the read libraries that were loaded.
 
 ## VII. Viewing snps on the genome browser
