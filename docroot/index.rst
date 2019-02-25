@@ -12,6 +12,7 @@ PATRIC Documentation Home
    :maxdepth: 2
    :caption: Contents:
 
+   data/index
    user_guides/index
    tutorial/index
    common_tasks/index
