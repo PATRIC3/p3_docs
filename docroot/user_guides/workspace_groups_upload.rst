@@ -12,4 +12,4 @@ Clicking on one of the menu items will display the corresponding workspace or re
    workspaces/workspace
    workspaces/groups
    workspaces/data_upload
-   workspaces/private_genome
+   workspaces/private_genomes
