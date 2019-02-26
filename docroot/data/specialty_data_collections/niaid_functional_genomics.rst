@@ -1,2 +1,0 @@
-NIAID Functional Genomics
-==========================
