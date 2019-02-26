@@ -11,9 +11,9 @@ PATRIC allows users to have their own private genomes stored in the workspace an
   * [Genome Overview Tab](../organisms_genome/overview.html)
 
 ## Creating and Accessing Private Genomes on the PATRIC Website
-A private genome is automatically created as a result of running the Genome Annotation Service, and will appear by default in the MyGenomes folder (a different folder can be selected from the input form before running the service). 
+A private genome is automatically created as a result of running the Genome Annotation Service, and will appear by default in the MyGenomes folder. A different folder can be selected from the input form if desired before running the service. 
 
-![MyGenome Folder](../images/mygenome_folder.png)
+![MyGenome Folder](../images/mygenomes_folder.png)
 
 Once created, the new genome can be accessed by couble-clicking the MyGenomes (or other chosen) folder, which will display a list of the private genomes stored there.
 
