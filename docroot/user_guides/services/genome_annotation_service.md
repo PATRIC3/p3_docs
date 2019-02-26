@@ -41,4 +41,4 @@ protein family predictions.
 
 **Reset:** Resets the input form to default values
 
-**Assemble:** Launches the assembly job.
+**Annotate:** Launches the annotation job.
