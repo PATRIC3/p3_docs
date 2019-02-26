@@ -1,11 +1,13 @@
-# Genome Sharing
+# Private Genomes
 
-## Overview
+## Genome Sharing
 It is possible to share a genome annoted using the PATRIC Genome Annotation Service with specified other registered users. This allows these other users to interact with the genome in the PATRIC system in the same way as the user who originally annotated the genome.
 
 
 ### See also:
   * [Genome Annotation Service](../services/genome_annotation_service.html)
+  * [Genome Annotation Service Tutorial](https://docs.patricbrc.org/tutorial/genome_annotation/annotation.html)
+  * [Private Workspace](../workspaces/workspace.html)
   * [Genomes Tab](../organisms_taxon/genomes.html)
   * [Genome Overview Tab](../organisms_genome/overview.html)
 
