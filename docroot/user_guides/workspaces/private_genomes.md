@@ -15,7 +15,7 @@ A private genome is automatically created as a result of running the Genome Anno
 
 ![MyGenome Folder](../images/mygenomes_folder.png)
 
-Once created, the new genome can be accessed by couble-clicking the MyGenomes (or other chosen) folder, which will display a list of the private genomes stored there.
+Once the genome annotation has completed, the results can be accessed by double-clicking the MyGenomes (or other chosen) folder, which will display a list of the job results.  Double clicking the 
 
 ![Private Genome](../images/private_genome.png)
 
