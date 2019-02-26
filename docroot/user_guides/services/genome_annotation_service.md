@@ -41,32 +41,26 @@ protein family predictions.
 
 **Reset:** Resets the input form to default values
 
-**Annotate:** Launches the annotation job.
+**Annotate:** Launches the annotation job. A message will appear below the box to indicate that the job is now in the queue.
 
-6. A message will appear below the box to indicate that the job is now in the queue.
-
-    ![Step 17](./images/image17.png "Step 17")
+![Job Launch Message](../images/job_launch_message.png)
 
 ## Job Launch
 Clicking on the Jobs indicator at the bottom of the PATRIC page open the Jobs Status page that displays all current and previous service jobs and their status. 
 
-    ![Step 18](./images/image18.png "Step 18")
+![Jobs Indicator Bar](../images/jobs_indicator_bar.png)
 
-2. This will 
-
-    ![Step 19](./images/image19.png "Step 19")
-
-3. Once the job is completed, you can select the job by clicking on it and click the "View"
+Once the job is completed, you can select the job by clicking on it and click the "View"
 button on the right-hand bar to see the results.
 
     ![Step 20](./images/image20.png "Step 20")
 
-4. The results page will consist of a header describing the job and a list of output files,
+The results page will consist of a header describing the job and a list of output files,
 as shown below.
 
     ![Step 21](./images/image21.png "Step 21")
 
-5. The first file is *GenomeReport.html*, which is described in [Analyzing Genome Quality](/tutorial/genome_quality_report/genome_quality_report.html).
+The first file is *GenomeReport.html*, which is described in [Analyzing Genome Quality](/tutorial/genome_quality_report/genome_quality_report.html).
 This file contains a link to the genome's pages in the PATRIC Genome Browser as well as
 information about the general quality of the genome. The remaining files shown are as
 follows.
@@ -86,9 +80,6 @@ follows.
 
 
 ## References
-
-1. Wattam AR, Davis JJ, Assaf R, Boisvert S, Brettin T, Bun C, Conrad N, Dietrich EM, Disz T, Gabbard JL, Gerdes S, Henry CS, Kenyon RW, Machi D, Mao C, Nordberg EK, Olsen GJ, Murphy-Olson DE, Olson R, Overbeek R, Parrello B, Pusch GD, Shukla M, Vonstein V, Warren A, Xia F, Yoo H, Stevens RL. (2017) Improvements to PATRIC, the all-bacterial Bioinformatics Database and Analysis Resource Center. Nucleic Acids Res. 45(D1): D535-D542.
-
-2. Brettin T, Davis JJ, Disz T, Edwards RA, Gerdes S, Olsen GJ, Olson R, Overbeek R, Parrello B, Pusch GD, Shukla M, Thomason JA 3rd, Stevens R, Vonstein V, Wattam AR, Xia F. (2015). RASTtk: a modular and extensible implementation of the RAST algorithm for building custom annotation pipelines and annotating batches of genomes. Scientific reports 5: 8365.
+1. Brettin T, Davis JJ, Disz T, Edwards RA, Gerdes S, Olsen GJ, Olson R, Overbeek R, Parrello B, Pusch GD, Shukla M, Thomason JA 3rd, Stevens R, Vonstein V, Wattam AR, Xia F. (2015). RASTtk: a modular and extensible implementation of the RAST algorithm for building custom annotation pipelines and annotating batches of genomes. Scientific reports 5: 8365.
 
 
