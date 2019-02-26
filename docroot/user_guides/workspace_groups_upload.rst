@@ -13,3 +13,4 @@ Clicking on one of the menu items will display the corresponding workspace or re
    workspaces/groups
    workspaces/data_upload
    workspaces/private_genomes
+   workspaces/jobs
