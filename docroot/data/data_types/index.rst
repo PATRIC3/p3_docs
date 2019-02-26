@@ -1,9 +1,5 @@
-Data Types
-===========
-
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
 
    antibiotic_resistance
    genomes

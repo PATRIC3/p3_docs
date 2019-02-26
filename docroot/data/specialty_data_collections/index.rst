@@ -1,9 +1,5 @@
-Specialty Data Collections
-===========================
-
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
 
    patric_collaborations
    patric_dbps
