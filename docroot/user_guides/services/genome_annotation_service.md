@@ -45,20 +45,19 @@ protein family predictions.
 
 ![Job Launch Message](../images/job_launch_message.png)
 
-## Job Launch
+## Results
 Clicking on the Jobs indicator at the bottom of the PATRIC page open the Jobs Status page that displays all current and previous service jobs and their status. 
 
 ![Jobs Indicator Bar](../images/jobs_indicator_bar.png)
 
-Once the job is completed, you can select the job by clicking on it and click the "View"
-button on the right-hand bar to see the results.
+Once the job has completed, selecting the job by clicking on it and clicking the "View" button on the green vertical Action Bar on the right-hand side of the page displays the results files.
 
-    ![Step 20](./images/image20.png "Step 20")
+![Job Status Page](../images/job_status_page.png)
 
 The results page will consist of a header describing the job and a list of output files,
 as shown below.
 
-    ![Step 21](./images/image21.png "Step 21")
+![Job Results Page](../images/job_results_page.png "Job Results Page")
 
 The first file is *GenomeReport.html*, which is described in [Analyzing Genome Quality](/tutorial/genome_quality_report/genome_quality_report.html).
 This file contains a link to the genome's pages in the PATRIC Genome Browser as well as
