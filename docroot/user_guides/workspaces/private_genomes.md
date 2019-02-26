@@ -1,5 +1,13 @@
 # Private Genomes
 
+## Overview
+PATRIC allows users to have their own private genomes stored in the workspace and also available integrated with the rest of the PATRIC public genome data to enable comparative analysis.
+
+
+
+
+
+
 ## Genome Sharing
 It is possible to share a genome annoted using the PATRIC Genome Annotation Service with specified other registered users. This allows these other users to interact with the genome in the PATRIC system in the same way as the user who originally annotated the genome.
 
