@@ -59,24 +59,17 @@ as shown below.
 
 ![Job Results Page](../images/job_results_page.png "Job Results Page")
 
-The first file is *GenomeReport.html*, which is described in [Analyzing Genome Quality](/tutorial/genome_quality_report/genome_quality_report.html).
-This file contains a link to the genome's pages in the PATRIC Genome Browser as well as
-information about the general quality of the genome. The remaining files shown are as
-follows.
+The Genome Annotation Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
-*   **contigs.fasta** contains the assembled contigs of the genome in DNA FASTA format.
-*   **embl** contains an EMBL dump of the annotated genome.
-*   **feature_dna.fasta** contains all the feature sequences of the genome in DNA FASTA format.
-*   **feature_protein.fasta** contains all the protein sequences of the genome in protein
-    FASTA format.
-*   **features.txt** is a tab-delimited text file listing all the features of the genome.
-    For each feature, it contains the PATRIC ID, the location string, the feature type,
-    the functional assignment, any alternated IDs found, and (for protein-coding genes)
-    the protein MD5 checksum.
-*   **gb** contains the annotated genome in GENBANK format.
-*   **genome** contains a special "Genome Typed Object (GTO)" JSON-format file that encapsulates all the data from the annotated genome. See [Extracting and Mining Genome Typed Objects](https://docs.patricbrc.org/cli_tutorial/cli_getting_started.html#extracting-and-mining-genome-typed-objects-gtos) for more information.
-*   **gff** lists all the features of the genome in General Feature Format.
-
+* **contigs.fasta** - contains the assembled contigs of the genome in DNA FASTA format.
+* **embl** - contains an EMBL dump of the annotated genome.
+* **feature_dna.fasta** - contains all the feature sequences of the genome in DNA FASTA format.
+* **feature_protein.fasta** - contains all the protein sequences of the genome in protein FASTA format.
+* **features.txt** - is a tab-delimited text file listing all the features of the genome. For each feature, it contains the PATRIC ID, the location string, the feature type, the functional assignment, any alternated IDs found, and (for protein-coding genes) the protein MD5 checksum.
+* **.gb** - contains the annotated genome in GENBANK format.
+* **.genome** - contains a special "Genome Typed Object (GTO)" JSON-format file that encapsulates all the data from the annotated genome. See [Extracting and Mining Genome Typed Objects](https://docs.patricbrc.org/cli_tutorial/cli_getting_started.html#extracting-and-mining-genome-typed-objects-gtos) for more information.
+* **.gff** - lists all the features of the genome in General Feature Format.
+* **GenomeReport.html** - contains summary report of the genome qualtiy, described in [Analyzing Genome Quality] (/tutorial/genome_quality_report/genome_quality_report.html). Also contains a link to the genome in the PATRIC Genome Browser.
 
 ## References
 1. Brettin T, Davis JJ, Disz T, Edwards RA, Gerdes S, Olsen GJ, Olson R, Overbeek R, Parrello B, Pusch GD, Shukla M, Thomason JA 3rd, Stevens R, Vonstein V, Wattam AR, Xia F. (2015). RASTtk: a modular and extensible implementation of the RAST algorithm for building custom annotation pipelines and annotating batches of genomes. Scientific reports 5: 8365.
