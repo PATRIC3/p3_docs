@@ -12,15 +12,13 @@ PATRIC allows users to have their own private genomes stored in the workspace an
   * [Genome Overview Tab](../organisms_genome/overview.html)
 
 ## Creating and Accessing Private Genomes on the PATRIC Website
-A private genome is automatically created as a result of running the Genome Annotation Service, and will appear by default in the MyGenomes folder. A different folder can be selected from the input form if desired before running the service. 
+A private genome is automatically created as a result of running the Genome Annotation Service, and will appear by default in the MyGenomes folder. A different folder can be selected from the input form if desired before running the service. Once the genome annotation has completed, the results can be accessed by double-clicking the MyGenomes (or other chosen) folder, which will display a list of the job results. 
 
 ![MyGenome Folder](../images/mygenomes_folder.png)
 
-Once the genome annotation has completed, the results can be accessed by double-clicking the MyGenomes (or other chosen) folder, which will display a list of the job results. 
+Double-clicking the job will open the corresponding results page that consists of a header describing the genome annotation job and a list of output files. Details of the job results output are provided in the [Genome Annotation Service User Guide](https://docs.patricbrc.org//user_guides/services/genome_annotation_service.html)
 
 ![MyGenomes List](../images/mygenomes_list.png)
-
-The results page will consist of a header describing the genome annotation job and a list of output files. Details of the job results output are provided in the [Genome Annotation Service User Guide](https://docs.patricbrc.org//user_guides/services/genome_annotation_service.html)
 
 
 
