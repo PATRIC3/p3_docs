@@ -107,6 +107,7 @@ Either SNP caller is run with the default parameters. The raw SNPs are then filt
 9. The **.html** file. The HyperText Markup Language (HTML) file will open a webpage that shows the same data available in the .tsv file. This table can be sorted by clicking on the column headers.
 ![Step 29](./images/image29.png)
 
+The list below shows the title and information about each column, from left to right.
 * Samples - internal library read name. The corresponding user library read name can be found in libs.txt
 * Contig - contig name
 * Pos - position of the variation
