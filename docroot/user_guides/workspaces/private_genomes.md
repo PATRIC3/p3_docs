@@ -16,11 +16,11 @@ A private genome is automatically created as a result of running the Genome Anno
 
 ![MyGenome Folder](../images/mygenomes_folder.png)
 
-Double-clicking the job will open the corresponding results page that consists of a header describing the genome annotation job and a list of output files. Details of the job results output are provided in the [Genome Annotation Service User Guide](https://docs.patricbrc.org//user_guides/services/genome_annotation_service.html)
+Double-clicking the job will open the corresponding results page that consists of a header describing the genome annotation job and a list of output files. 
 
 ![MyGenomes List](../images/mygenomes_list.png)
 
-
+Details of the job results output are provided in the [Genome Annotation Service User Guide](https://docs.patricbrc.org//user_guides/services/genome_annotation_service.html)
 
 ## Using Private Genomes in the PATRIC Website
 
