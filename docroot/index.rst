@@ -15,10 +15,10 @@ PATRIC Documentation
    news/index
    webinar/index
    videos/index
-   system_architecture/index
-   usage_metrics/index
    workshops/index
    presentations/index
+   system_architecture/index
+   usage_metrics/index
 
 .. toctree::
    :maxdepth: 2
