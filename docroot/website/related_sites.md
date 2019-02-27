@@ -1,5 +1,4 @@
-Related Sites
-=============
+# Related Sites
 
 ## Other BRCs
 

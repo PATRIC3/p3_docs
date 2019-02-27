@@ -1,5 +1,5 @@
-PATRIC Data
-===========
+Data
+=====
 
 Data Types
 -----------

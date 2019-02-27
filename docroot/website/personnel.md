@@ -1,4 +1,4 @@
-# PATRIC Personnel
+# Personnel
 
 ## University of Chicago / Argonne National Laboratory / FIG
 

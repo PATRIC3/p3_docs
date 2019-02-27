@@ -1,4 +1,4 @@
-# PATRIC Publications
+# Publications
 
 [**List of publications that cite PATRIC**](https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1)
 

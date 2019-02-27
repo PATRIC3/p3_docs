@@ -5,7 +5,7 @@ PATRIC Documentation
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: PATRIC Resources:
 
    data/index
    user_guides/index
@@ -16,5 +16,25 @@ PATRIC Documentation
    webinar/index
    videos/index
    system_architecture/index
-   brochure/brochure
+   usage_metrics/index
+   workshops/index
+   presentations/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: PATRIC Information:
+
+   website/about
+   website/contact
+   website/personnel
+   website/brochure
    website/privacy_policy
+   website/cite_patric
+   website/publications
+   website/collaborations
+   website/scientific_working_group
+   website/related_sites
+
+
+
+

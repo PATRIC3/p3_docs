@@ -1,4 +1,4 @@
-# PATRIC Brochure
+# Brochure
 The PATRIC brochure is a one-page print-friendly summary of the PATRIC resource that can be used for outreach distribution.
 
 ![PATRIC Brochure thumbnail](../website/images/patric_brochure_thumbnail.png)
