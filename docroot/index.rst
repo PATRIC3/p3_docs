@@ -34,7 +34,3 @@ PATRIC Documentation
    website/collaborations
    website/scientific_working_group
    website/related_sites
-
-
-
-
