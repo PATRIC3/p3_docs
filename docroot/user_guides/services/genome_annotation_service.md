@@ -57,7 +57,7 @@ Once the job has completed, selecting the job by clicking on it and clicking the
 The results page will consist of a header describing the job and a list of output files,
 as shown below.
 
-![Job Results Page](../images/job_results_page.png "Job Results Page")
+![Annotation Service Results Page](../images/annotation_service_results_page.png "Annotation Service Results Page")
 
 The Genome Annotation Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
