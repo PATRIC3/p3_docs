@@ -1,7 +1,7 @@
 .. toctree::
    :maxdepth: 1
 
-   antibiotic_resistance
+   antimicrobial_resistance
    genomes
    genomic_features
    pathways
