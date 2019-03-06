@@ -1,3 +1,6 @@
+Data Types
+==========
+
 .. toctree::
    :maxdepth: 1
 
