@@ -1,3 +1,6 @@
+Specialty Data Collections
+==========================
+
 .. toctree::
    :maxdepth: 1
 
