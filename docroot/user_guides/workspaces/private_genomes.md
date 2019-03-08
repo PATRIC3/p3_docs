@@ -25,6 +25,9 @@ This will display the Genomes Tab with a table containing all of the user's priv
 
 ![Genomes Tab with List of Private Genomes](../images/private_genomes_list.png)
 
+Private genomes can be used like any other genome in PATRIC. Selecting one of the genomes and clicking the Genome button in the right-hand vertical green Action Bar will display the Genome Overview for that genome.
+
+![Private Genome Overview Tab](../images/private_genome_overview_tab.png)
 
 
 
