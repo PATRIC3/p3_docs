@@ -23,7 +23,7 @@ All private genomes can be accessed together by clicking the My Genomes option f
 
 This will display the Genomes Tab with a table containing all of the user's private genomes.
 
-![Genomes Tab with Private Genomes](../images/private_genomes_tab.png)
+![Genomes Tab with List of Private Genomes](../images/private_genomes_list.png)
 
 
 
