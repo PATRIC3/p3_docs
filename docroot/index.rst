@@ -11,25 +11,27 @@ PATRIC Documentation
    tutorial/index
    common_tasks/index
    cli_tutorial/index
-   news/index
    webinar/index
    videos/index
    workshops/index
-   presentations/index
-   system_architecture/index
-   usage_metrics/index
 
 .. toctree::
    :maxdepth: 2
    :caption: PATRIC Information:
 
-   website/about
-   website/contact
-   website/personnel
-   website/brochure
-   website/privacy_policy
-   website/cite_patric
-   website/publications
-   website/collaborations
-   website/scientific_working_group
-   website/related_sites
+   about
+   contact
+   news/index
+   presentations/index
+   brochure
+   publications
+   collaborations
+   scientific_working_group
+   system_architecture/index
+   usage_metrics/index
+   github
+   personnel
+   cite_patric
+   privacy_policy
+   related_sites
+
