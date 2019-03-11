@@ -29,6 +29,9 @@ Private genomes can be used like any other genome in PATRIC. Selecting one of th
 
 ![Private Genome Overview Tab](../images/private_genome_overview.png)
 
+As described above, private genomes are integrated with public genomes in PATRIC, but are only accessible and viewable by the owner of the genome. Private genomes will be displayed whenever the context (scope) of the view includes the genome, such as in the taxonimic level. Private genomes are denoted by a "False" in the **Public** metadata field for that genome, which is readily identifable via the Filters option in the Genomes Tab, as shown below.
+
+
 
 
 
