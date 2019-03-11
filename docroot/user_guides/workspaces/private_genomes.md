@@ -17,6 +17,8 @@ A private genome is automatically created as a result of running the Genome Anno
 ## Accessing and Using Private Genomes in the PATRIC Website
 Upon successful completion of an annotation job, the resulting annotated genome is integrated into the other genome data in PATRIC, but is only viewable by the owner (submitter) of the annotation job. This integration allows use of all the PATRIC genome display and analysis tools, including comparisons with other genomes in PATRIC.
 
+### Directly Accessing Private Genomes
+
 All private genomes can be accessed together by clicking the My Genomes option from the Workspaces top menu item.
 
 ![My Genomes Menu Option](../images/my_genomes_menu_option.png)
@@ -29,7 +31,16 @@ Private genomes can be used like any other genome in PATRIC. Selecting one of th
 
 ![Private Genome Overview Tab](../images/private_genome_overview.png)
 
-As described above, private genomes are integrated with public genomes in PATRIC, but are only accessible and viewable by the owner of the genome. Private genomes will be displayed whenever the context (scope) of the view includes the genome, such as in the taxonimic level. Private genomes are denoted by a "False" in the **Public** metadata field for that genome, which is readily identifable via the Filters option in the Genomes Tab, as shown below.
+### Accessing Private Genomes in the Context of Other PATRIC Genomes
+
+As described above, private genomes are integrated with public genomes in PATRIC, but are only accessible and viewable by the owner of the genome. Private genomes will be displayed whenever the context (scope) of the view includes the genome, such as in the taxonimic level. Private genomes are denoted by a **"false"** in the *Public* metadata field (columnn) for that genome, which can be seen by adding the field to the table display by clicking the **"+"** sign in the top right corner of the table, shown below.
+
+![Public Field in Genome Metadata](../images/genomes_public_field.png)
+
+the Filters option in the Genomes Tab allows quick access to private genomes in the current context, shown below.
+
+![Genomes Filtered to Private](../images/filtered_private_genomes.png)
+
 
 
 
