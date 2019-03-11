@@ -7,6 +7,7 @@ PATRIC Documentation
    :maxdepth: 2
    :caption: PATRIC Resources:
 
+   quickstart_video
    user_guides/index
    tutorial/index
    common_tasks/index
@@ -34,4 +35,3 @@ PATRIC Documentation
    cite_patric
    privacy_policy
    related_sites
-
