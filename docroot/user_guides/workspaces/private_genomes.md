@@ -37,28 +37,14 @@ As described above, private genomes are integrated with public genomes in PATRIC
 
 ![Public Field in Genome Metadata](../images/genomes_public_field.png)
 
-the Filters option in the Genomes Tab allows quick access to private genomes in the current context, shown below.
+The Filters option in the Genomes Tab allows quick access to private genomes in the current context, shown below.
 
 ![Genomes Filtered to Private](../images/filtered_private_genomes.png)
 
-
-
-
-
-
+From the Genomes Tab, Private and public genomes can be grouped together for further comparative tools and services, such as Variation Analysis, Phylogenetic Tree, Genome Alignment, Protein Family Sorter, and Proteome Comparison. 
 
 ## Genome Sharing
-It is possible to share a genome annoted using the PATRIC Genome Annotation Service with specified other registered users. This allows these other users to interact with the genome in the PATRIC system in the same way as the user who originally annotated the genome.
-
-
-
-## Sharing Genomes on the PATRIC website
-
-When logged in, clicking on the "My Genomes" option in the Workspaces top menu displays the list of genomes that have been annotated using the Genome Annotation Service. 
-
-![Workspaces Menu](../images/workspaces_menu.png)
-
-Selecting one or more of the genomes in the table enables the "Share" button in the vertical green Action Bar on the right side of the table.
+It is possible to share a genome annoted using the PATRIC Genome Annotation Service with specified other registered PATRIC users. This allows these other users to interact with the genome in the PATRIC system in the same way as the user who originally annotated the genome. Selecting one or more of the genomes in the table enables the "Share" button in the vertical green Action Bar on the right side of the table.
 
 ![My Genomes Table](../images/my_genomes_table.png)
 
