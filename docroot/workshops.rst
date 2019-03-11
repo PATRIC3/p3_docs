@@ -1,3 +1,5 @@
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/workshops.rst
+
 Workshops
 ==========
 PATRIC provides workshops to give hands-on instruction in the use of PATRIC analysis tools and website features.  Workshops can be customized to focus on particular types of analysis, specific organisms, targeted biological systems, or data sets of interest to the participants. 

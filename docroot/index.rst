@@ -13,7 +13,7 @@ PATRIC Documentation
    cli_tutorial/index
    webinar/index
    videos/index
-   workshops/index
+   workshops
 
 .. toctree::
    :maxdepth: 2
@@ -28,7 +28,7 @@ PATRIC Documentation
    collaborations
    scientific_working_group
    systems_architecture
-   usage_metrics/index
+   usage_metrics
    github
    personnel
    cite_patric
