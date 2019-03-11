@@ -4,11 +4,7 @@ If you have questions about or would like assistance using the PATRIC website, p
 We appreciate your interest and will respond within two business days to your inquiry.
 
 ## Principal Investigator
-Rick Stevens
+Rick Stevens - [stevens@anl.gov](mailto:stevens@anl.gov)
 
 ## Project Manager
-Ron Kenyon
-
-## Email address
-[help@patricbrc.org](mailto:help@patricbrc.org)
-
+Ron Kenyon - [rkenyon@virginia.edu](mailto:rkenyon@virginia.edu)
