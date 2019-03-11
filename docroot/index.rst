@@ -22,7 +22,7 @@ PATRIC Documentation
    about
    contact
    news/index
-   presentations/index
+   presentations
    brochure
    publications
    collaborations

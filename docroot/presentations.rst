@@ -1,4 +1,7 @@
-# Presentations
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/presentations.rst
+
+Presentations
+==============
 
 Wattam A.R. (2017) “PATRIC, the bacterial bioinformatics resource center.” Presentation for the German Fulbright Summer Student Institute at the Biocomplexity Institute of Virginia Tech, Blacksburg, VA.
 
