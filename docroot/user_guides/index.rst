@@ -1,5 +1,5 @@
-PATRIC User Guides
-===================
+User Guides
+============
 
 The PATRIC website provides an entry point to integrated data and tools
 for bacterial infectious disease research. The website is organized by
@@ -12,7 +12,7 @@ and each of their features.
    :caption: Contents:
 
    organisms_tab
-   data
+   data/index
    workspace_groups_upload
    services_tab
    global_search
@@ -33,7 +33,7 @@ and each of their features.
    data tabs such as Overview, Taxonomy, Phylogeny, Genome List, Feature
    Table, Specialty Genes, etc.
 
--  `Data <data.html>`_ - links to specialized "Data Landing Pages" that provide
+-  `Data <data/index.html>`_ - links to specialized "Data Landing Pages" that provide
    overview and summary information of PATRIC data, including pages for
    Antibiotic Resistance, Genomes, Genome Features, Pathways, Protein
    Families, Specialty Genes, Transcriptomics, and special featured data

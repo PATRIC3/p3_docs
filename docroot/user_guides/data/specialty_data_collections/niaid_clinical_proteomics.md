@@ -36,3 +36,5 @@ Jacqueline M. Achkar, Laetitia Cortes, Pascal Croteau, Corey Yanofsky, Marija Me
 ## UTMB Clinical Proteomics Center
   * Biomarkers of Helicobacter pylori associated peptic ulcer disease
     - [HPylori_dataToBRC.zip](ftp://ftp.patricbrc.org/BRC_Mirrors/clinical_proteomics/UTMB/HPylori_dataToBRC.zip)
+NIAID Clinical Proteomics
+==========================

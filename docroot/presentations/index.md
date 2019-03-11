@@ -1,4 +1,4 @@
-# PATRIC Presentations
+# Presentations
 
 Wattam A.R. (2017) “PATRIC, the bacterial bioinformatics resource center.” Presentation for the German Fulbright Summer Student Institute at the Biocomplexity Institute of Virginia Tech, Blacksburg, VA.
 

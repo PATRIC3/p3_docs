@@ -1,4 +1,4 @@
-# PATRIC Privacy Policy
+# Privacy Policy
 
 The PATRIC Bioinformatics Resource Center is provided as a public resource for the research community. This Privacy Policy describes the ways PATRIC collects, stores, uses, discloses and protects the personal information about users and how they use PATRIC. PATRIC never collects information for commercial marketing or any purpose unrelated to PATRIC functions.
 

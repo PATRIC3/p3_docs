@@ -1,4 +1,4 @@
-# What is PATRIC?
+# About Us
 
 PATRIC is the ***Bacterial Bioinformatics Resource Center***, an information system designed to support the biomedical research community’s work on bacterial infectious diseases via integration of vital pathogen information with rich data and analysis tools. PATRIC sharpens and hones the scope of available bacterial phylogenomic data from numerous sources specifically for the bacterial research community, in order to save biologists time and effort when conducting comparative analyses. The freely available PATRIC platform provides an interface for biologists to discover data and information and conduct comprehensive comparative genomics and other analyses in a one-stop shop. PATRIC is a NIH/NIAID-funded project of the University of Chicago with subcontract to the Biocomplexity Institute and Initiative of the University of Virginia.
 
@@ -12,9 +12,9 @@ PATRIC is the ***Bacterial Bioinformatics Resource Center***, an information sys
 * [**Personal Private Workspace**](../user_guides/workspace_groups_upload.html) to permanently save groups of genomic data, gene associations, and uploaded private data. Both private and public data can be analyzed together using PATRIC analysis tools. Data can be shared with other registered PATRIC users.
 
 ## PATRIC Brochure
-![PATRIC Brochure thumbnail](./images/patric_brochure_thumbnail.png)
+![PATRIC Brochure thumbnail](_static/images/patric-flyer-2018.png)
 
-[Click here to view brochure](../_static/website/patric-flyer-2018.pdf)
+[Click here to download the brochure PDF](_static/files/patric-flyer-2018.pdf)
 
 ## About the University of Chicago Department of Computer Science
 The <a href="https://www.cs.uchicago.edu/" target="_blank">University of Chicago Department of Computer Science</a> (CS) is at the core of the university’s computing and data science activities. Founded in 1983, UChicago CS established itself as one of the world’s leading departments for theoretical computer science research, and has built upon that foundation in the 21st century by expanding into computer systems, cybersecurity, machine learning and artificial intelligence, human-computer interaction, and other areas at the frontier of computation and technology. UChicago CS provides a growing set of options for undergraduate, masters, and PhD students, and benefits from the University of Chicago’s excellence across the spectrum of sciences, policy, business, and medicine to form innovative and unique collaborations. In Fall 2018, UChicago CS moved into a new, state-of-the-art research and teaching facility in the John Crerar Library building.

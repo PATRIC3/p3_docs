@@ -1,10 +1,7 @@
 :github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/tutorial/index.rst
 
-.. Website Tutorial Index page
-   This page will include group pages
-
-Website Tutorials
-==================================
+Tutorials
+=========
 
 Genomics
 ---------

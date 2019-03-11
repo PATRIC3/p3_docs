@@ -1,32 +1,37 @@
-.. PATRIC documentation master file, created by
-   sphinx-quickstart on Tue Oct 10 11:57:26 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 :github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/index.rst
 
-PATRIC Documentation Home
-==================================
+PATRIC Documentation
+=====================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: PATRIC Resources:
 
    user_guides/index
    tutorial/index
    common_tasks/index
    cli_tutorial/index
-   news/index
    webinar/index
    videos/index
+   workshops/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: PATRIC Information:
+
+   about
+   contact
+   news/index
+   presentations/index
+   brochure
+   publications
+   collaborations
+   scientific_working_group
    system_architecture/index
-   brochure/brochure
-   website/privacy_policy
+   usage_metrics/index
+   github
+   personnel
+   cite_patric
+   privacy_policy
+   related_sites
 
-
-.. Indices and tables
-.. ==================
-
-.. * :ref:`genindex`
-.. * :ref:`modindex`
-.. * :ref:`search`

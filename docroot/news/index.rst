@@ -1,7 +1,7 @@
 :github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/index
 
-News
-==================================
+News Articles
+=============
 
 .. feed::
    :rss: news.rss
@@ -15,7 +15,7 @@ News
    
 .. toctree::
    :maxdepth: 2
-   :caption: News Archives:
+   :caption: News Articles Archives:
 
    2019/index
    2018/index

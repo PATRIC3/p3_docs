@@ -1,5 +1,5 @@
-PATRIC Workshops
-================
+Workshops
+==========
 PATRIC provides workshops to give hands-on instruction in the use of PATRIC analysis tools and website features.  Workshops can be customized to focus on particular types of analysis, specific organisms, targeted biological systems, or data sets of interest to the participants. 
 
 PATRIC hosts two open workshops annually, usually at Argonne National Laboratory in the suburbs of Chicago, IL. The PATRIC team can also travel to an onsite location provided that the requesting host can draw at least 20 participants and provide an appropriate training room with fast Internet access. Note that all PATRIC workshops require pre-approval by our sponsor, NIAID, and are limited in number by available funds. International workshops require special permission. To request a workshop, contact us at `help@patricbrc.org  
