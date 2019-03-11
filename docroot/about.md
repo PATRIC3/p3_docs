@@ -12,9 +12,9 @@ PATRIC is the ***Bacterial Bioinformatics Resource Center***, an information sys
 * [**Personal Private Workspace**](../user_guides/workspace_groups_upload.html) to permanently save groups of genomic data, gene associations, and uploaded private data. Both private and public data can be analyzed together using PATRIC analysis tools. Data can be shared with other registered PATRIC users.
 
 ## PATRIC Brochure
-![PATRIC Brochure thumbnail](./images/patric_brochure_thumbnail.png)
+![PATRIC Brochure thumbnail](_static/images/patric-flyer-2018.png)
 
-[Click here to view brochure](../_static/website/patric-flyer-2018.pdf)
+[Click here to download the brochure PDF](_static/files/patric-flyer-2018.pdf)
 
 ## About the University of Chicago Department of Computer Science
 The <a href="https://www.cs.uchicago.edu/" target="_blank">University of Chicago Department of Computer Science</a> (CS) is at the core of the university’s computing and data science activities. Founded in 1983, UChicago CS established itself as one of the world’s leading departments for theoretical computer science research, and has built upon that foundation in the 21st century by expanding into computer systems, cybersecurity, machine learning and artificial intelligence, human-computer interaction, and other areas at the frontier of computation and technology. UChicago CS provides a growing set of options for undergraduate, masters, and PhD students, and benefits from the University of Chicago’s excellence across the spectrum of sciences, policy, business, and medicine to form innovative and unique collaborations. In Fall 2018, UChicago CS moved into a new, state-of-the-art research and teaching facility in the John Crerar Library building.
