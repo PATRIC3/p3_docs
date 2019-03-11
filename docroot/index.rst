@@ -27,7 +27,7 @@ PATRIC Documentation
    publications
    collaborations
    scientific_working_group
-   system_architecture/index
+   system_architecture
    usage_metrics/index
    github
    personnel
