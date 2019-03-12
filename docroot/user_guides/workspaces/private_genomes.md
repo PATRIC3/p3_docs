@@ -5,7 +5,7 @@ PATRIC allows users to have their own private genomes stored in the workspace an
 
 ### See also:
   * [Genome Annotation Service User Guide](../services/genome_annotation_service.html)
-  * [Genome Annotation Service Tutorial](https://docs.patricbrc.org/tutorial/genome_annotation/annotation.html)
+  * [Genome Annotation Service Tutorial](../../tutorial/genome_annotation/annotation.html)
   * [Private Workspace](../workspaces/workspace.html)
   * [Genomes Tab](../organisms_taxon/genomes.html)
   * [Genome Overview Tab](../organisms_genome/overview.html)
