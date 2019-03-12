@@ -11,7 +11,7 @@ PATRIC allows users to have their own private genomes stored in the workspace an
   * [Genome Overview Tab](../organisms_genome/overview.html)
 
 ## Creating Private Genomes on the PATRIC Website
-A private genome is automatically created as a result of running the Genome Annotation Service. See the [Genome Annotation Service User Guide](https://docs.patricbrc.org//user_guides/services/genome_annotation_service.html) for details.
+A private genome is automatically created as a result of running the Genome Annotation Service. See the [Genome Annotation Service User Guide](../services/genome_annotation_service.html) for details.
 
 ## Accessing and Using Private Genomes in the PATRIC Website
 Upon successful completion of an annotation job, the resulting annotated genome is integrated into the other genome data in PATRIC, but is only viewable by the owner (submitter) of the annotation job. This integration allows use of all the PATRIC genome display and analysis tools, including comparisons with other genomes in PATRIC.
