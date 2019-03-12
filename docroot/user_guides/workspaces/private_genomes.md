@@ -40,7 +40,7 @@ The Filters option in the Genomes Tab allows quick access to private genomes in 
 
 ![Genomes Filtered to Private](../images/filtered_private_genomes.png)
 
-From the Genomes Tab, Private and public genomes can be grouped together for further comparative tools and services, such as Variation Analysis, Phylogenetic Tree, Genome Alignment, Protein Family Sorter, and Proteome Comparison. 
+From the Genomes Tab, Private and public genomes can be grouped together for further comparative tools and services, such as [Variation Analysis](../services/variation_analysis_service.html), [Phylogenetic Tree](../services/phylogentic_tree_building_service.html), [Genome Alignment](../services/genome_alignment_service.html), [Protein Family Sorter](../services/protein_family_service.html), and [Proteome Comparison](../services/proteome_comparison_service.html). 
 
 ## Genome Sharing
 It is possible to share a genome annoted using the PATRIC Genome Annotation Service with specified other registered PATRIC users. This allows these other users to interact with the genome in the PATRIC system in the same way as the user who originally annotated the genome. Selecting one or more of the genomes in the table enables the "Share" button in the vertical green Action Bar on the right side of the table. Clicking the Share button opens a dialog box for selecting other users with whom to share the genome.
