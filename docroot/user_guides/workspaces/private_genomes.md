@@ -4,8 +4,7 @@
 PATRIC allows users to have their own private genomes stored in the workspace and also available integrated with the rest of the PATRIC public genome data to enable comparative analysis.
 
 ### See also:
-  * [Genome Annotation Service](../services/genome_annotation_service.html)
-  * [Genome Annotation Service User Guide](https://docs.patricbrc.org//user_guides/services/genome_annotation_service.html)
+  * [Genome Annotation Service User Guide](../services/genome_annotation_service.html)
   * [Genome Annotation Service Tutorial](https://docs.patricbrc.org/tutorial/genome_annotation/annotation.html)
   * [Private Workspace](../workspaces/workspace.html)
   * [Genomes Tab](../organisms_taxon/genomes.html)
