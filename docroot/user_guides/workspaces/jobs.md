@@ -1,7 +1,7 @@
 # PATRIC Jobs
 
 ## Overview
-For most PATRIC services, when the service starts, it creates a computational "job" that runs on back-end high-performance computers which perform the analysis and return the results back to the user via the website or command line interface. The reason for this is that many services, such as Genome Annotation and Genome Assembly, require a significant amount of computational power and time to complete. The job display provides information on the status of the computation: queued, running, completed, or failed. 
+For most PATRIC services, when the service starts, it creates a computational "job" that runs on back-end high-performance computing (HPC) systems which perform the analysis and return the results back to the user via the website or command line interface. The reason for this is that many services, such as Genome Annotation and Genome Assembly, require a significant amount of computational power and time to complete. The job display provides information on the status of the computation: queued, running, completed, or failed. 
 
 ### See also:
   * [Services and Tools](../services/services_tab.html.html)
@@ -26,12 +26,14 @@ This page provides a list of all submitted jobs and additional information, incl
 * **Submit** - the date and time the job was submitted
 * **Service** - the name of the PATRIC Service that started the job (e.g., Assembly, Annotation)
 * **Output Name** - The name provided by the user to identify the result, displayed in the workspace when the job has completed.
-* **Start** - the date and time the job started running.  This will likely be different than the submit time due to queues in the high-performance computers that run the analysis.
+* **Start** - the date and time the job started running.  This will likely be different than the submit time due to queues in the HPC systems that run the analysis.
 * **Completed** - the date and time the job completed, or failed.
 
 Double-clicking a job name or selecting it and clicking the View option in the vertical green Action Bar on the right hand side will display the job results.  
 
 ![View Job Results](../images/job_status_page_view.png)
 
+The nature of the results of the job depends on the type of PATRIC Service that initiated the job.  For descriptions of the various services and their results, see [Services and Tools](../services/services_tab.html.html).  
 
+If a job fails, it usually means that either something was wrong with the input files or there was a problem with the back-end systems that run the jobs.  In this instance, 
 
