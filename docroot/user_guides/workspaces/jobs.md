@@ -20,7 +20,7 @@ Clicking the Jobs Indicator box displays the Job Status page.
 
 ![Job Status Page](../images/job_status_page_v2.png)
 
-This page provides a list of all submitted job and additional information, including
+This page provides a list of all submitted jobs and additional information, including
 
 * **Status** - the current status of the job; either queued, running, completed, or failed.
 * **Submit** - the date and time the job was submitted
