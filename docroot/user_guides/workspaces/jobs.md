@@ -8,4 +8,7 @@ For most PATRIC services, when the service starts, it creates a computational "j
   * [Private Workspace](../workspaces/workspace.html)
 
 ## Accessing Job Status Information and Results in the PATRIC Website
-PATRIC 
+If a user is logged in, a small Jobs indicator box is always displayed at the bottom right of the PATRIC website.  It provides a compact view of the status of current and prior jobs.
+
+![PATRIC Jobs on Homepage](../images/jobs_on_homepage.png)
+
