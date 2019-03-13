@@ -18,7 +18,7 @@ The Jobs Indicator box provides a compact view of the status of current and prio
 
 Clicking the Jobs Indicator box displays the Job Status page.  
 
-![Jobs Indicator Box](../images/job_status_page_v2.png)
+![Job Status Page](../images/job_status_page_v2.png)
 
 This page provides a list of all submitted job and additional infomration, including
 
