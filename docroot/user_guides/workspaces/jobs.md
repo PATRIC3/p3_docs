@@ -35,10 +35,6 @@ Double-clicking a job name or selecting it and clicking the View option in the v
 
 The nature of the results of the job depends on the type of PATRIC Service that initiated the job.  For descriptions of the various services and their results, see [Services and Tools](../services/services_tab.html.html).  
 
-If a job fails, it usually means that either something was wrong with the input files or there was a problem with the back-end systems that run the jobs.  In this instance, selecting failed job and clicking the 
+If a job fails, it usually means that either something was wrong with the input files or there was a problem with the back-end systems that run the jobs.  In this instance, selecting failed job and clicking the Standard Output and Error Output drop-down boxes in the far right panel may give some useful information as to why the job failed.  If not, clicking the Report Issue button in the vertial green Action Bar will automatically generate a ticket to the PATRIC help desk.  Providing additional information in the ticket will help the PATRIC team diagnose and resolve the problem.
 
 ![Failed Job](../images/failed_job.png)
-
-
-
-
