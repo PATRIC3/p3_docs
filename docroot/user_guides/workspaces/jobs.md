@@ -1,7 +1,7 @@
 # PATRIC Jobs
 
 ## Overview
-For most PATRIC services, when the service starts, it creates a computational "job" that runs on back-end high-performance computers which perform the analysis and return the results back to the user. The reason for this is that many services, such as Genome Annotation and Genome Assembly, require a significant amount of computational power and time. The job display provides information on the status of the computation: started, completed, or failed. 
+For most PATRIC services, when the service starts, it creates a computational "job" that runs on back-end high-performance computers which perform the analysis and return the results back to the user via the website or command line interface. The reason for this is that many services, such as Genome Annotation and Genome Assembly, require a significant amount of computational power and time to complete. The job display provides information on the status of the computation: started, completed, or failed. 
 
 ### See also:
   * [Genome Annotation Service User Guide](../services/genome_annotation_service.html)
