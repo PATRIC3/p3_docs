@@ -29,7 +29,9 @@ This page provides a list of all submitted jobs and additional information, incl
 * **Start** - the date and time the job started running.  This will likely be different than the submit time due to queues in the high-performance computers that run the analysis.
 * **Completed** - the date and time the job completed, or failed.
 
+Double-clicking a job name or selecting it and clicking the View option in the vertical green Action Bar on the right hand side will display the job results.  
 
+![View Job Results](../images/job_status_page_view.png)
 
 
 
