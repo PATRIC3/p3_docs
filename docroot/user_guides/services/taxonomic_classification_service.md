@@ -53,14 +53,10 @@ The workspace folder where results will be placed.
 ### Output Name
 Name used to uniquely identify results.
 
-
-# WORK IN PROGRESS - GOT TO HERE
-
-
 ## Output Results
-![Comprehensive Genome Analysis Output Files](../images/cga_service_output_files.png)
+![Taxonomic Classification Output Files](../images/taxonomic_classification_output_files.png)
 
-The Comprehensive Genome Analysis Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
+The Taxonomic Classification Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
  * **FullGenomeReport.html** - A web-browser-viewable report that summarizes the results of the service including
    * Summary information - genome name, quality,
