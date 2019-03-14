@@ -62,10 +62,10 @@ The Taxonomic Classification Service generates several files that are deposited 
    * Input Data - read files used
    * Results - a table of the top taxonomic hits
    * Link to interactive chart showing the taxonomic classification distribution
- * **chart.html** - Link to interactive chart showing the taxonomic classification distribution (see image below)
+ * **chart.html** - Link to [Krona](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3190407/)-based interactive chart showing the taxonomic classification distribution (see image below)
  * **classified_1.fastq.gz** - reads that were classified by Kraken 2
  * **classified_2.fastq.gz** - reads that were classified by Kraken 2
- * **full_report.txt** - Full Kraken 2 report; includes zero counts (see [Kraken 2 Output Formats](https://ccb.jhu.edu/software/kraken2/index.shtml?t=manual#output-formats)
+ * **full_report.txt** - Full Kraken 2 report; includes zero counts (see [Kraken 2 Output Formats](https://ccb.jhu.edu/software/kraken2/index.shtml?t=manual#output-formats))
  * **output.txt.gz** - Per-read Kraken 2 output file
  * **report.txt** - Kraken 2 report; suppresses zero counts
  * **unclassified_1.fastq.gz** - reads that were not classified by Kraken 2
@@ -90,6 +90,7 @@ More details are available in the [Action Buttons](../other/action_buttons.html)
 
  
 ## References
+ * Ondov BD, Bergman NH, and Phillippy AM. Interactive metagenomic visualization in a Web browser. BMC Bioinformatics. 2011 Sep 30; 12(1):385.
  * Wang Q, Garrity GM, Tiedje JM, Cole JR. Naïve Bayesian classifier for rapid assignment of rRNA sequences into the new bacterial taxonomy. Appl Environ Microbiol. 2007; 73(16):5261–7. doi:10.1128/AEM.00062-07
  * Wood DE, Salzberg SL: Kraken: ultrafast metagenomic sequence classification using exact alignments. Genome Biology 2014, 15:R46.
  * Yilmaz P, Parfrey LW, Yarza P, Gerken J, Pruesse E, Quast C, Schweer T, Peplies J, Ludwig W, Glöckner FO. The SILVA and “All-species Living Tree Project (LTP)” taxonomic frameworks. Nucleic Acids Res. 2014; 42(Database issue):643–8.
