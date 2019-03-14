@@ -29,11 +29,13 @@ This page provides a list of all submitted jobs and additional information, incl
 * **Start** - the date and time the job started running.  This will likely be different than the submit time due to queues in the HPC systems that run the analysis.
 * **Completed** - the date and time the job completed, or failed.
 
-Double-clicking a job name or selecting it and clicking the View option in the vertical green Action Bar on the right hand side will display the job results.  
+Double-clicking a job name or selecting it and clicking the **View** button in the vertical green Action Bar on the right hand side will display the job results.  
 
 ![View Job Results](../images/job_status_page_view.png)
 
 The nature of the results of the job depends on the type of PATRIC Service that initiated the job.  For descriptions of the various services and their results, see [Services and Tools](../services/services_tab.html.html).  
+
+If a job seems to be running unusually long, or if it is known that something was wrong with the input, the job can be stopped using the **Kill Job** button in the Action Bar.  Note that this option is only available while the job is still running.
 
 If a job fails, it usually means that either something was wrong with the input files or there was a problem with the back-end systems that run the jobs.  In this instance, selecting failed job and clicking the Standard Output and Error Output drop-down boxes in the far right panel may give some useful information as to why the job failed.  If not, clicking the Report Issue button in the vertial green Action Bar will automatically generate a ticket to the PATRIC help desk.  Providing additional information in the ticket will help the PATRIC team diagnose and resolve the problem.
 
