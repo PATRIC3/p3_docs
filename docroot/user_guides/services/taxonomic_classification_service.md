@@ -54,7 +54,7 @@ The workspace folder where results will be placed.
 Name used to uniquely identify results.
 
 ## Output Results
-![Taxonomic Classification Output Files](../images/taxonomic_classification_output_files.png)
+![Taxonomic Classification Output Files](../images/taxonomic_classification_output_files_v2.png)
 
 The Taxonomic Classification Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
