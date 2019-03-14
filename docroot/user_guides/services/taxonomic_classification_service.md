@@ -5,8 +5,8 @@ The Taxonomic Classification Service accepts reads or contigs from sequencing of
 
 ### See also
   * [Taxonomic Classification Service](https://patricbrc.org/app/TaxonomicClassification)
-  * [Comprehensive Genome Analysis Service Tutorial](https://docs.patricbrc.org//tutorial/comprehensive-genome-analysis/comprehensive-genome-analysis.html)
-  * [Metagenomic Binning Service](./genome_assembly_service.html)
+  * Taxonomic Classification Service Tutorial - TBD
+  * [Metagenome Binning Service](./metagenome_binning_service.html)
 
 ## Using the Taxonomic Classification Service
 The **Taxonomic Classification** submenu option under the **Services** main menu (Metagenomics category) opens the Taxonomic Classification input form (shown below). *Note: You must be logged into PATRIC to use this service.*
