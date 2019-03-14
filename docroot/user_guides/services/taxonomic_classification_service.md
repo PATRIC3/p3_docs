@@ -56,14 +56,35 @@ Name used to uniquely identify results.
 ## Output Results
 ![Taxonomic Classification Output Files](../images/taxonomic_classification_output_files_v2.png)
 
-The Taxonomic Classification Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
+The Taxonomic Classification Service generates several files that are deposited in the Private Workspace in the designated Output Folder. To reivThese include
 
  * **TaxonomicReport.html** - A web-browser-viewable report that summarizes the results of the service including
    * Input Data - read files used
    * Results - a table of the top taxonomic hits
    * Link to interactive chart showing the taxonomic classification distribution
- * **chart.html** -   
-   
+ * **chart.html** - Link to interactive chart showing the taxonomic classification distribution (see image below)
+ * **classified_1.fastq.gz** - reads that were classified by Kraken 2
+ * **classified_2.fastq.gz** - reads that were classified by Kraken 2
+ * **full_report.txt** - Full Kraken 2 report; includes zero counts (see [Kraken 2 Output Formats](https://ccb.jhu.edu/software/kraken2/index.shtml?t=manual#output-formats)
+ * **output.txt.gz** - Per-read Kraken 2 output file
+ * **report.txt** - Kraken 2 report; suppresses zero counts
+ * **unclassified_1.fastq.gz** - reads that were not classified by Kraken 2
+ * **unclassified_2.fastq.gz** - reads that were not classified by Kraken 2
+
+### Action buttons
+After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
+
+* **Hide/Show:** Toggles (hides) the right-hand side Details Pane.
+* **Guide** Link to the corresponding User Guide
+* **Download:**  Downloads the selected item.
+* **View** Displays the content of the file, typically as plain text or rendered html, depending on filetype.
+* **Delete** Deletes the file.
+* **Rename** Allows renaming of the file.
+* **Copy:** Copies the selected items to the clipboard.
+* **Move** Allows moving of the file to another folder.
+* **Edit Type** Allows changing of the type of the file in terms of how PATRIC interprets the content and uses it in other services or parts of the website.  Allowable types include unspecified, contigs, nwk, reads, differential expression input data, and differential expression input metadata. Only files in this same set can be retyped. The type for html and text files cannot be changed.
+
+More details are available in the [Action Buttons](../other/action_buttons.html) user guide.
 
  
 ## References
