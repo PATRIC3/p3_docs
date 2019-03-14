@@ -22,10 +22,6 @@ The service can accept either read files or assembled contigs. If the "Read File
 ## Input File
 Depending on the option chosen above (Read File or Assembled Contigs), the Input File section will request read files or assembled contigs, respectively.
 
-WORK IN PROGRESS - GOT TO HERE
-
-
-
 ### Paired read library
 **Read File 1 & 2:**  Many paired read libraries are given as file pairs, with each file containing half of each read pair. Paired read files are expected to be sorted such that each read in a pair occurs in the same Nth position as its mate in their respective files. These files are specified as READ FILE 1 and READ FILE 2. For a given file pair, the selection of which file is READ 1 and which is READ 2 does not matter.
 
@@ -37,6 +33,11 @@ Allows direct upload of read files from the [NCBI Sequence Read Archive](https:/
 
 ## Selected libraries
 Read files placed here will contribute to a single assembly.
+
+
+# WORK IN PROGRESS - GOT TO HERE
+
+
 
 ## Parameters
 
