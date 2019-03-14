@@ -41,7 +41,7 @@ Read files placed here will contribute to a single assembly.
  * [Kraken 2](http://genomebiology.com/2014/15/3/R46) - Assigns taxonomic labels to metagenomic DNA sequences using exact alignmnet of k-mers.
 
 ### Database
-Reference database used by Kraken 2
+Reference taxonomic database used by the algorithm.
 
 * [Kraken 2](https://ccb.jhu.edu/software/kraken2/index.shtml?t=manual#standard-kraken-2-database) - Standard Kraken 2 database containing distinct 31-mers, based on completed microbial genomes from NCBI.
 * [RDP](https://doi.org/10.1128/AEM.00062-07) - The Ribosomal Database Project (RDP), a naïve Bayesian-based classification for bacterial 16S rRNA sequences.
