@@ -71,7 +71,7 @@ The Taxonomic Classification Service generates several files that are deposited 
  * **unclassified_1.fastq.gz** - reads that were not classified by Kraken 2
  * **unclassified_2.fastq.gz** - reads that were not classified by Kraken 2
 
-[Krona-based interactive Taxonomic Classification Chart](../images/krona_taxonomic_classification_chart.png)
+![Krona-based interactive Taxonomic Classification Chart](../images/krona_taxonomic_classification_chart.png)
 
 ### Action buttons
 After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
