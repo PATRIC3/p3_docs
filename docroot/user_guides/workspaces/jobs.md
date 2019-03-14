@@ -37,6 +37,6 @@ The nature of the results of the job depends on the type of PATRIC Service that 
 
 If a job seems to be running unusually long, or if it is known that something was wrong with the input, the job can be stopped using the **Kill Job** button in the Action Bar.  Note that this option is only available while the job is still running.
 
-If a job fails, it usually means that either something was wrong with the input files or there was a problem with the back-end systems that run the jobs.  In this instance, selecting failed job and clicking the Standard Output and Error Output drop-down boxes in the far right panel may give some useful information as to why the job failed.  If not, clicking the Report Issue button in the vertial green Action Bar will automatically generate a ticket to the PATRIC help desk.  Providing additional information in the ticket will help the PATRIC team diagnose and resolve the problem.
+If a job fails, it usually means that either something was wrong with the input files or there was a problem with the back-end systems that run the jobs.  In this instance, selecting failed job and clicking the Standard Output and Error Output drop-down boxes in the far right panel may give some useful information as to why the job failed.  If not, clicking the **Report Issue** button in the vertial green Action Bar will automatically generate a ticket to the PATRIC help desk.  Providing additional information in the ticket will help the PATRIC team diagnose and resolve the problem.
 
 ![Failed Job](../images/failed_job.png)
