@@ -18,6 +18,9 @@ The map below shows locations of past workshops and the tables following provide
 PATRIC 3
 --------
 
+.. table:: PATRIC 3 Workshops
+    :widths: 50 20 10 20
+
 +----------------------------------------------+---------------+---------+--------------+
 | Institute/Conference                         | Location      | Date    | Participants |
 +==============================================+===============+=========+==============+
@@ -160,6 +163,9 @@ PATRIC 3
 
 PATRIC 2
 --------
+
+.. table:: PATRIC 2 Workshops
+    :widths: 50 20 10 20
 
 +----------------------------------------------+---------------+---------+--------------+
 | Institute/Conference                         | Location      | Date    | Participants |
