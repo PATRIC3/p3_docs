@@ -1,11 +1,7 @@
 User Guides
 ============
 
-The PATRIC website provides an entry point to integrated data and tools
-for bacterial infectious disease research. The website is organized by
-data types and analysis tools. These user guides serve as a reference to
-each of the tools and services including what they do, where they are located
-and each of their features.
+The PATRIC website provides an entry point to integrated data and tools for bacterial infectious disease research. The website is organized by data types and analysis tools. These **User Guides** serve as a reference for each of the tools and services including information on what it does, where it is located, and each of the features.
 
 .. toctree::
    :maxdepth: 1
