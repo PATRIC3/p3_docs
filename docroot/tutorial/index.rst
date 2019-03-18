@@ -3,7 +3,7 @@
 Tutorials
 =========
 
-The PATRIC website provides the capability to perform a broad array of analyses. These ***Tutorials** provide step-by-step instructions for performing common tasks and analyses using the website.  The examples are chosen to also provide a relevant biological context to help deomonstrate the utility.
+The PATRIC website provides the capability to perform a broad array of analyses. These **Tutorials** provide step-by-step instructions for performing common tasks and analyses using the website.  The examples are chosen to also provide a relevant biological context to help deomonstrate the utility.
 
 
 Genomics
