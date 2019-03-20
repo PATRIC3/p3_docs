@@ -11,7 +11,7 @@ The Taxonomic Classification Service accepts reads or contigs from sequencing of
 ## Using the Taxonomic Classification Service
 The **Taxonomic Classification** submenu option under the **Services** main menu (Metagenomics category) opens the Taxonomic Classification input form (shown below). *Note: You must be logged into PATRIC to use this service.*
 
-![Taxonomic Classification Menu](../images/services_menu.png)
+![Taxonomic Classification Menu](../images/services_menu2.png)
 
 ## Options
 ![Taxonomic Classification Input Form](../images/taxonomic_classification_input_form.png)
