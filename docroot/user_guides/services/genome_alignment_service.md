@@ -44,16 +44,26 @@ the first pass of anchoring the alignment. When aligning divergent genomes or al
 weights may provide better sensitivity. However, because Mauve also requires the matching seeds must to be unique in each
 genome, setting this value too low will reduce sensitivity.
 
-**hmm-p-go-homologous:**  Probability of transitioning from the unrelated to the homologous state.
+**Manually set seed weight:**
 
-**hmm-p-go-unrelated:**  Probability of transitioning from the homologous to the unrelated state
+**Max gapped aligner length:**  Maximum number of base pairs to attempt aligning with the gapped aligner
 
+**Max breakpoint distance scale:**  Set the maximum weight scaling by breakpoint distance. Defaults to 0.9
 
-(more parameters to be added soon)
+**Conservation distance:**  Scale conservation distances by this amount. Defaults to 1
+
+**Weight:**  Minimum pairwise LCB score
+
+**Min scaled penalty:** Minimum breakpoint penalty after scaling the penalty by expected divergence
+
+**hmm-p-go-homologous:**  Probability of transitioning from the unrelated to the homologous state.  Default is 0.0001
+
+**hmm-p-go-unrelated:**  Probability of transitioning from the homologous to the unrelated state.  Default is 0.000001
+
 
 
 ## Output Results
-![Metagenomic Binning Service Output Files](../images/genome_alignment_result.png)
+![Genome Alignment Service Output Files](../images/genome_alignment_result.png)
 
 The Genome Alignment Service generates files that are deposited in the Private Workspace in the designated Output Folder. These include
 
@@ -65,4 +75,9 @@ The Genome Alignment Service generates files that are deposited in the Private W
 
 Clicking on "VIEW" at the top right of this page will bring will allow you to visualize the genome alignment:
 
-![Genome Alignment Binning Report](../images/genome_alignment_viewer.png)
+![Genome Alignment Report](../images/genome_alignment_viewer.png)
+
+
+**References**
+
+1. Darling AE, Mau B, Perna NT (2010) progressiveMauve: Multiple Genome Alignment with Gene Gain, Loss and Rearrangement. PLOS ONE 5(6): e11147. https://doi.org/10.1371/journal.pone.0011147
