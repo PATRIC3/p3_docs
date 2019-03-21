@@ -1,10 +1,10 @@
 :github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/tutorial/index.rst
 
-.. Website Tutorial Index page
-   This page will include group pages
+Tutorials
+=========
 
-Website Tutorials
-==================================
+The PATRIC website provides the capability to perform a broad array of analyses. These **Tutorials** provide step-by-step instructions for performing common tasks and analyses using the website.  The examples are chosen to also provide a relevant biological context to help deomonstrate utility and interpretation of the data and results.
+
 
 Genomics
 ---------
@@ -46,6 +46,7 @@ Protein Tools
    protein_family_sorter/protein_family_sorter.md
    proteome_comparison/proteome_comparison.md
    excel_formatting/excel_formatting.md
+   alignments/multiple_sequence_alignment.rst
 
 
 Metabolomics

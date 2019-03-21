@@ -147,6 +147,9 @@ http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
 4. This will show the individual reads, with the colors indicative of the orientation of the reads (blue is forward, red is reverse).
 ![Step 37](./images/image37.png)
 
+## Other output files
+Descriptions of the other output files can be found in the [RNA-Seq Analyis Service User Guide](https://docs.patricbrc.org//user_guides/services/rna_seq_analysis_service.html).
+
 
 ## References
 1. McClure, R., et al., Computational analysis of bacterial RNA-Seq data. Nucleic Acids Res, 2013. 41(14): p. e140.
