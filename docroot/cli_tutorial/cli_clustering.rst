@@ -111,15 +111,17 @@ In our case, we need to remove a lot more than the hypothetical
 proteins: we want to restrict ourselves to roles in which we have a high
 degree of confidence. You do this by specifying a *role file* that
 contains information used to disambiguate substantially identical roles
-and identifies the roles of interest. The data for producing these files
-from the PATRIC database is still being installed; however, there is a
-pre-generated file that comes with the installation package in the
-**Global** subdirectory-- *subsys\_roles.tbl*. We will use this file in
-:ref:`cli::p3-function-to-role`.
+and identifies the roles of interest. The following script generates this file.
 
 ::
 
-    p3-function-to-role --roles=Global/subsys_roles.tbl <features.tbl >feature.roles.tbl
+    p3-subsys-roles >subsys_roles.tbl
+
+Now we use this file as input to :ref:`cli::p3-function-to-role`.
+
+::
+
+    p3-function-to-role --roles=subsys_roles.tbl <features.tbl >feature.roles.tbl
 
 The output starts like this:
 
