@@ -16,14 +16,14 @@ The **Phylogenetic Tree** submenu option under the **Services** main menu (Genom
 
 The tree-building service provides tree construction using 2 methods:
 
-* **Codon-based** - 
+* **Codon-based** - [Description in development]
 * **Protein-based** - Uses conserved protein sequences, which is the same methodology used to build the public genus-level phylogenetic trees in the PATRIC website.
 
 Depending which is selected, the input form changes  
 
-![Phylogenetic Tree Input Form](../images/phylogenetic_tree_input_form_codon.png)
+![Phylogenetic Tree Input Form - Codon Tree](../images/phylogenetic_tree_input_form_codon.png)
 
-
+![Phylogenetic Tree Input Form - All Shared Proteins](../images/phylogenetic_tree_input_form_proteins.png)
 
 ## Ingroup Genomes Selection
 Select at least 3 genome (up to total of 50 genomes) from the genome list and/or a genome group and use the plus buttons to place the genomes to the table. A genome or genome group CANNOT be placed in both ingroup and outgroup table.
