@@ -1,7 +1,7 @@
 # Phylogenetic Tree Building Service
 
 ## Overview
-The Phylogenetic Tree Building Service enables construction of custom phylogenetic trees for up to 50 user-selected genomes. The service builds trees using conserved protein sequences, which is the same methodology used to build the public genus-level phylogenetic trees in the PATRIC website.The service returns a Newick file which can be downloaded or viewed in html or rendered in the interactive Phylogenetic Tree Viewer in PATRIC.
+The Phylogenetic Tree Building Service enables construction of custom phylogenetic trees for up to 50 user-selected genomes. The service returns a Newick file which can be downloaded or viewed in html or rendered in the interactive Phylogenetic Tree Viewer in PATRIC.
 
 ### See also
 * [Phylogenetic Tree Building Service](https://patricbrc.org/app/PhylogeneticTree)
@@ -13,7 +13,12 @@ The **Phylogenetic Tree** submenu option under the **Services** main menu (Genom
 ![Phylogenetic Tree Menu](../images/services_menu.png)
 
 ## Options
-![Phylogenetic Tree Input Form](../images/phylogenetic_tree_input_form_codon.png) 
+![Phylogenetic Tree Input Form](../images/phylogenetic_tree_input_form_codon.png)
+
+The tree-building service provides tree construction using 2 methods:
+
+* **Codon-based** - 
+* **Protein-based** - Uses conserved protein sequences, which is the same methodology used to build the public genus-level phylogenetic trees in the PATRIC website.
 
 ## Ingroup Genomes Selection
 Select at least 3 genome (up to total of 50 genomes) from the genome list and/or a genome group and use the plus buttons to place the genomes to the table. A genome or genome group CANNOT be placed in both ingroup and outgroup table.
