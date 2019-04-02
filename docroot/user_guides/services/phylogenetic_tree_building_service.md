@@ -21,7 +21,7 @@ The tree-building service provides tree construction using one of two methods:
 
 Depending on which method is selected, the input form and options change. 
 
-## Codon Tree Method
+## Method: Codon Tree
 
 ![Phylogenetic Tree Input Form - Codon Tree](../images/phylogenetic_tree_input_form_codon_v2.png)
 
@@ -43,7 +43,7 @@ The number of genes to analyze can be selected or default used.
 The selection of “single-copy” genes can be made more lenient by allowing one or more instances of genomes missing a member of a particular homology group (Max Allowed Deletions) or instances of two copies within a single genome (Max Allowed Duplications).
 
 
-## All Shared Proteins Method
+## Method: All Shared Proteins
 
 ![Phylogenetic Tree Input Form - All Shared Proteins](../images/phylogenetic_tree_input_form_proteins.png)
 
