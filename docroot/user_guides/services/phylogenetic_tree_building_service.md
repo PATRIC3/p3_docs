@@ -1,7 +1,7 @@
 # Phylogenetic Tree Building Service
 
 ## Overview
-The Phylogenetic Tree Building Service enables construction of custom phylogenetic trees for up to 50 user-selected genomes. The service returns a Newick file which can be downloaded or viewed in html or rendered in the interactive Phylogenetic Tree Viewer in PATRIC.
+The Phylogenetic Tree Building Service enables construction of custom phylogenetic trees built from user-selected genomes. Two methods are available: Codon Tree and All Shared Proteins. The Codon Tree method selects single-copy PATRIC PGFams and analyzes aligned proteins and coding DNA from single-copy genes using the program RAxML. The All Shared Proteins method discovers single-copy homology groups by BLAST and analyzes protein alignments by the program FastTree. The service returns a Scaled Vector Graphics (SVG) image of the final tree, as well as Nexus and Newick files which can be downloaded or viewed in html or rendered in the interactive Phylogenetic Tree Viewer in PATRIC.
 
 ### See also
 * [Phylogenetic Tree Building Service](https://patricbrc.org/app/PhylogeneticTree)
@@ -14,9 +14,10 @@ The **Phylogenetic Tree** submenu option under the **Services** main menu (Genom
 
 ## Options
 
+## Methods
 The tree-building service provides tree construction using 2 methods:
 
-* **Codon-based** - [Description in development]
+* **Codon-based** - Selects single-copy PATRIC PGFams and analyzes aligned proteins and coding DNA from single-copy genes using the program RAxML.
 * **Protein-based** - Uses conserved protein sequences, which is the same methodology used to build the public genus-level phylogenetic trees in the PATRIC website.
 
 Depending which is selected, the input form changes  
@@ -66,3 +67,6 @@ This option selects the tree-building method to be used.
 
 ### Automated Progressive Refinement
 Option for selecting progressive refinement, which is a method for attempting to improve tree quality by targeted rebuilding of subtrees. Confidently placed subtrees that contain poorly-supported branches are re-analyzed in more detail in an attempt to resolve the less certain branches. Due to the additional rounds of tree building, this option can significantly increase the running time.
+
+## References
+
