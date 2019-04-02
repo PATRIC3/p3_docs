@@ -36,8 +36,11 @@ The workspace folder where results will be placed.
 ### Output Name
 Name used to uniquely identify results.
 
+### Number of Genes
+The number of genes to analyze can be selected or default used.
 
-
+### Max Allowed Deletions/Duplications
+The selection of “single-copy” genes can be made more lenient by allowing one or more instances of genomes missing a member of a particular homology group (Max Allowed Deletions) or instances of two copies within a single genome (Max Allowed Duplications).
 
 
 ## All Shared Proteins Method
