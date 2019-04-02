@@ -13,7 +13,7 @@ The **Phylogenetic Tree** submenu option under the **Services** main menu (Genom
 ![Phylogenetic Tree Menu](../images/services_menu.png)
 
 ## Methods
-The tree-building service provides tree construction using 2 methods:
+The tree-building service provides tree construction using one of two methods:
 
 * **Codon Tree** - The codon tree method utilizes PATRIC PGFams (link to info on this) as homology groups and analyzes aligned proteins and coding DNA from single-copy genes using the program RAxML. Up to 100 genomes can be analyzed. This method is typically runs and completes faster than the All Shared Proteins method.
 
@@ -25,8 +25,16 @@ Depending on which method is selected, the input form and options change.
 
 ![Phylogenetic Tree Input Form - Codon Tree](../images/phylogenetic_tree_input_form_codon_v2.png)
 
+## Input Genomes
+Genomes for inclusion in the tree. Type or select a genome name from the genome list. Alternatively, entire genome groups can be added to the set of genomes to be analyzed. At least 4 and up to 100 genomes can be specified. Use the plus (+) icon to add to the Selected Input Genome Table.
 
+## Parameters (Codon Tree)
 
+### Output Folder
+The workspace folder where results will be placed.
+
+### Output Name
+Name used to uniquely identify results.
 
 
 
@@ -60,7 +68,7 @@ Option for including a genome group from the workspace. Can be included with, or
 ### Selected Outgroup Genome Table
 Genomes chosen for inclusion in the outgroup. Genomes can be removed by clicking the "x" beside the genome name.
 
-## Parameters
+## Parameters (All Shared Proteins)
 
 ### Output Folder
 The workspace folder where results will be placed.
