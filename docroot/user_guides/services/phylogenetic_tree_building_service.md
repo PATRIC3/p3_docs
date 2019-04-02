@@ -13,7 +13,7 @@ The **Phylogenetic Tree** submenu option under the **Services** main menu (Genom
 ![Phylogenetic Tree Menu](../images/services_menu.png)
 
 ## Options
-![Phylogenetic Tree Input Form](../images/phylogenetic_tree_input_form.png) 
+![Phylogenetic Tree Input Form](../images/phylogenetic_tree_input_form_codon.png) 
 
 ## Ingroup Genomes Selection
 Select at least 3 genome (up to total of 50 genomes) from the genome list and/or a genome group and use the plus buttons to place the genomes to the table. A genome or genome group CANNOT be placed in both ingroup and outgroup table.
