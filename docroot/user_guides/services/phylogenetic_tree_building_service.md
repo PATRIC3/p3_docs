@@ -15,9 +15,9 @@ The **Phylogenetic Tree** submenu option under the **Services** main menu (Genom
 ## Methods
 The tree-building service provides tree construction using one of two methods:
 
-* **Codon Tree** - The codon tree method utilizes PATRIC PGFams (link to info on this) as homology groups and analyzes aligned proteins and coding DNA from single-copy genes using the program RAxML. Up to 100 genomes can be analyzed. This method is typically runs and completes faster than the All Shared Proteins method.
+* **Codon Tree** - The codon tree method utilizes PATRIC PGFams (link to info on this) as homology groups and analyzes aligned proteins and coding DNA from single-copy genes using the program [RAxML](https://academic.oup.com/bioinformatics/article/22/21/2688/251208). Up to 100 genomes can be analyzed. This method is typically runs and completes faster than the All Shared Proteins method.
 
-* **All Shared Proteins** - Discovers single-copy homology groups by BLAST and analyzes protein alignments by the program FastTree. Up to 50 genomes can be analyzed.
+* **All Shared Proteins** - Discovers single-copy homology groups by BLAST and analyzes protein alignments by the program [FastTree](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2835736/). Up to 50 genomes can be analyzed.
 
 Depending on which method is selected, the input form and options change. 
 
@@ -90,4 +90,9 @@ This option selects the tree-building method to be used.
 Option for selecting progressive refinement, which is a method for attempting to improve tree quality by targeted rebuilding of subtrees. Confidently placed subtrees that contain poorly-supported branches are re-analyzed in more detail in an attempt to resolve the less certain branches. Due to the additional rounds of tree building, this option can significantly increase the running time.
 
 ## References
+* Price, Morgan N., Paramvir S. Dehal, and Adam P. Arkin. "FastTree 2–approximately maximum-likelihood trees for large alignments." PloS one 5.3 (2010): e9490.
+* Stamatakis, Alexandros. "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models." Bioinformatics 22.21 (2006): 2688-2690.
+
+
+
 
