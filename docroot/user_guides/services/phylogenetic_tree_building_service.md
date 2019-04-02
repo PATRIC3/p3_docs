@@ -12,17 +12,27 @@ The **Phylogenetic Tree** submenu option under the **Services** main menu (Genom
 
 ![Phylogenetic Tree Menu](../images/services_menu.png)
 
-## Options
-
 ## Methods
 The tree-building service provides tree construction using 2 methods:
 
-* **Codon-based** - Selects single-copy PATRIC PGFams and analyzes aligned proteins and coding DNA from single-copy genes using the program RAxML.
-* **Protein-based** - Uses conserved protein sequences, which is the same methodology used to build the public genus-level phylogenetic trees in the PATRIC website.
+* **Codon Tree** - The codon tree method utilizes PATRIC PGFams (link to info on this) as homology groups and analyzes aligned proteins and coding DNA from single-copy genes using the program RAxML. Up to 100 genomes can be analyzed. This method is typically runs and completes faster than the All Shared Proteins method.
 
-Depending which is selected, the input form changes  
+* **All Shared Proteins** - Discovers single-copy homology groups by BLAST and analyzes protein alignments by the program FastTree. Up to 50 genomes can be analyzed.
+
+Depending on which method is selected, the input form and options change. 
+
+## Codon Tree Method
 
 ![Phylogenetic Tree Input Form - Codon Tree](../images/phylogenetic_tree_input_form_codon_v2.png)
+
+
+
+
+
+
+
+
+## All Shared Proteins Method
 
 ![Phylogenetic Tree Input Form - All Shared Proteins](../images/phylogenetic_tree_input_form_proteins.png)
 
