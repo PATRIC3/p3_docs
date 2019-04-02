@@ -21,7 +21,7 @@ The tree-building service provides tree construction using 2 methods:
 
 Depending which is selected, the input form changes  
 
-![Phylogenetic Tree Input Form - Codon Tree](../images/phylogenetic_tree_input_form_codon.png)
+![Phylogenetic Tree Input Form - Codon Tree](../images/phylogenetic_tree_input_form_codon_v2.png)
 
 ![Phylogenetic Tree Input Form - All Shared Proteins](../images/phylogenetic_tree_input_form_proteins.png)
 
