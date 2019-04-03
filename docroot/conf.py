@@ -31,7 +31,7 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['recommonmark', 'sphinxcontrib.newsfeed', 'sphinxcontrib.spelling']
+extensions = ['recommonmark', 'sphinxcontrib.newsfeed', 'sphinxcontrib.spelling', 'sphinxcontrib.httpdomain']
 
 # spelling check extension
 spelling_lang='en_US'

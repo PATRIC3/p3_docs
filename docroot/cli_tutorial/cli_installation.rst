@@ -23,18 +23,16 @@ Installation on macOS
 =====================
 
 The macOS version of the PATRIC command line interface is distributed
-as a disk image file. The current release is named
-``PATRIC-1.018.dmg`` and may be found on the the github release site
-`here
-<https://github.com/PATRIC3/PATRIC-distribution/releases/tag/1.018>`_.
+as a disk image file. We recommend downloading the most recent version
+listed at  the `PATRIC github release site
+<https://github.com/PATRIC3/PATRIC-distribution/releases>`_.
 
-Download the release disk image file by clicking on `this link to the file
-<https://github.com/PATRIC3/PATRIC-distribution/releases/download/1.018/PATRIC-1.018.dmg>`_. Your
+Download the release disk image file by clicking on the link named PATRIC-<version>.dmg. Your
 browser will begin the download and save the file to your downloads
 directory.
 
 If you are using Safari, the download may be found by clicking on the
-download stauts icon near the top right of window, or by going to the
+download status icon near the top right of window, or by going to the
 View menu and clicking "Show Downloads.
 
 |safari_download_image|
@@ -120,18 +118,18 @@ Installation on Debian / Ubuntu / Mint Linux
 
 The version of the PATRIC command line interface packaged for Debian
 Linu and its derivative distributions (Ubuntu, Mint, etc) is provided
-as a Debian ``.deb`` distribution file. The current release is named
-``patric-cli-1.018.deb`` and may be found on the the github release site
-`here
-<https://github.com/PATRIC3/PATRIC-distribution/releases/tag/1.018>`_.
+as a Debian ``.deb`` distribution file. The release is named
+``patric-cli-<version>.deb`` and may be found on the 
+`PATRIC github release site                                                                       
+<https://github.com/PATRIC3/PATRIC-distribution/releases>`_. 
 
 There are several options for installation. The simplest is to
 download the installer using a command line tool, and install with
 ``dpkg``. This method requires a followup call to ``apt-get`` to
-resolve dependencies::
+resolve dependencies (here, we are installing version 1.024)::
 
-  curl -O -L https://github.com/PATRIC3/PATRIC-distribution/releases/download/1.018/patric-cli-1.018.deb
-  sudo dpkg -i patric-cli-1.018.deb
+  curl -O -L https://github.com/PATRIC3/PATRIC-distribution/releases/download/1.024/patric-cli-1.024.deb
+  sudo dpkg -i patric-cli-1.024.deb
   sudo sudo apt-get -f install
 
 It may be simpler to install using the ``gdebi`` tool as it handles
@@ -142,7 +140,7 @@ by default so you will need to install it first::
 
 Then to install with gdebi::
 
-   sudo gdebi patric-cli-1.018.deb
+   sudo gdebi patric-cli-1.024.deb
 
 When the install has completed, the PATRIC command line tools will be
 available for you to use. They are installed in the system binary
@@ -153,13 +151,11 @@ Installation on Windows
 =======================
 
 The macOS version of the PATRIC command line interface is distributed
-as a Windows installation package. The current release is named
-``PATRIC-1.018.exe`` and may be found on the the github release site
-`here
-<https://github.com/PATRIC3/PATRIC-distribution/releases/tag/1.018>`_.
+as a Windows installation package. The release is named
+``PATRIC-<version>.exe`` and may be found on `PATRIC github release site
+<https://github.com/PATRIC3/PATRIC-distribution/releases>`_.
 
-Download the release disk image file by clicking on `this link to the file
-<https://github.com/PATRIC3/PATRIC-distribution/releases/download/1.018/PATRIC-1.018.exe>`_. Your
+Download the PATRIC installer file by clicking on the link named ``PATRIC-<version>.exe``. Your
 browser will begin the download and save the file to your downloads
 directory.
 
