@@ -23,7 +23,7 @@ Depending on which method is selected, the input form and options change.
 
 ## Method: Codon Tree
 
-![Phylogenetic Tree Input Form - Codon Tree](../images/phylogenetic_tree_input_form_codon_v2.png)
+![Phylogenetic Tree Input Form - Codon Tree](../images/phylogenetic_tree_input_form_codon_v3.png)
 
 ## Input Genomes
 Genomes for inclusion in the tree. Type or select a genome name from the genome list. Alternatively, entire genome groups can be added to the set of genomes to be analyzed. At least 4 and up to 100 genomes can be specified. Use the plus (+) icon to add to the Selected Input Genome Table.
@@ -45,7 +45,7 @@ The selection of “single-copy” genes can be made more lenient by allowing on
 
 ## Method: All Shared Proteins
 
-![Phylogenetic Tree Input Form - All Shared Proteins](../images/phylogenetic_tree_input_form_proteins.png)
+![Phylogenetic Tree Input Form - All Shared Proteins](../images/phylogenetic_tree_input_form_proteins_v2.png)
 
 ## Ingroup Genomes Selection
 Select at least 3 genome (up to total of 50 genomes) from the genome list and/or a genome group and use the plus buttons to place the genomes to the table. A genome or genome group CANNOT be placed in both ingroup and outgroup table.
