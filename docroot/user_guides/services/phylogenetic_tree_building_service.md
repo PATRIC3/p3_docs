@@ -82,7 +82,7 @@ Name used to uniquely identify results.
 ### Full Tree Method
 This option selects the tree-building method to be used.
 
-**FastTree:** A less rigorous tree inference program that takes much less time than RAxML while often producing similar trees. [FastTree reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2835736/)
+**[FastTree](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2835736/):** A less rigorous tree inference program that takes much less time than RAxML while often producing similar trees.
 
 **Maximum Likelihood (RAxML):** A maximum likelihood tree estimation program. [RAxML reference](https://academic.oup.com/bioinformatics/article/22/21/2688/251208)
 
