@@ -8,14 +8,14 @@ The Phylogenetic Tree Building Service enables construction of custom phylogenet
 * [Building Phylogenetic Trees in PATRIC  Tutorial](https://docs.patricbrc.org//tutorial/phylogenetic_tree_building/tree_building.html)
 
 ## Using the Phylogenetic Tree Building Service
-The **Phylogenetic Tree** submenu option under the **Services** main menu (Genomics category) opens the Phylogenetic Tree input form (*shown below*). *Note: You must be logged into PATRIC to use this service.*
+The **Phylogenetic Tree** submenu option under the **Services** main menu (Genomics category) opens the Phylogenetic Tree input form (shown below). *Note: You must be logged into PATRIC to use this service.*
 
 ![Phylogenetic Tree Menu](../images/services_menu.png)
 
 ## Methods
 The tree-building service provides tree construction using one of two methods:
 
-* **Codon Tree** - The codon tree method utilizes PATRIC [PGFams](../organisms_taxon/protein_families.html) as homology groups and analyzes aligned proteins and coding DNA from single-copy genes using the program [RAxML](https://academic.oup.com/bioinformatics/article/22/21/2688/251208). Up to 100 genomes can be analyzed. *This method is typically runs and completes faster than the All Shared Proteins method.*
+* **Codon Tree** - The codon tree method utilizes PATRIC [PGFams](../organisms_taxon/protein_families.html) as homology groups and analyzes aligned proteins and coding DNA from single-copy genes using the program [RAxML](https://academic.oup.com/bioinformatics/article/22/21/2688/251208). Up to 100 genomes can be analyzed. *Note: This method is typically runs and completes faster than the All Shared Proteins method.*
 
 * **All Shared Proteins** - Discovers single-copy homology groups by BLAST and analyzes protein alignments by the program [FastTree](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2835736/). Up to 50 genomes can be analyzed.
 
