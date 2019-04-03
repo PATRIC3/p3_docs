@@ -1,6 +1,6 @@
 # Assembling a genome at PATRIC
 
-There are a variety of programs that can be used to assemble the reads that are produced from sequencing machines into contigs or chromosomes, but these can require an advanced programming ability that research biologists are sometimes lacking.  To meet this need PATRIC allows researchers to assemble short reads that are single or paired (typically from Illumina machines), and also long reads from PacBio or Nanopore [1] machines.   PATRIC provides several assembly tools and pipelines, the results of which are downloaded into a researcher’s private workspace.  Below is the methodology showing the assembly for single reads using the default assembly method.
+There are a variety of programs that can be used to assemble the reads that are produced from sequencing machines into contigs or chromosomes, but these can require an advanced programming ability that research biologists are sometimes lacking.  To meet this need PATRIC allows researchers to assemble short reads that are single or paired (typically from Illumina machines), and also long reads from PacBio or Nanopore [1] machines.   PATRIC provides several assembly tools and pipelines, the results of which are downloaded into a researcher's private workspace.  Below is the methodology showing the assembly for single reads using the default assembly method.
 
 **Keywords:** Genome assembly, Bacterial genome assembly, Genome Assembly pipeline, Assembly service, Assembly server, De novo assembly, Contig assembly
 
@@ -14,8 +14,13 @@ There are a variety of programs that can be used to assemble the reads that are 
 ## Uploading sequence reads for a paired-read assembly job
 
 Many paired read libraries are given as file pairs, with each file containing half of each read pair. Paired read files are expected to be sorted in such a way that each read in a pair occurs in the same Nth position as its mate in their respective files. These files are specified as READ FILE 1 and READ FILE 2. For a given file pair, the selection of which file is READ 1 and which is READ 2 does not matter.
+Two examples of paired read libraries can be found in [the public PATRIC workspaces](https://patricbrc.org/workspace/public/PATRIC@patricbrc.org/PATRIC%20Workshop/Assembly).
+Each pair of read files in this workspace is grouped with a job showing the results
+of the assembly.
 
-1. To upload a fastq file that contains paired reads, locate the box called “Paired read library.”
+![Example Read Files](./images/assemblies.fw.png)
+
+1. To upload a fastq file that contains paired reads, locate the box called *Paired read library*.
 ![Step 3](./images/image3.png "Step 3")
 
 2. More information about the type of files that are permitted, click on the information icon. This will open a pop-up box that gives information on the type of reads that can be submitted, and also how to set the advanced parameters.
@@ -29,10 +34,10 @@ Specific information on the Advanced parameters are as follows.
     - **Std. Insert Size:** This refers to the standard deviation of the insert size between paired reads. If you have this information you may provide it. If not the assembly algorithm will make an attempt to determine this value.
     - **Mate Paired:** Defines the orientation of read pairs. Setting Mate Paired to true indicates that the sequencing direction of the two reads in each pair is outward facing.
     - **Platform:** The sequencing platform used for each library.
-        * “infer”: Infer sequencing platform from read files;
-        * “illumina”: Illumina short reads;
-        * “pacbio”: PacBio long reads;
-        * “nanopore”: MinION long reads
+        * *infer*: Infer sequencing platform from read files;
+        * *illumina*: Illumina short reads;
+        * *pacbio*: PacBio long reads;
+        * *nanopore*: MinION long reads
 
 4. To submit reads, they must be located in the workspace. To initiate the upload, first click on the folder icon.
 ![Step 6](./images/image6.png "Step 6")
@@ -43,16 +48,16 @@ Specific information on the Advanced parameters are as follows.
 6. If the files have not previously been loaded into the workspace, click on upload button at the top right of the pop-up window.
 ![Step 8](./images/image8.png "Step 8")
 
-7. This opens a new window where the file you want to upload can be selected. Click on the “Select File” in the blue bar, or drag and drop a file into that space.
+7. This opens a new window where the file you want to upload can be selected. Click on *Select File* in the blue bar, or drag and drop a file into that space.
 ![Step 9](./images/image9.png "Step 9")
 
-8. This will open a window that allows you to choose files that are stored on your computer. Select the file where you stored the fastq file on your computer (red arrow) and click “Open” (blue arrow).
+8. This will open a window that allows you to choose files that are stored on your computer. Select the file where you stored the fastq file on your computer (red arrow) and click *Open* (blue arrow).
 ![Step 10](./images/image10.png "Step 10")
 
 9. Once selected, it will autofill the name of the file. You can see it in the screenshot below. Click on the Upload Files button (red arrow in screenshot below).
 ![Step 11](./images/image11.png "Step 11")
 
-10. This will auto-fill the name of the document into the text box as seen below.  
+10. This will auto-fill the name of the document into the text box as seen below.
 ![Step 12](./images/image12.png "Step 12")
 
 11. Repeat the steps to upload the second pair of reads.
@@ -62,7 +67,7 @@ Specific information on the Advanced parameters are as follows.
 ![Step 14](./images/image14.png "Step 14")
 
 ## Uploading single reads for an assembly job
-1. To upload a fastq file that contains single reads, locate the box called “Single read library.”
+1. To upload a fastq file that contains single reads, locate the box called *Single read library*.
 
     ![Step 15](./images/image15.png "Step 15")
 
@@ -87,14 +92,14 @@ Specific information on the Advanced parameters are as follows.
 ![Step 20](./images/image20.png "Step 20")
 
 ##  Selecting the right parameters for an assembly job
-1. The last step of the assembly process is filling in the metadata parameters that define where the assembled contigs are placed in the workspace. PATRIC offers several different assembly strategies that can be viewed by clicking on the down-arrow following the text box under Assembly Strategy.  
+1. The last step of the assembly process is filling in the metadata parameters that define where the assembled contigs are placed in the workspace. PATRIC offers several different assembly strategies that can be viewed by clicking on the down-arrow following the text box under Assembly Strategy.
 ![Step 21](./images/image21.png "Step 21")
 
     - A description and diagram of the different assembly strategies is provided below.
-    - The auto assembly strategy runs BayesHammer [2] on short reads, followed by three assembly strategies that include Velvet [3], IDBA [4] and Spades [5], each of which is given an assembly score by ARAST, an in-house script.  
-    - The fast assembly strategy runs MEGAHIT [6] and Velvet, with each assembly given a score determined by ARAST.  
-    - Users can also choose the full spades strategy, which runs BayesHammer followed by Spades.  
-    - Choosing kiki runs the Kiki assembler, an in-house script.  
+    - The auto assembly strategy runs BayesHammer [2] on short reads, followed by three assembly strategies that include Velvet [3], IDBA [4] and Spades [5], each of which is given an assembly score by ARAST, an in-house script.
+    - The fast assembly strategy runs MEGAHIT [6] and Velvet, with each assembly given a score determined by ARAST.
+    - Users can also choose the full spades strategy, which runs BayesHammer followed by Spades.
+    - Choosing kiki runs the Kiki assembler, an in-house script.
     - Illumina MiSeq reads should be assembled using miseq, which runs Velvet with hash length 35, and then BayesHammer on reads and assembles with SPAdes with k up to 99, followed by a score using ARAST.
     - Plasmid runs BayesHammer on reads and assembles with plasmidSPAdes [7].
     - The smart strategy can be used for long or short reads.  The strategy for short reads when using smart involves running BayesHammer on reads, KmerGenie [8] to choose hash-length for Velvet, followed by the same assembly strategy using Velvet [3], IDBA [4] and Spades [5].  Assemblies are sorted with an ALE score [9] and the two best assemblies are merged using GAM-NGS [10].
@@ -146,7 +151,7 @@ Specific information on the Advanced parameters are as follows.
     ![Step 35](./images/image35.png "Step 35")
 
 ## Viewing the assembly job
-1. Researchers must monitor the Jobs Status page to see when an assembly job has completed. Jobs that were successful have a blue circle followed by the word “completed”. Those that were not successful have a red circle, followed by the word “failed”.
+1. Researchers must monitor the Jobs Status page to see when an assembly job has completed. Jobs that were successful have a blue circle followed by the word *completed*. Those that were not successful have a red circle, followed by the word *failed*.
 ![Step 36](./images/image36.png "Step 36")
 
 2. To view the assembly job, the row must be selected (it will turn blue). This will open the view icon in the vertical green bar.  Double clicking on this icon will open a page with all the information about the assembly.
@@ -158,7 +163,7 @@ Specific information on the Advanced parameters are as follows.
 4. Clicking on the Parameters file will provide the details of the assembly job.
 ![Step 39](./images/image39.png "Step 39")
 
-5. Contigs files have been generated for each of the assembly algorithms that ran. PATRIC also provides contigs files the “best” assembly, which is identified as contigs.fa.
+5. Contigs files have been generated for each of the assembly algorithms that ran. PATRIC also provides contigs files of the best assembly, which is identified as contigs.fa.
 ![Step 40](./images/image40.png "Step 40")
 
 6. Clicking on the line that contains a contig file and then clicking on the Download icon in the vertical green bar can be used to save and view a contig file.
@@ -179,7 +184,7 @@ Specific information on the Advanced parameters are as follows.
 11.	Reports on the assembly are available in a variety of formats.
 ![Step 46](./images/image46.png "Step 46")
 
-12.	Clicking on the report.html will open a page that summarizes the statistics across the assembly algorithms.  
+12.	Clicking on the report.html will open a page that summarizes the statistics across the assembly algorithms.
 ![Step 47](./images/image47.png "Step 47")
 
 13.	Clicking on the Extended report will show all the statistics.
@@ -193,7 +198,7 @@ Specific information on the Advanced parameters are as follows.
 1. Branton, D., et al., The potential and challenges of nanopore sequencing. Nature biotechnology, 2008. 26(10): p. 1146-1153.
 2. Nikolenko, S.I., A.I. Korobeynikov, and M.A. Alekseyev, BayesHammer: Bayesian clustering for error correction in single-cell sequencing. BMC genomics, 2013. 14(1): p. 1.
 3. Zerbino, D.R. and E. Birney, Velvet: algorithms for de novo short read assembly using de Bruijn graphs. Genome research, 2008. 18(5): p. 821-829.
-4. Peng, Y., et al. IDBA–a practical iterative de Bruijn graph de novo assembler. in Research in Computational Molecular Biology. 2010. Springer.
+4. Peng, Y., et al. IDBA: a practical iterative de Bruijn graph de novo assembler. in Research in Computational Molecular Biology. 2010. Springer.
 5. Bankevich, A., et al., SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing. Journal of Computational Biology, 2012. 19(5): p. 455-477.
 6. Li, D., et al., MEGAHIT: an ultra-fast single-node solution for large and complex metagenomics assembly via succinct de Bruijn graph. Bioinformatics, 2015: p. btv033.
 7. Antipov D, Hartwick N, Shen M, Raiko M, Lapidus A, Pevzner PA. 2016. plasmidSPAdes: assembling plasmids from whole genome sequencing data. Bioinformatics32(22):3390-3397.

@@ -22,7 +22,7 @@ Interface.
 
 The releases are available at the `PATRIC3 github
 site <https://github.com/PATRIC3/PATRIC-distribution/releases>`_. Full installation
-installations are available in :ref:`cli-installation`.
+instructions are available in :ref:`cli-installation`.
 
 Tutorials and Reference Documentation
 -------------------------------------

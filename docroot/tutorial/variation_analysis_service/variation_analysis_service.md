@@ -92,7 +92,7 @@ Either SNP caller is run with the default parameters. The raw SNPs are then filt
 4b. These files can be opened using excel to easily see the different variants.
 ![Step 24](./images/image24.png)
 
-5. The **lbs.txt** file. This is a text file that describes the libraries used in the comparison.
+5. The **libs.txt** file. This is a text file that describes the libraries used in the comparison.
 ![Step 25](./images/image25.png)
 
 6. The **summary.txt** files. This file provides a summary of the analysis. For each library it shows the number of reads, those that mapped to the reference, the number of bases in the reference, the median base coverage, bases with zero coverage, bases with less than (or equal to) 10 reads coverage, the raw variants that are detected by the variation calling tool, and those variants that have a high quality score.
@@ -106,6 +106,30 @@ Either SNP caller is run with the default parameters. The raw SNPs are then filt
 
 9. The **.html** file. The HyperText Markup Language (HTML) file will open a webpage that shows the same data available in the .tsv file. This table can be sorted by clicking on the column headers.
 ![Step 29](./images/image29.png)
+
+The list below shows the title and information about each column, from left to right.
+* Samples - internal library read name. The corresponding user library read name can be found in libs.txt
+* Contig - contig name
+* Pos - position of the variation
+* Ref - reference nucleotide(s) at the variation position
+* Var - variant nucleotide(s) at the variation position
+* Score - quality score from the variant caller tool
+* Var_cov - variant coverage (the average read depth of the variant)
+* Var_frac - variant fraction (the fraction of the variant read depth among the all the reads that cover this region)
+* Type - variant type
+* Ref_nt - reference nucleotide(s)
+* Var_nt - variant nucleotide(s)
+* Ref_nt_pos_change - nucleotide change
+* Ref_aa_pos_change - amino acid change
+* Frameshift - frameshift variant
+* Gene_ID - PATRIC feature (peg) id
+* Locus_tag - RefSeq locus tag
+* Gene_name - gene name
+* Function - function description
+* Upstream_feature - upstream feature
+* Downstream_feature - downstream feature
+* snpEff_type - snpEFF variant type
+* snpEff_impact - snpEFF variant impact
 
 10.The **var.vcf.gz.tbi** file. This is a file that can be uploaded into a genome browser for viewing. The PATRIC variant analysis service provides a .var.vcf.gz.tbi file for each of the read libraries that were loaded.
 
