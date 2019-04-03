@@ -17,8 +17,8 @@ Installing the CLI Release
 Since the CLI tools run on your computer, to use them you will need to
 download and install a software package in order to use them.
 
-We currently have macOS and Debian/Ubuntu releases of the PATRIC Command Line 
-Interface. A Windows version is in the works.
+We currently have Windows, macOS and Debian/Ubuntu releases of the PATRIC Command Line 
+Interface. 
 
 The releases are available at the `PATRIC3 github
 site <https://github.com/PATRIC3/PATRIC-distribution/releases>`_. Full installation
