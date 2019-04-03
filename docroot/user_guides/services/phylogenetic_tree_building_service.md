@@ -82,9 +82,9 @@ Name used to uniquely identify results.
 ### Full Tree Method
 This option selects the tree-building method to be used.
 
-**[FastTree](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2835736/):** A less rigorous tree inference program that takes much less time than RAxML while often producing similar trees.
+* **[FastTree](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2835736/):** A less rigorous tree inference program that takes much less time than RAxML while often producing similar trees.
 
-**Maximum Likelihood (RAxML):** A maximum likelihood tree estimation program. [RAxML reference](https://academic.oup.com/bioinformatics/article/22/21/2688/251208)
+* **[Maximum Likelihood (RAxML)](https://academic.oup.com/bioinformatics/article/22/21/2688/251208):** A maximum likelihood tree estimation program.
 
 ### Automated Progressive Refinement
 Option for selecting progressive refinement, which is a method for attempting to improve tree quality by targeted rebuilding of subtrees. Confidently placed subtrees that contain poorly-supported branches are re-analyzed in more detail in an attempt to resolve the less certain branches. Due to the additional rounds of tree building, this option can significantly increase the running time.
