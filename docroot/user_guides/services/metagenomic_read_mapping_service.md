@@ -12,7 +12,7 @@ The **Metagenomic Read Mapping** submenu option under the **Services** main menu
 ![Metagenomic Read Mapping Service Menu](../images/services_menu.png)
 
 ## Options
-![Metagenomic Read Mapping Service Input Form](../images/metagenomic_read_mapping_input_form.png)
+![Metagenomic Read Mapping Service Input Form](../images/metagenomic_read_mapping_input_form_v2.png)
 
 ## Input File
 
@@ -22,8 +22,7 @@ The **Metagenomic Read Mapping** submenu option under the **Services** main menu
 
 ### Single read library
 
-**Read File:**
-The fastq file containing the reads
+**Read File:** FASTQ file containing reads.
 
 ### SRA run accession
 Allows direct upload of read files from the [NCBI Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) to the PATRIC Assembly Service. Entering the SRR accession number and clicking the arrow will add the file to the selected libraries box for use in the assembly. 
