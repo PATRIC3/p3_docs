@@ -29,9 +29,24 @@ The fastq file containing the reads
 Allows direct upload of read files from the [NCBI Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) to the PATRIC Assembly Service. Entering the SRR accession number and clicking the arrow will add the file to the selected libraries box for use in the assembly. 
 
 ### Selected libraries
-Read files placed here will contribute to a single assembly.
+Read files to be mapped.
 
 ## Parameters
+
+**Gene Set Type:**
+
+
+**Predefined Gene Set Name:**
+
+
+**Save Classified Reads:** 
+
+
+**Save Unclassified Reads:** 
+
+**Output Folder:** Workspace folder where the results will be saved.
+
+**Output Name:** User-provided name used to uniquely identify results.
 
 
 ## Output Results
