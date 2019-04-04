@@ -33,7 +33,9 @@ Read files to be mapped.
 
 ## Parameters
 
-**Gene Set Type:**
+**Gene Set Type:** The set of genes against which to map.  Three options are available:
+
+* 
 
 
 **Predefined Gene Set Name:**
