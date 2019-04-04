@@ -33,10 +33,13 @@ Read files to be mapped.
 
 ## Parameters
 
-**Gene Set Type:** The set of genes against which to map.  Three options are available:
+**Gene Set Type:** The set of genes against which the reads will be mapped.  Three options are available:
 
-* 
+* Predefined List - Gene lists pre-built in PATRIC (see Predefined Gene Set Name below)
 
+* FASTA File - User provided FASTA file containing genes
+
+* Feature Group - A user-defined PATRIC feature group
 
 **Predefined Gene Set Name:**
 
