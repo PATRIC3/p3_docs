@@ -69,9 +69,9 @@ The Taxonomic Classification Service generates several files that are deposited 
  * **unclassified_2.fastq.gz** - reads that were not classified by Kraken 2 *(only if Save Unclassified Sequences option is chosen)*
 
 ### Taxonomic Report Output
-This page is a web-friendly report that summarizes the output of Kraken 2. It provides a link to the input data, an interactive chart view (see description below), and a summary table of the top hits.  The columns in the table are as follows: 
-
 ![Kraken 2 Taxonomic Classification Report](../images/taxonomic_classification_report.png)
+
+This page is a web-friendly report that summarizes the output of Kraken 2. It provides a link to the input data, an interactive chart view (see description below), and a summary table of the top hits.  The columns in the table are as follows: 
 
 * Pct Coverage - Percentage of fragments covered by the clade rooted at this taxon
 * Frags in Clade - Number of fragments covered by the clade rooted at this taxon
