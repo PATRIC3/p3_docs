@@ -16,6 +16,20 @@ The **Metagenomic Read Mapping** submenu option under the **Services** main menu
 
 ## Input File
 
+### Paired read library
+
+**Read File 1 & 2:**  Many paired read libraries are given as file pairs, with each file containing half of each read pair. Paired read files are expected to be sorted such that each read in a pair occurs in the same Nth position as its mate in their respective files. These files are specified as READ FILE 1 and READ FILE 2. For a given file pair, the selection of which file is READ 1 and which is READ 2 does not matter.
+
+### Single read library
+
+**Read File:**
+The fastq file containing the reads
+
+### SRA run accession
+Allows direct upload of read files from the [NCBI Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) to the PATRIC Assembly Service. Entering the SRR accession number and clicking the arrow will add the file to the selected libraries box for use in the assembly. 
+
+### Selected libraries
+Read files placed here will contribute to a single assembly.
 
 ## Parameters
 
