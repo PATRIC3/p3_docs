@@ -1,7 +1,7 @@
 # Metagenomic Read Mapping Service
 
 ## Overview
-The Metagenomic Read Mapping Service uses KMA to align reads against antibiotic resistance genes from CARD and virulence factors from VFDB.
+The Metagenomic Read Mapping Service uses [KMA](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2336-6) to align reads against antibiotic resistance genes, virulence factors, or other custom sets of genes.
 
 ### See also
   * [Metagenomic Read Mapping Service](https://patricbrc.org/app/MetagenomicReadMapping)
@@ -42,12 +42,6 @@ Read files to be mapped.
 * CARD - Antibiotic resistence gene set from the [Comprehensive Antibiotic Resistance Database](https://www.ncbi.nlm.nih.gov/pubmed/27789705)
 * VFDB - Virulence factor gene set from the [Virulence Factor Database](https://www.ncbi.nlm.nih.gov/pubmed/30395255)
 
-
-**Save Classified Reads:** 
-
-
-**Save Unclassified Reads:** 
-
 **Output Folder:** Workspace folder where the results will be saved.
 
 **Output Name:** User-provided name used to uniquely identify results.
@@ -61,6 +55,7 @@ The Metagenomic Read Mapping Service generates several files that are deposited 
 ## References
 * Jia, Baofeng, et al. "CARD 2017: expansion and model-centric curation of the comprehensive antibiotic resistance database." Nucleic acids research (2016): gkw1004.
 * Liu, Bo, et al. "VFDB 2019: a comparative pathogenomic platform with an interactive web interface." Nucleic acids research 47.D1 (2018): D687-D692.
+* Philip T.L.C. Clausen, Frank M. Aarestrup & Ole Lund, "Rapid and precise alignment of raw reads against redundant databases with KMA", BMC Bioinformatics, 2018;19:307.
 
 
 
