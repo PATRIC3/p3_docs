@@ -80,7 +80,10 @@ This page is a web-friendly report that summarizes the output of Kraken 2. It pr
 * NCBI Taxon ID - NCBI taxonomic ID number
 * Scientific Name - Indented scientific name. Clicking on one of these names will display the corresponding taxon page in the PATRIC website.
 
+### Taxonomic Chart
 ![Krona-based interactive Taxonomic Classification Chart](../images/krona_taxonomic_pie_chart.png)
+
+This interactive chart provides a visual representation of the reads mapping to each taxon. Clicking on a taxon within the pie chart will provide a summary of the reads mapping to that specific selection on the upper right corner.
 
 ### Action buttons
 After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
