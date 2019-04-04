@@ -84,7 +84,6 @@ After selecting one of the output files by clicking it, a set of options becomes
 * **Rename** Allows renaming of the file.
 * **Copy:** Copies the selected items to the clipboard.
 * **Move** Allows moving of the file to another folder.
-* **Edit Type** Allows changing of the type of the file in terms of how PATRIC interprets the content and uses it in other services or parts of the website.  Allowable types include unspecified, contigs, nwk, reads, differential expression input data, and differential expression input metadata. Only files in this same set can be retyped. The type for html and text files cannot be changed.
 
 More details are available in the [Action Buttons](../other/action_buttons.html) user guide.
 
