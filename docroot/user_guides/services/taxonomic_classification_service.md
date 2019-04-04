@@ -58,10 +58,7 @@ Name used to uniquely identify results.
 
 The Taxonomic Classification Service generates several files that are deposited in the Private Workspace in the designated Output Folder. To reivThese include
 
- * **TaxonomicReport.html** - A web-browser-viewable report that summarizes the results of the service including
-   * Input Data - read files used
-   * Results - a table of the top taxonomic hits
-   * Link to interactive chart showing the taxonomic classification distribution
+ * **TaxonomicReport.html** - A web-browser-friendly report that summarizes the results of the service (see description and image below)
  * **chart.html** - Link to [Krona](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3190407/)-based interactive chart showing the taxonomic classification distribution (see image below)
  * **classified_1.fastq.gz** - reads that were classified by Kraken 2 *(only if Save Classified Sequences option is chosen)*
  * **classified_2.fastq.gz** - reads that were classified by Kraken 2 *(only if Save Classified Sequences option is chosen)*
@@ -70,6 +67,18 @@ The Taxonomic Classification Service generates several files that are deposited 
  * **report.txt** - Kraken 2 report; suppresses zero counts
  * **unclassified_1.fastq.gz** - reads that were not classified by Kraken 2 *(only if Save Unclassified Sequences option is chosen)*
  * **unclassified_2.fastq.gz** - reads that were not classified by Kraken 2 *(only if Save Unclassified Sequences option is chosen)*
+
+### Taxonomic Report Output
+This page is a web-friendly report that summarizes the output of Kraken 2. It provides a link to the input data, an interactive chart view (see description below), and a summary table of the top hits.  The columns in the table are as follows: 
+
+![Kraken 2 Taxonomic Classification Report](../images/taxonomic_classification_report.png)
+
+* Pct Coverage - Percentage of fragments covered by the clade rooted at this taxon
+* Frags in Clade - Number of fragments covered by the clade rooted at this taxon
+* Frags in Taxon - Number of fragments assigned directly to this taxon
+* Rank - A rank code, indicating (U)nclassified, (R)oot, (D)omain, (K)ingdom, (P)hylum, (C)lass, (O)rder, (F)amily, (G)enus, or (S)pecies. Taxa that are not at any of these 10 ranks have a rank code that is formed by using the rank code of the closest ancestor rank with a number indicating the distance from that rank.  E.g., "G2" is a rank code indicating a taxon is between genus and species and the grandparent taxon is at the genus rank.
+* NCBI Taxon ID - NCBI taxonomic ID number
+* Scientific Name - Indented scientific name
 
 ![Krona-based interactive Taxonomic Classification Chart](../images/krona_taxonomic_classification_chart.png)
 
