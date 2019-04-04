@@ -14,7 +14,7 @@ The **Taxonomic Classification** submenu option under the **Services** main menu
 ![Taxonomic Classification Menu](../images/services_menu.png)
 
 ## Options
-![Taxonomic Classification Input Form](../images/taxonomic_classification_input_form.png)
+![Taxonomic Classification Input Form](../images/taxonomic_classification_input_form_v2.png)
 
 ## Start With
 The service can accept either read files or assembled contigs. If the "Read File" option is selected, the form will provide controls to allow input of read files or SRA accession numbers.  If the "Assembled Contigs" option is selected, the form will change to allow input of a contig file.   
@@ -63,13 +63,13 @@ The Taxonomic Classification Service generates several files that are deposited 
    * Results - a table of the top taxonomic hits
    * Link to interactive chart showing the taxonomic classification distribution
  * **chart.html** - Link to [Krona](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3190407/)-based interactive chart showing the taxonomic classification distribution (see image below)
- * **classified_1.fastq.gz** - reads that were classified by Kraken 2
- * **classified_2.fastq.gz** - reads that were classified by Kraken 2
+ * **classified_1.fastq.gz** - reads that were classified by Kraken 2 *(available only if Save Classified Sequences option is chosen in the Parameters section of the input form)*
+ * **classified_2.fastq.gz** - reads that were classified by Kraken 2 *(available only if Save Classified Sequences option is chosen in the Parameters section of the input form)*
  * **full_report.txt** - Full Kraken 2 report; includes zero counts (see [Kraken 2 Output Formats](https://ccb.jhu.edu/software/kraken2/index.shtml?t=manual#output-formats))
  * **output.txt.gz** - Per-read Kraken 2 output file
  * **report.txt** - Kraken 2 report; suppresses zero counts
- * **unclassified_1.fastq.gz** - reads that were not classified by Kraken 2
- * **unclassified_2.fastq.gz** - reads that were not classified by Kraken 2
+ * **unclassified_1.fastq.gz** - reads that were not classified by Kraken 2 *(available only if Save Unclassified Sequences option is chosen in the Parameters section of the input form)*
+ * **unclassified_2.fastq.gz** - reads that were not classified by Kraken 2 *(available only if Save Unclassified Sequences option is chosen in the Parameters section of the input form)*
 
 ![Krona-based interactive Taxonomic Classification Chart](../images/krona_taxonomic_classification_chart.png)
 
