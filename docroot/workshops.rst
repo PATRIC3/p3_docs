@@ -19,7 +19,6 @@ PATRIC 3
 --------
 
 .. tabularcolumns:: |p{144pt}|p{72pt}|p{40pt}|p{72pt}|
-.. table:: PATRIC 3 Workshops
 
 +----------------------------------------------+---------------+---------+--------------+
 | Institute/Conference                         | Location      | Date    | Participants |
