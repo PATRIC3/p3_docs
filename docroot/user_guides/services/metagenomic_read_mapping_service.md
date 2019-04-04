@@ -32,11 +32,6 @@ Read files to be mapped.
 
 ## Parameters
 
-**Gene Set Type:** The set of genes against which the reads will be mapped.  Three options are available:
-* Predefined List - Pre-built gene set in PATRIC (see Predefined Gene Set Name below)
-* FASTA File - User provided FASTA file containing genes
-* Feature Group - A user-defined PATRIC feature group
-
 **Predefined Gene Set Name:** A pre-built set of genes against which reads are mapped.  Two options are available:
 * CARD - Antibiotic resistence gene set from the [Comprehensive Antibiotic Resistance Database](https://www.ncbi.nlm.nih.gov/pubmed/27789705)
 * VFDB - Virulence factor gene set from the [Virulence Factor Database](https://www.ncbi.nlm.nih.gov/pubmed/30395255)
@@ -55,8 +50,3 @@ The Metagenomic Read Mapping Service generates several files that are deposited 
 * Jia, Baofeng, et al. "CARD 2017: expansion and model-centric curation of the comprehensive antibiotic resistance database." Nucleic acids research (2016): gkw1004.
 * Liu, Bo, et al. "VFDB 2019: a comparative pathogenomic platform with an interactive web interface." Nucleic acids research 47.D1 (2018): D687-D692.
 * Philip T.L.C. Clausen, Frank M. Aarestrup & Ole Lund, "Rapid and precise alignment of raw reads against redundant databases with KMA", BMC Bioinformatics, 2018;19:307.
-
-
-
-
- 
