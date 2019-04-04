@@ -27,7 +27,7 @@ The **Metagenomic Read Mapping** submenu option under the **Services** main menu
 ### SRA run accession
 Allows direct upload of read files from the [NCBI Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) to the PATRIC Assembly Service. Entering the SRR accession number and clicking the arrow will add the file to the selected libraries box for use in the assembly. 
 
-### Selected libraries
+## Selected libraries
 Read files to be mapped.
 
 ## Parameters
