@@ -1,19 +1,19 @@
-# Metagenome Binning Service
+# Metagenomic Binning Service
 
 ## Overview
 The Metagenomic Binning Service accepts either reads or contigs, and attempts to "bin" the data into a set of genomes. This service can be used to reconstruct bacterial and archael genomes from environmental samples.
 
 ### See also
-* [Metagenome Binning Service](https://patricbrc.org/app/MetagenomeBinning)
-* [Metagenome Binning Service Tutorial](https://docs.patricbrc.org//tutorial/metagenomic_binning/metagenomic_binning.html)
+* [Metagenomic Binning Service](https://patricbrc.org/app/MetagenomicBinning)
+* [Metagenomic Binning Service Tutorial](https://docs.patricbrc.org//tutorial/metagenomic_binning/metagenomic_binning.html)
 
-## Using the Metagenome Binning Service
-The **Metagenome Binning** submenu option under the **Services** main menu (Genomics category) opens the Metagenome Binning Service input form (*shown below*). *Note: You must be logged into PATRIC to use this service.*
+## Using the Metagenomic Binning Service
+The **Metagenomic Binning** submenu option under the **Services** main menu (Genomics category) opens the Metagenomic Binning Service input form (*shown below*). *Note: You must be logged into PATRIC to use this service.*
 
-![Metagenome Binning Menu](../images/services_menu.png)
+![Metagenomic Binning Menu](../images/services_menu.png)
 
 ## Options
-![Metagenome Binning Input Form](../images/metagenome_binning_input_form.png) 
+![Metagenomic Binning Input Form](../images/metagenome_binning_input_form.png) 
 
 ## Paired read library
 
