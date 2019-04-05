@@ -22,6 +22,15 @@ Genomics
    variation_analysis_service/variation_analysis_service.md
    tn-seq/tn-seq.md
    phylogenetic_tree_building/tree_building.md
+
+Metagenomics
+------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   metagenomic_read_mapping/metagenomic_read_mapping.md
+   taxonomic_classification/taxonomic_classification.md
    metagenomic_binning/metagenomic_binning
    metagenomic_binning/metagenomic_output
 
@@ -57,6 +66,14 @@ Metabolomics
 
    comparative_pathways/comparative_pathways.md
    metabolic_model_reconstruction/metabolic_model_reconstruction.md
+
+Data
+-------
+
+.. toctree::
+   :maxdepth: 1
+
+   id_mapper/id_mapper.md
 
 Others
 -------
