@@ -16,13 +16,16 @@ Data Updates:
 
 **New Genomes**
 
-In this release, PATRIC has added over 10,000 new genomes and associated metadata, bringing the total number of genomes and plasmids to over 200,000. The full list of available microbial and host genomes can be accessed `here
+In this release, PATRIC has added over XX,XXX new genomes and associated metadata, bringing the total number of genomes and plasmids to over 2XX,XXX. The full list of available microbial and host genomes can be accessed `here
 <https://www.patricbrc.org/view/GenomeList/?or(keyword(Bacteria),keyword(Archaea),keyword(Eukaryota))#view_tab=genomes>`__.
 
 
 New Website Features:
 ----------------------
-The new **Genome Alignment Service** (Beta version) utilizes progressiveMauve to produce a whole genome alignment of two or more genomes. The resulting alignment can be visualized within the PATRIC website, providing insight into homologous regions and changes due to DNA recombination. The `Genome Alignment Service <https://patricbrc.org/app/GenomeAlignment>`_ is available from the Services top menu.
+The new 
+
+
+**Genome Alignment Service** (Beta version) utilizes progressiveMauve to produce a whole genome alignment of two or more genomes. The resulting alignment can be visualized within the PATRIC website, providing insight into homologous regions and changes due to DNA recombination. The `Genome Alignment Service <https://patricbrc.org/app/GenomeAlignment>`_ is available from the Services top menu.
 
 The assembly component of the **Metagenomic Binning Service** has been migrated to a 1024-node cluster, enabling a 10-fold increase in the throughput of assembly-based binning jobs. The `Metagenomic Binning Service <https://patricbrc.org/app/MetagenomeBinning>`_ is available from the Services top menu.
 
