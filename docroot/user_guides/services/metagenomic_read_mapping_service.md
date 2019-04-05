@@ -57,17 +57,19 @@ The Metagenomic Read Mapping Service generates several files that are deposited 
 
 This page is a web-friendly report that summarizes the output of MKA. It provides a link to the input data, an interactive chart view (see description below), and a table of the reference genes mapped.  The columns in the table are as follows: 
 
-* Pct Coverage - Percentage of fragments covered by the clade rooted at this taxon
-* Frags in Clade - Number of fragments covered by the clade rooted at this taxon
-* Frags in Taxon - Number of fragments assigned directly to this taxon
-* Rank - A rank code, indicating (U)nclassified, (R)oot, (D)omain, (K)ingdom, (P)hylum, (C)lass, (O)rder, (F)amily, (G)enus, or (S)pecies. Taxa that are not at any of these 10 ranks have a rank code that is formed by using the rank code of the closest ancestor rank with a number indicating the distance from that rank.  E.g., "G2" is a rank code indicating a taxon is between genus and species and the grandparent taxon is at the genus rank.
-* NCBI Taxon ID - NCBI taxonomic ID number
-* Scientific Name - Indented scientific name. Clicking on one of these names will display the corresponding taxon page in the PATRIC website.
-
-### Taxonomic Chart
-![Krona-based interactive Taxonomic Classification Chart](../images/krona_taxonomic_pie_chart.png)
-
-This interactive chart provides a visual representation of the reads mapping to each taxon. Clicking on a taxon within the pie chart will provide a summary of the reads mapping to that specific selection on the upper right corner.
+* Template - Identifier of the template (reference gene) sequence that match the query reads. Clicking on any of the template identifiers in the first column will open a Specialty Gene List View that shows all the genes in PATRIC that have BLAT[4] hits to the same template gene.
+* Function - Template gene function.
+* Genome: Genome that contains template gene. Clicking on the name in the Genome column will open a new tab that shows the Genome List view, which shows all the genomes in PATRIC that fall under the same taxonomy of the selected name.
+* Score - Global alignment score of the template.
+* Expected - Expected alignment score if all mapping reads where smeared over all templates in the database.
+* Template_length - Template gene length in nucleotides.
+* Template_Identity - Percent identity between the query and template sequence, over the length of the matching query sequence
+* Template_Coverage - Percent of the template that is covered by the query
+* Query_Identity - Percent identity between the query and template sequence, over the length of the matching query sequence
+* Query_Coverage - Length of the matching query sequnce divided by the template length
+* Depth - Number of times the template has been covered by the query.
+* q_value - Quantile from McNemars test, to test whether the current template is a significant hit.
+* p_value - p-vaue corresponding to the obtained q_value
 
 ### Action buttons
 After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
