@@ -6,7 +6,7 @@ PATRIC March 2019 Data and Website Release
 .. feed-entry::
    :date: 2019-04-05
 
-This PATRIC release includes a new Metagenome Taxonomic Classification Service; a new Metagenomic Read Mapping Service; a new Codon Tree option for the Phylogenetic Tree Building Service; and over XX,XXX new microbial genomes.  
+This PATRIC release includes a new Metagenome Taxonomic Classification Service; a new Metagenomic Read Mapping Service; a new Codon Tree option for the Phylogenetic Tree Building Service; and over 18,250 new microbial genomes.  
 
 
 
