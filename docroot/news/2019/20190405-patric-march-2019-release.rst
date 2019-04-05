@@ -24,10 +24,6 @@ New Website Features:
 ----------------------
 The new **Metagenome Taxonomic Classification Service** accepts reads or contigs from sequencing of a metagenomic sample and uses Kraken 2 to assign the reads to taxonomic bins, providing an initial profile of the possible constituent organisms present in the sample. The `Taxonomic Classification Service <https://patricbrc.org/app/TaxonomicClassification>`_ is available from the Services top menu.
 
+The new **Metagenomic Read Mapping Service** uses KMA to align reads against antibiotic resistance genes and virulence factors in PATRIC. The `Metagenomic Read Mapping Service <https://patricbrc.org/app/MetagenomicReadMapping>`_ is available from the Services top menu.
 
-
-The assembly component of the **Metagenomic Binning Service** has been migrated to a 1024-node cluster, enabling a 10-fold increase in the throughput of assembly-based binning jobs. The `Metagenomic Binning Service <https://patricbrc.org/app/MetagenomeBinning>`_ is available from the Services top menu.
-
-The **RNA-Seq Analysis Service** now supports direct import of sequence data from SRA, alleviating the need to first download the data from SRA and then upload into the service. The `RNA-Seq Analysis Service <https://patricbrc.org/app/Rnaseq>`_ is available from the Services top menu. 
-
-The **Tn-Seq Analysis Service** has been updated to use a new version of the TRANSIT software. The `Tn-Seq Analysis Service <https://patricbrc.org/app/Tnseq>`_ is available from the Services top menu.
+The **Phylogenetic Tree Builiding Service** now includes a faster **Codon Tree** option that utilizes PATRIC PGFams as homology groups and analyzes aligned proteins and coding DNA from single-copy genes using the program RAxML. Up to 100 genomes can be analyzed. The `Phylogenetic Tree Building Service <https://patricbrc.org/app/PhylogeneticTree>`_ is available from the Services top menu.
