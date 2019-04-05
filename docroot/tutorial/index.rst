@@ -30,7 +30,7 @@ Metagenomics
 .. toctree::
    :maxdepth: 1
 
-   metagenomic_read_mapping/metagenomic_read_mapping.md
+   metagenomic_read_mapping/metagenomic_read_mapping.rst
    taxonomic_classification/taxonomic_classification.md
    metagenomic_binning/metagenomic_binning
    metagenomic_binning/metagenomic_output
