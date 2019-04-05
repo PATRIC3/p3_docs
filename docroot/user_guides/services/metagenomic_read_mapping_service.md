@@ -46,18 +46,20 @@ Read files to be mapped.
 
 The Metagenomic Read Mapping Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
- * **MetagenomicReadMappingReport.html** - A web-browser-friendly report that summarizes the results of the service (see description and image below)
- * **kma.aln** - 
- * **kma.frag.gz** - 
- * **kma.fsa** - 
- * **kma.res** - (https://ccb.jhu.edu/software/kraken2/index.shtml?t=manual#output-formats))
+ * **MetagenomicReadMappingReport.html** - A web-browser-friendly report that summarizes the results of the service (see description and image below).
+ * **kma.aln** - The consensus alignment of the reads against their template.
+ * **kma.frag.gz** - Mapping information on each mapped read, columns are: read, number of equally well mapping templates, mapping score, start position, end position (w.r.t. template), the choosen template.
+ * **kma.fsa** - The consensus sequences drawn from the alignments.
+ * **kma.res** - A result overview giving the most common statistics for each mapped template.
+ * **kma.mat.gz** - Base counts on each position in each template, (only if “-matrix” is enabled).
+
 
 ### Metagenomic Read Mapping Report Output
 ![KMA Read Mapping Report](../images/metagenomic_read_mapping_report.png)
 
 This page is a web-friendly report that summarizes the output of MKA. It provides a link to the input data, an interactive chart view (see description below), and a table of the reference genes mapped.  The columns in the table are as follows: 
 
-* Template - Identifier of the template (reference gene) sequence that match the query reads. Clicking on any of the template identifiers in the first column will open a Specialty Gene List View that shows all the genes in PATRIC that have BLAT[4] hits to the same template gene.
+* Template - Identifier of the template (reference gene) sequence that match the query reads. Clicking on any of the template identifiers in the first column will open a Specialty Gene List View that shows all the genes in PATRIC that have BLAT hits to the same template gene.
 * Function - Template gene function.
 * Genome: Genome that contains template gene. Clicking on the name in the Genome column will open a new tab that shows the Genome List view, which shows all the genomes in PATRIC that fall under the same taxonomy of the selected name.
 * Score - Global alignment score of the template.
@@ -84,9 +86,6 @@ After selecting one of the output files by clicking it, a set of options becomes
 * **Move** Allows moving of the file to another folder.
 
 More details are available in the [Action Buttons](../other/action_buttons.html) user guide.
-
-
-
 
 ## References
 * Jia, Baofeng, et al. "CARD 2017: expansion and model-centric curation of the comprehensive antibiotic resistance database." Nucleic acids research (2016): gkw1004.
