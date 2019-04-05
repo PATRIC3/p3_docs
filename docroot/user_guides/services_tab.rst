@@ -30,7 +30,7 @@ Metagenomics
    
    services/metagenomic_read_mapping_service.md
    services/taxonomic_classification_service.md
-   services/metagenome_binning_service.md
+   services/metagenomic_binning_service.md
 
 
 Transcriptomics
