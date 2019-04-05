@@ -38,7 +38,7 @@ Read files placed here will contribute to a single assembly.
 
 ### Algorithm
 
- * [Kraken 2](http://genomebiology.com/2014/15/3/R46) - Assigns taxonomic labels to metagenomic DNA sequences using exact alignmnet of k-mers.
+ * [Kraken 2](http://genomebiology.com/2014/15/3/R46) - Assigns taxonomic labels to metagenomic DNA sequences using exact alignmnet of k-mers. [Kraken 2 source code](https://ccb.jhu.edu/software/kraken2/)
 
 ### Database
 Reference taxonomic database used by the algorithm.
