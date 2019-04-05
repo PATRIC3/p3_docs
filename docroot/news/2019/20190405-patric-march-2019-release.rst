@@ -8,6 +8,8 @@ PATRIC March 2019 Data and Website Release
 
 This PATRIC release includes a new Metagenome Taxonomic Classification Service; a new Metagenomic Read Mapping Service; a new Codon Tree option for the Phylogenetic Tree Building Service; and over XX,XXX new microbial genomes.  
 
+
+
 .. cut::
 
 
@@ -16,7 +18,7 @@ Data Updates:
 
 **New Genomes**
 
-In this release, PATRIC has added over XX,XXX new genomes and associated metadata, bringing the total number of genomes and plasmids to over 230,000. The full list of available microbial and host genomes can be accessed `here
+In this release, PATRIC has added 18,250 new genomes with AMR panel data added since January release, which includes 10,000 genomes from MTB Cryptic consortium and 5000 genomes from SRA with antibiogram data. All of these genomes were assembled from reads in SRA. We also updated MLST reference database and MLST assignments for all public genomes and standardized host names for all public genomes to support development of new machine learning models to predict host specificity. The total number of genomes and plasmids in PATRIC is now over 230,000. The full list of available microbial and host genomes can be accessed `here
 <https://www.patricbrc.org/view/GenomeList/?or(keyword(Bacteria),keyword(Archaea),keyword(Eukaryota))#view_tab=genomes>`__.
 
 
