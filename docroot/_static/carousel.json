@@ -1,4 +1,9 @@
 [{
+    "title": "PATRIC March 2019 Data and Website Release",
+    "desc": "This PATRIC release includes a new Metagenome Taxonomic Classification Service; a new Metagenomic Read Mapping Service; a new Codon Tree option for the Phylogenetic Tree Building Service; and over 18,250 new microbial genomes.",
+    "img": "https://docs.patricbrc.org/_static/announcements/march-release-2019.png",
+    "link": "https://docs.patricbrc.org/news/2019/20190405-patric-march-2019-release.html"
+},{
     "title": "PATRIC/RAST Workshop at Argonne National Laboratory, April 16-18, 2019",
     "desc": "The PATRIC/RAST teams will be offering a tutorial workshop April 16-18, 2019, at Argonne National Laboratory in the suburbs of Chicago, IL.",
     "img": "https://docs.patricbrc.org/_static/announcements/workshop-1.png",
