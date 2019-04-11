@@ -62,8 +62,8 @@ path is in the PATRIC workspace::
 
  $ ls *.fastq *.fa
  reads_A_1.fastq reads_A_2.fastq reads_B_1.fastq reads_B_2.fastq  reads_C.fastq ref.fa
- $ p3-mkdir /PatricUser@patricbc.org/home/AssemblyJob
- $ p3-cp *.fastq *.fa ws:/PatricUser@patricbc.org/home/AssemblyJob
+ $ p3-mkdir /PatricUser@patricbrc.org/home/AssemblyJob
+ $ p3-cp *.fastq *.fa ws:/PatricUser@patricbrc.org/home/AssemblyJob
  Copying reads_A_1.fastq (XXX bytes)
  Copy completed in 30 seconds
  Copying reads_A_2.fastq (XXX bytes)
@@ -76,7 +76,7 @@ path is in the PATRIC workspace::
  Copy completed in 30 seconds
  Copying ref.fa (XXX bytes)
  Copy completed in 30 seconds
- $ p3-ls /PatricUser@patricbc.org/home/AssemblyJob
+ $ p3-ls /PatricUser@patricbrc.org/home/AssemblyJob
 
 We will later see an example where the data copy operation is
 performed by the service submission script.
@@ -101,15 +101,15 @@ We may now submit our assembly job. We will use the
 that we are passing to the command::
 
  $ p3-submit-genome-assembly --recipe auto \
-     --workspace-path-prefix '/PatricUser@patricbc.org/home/AssemblyJob' \
+     --workspace-path-prefix '/PatricUser@patricbrc.org/home/AssemblyJob' \
      --paired-end-lib ws:reads_A_1.fastq ws:reads_A_2.fastq  \
      --paired-end-lib ws:reads_B_1.fastq ws:reads_B_2.fastq  \
      --single-end-lib ws:reads_C.fastq \
      --reference-assembly ws:ref.fa \
-     '/PatricUser@patricbc.org/home/AssemblyRuns' \
+     '/PatricUser@patricbrc.org/home/AssemblyRuns' \
      job-ABC-auto
  Job submitted: ace5ad73-db90-49d4-b854-8ab7290abb77
- Output will be written to /PatricUser@patricbc.org/home/AssemblyRuns/.job-ABC-auto
+ Output will be written to /PatricUser@patricbrc.org/home/AssemblyRuns/.job-ABC-auto
 
 Once the job is submitted we may use the ``p3-job-status`` command to
 determine if the job is queued, running, or completed::
@@ -121,4 +121,4 @@ When the job is complete, we can browse the output of the job. The
 output files for the job are written to the workspace in a directory
 that is named as the output name for the job prefixed with a period::
 
- $ p3-ls '/PatricUser@patricbc.org/home/AssemblyRuns/.jobABC-auto'
+ $ p3-ls '/PatricUser@patricbrc.org/home/AssemblyRuns/.jobABC-auto'
