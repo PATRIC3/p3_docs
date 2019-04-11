@@ -1,8 +1,8 @@
 :github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/tutorial/taxonomic_classification/taxonomic_classification.rst
 
-===================================
-Taxonomic Classification at PATRIC
-===================================
+========================
+Taxonomic Classification
+========================
 
 Metagenomics is the study of genomic sequences obtained directly from an environment. For many metagenomic samples, the species, genera and even phyla present in the sample are largely unknown at the time of sequencing, and the goal of sequencing is to determine the microbial composition as precisely as possible.  The PATRIC Taxonomic Classification service can be used to identify the microbial composition of metagenomic samples.  Researchers can submit their metagenomic samples that are reads (paired-or single-end, long or short, zipped or not) to the service, as well as, Sequence Read Archive accession numbers or contigs.
 

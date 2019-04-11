@@ -1,4 +1,4 @@
-# Submitting an RNA-Seq job at PATRIC
+# Submitting an RNA-Seq Job
 ## I. Locating the RNA-Seq Service App.
 1. At the top of any PATRIC page, find the Services tab. Click on RNA-Seq Analysis.
 ![Step 1](./images/image1.png)

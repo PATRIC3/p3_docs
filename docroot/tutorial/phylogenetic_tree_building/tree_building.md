@@ -1,4 +1,4 @@
-# Building Phylogenetic trees in PATRIC
+# Building Phylogenetic Trees
 
 The Phylogenetic Tree Building Service allows construction of custom phylogenetic trees for up to 50 user-selected genomes. 
 
