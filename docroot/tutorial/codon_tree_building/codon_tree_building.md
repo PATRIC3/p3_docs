@@ -1,3 +1,3 @@
-# Building Codon Trees in PATRIC
+# Building Codon Trees
 
 *Tutorial coming soon.* 

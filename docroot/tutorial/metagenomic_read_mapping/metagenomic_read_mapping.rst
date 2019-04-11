@@ -1,8 +1,8 @@
 :github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/tutorial/metagenomic_read_mapping/metagenomic_read_mapping.rst
 
-===================================
-Metagenomic Read Mapping at PATRIC
-===================================
+========================
+Metagenomic Read Mapping
+========================
 
 The Metagenomic Read Mapping Service uses KMA(k-mer alignment), [1] to align reads against antibiotic resistance genes or virulence factors. KMA maps raw reads directly against these databases, and uses k-mer seeding to speed up mapping and the Needleman-Wunsch algorithm to accurately align extensions from k-mer seeds.  Software for KMA was downloaded at the following location: https://bitbucket.org/genomicepidemiology/kma
 
