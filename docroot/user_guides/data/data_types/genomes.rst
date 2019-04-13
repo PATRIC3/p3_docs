@@ -24,7 +24,7 @@ To learn how to search for genomes of interest, visit `Genomes Tab User Guide <h
    
 **What are the tools and services available to analyze genomes?**
 
-PATRIC provides numorous tools assemble, annotate, and analyze public and/or private user genomes. 
+PATRIC provides numorous tools tp assemble, annotate, and analyze public and/or private user genomes. 
 
 - `Genome Assembly Service <https://patricbrc.org/app/Assembly>`_
 - `Genome Annotation Service <https://patricbrc.org/app/Annotation>`_
