@@ -23,6 +23,7 @@ The workshop will be limited to 40 people on a first-come, first-served basis. T
 | **Tuesday:** Building 240 Conference Center - Rooms 1406/1407
 | **Wednesday:** Building 241 - Room D172
 | **Thursday:** Building 241 - Room D172
+
 **AGENDA**
 
 Tuesday, April 16
