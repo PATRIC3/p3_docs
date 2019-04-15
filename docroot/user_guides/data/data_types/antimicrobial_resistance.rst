@@ -29,7 +29,6 @@ AMR Genes
 ----------
 AMR genes refere to the genes implicated in or associated with the resistance to one or more antibiotics. The resistance may result from the presence or absense of a gene or specific murations acquired sponteniously or through evolution over time. We integrate and map known antibiotic resistance genes from the following sources:
 
-- `ARDB <https://www.patricbrc.org/view/Taxonomy/2#view_tab=specialtyGenes&filter=and(eq(property,%22Antibiotic%20Resistance%22),eq(source,%22ARDB%22))>`_
 - `CARD <https://www.patricbrc.org/view/Taxonomy/2#view_tab=specialtyGenes&filter=and(eq(property,%22Antibiotic%20Resistance%22),eq(source,%22CARD%22))>`_
 - `NDARO <https://www.patricbrc.org/view/Taxonomy/2#view_tab=specialtyGenes&filter=and(eq(property,%22Antibiotic%20Resistance%22),eq(source,%22NDARO%22))>`_
 - `PATRIC AMR <https://www.patricbrc.org/view/Taxonomy/2#view_tab=specialtyGenes&filter=and(eq(property,%22Antibiotic%20Resistance%22),eq(source,%22PATRIC%22))>`_

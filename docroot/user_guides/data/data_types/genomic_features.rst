@@ -34,6 +34,8 @@ Functional properties refer to the description and ontological terms used to cha
 - Function
 - GO terms
 - EC numbers
+- Protein families
+- Subsystems
 - Metabolic pathways
 
 
@@ -41,9 +43,9 @@ Specialty Genes
 ---------------
 Specialty genes refer to the genes possessing properties that are of special interest to the infectious disease researchers. Classes of specialty genes include:
 
-- Virulence factors
 - Antibiotic resistant genes
-- Secreted proteins
+- Virulence factors
+- Transporters
 - Essential genes
 - Drug and vaccine targets
 - Human homologs
