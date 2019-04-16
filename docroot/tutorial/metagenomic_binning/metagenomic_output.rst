@@ -1,6 +1,6 @@
-===============================
- Analyzing Your Metagenome Bins
-===============================
+================================
+ Analyzing Your Metagenomic Bins
+================================
 
 Basic Steps
 ===========
@@ -38,7 +38,7 @@ document icon next to it and the binning report will appear.
 .. image:: images/analysis-page-3a.png
 
 The top part of the page shows information about the binning job. Immediately below is a brief
-description of the results.  The binning report shows all of the bins found by the PATRIC metagenome processor.
+description of the results.  The binning report shows all of the bins found by the PATRIC metagenomic processor.
 The bins are divided into two categories-- those of high quality (good) and those of questionable quality (bad).
 Two internal PATRIC tools are used-- EvalG, which
 computes completeness and contamination using marker roles, and EvalCon, which determines whether

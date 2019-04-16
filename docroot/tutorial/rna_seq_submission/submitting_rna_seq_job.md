@@ -1,4 +1,4 @@
-# Submitting an RNA-Seq job at PATRIC
+# Submitting an RNA-Seq Job
 ## I. Locating the RNA-Seq Service App.
 1. At the top of any PATRIC page, find the Services tab. Click on RNA-Seq Analysis.
 ![Step 1](./images/image1.png)
@@ -146,6 +146,9 @@ http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
 
 4. This will show the individual reads, with the colors indicative of the orientation of the reads (blue is forward, red is reverse).
 ![Step 37](./images/image37.png)
+
+## Other output files
+Descriptions of the other output files can be found in the [RNA-Seq Analyis Service User Guide](https://docs.patricbrc.org//user_guides/services/rna_seq_analysis_service.html).
 
 
 ## References

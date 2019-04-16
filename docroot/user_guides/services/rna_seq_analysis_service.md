@@ -58,7 +58,7 @@ Turning on Groups/Conditions also turns on differential expression analysis. In 
 Read files placed here will contribute to a single RNA-Seq analysis. If the Groups/Conditions option is turned on, read files placed into this table under the same group will be considered replicates.
 
 ## Contrasts
-Contrasts specify which pairs of conditions to compare in differential expression analysis.
+Contrasts specify which pairs of conditions to compare in differential expression analysis. The RockHopper strategy performs all vs all contrats by default, hence, no cotrasts need to be specified. 
 
 ## Output Results
 ![RNA-Seq Service Output Files](../images/rna_seq_job_result.png) 

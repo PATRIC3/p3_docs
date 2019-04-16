@@ -31,7 +31,7 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinxcontrib.newsfeed', 'sphinxcontrib.spelling']
+extensions = ['recommonmark', 'sphinxcontrib.newsfeed', 'sphinxcontrib.spelling', 'sphinxcontrib.httpdomain']
 
 # spelling check extension
 spelling_lang='en_US'
@@ -44,9 +44,9 @@ templates_path = ['_templates']
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
 #
-source_suffix = ['.rst', '.md']
-source_parsers = {
-  '.md': 'recommonmark.parser.CommonMarkParser',
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',
 }
 
 # The master toctree document.
@@ -54,7 +54,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'PATRIC Documentation'
-copyright = '2017, PATRIC team'
+copyright = '2019 | The PATRIC Team'
 author = 'PATRIC team'
 
 # The version info for the project you're documenting, acts as replacement for

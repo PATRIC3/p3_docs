@@ -1,10 +1,10 @@
 :github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/tutorial/index.rst
 
-.. Website Tutorial Index page
-   This page will include group pages
+Tutorials
+=========
 
-Website Tutorials
-==================================
+The PATRIC website provides the capability to perform a broad array of analyses. These **Tutorials** provide step-by-step instructions for performing common tasks and analyses using the website.  The examples are chosen to also provide a relevant biological context to help deomonstrate utility and interpretation of the data and results.
+
 
 Genomics
 ---------
@@ -21,7 +21,17 @@ Genomics
    similar_genome_finder/similar_genome_finder.md
    variation_analysis_service/variation_analysis_service.md
    tn-seq/tn-seq.md
+   codon_tree_building/codon_tree_building.md
    phylogenetic_tree_building/tree_building.md
+
+Metagenomics
+------------
+
+.. toctree::
+   :maxdepth: 1
+
+   metagenomic_read_mapping/metagenomic_read_mapping.rst
+   taxonomic_classification/taxonomic_classification.md
    metagenomic_binning/metagenomic_binning
    metagenomic_binning/metagenomic_output
 
@@ -57,6 +67,14 @@ Metabolomics
 
    comparative_pathways/comparative_pathways.md
    metabolic_model_reconstruction/metabolic_model_reconstruction.md
+
+Data
+-------
+
+.. toctree::
+   :maxdepth: 1
+
+   id_mapper/id_mapper.md
 
 Others
 -------
