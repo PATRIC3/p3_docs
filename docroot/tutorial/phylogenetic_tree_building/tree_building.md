@@ -1,4 +1,4 @@
-# Building Phylogenetic Trees
+# Building Phylogenetic Trees - All Shared Proteins
 
 The Phylogenetic Tree Building Service allows construction of custom phylogenetic trees for up to 50 user-selected genomes. 
 
