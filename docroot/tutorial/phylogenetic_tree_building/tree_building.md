@@ -1,5 +1,7 @@
 # Building Phylogenetic Trees - All Shared Proteins
 
+For the **Codon** version of this tutorial see: [Codon Tree Building](http://docs.patricbrc.org/tutorial/codon_tree_building/codon_tree_building.html)
+
 The Phylogenetic Tree Building Service allows construction of custom phylogenetic trees for up to 50 user-selected genomes. 
 
 ## 1. Selecting an “ingroup” of genomes for the tree.
