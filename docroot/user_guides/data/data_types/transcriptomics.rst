@@ -8,7 +8,7 @@ In addition, PATRIC also allows researchers to upload and analyze their own gene
 Data Processing and Clean Up Process
 ------------------------------------
 
-.. image:: images/transcriptomics.jpg
+.. image:: images/transcriptomics.png 
    :alt: Transcriptomics Chart
    
 Accessing Transcriptomics Data

@@ -43,5 +43,5 @@ AMR regions refer to the small genomic regions implicated in or associated with 
 How Do We Curate, Integrate, and Map Antibiotic Resistance Data?
 -----------------------------------------------------------------
 
-.. image:: images/antibiotics_resistance.jpg
+.. image:: images/amr.png
    :alt: Antibiotics Resistance Chart
