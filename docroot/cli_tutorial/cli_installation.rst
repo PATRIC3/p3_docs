@@ -136,7 +136,7 @@ It may be simpler to install using the ``gdebi`` tool as it handles
 dependency management itself. Ubuntu does not have ``gdebi`` installed
 by default so you will need to install it first::
 
-  sudo apt-get install gdebi-core
+   sudo apt-get install gdebi-core
 
 Then to install with gdebi::
 
@@ -146,6 +146,32 @@ When the install has completed, the PATRIC command line tools will be
 available for you to use. They are installed in the system binary
 directory ``/usr/bin`` which is accessible in your default
 environment.
+
+If you see an error like the following::
+
+    $ sudo gdebi patric-cli-1.025.deb 
+    Reading package lists... Done
+    Building dependency tree        
+    Reading state information... Done
+    Reading state information... Done
+    This package is uninstallable
+    Dependency is not satisfiable: libanyevent-perl
+
+there are a couple possibilities. First, on Ubuntu the PATRIC package
+requires the Universe repository to be enabled. This can be done in the user interface. 
+Open software center. Click on 'edit' and then 'software
+sources' to open the software sources window. Once that is open, check
+the box that says, "Community-maintained free and open-source software
+(universe)."
+
+This can also be done with the command line::
+
+    sudo add-apt-repository universe
+
+If the Universe repository was already in place, your package cache may be out of date. This may
+be updated using::
+
+    sudo apt-get update
 
 Installation on Windows
 =======================
