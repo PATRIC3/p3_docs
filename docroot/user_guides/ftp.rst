@@ -7,10 +7,9 @@ FTP Site
 PATRIC FTP site provides bulk access to all the public genomes and other related data in 
 various standard file formats. 
 
-URL for PATRIC FTP Site: `ftp://ftp.patricbrc.org/ <ftp://ftp.patricbrc.org/>`_
+PATRIC FTP Site: `ftp://ftp.patricbrc.org/ <ftp://ftp.patricbrc.org/>`_
 
-Below is the description of primary data directories on the 
-FTP site and their content. 
+Below is the description of primary data directories on the FTP site and their content. 
 
 RELEASE_NOTES/
 --------------
