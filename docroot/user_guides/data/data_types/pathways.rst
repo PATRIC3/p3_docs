@@ -10,6 +10,12 @@ Our analysis tools and interactive visualizations allow users to highlight regio
 .. image:: images/pathways.jpg
    :alt: Pathways Chart
    
+Accessing Pathway Data
+----------------------
+
+Metabolic pathway assignments are available at the genome or taxoon levels from the "Pathways" tab. For more information on how to access and use pathway data, visit `Pathways Tab User Guide <https://docs.patricbrc.org/user_guides/organisms_taxon/pathways.html>`_.
+
+
 Relevant Services and Tools
 ---------------------------
 
