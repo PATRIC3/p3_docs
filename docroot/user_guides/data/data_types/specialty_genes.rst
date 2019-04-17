@@ -41,7 +41,14 @@ Virulence factors refer to the gene products that enable bacteria to establish i
 - `VFDB <http://www.mgc.ac.cn/VFs/>`_
 - `Victors <http://www.phidias.us/victors/>`_ 
 
-**How Do We Process and Clean Up Our Data?**
+Data Processing and Clean Up Process
+------------------------------------
 
 .. image:: images/genomic_features.jpg
    :alt: Genomic Features Chart
+   
+   
+Accessing Specialty Gene Data
+-----------------------------
+
+Specialty genes are accessible from the "Specialty Genes" tab available at the genome and taxon levels on the website. For more information on how to access and use specialty gene data, please visit `Specialty Genes Tab User Guide <https://docs.patricbrc.org/user_guides/organisms_taxon/specialty_genes.html>`_.
