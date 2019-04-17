@@ -67,3 +67,18 @@ file type, say .PATRIC.faa or .PATRIC.features.tab, simply replace .fna with tha
   :: 
 
   for i in `cat genome_list`; do wget -qN "ftp://ftp.patricbrc.org/genomes/$i/$i.fna"; done
+  
+
+Uploading/Downloading Data From Your Private Workspace using FTP Client
+-----------------------------------------------------------------------
+
+You can use FTP clients, such as `FileZilla <https://filezilla-project.org/>`_, to batch upload/download data to your private workspace.
+
+  ::
+  
+  Host: workspace.patricbrc.org
+  User name: your Patric user name
+  Password: your Patric password
+  
+  
+  
