@@ -75,9 +75,10 @@ Uploading/Downloading Data From Your Private Workspace using FTP Client
 You can use FTP clients, such as `FileZilla <https://filezilla-project.org/>`_ or `lftp <https://lftp.yar.ru/>`_ , to batch upload/download data to your private workspace.
 
   ::
-  Host: workspace.patricbrc.org
-  User name: your Patric user name
-  Password: your Patric password
+  
+    Host: workspace.patricbrc.org
+    User name: your Patric user name
+    Password: your Patric password
   
 
   
