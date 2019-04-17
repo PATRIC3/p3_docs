@@ -66,5 +66,6 @@ you can use the following one line shell script to read the list of genome ids f
 and download corresponding .fna files from the PATRIC FTP site. If you are interested in other 
 file type, say .PATRIC.faa or .PATRIC.features.tab, simply replace .fna with that extension. 
 
-:: 
+  :: 
+
   for i in `cat genome_list`; do wget -qN "ftp://ftp.patricbrc.org/genomes/$i/$i.fna"; done
