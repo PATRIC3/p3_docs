@@ -53,7 +53,7 @@ Specialty genes refer to the genes possessing properties that are of special int
 Data Processing and Clean up
 ----------------------------
 
-.. image:: images/genomic_features.jpg
+.. image:: images/genomic-features.png
    :alt: Genomic Features Chart
 
 Relevant Services and Tools

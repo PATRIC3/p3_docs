@@ -7,7 +7,7 @@ Our analysis tools and interactive visualizations allow users to highlight regio
 
 **How Do We Process and Clean Up Our Data?**
 
-.. image:: images/pathways.jpg
+.. image:: images/pathways.png
    :alt: Pathways Chart
    
 Accessing Pathway Data

@@ -44,7 +44,7 @@ Virulence factors refer to the gene products that enable bacteria to establish i
 Data Processing and Clean Up Process
 ------------------------------------
 
-.. image:: images/genomic_features.jpg
+.. image:: images/genomic-features.png
    :alt: Genomic Features Chart
    
    

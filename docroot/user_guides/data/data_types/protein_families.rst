@@ -15,7 +15,7 @@ Our `Protein Family Sorter Tool <http://docs.patricbrc.org/user_guides/organisms
 
 **How Do We Process and Clean Up Our Data?**
 
-.. image:: images/protein_family.jpg
+.. image:: images/protein-families.png
    :alt: Protein Family Chart
    
 

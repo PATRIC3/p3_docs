@@ -19,7 +19,7 @@ To learn how to search for genomes of interest, visit `Genomes Tab User Guide <h
 
 **How do we process and clean up Genomic Data?**
 
-.. image:: images/genomes.jpg
+.. image:: images/genomes.png
    :alt: Genomes Chart
    
 **What are the tools and services available to analyze genomes?**
