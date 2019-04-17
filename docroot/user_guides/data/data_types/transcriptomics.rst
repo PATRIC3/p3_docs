@@ -6,6 +6,7 @@ PATRIC provides large collection of manually curated transcriptomics datasets, w
 In addition, PATRIC also allows researchers to upload and analyze their own gene expression data in their private workspace and compare it to public datasets. 
 
 Data Processing and Clean Up Process
+------------------------------------
 
 .. image:: images/transcriptomics.jpg
    :alt: Transcriptomics Chart
