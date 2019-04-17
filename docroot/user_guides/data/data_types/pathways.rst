@@ -9,3 +9,9 @@ Our analysis tools and interactive visualizations allow users to highlight regio
 
 .. image:: images/pathways.jpg
    :alt: Pathways Chart
+   
+Relevant Services and Tools
+---------------------------
+
+- `Comparative Pathway Analysis <https://patricbrc.org/app/ComparativePathway>`_
+- `Model Reconstruction <https://patricbrc.org/app/Reconstruct>`_
