@@ -29,5 +29,9 @@ PATRIC provides numorous tools tp assemble, annotate, and analyze public and/or 
 - `Genome Assembly Service <https://patricbrc.org/app/Assembly>`_
 - `Genome Annotation Service <https://patricbrc.org/app/Annotation>`_
 - `Comprehensive Genome Analysis Service <https://patricbrc.org/app/ComprehensiveGenomeAnalysis>`_
+- `Similar Genome Finder <https://patricbrc.org/app/GenomeDistance>`_
+- `Genome Alignment <https://patricbrc.org/app/GenomeAlignment>`_
+- `Proteome Comparison <https://patricbrc.org/app/SeqComparison>`_
+
 
 For more services and tools available at PATRIC, visit `Services and Tools User Guide <https://docs.patricbrc.org/user_guides/services_tab.html>`_.
