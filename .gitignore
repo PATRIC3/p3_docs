@@ -3,3 +3,4 @@ docroot/_build/
 .vscode
 .idea
 .project
+/.pydevproject
