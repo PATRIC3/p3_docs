@@ -4,3 +4,4 @@ docroot/_build/
 .idea
 .project
 /.pydevproject
+/.settings/
