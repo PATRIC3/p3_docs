@@ -16,7 +16,7 @@ Antibiotics are a type of antimicrobial drug used in the treatment and preventio
 
 AMR Phenotypes
 ---------------
-AMR phenotypes refer to the resistance or susceptibility of a given organism to one or more antibiotics. PATRIC collects AMR phenotype data generated using antimicrobial susceptibility testing methods (AST) from published studies and collaborators. In addition, we also provide predicted AMR phenotypes using machine learning classifiers. See AMR phenotype data for select genera:
+AMR phenotypes refer to the resistance or susceptibility of a given organism to one or more antibiotics. PATRIC collects AMR phenotype data generated using antimicrobial susceptibility testing methods (AST) from published studies and collaborators. In addition, PATRIC also provideS predicted AMR phenotypes using machine learning classifiers. See AMR phenotype data for select genera:
 
 - `Mycobacterium <https://www.patricbrc.org/view/Taxonomy/1763#view_tab=amr>`_
 - `Staphylococcus <https://www.patricbrc.org/view/Taxonomy/1279#view_tab=amr>`_
@@ -27,7 +27,7 @@ AMR phenotypes refer to the resistance or susceptibility of a given organism to 
 
 AMR Genes
 ----------
-AMR genes refere to the genes implicated in or associated with the resistance to one or more antibiotics. The resistance may result from the presence or absense of a gene or specific murations acquired sponteniously or through evolution over time. We integrate and map known antibiotic resistance genes from the following sources:
+AMR genes refer to the genes implicated in or associated with the resistance to one or more antibiotics. The resistance may result from the presence or absence of a gene or specific mutions acquired spontaniously or through evolution over time. PATRIC integrateS and mapS known antibiotic resistance genes from the following sources:
 
 - `CARD <https://www.patricbrc.org/view/Taxonomy/2#view_tab=specialtyGenes&filter=and(eq(property,%22Antibiotic%20Resistance%22),eq(source,%22CARD%22))>`_
 - `NDARO <https://www.patricbrc.org/view/Taxonomy/2#view_tab=specialtyGenes&filter=and(eq(property,%22Antibiotic%20Resistance%22),eq(source,%22NDARO%22))>`_
@@ -36,12 +36,12 @@ AMR genes refere to the genes implicated in or associated with the resistance to
 
 AMR Regions
 ------------
-AMR regions refer to the small genomic regions implicated in or associated with the resistance to one or more antibiotics. The AMR regions are computationally predicted using machine learning classifiers used to predict AMR phenotypes. They may map to existing genes or intergenic regions and may help identify new AMR genes or understand AMR mechanisms.
+AMR regions refer to the small genomic regions implicated in or associated with the resistance to one or more antibiotics. The AMR regions are computationally predicted using machine learning classifiers used to predict AMR phenotypes. They may map to existing genes or intergenic regions and may help identify new AMR genes or increase understanding of AMR mechanisms.
 
 - `View all AMR regions <https://www.patricbrc.org/view/FeatureList/?eq(feature_type,classifier_predicted_region)#view_tab=features&filter=or(eq(annotation,%22PATRIC%22))>`_
 
-How Do We Curate, Integrate, and Map Antibiotic Resistance Data?
------------------------------------------------------------------
+PATRIC Process for Curation, Integration, and Mapping of Antibiotic Resistance Data
+-----------------------------------------------------------------------------------
 
 .. image:: images/amr.png
    :alt: Antibiotics Resistance Chart
