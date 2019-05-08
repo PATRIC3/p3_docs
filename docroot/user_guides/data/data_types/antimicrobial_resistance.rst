@@ -1,7 +1,7 @@
 Antimicrobial Resistance (AMR)
 ===============================
 
-Antibiotics are a type of drug used in the treatment and prevention of bacterial infections. Antimicrobial Resistance (AMR) refers to the ability of bacteria to resist the effects of antibiotics that are commonly used to treat them. Resistance arises through one of three ways: natural resistance in certain types of bacteria, genetic mutation, or by one species acquiring resistance from another. PATRIC provides a variety of data and analysis tools to help researchers study AMR and its genetic determinants. This includes AMR phenotype data for the bacterial genomes as well as genes and intergenic regions associated with AMR. 
+Antimicrobial Resistance (AMR) refers to the ability of bacteria to resist the effects of antibiotic drugs that are commonly used to treat them. Resistance arises through one of three ways: natural resistance in certain types of bacteria, genetic mutation, or by one species acquiring resistance from another. PATRIC provides a variety of data and analysis tools to help researchers study AMR and its genetic determinants. This includes AMR phenotype data for the bacterial genomes as well as genes and intergenic regions associated with AMR. 
 
 Antibiotics
 ------------
