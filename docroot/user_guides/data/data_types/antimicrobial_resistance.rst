@@ -5,7 +5,7 @@ Antimicrobial Resistance (AMR) refers to the ability of bacteria to resist the e
 
 Antibiotics
 ------------
-Antibiotics are a type of antimicrobial drugs used in the treatment and prevention of bacterial infections. PATRIC provides basic information about commonly used antibiotics, inlcuding their chemical and physical properties, pharmacology, and mechanism of action. In addition, each antibiotic is linked to other relevant data available in PATRIC, such as AMR phenotypes for genomes, AMR genes, and AMR regions. Below are some examples: 
+Antibiotics are a type of antimicrobial drug used in the treatment and prevention of bacterial infections. PATRIC provides basic information about commonly used antibiotics, inlcuding their chemical and physical properties, pharmacology, and mechanism of action. In addition, each antibiotic is linked to other relevant data available in PATRIC, such as AMR phenotypes for genomes, AMR genes, and AMR regions. Below are some examples: 
 
 - `Amikacin <https://www.patricbrc.org/view/Antibiotic/?eq(antibiotic_name,amikacin)>`_
 - `Ethambutol <https://www.patricbrc.org/view/Antibiotic/?eq(antibiotic_name,ethambutol)>`_
