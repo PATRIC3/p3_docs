@@ -152,3 +152,27 @@ After selecting one of the output files by clicking it, a set of options becomes
 More details are available in the [Action Buttons](../other/action_buttons.html) user guide.
 
 ## References
+1. Branton, D., et al., The poten al and challenges of nanopore sequencing. Nature
+biotechnology, 2008. 26(10): p. 1146‑1153.
+2. Nikolenko, S.I., A.I. Korobeynikov, and M.A. Alekseyev, BayesHammer: Bayesian clustering for
+error correc on in single‑cell sequencing. BMC genomics, 2013. 14(1): p. 1.
+3. Zerbino, D.R. and E. Birney, Velvet: algorithms for de novo short read assembly using de
+Bruijn graphs. Genome research, 2008. 18(5): p. 821‑829.
+4. Peng, Y., et al. IDBA: a prac cal itera ve de Bruijn graph de novo assembler. in Research in
+Computa onal Molecular Biology. 2010. Springer.
+5. Bankevich, A., et al., SPAdes: a new genome assembly algorithm and its applica ons to
+single‑cell sequencing. Journal of Computa onal Biology, 2012. 19(5): p. 455‑477.
+6. Li, D., et al., MEGAHIT: an ultra‑fast single‑node solu on for large and complex
+metagenomics assembly via succinct de Bruijn graph. Bioinforma cs, 2015: p. btv033.
+7. An pov D, Hartwick N, Shen M, Raiko M, Lapidus A, Pevzner PA. 2016. plasmidSPAdes:
+assembling plasmids from whole genome sequencing data. Bioinforma cs32(22):3390‑3397.
+8. Namiki, T., et al., MetaVelvet: an extension of Velvet assembler to de novo metagenome
+assembly from short sequence reads. Nucleic acids research, 2012. 40(20): p. e155‑e155.
+9. Clark, S.C., et al., ALE: a generic assembly likelihood evalua on framework for assessing the
+accuracy of genome and metagenome assemblies. Bioinforma cs, 2013: p. bts723.
+10. Vicedomini, R., et al., GAM‑NGS: genomic assemblies merger for next genera on sequencing.
+BMC bioinforma cs, 2013. 14(7): p. 1.
+11. Li, H., Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences.
+arXiv preprint arXiv:1512.01801, 2015.
+12. Gurevich, A., et al., QUAST: quality assessment tool for genome assemblies. Bioinforma cs,
+2013. 29(8): p. 1072‑1075.
