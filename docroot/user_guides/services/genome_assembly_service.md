@@ -127,7 +127,7 @@ postprocessor.
 **Assemble:** Clicking this button launches the assembly job.
 
 ## Output Results
-![Assembly Service Output Files](../images/assembly_job_result.png) 
+![Assembly Service Output Files](../images/genome_assembly_output_files.png) 
 
 The Genome Assembly Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
