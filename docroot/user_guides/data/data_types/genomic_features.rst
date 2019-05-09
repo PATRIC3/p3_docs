@@ -50,10 +50,16 @@ Specialty genes refer to the genes possessing properties that are of special int
 - Drug and vaccine targets
 - Human homologs
 
-**How Do We Process and Clean Up Our Data?**
+Data Processing and Clean up
+----------------------------
 
-.. image:: images/genomic_features.jpg
+.. image:: images/genomic-features.png
    :alt: Genomic Features Chart
 
+Relevant Services and Tools
+---------------------------
 
+- `BLAST <https://patricbrc.org/app/BLAST>`_
+- `Protein Family Sorter <https://patricbrc.org/app/ProteinFamily>`_
+- `Proteome Comparison <https://patricbrc.org/app/SeqComparison>`_
 
