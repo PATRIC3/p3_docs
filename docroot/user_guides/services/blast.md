@@ -35,3 +35,23 @@ The **BLAST** submenu option under the **Services** main menu (Genomics category
 
 ## Buttons
 **Search:** Launches the search which, upon completion, returns a set of results matching the sequence provided and selected criteria.  On the results page, the **Edit form and resubmit Button** above the search results reloads the input form so that the parameters can be easily adjusted and the search relaunched.
+
+## Output Results
+![BLAST Service Results](../images/blast_service_results.png) 
+
+The BLAST Service generates a table of matching results (features) based on the options chosen.  
+
+### Action buttons
+After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
+
+* **Hide/Show:** Toggles (hides) the right-hand side Details Pane.
+* **Guide** Link to the corresponding User Guide
+* **Download:**  Downloads the selected item.
+* **Copy:** Copies the selected items to the clipboard.
+
+More details are available in the [Action Buttons](../other/action_buttons.html) user guide.
+
+## References
+1.	Boratyn, G.M., Camacho, C., Cooper, P.S., Coulouris, G., Fong, A., Ma, N., Madden, T.L., Matten, W.T., McGinnis, S.D., Merezhuk, Y. et al. (2013) BLAST: a more efficient report with usability improvements. Nucleic acids research, 41, W29-33.
+
+2.	O'Leary, N.A., Wright, M.W., Brister, J.R., Ciufo, S., Haddad, D., McVeigh, R., Rajput, B., Robbertse, B., Smith-White, B., Ako-Adjei, D. et al. (2016) Reference sequence (RefSeq) database at NCBI: current status, taxonomic expansion, and functional annotation. Nucleic acids research, 44, D733-745.
