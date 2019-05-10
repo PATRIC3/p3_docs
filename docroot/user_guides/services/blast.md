@@ -49,7 +49,7 @@ After selecting one of the output files by clicking it, a set of options becomes
 * **Download:**  Downloads the selected item.
 * **Copy:** Copies the selected items to the clipboard.
 
-More details are available in the [Action Buttons](../other/action_buttons.html) user guide.
+More details are available in the [Action Buttons](../action_buttons.html) user guide.
 
 ## References
 1.	Boratyn, G.M., Camacho, C., Cooper, P.S., Coulouris, G., Fong, A., Ma, N., Madden, T.L., Matten, W.T., McGinnis, S.D., Merezhuk, Y. et al. (2013) BLAST: a more efficient report with usability improvements. Nucleic acids research, 41, W29-33.
