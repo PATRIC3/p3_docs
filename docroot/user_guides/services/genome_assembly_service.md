@@ -149,7 +149,7 @@ After selecting one of the output files by clicking it, a set of options becomes
 * **Move** Allows moving of the file to another folder.
 * **Edit Type** Allows changing of the type of the file in terms of how PATRIC interprets the content and uses it in other services or parts of the website.  Allowable types include unspecified, contigs, nwk, reads, differential expression input data, and differential expression input metadata.
 
-More details are available in the [Action Buttons](../other/action_buttons.html) user guide.
+More details are available in the [Action Buttons](../action_buttons.html) user guide.
 
 ## References
 1. Branton, D., et al., The poten al and challenges of nanopore sequencing. Nature biotechnology, 2008. 26(10): p. 1146‑1153.
