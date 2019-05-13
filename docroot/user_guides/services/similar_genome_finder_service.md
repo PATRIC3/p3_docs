@@ -38,3 +38,23 @@ Alternate option for uploading a FASTA file to use as the basis of comparison. *
 ## Buttons
 
 **Search:** Launches the similar genome finder job.
+
+## Output Results
+![Similar Genome Finder Service Results](../images/similar_genome_finder_results.png) 
+
+The Similar Genome Finder Service generates a table of matching genomes based on the options chosen.  
+
+### Action buttons
+After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
+
+* **Hide/Show:** Toggles (hides) the right-hand side Details Pane.
+* **Download:**  Downloads the selected items (rows).
+* **Copy:** Copies the selected items to the clipboard.
+* **Group:** Opens a pop-up window to enable adding the selected sequences to an existing or new group in the private workspace.
+* **Genome:** Loads the Genome View Overview page corresponding to the selected feature.  *Available only if a single feature is selected.*
+* **Genomes:** Loads the Genomes Table, listing the genomes that correspond to the selected features. *Available only if multiple features are selected.*
+
+More details are available in the [Action Buttons](../action_buttons.html) user guide.
+
+## References
+
