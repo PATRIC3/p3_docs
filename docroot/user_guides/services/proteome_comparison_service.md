@@ -71,7 +71,7 @@ The Proteome Comparison Service generates several files that are deposited in th
 * **circos_final.html** - a webpage displaying the SVG file.
 * **comp_genome_X.txt** - 
 * **genome_comparison.xls** - an Excel file containing the best BLAST hits for each compared genome to the reference genome.  The columns in the table are as follows (for each genome):
-  * `_`contig - 
+  * _contig - 
   * `_`gene - 
   * `_aa_length - 
   * `_patric_id - 
