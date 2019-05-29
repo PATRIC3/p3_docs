@@ -91,7 +91,7 @@ The Variation Service generates several files that are deposited in the Private 
   * Downstream_feature - downstream feature
   * snpEff_type - snpEFF variant type
   * snpEff_impact - snpEFF variant impact
-**var.vcf.gz.tbi** - can be uploaded into a genome browser for viewing. A var.vcf.gz.tbi file is generated for each of the read libraries that were loaded.
+* **var.vcf.gz.tbi** - can be uploaded into a genome browser for viewing. A var.vcf.gz.tbi file is generated for each of the read libraries that were loaded.
 
 ### Action buttons
 After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
