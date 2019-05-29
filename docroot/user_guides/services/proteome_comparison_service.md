@@ -91,10 +91,6 @@ The Proteome Comparison Service generates several files that are deposited in th
 * **legend.txt** - 
 * **ref_genome.txt** - 
 
-### Proteome Comparison Viewer
-Clicking on the View icon at the upper right portion of the job result page will display an interactive 
-
-
 ### Action buttons
 After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table, listed below. To find out more about the different options for using these output files, see the [Variation Analysis Service Tutorial](https://docs.patricbrc.org//tutorial/variation_analysis_service/variation_analysis_service.html).
 
@@ -110,5 +106,11 @@ After selecting one of the output files by clicking it, a set of options becomes
 
 More details are available in the [Action Buttons](../action_buttons.html) user guide.
 
+### Proteome Comparison Viewer
+![Proteome Comparison Service View Icon](../images/proteome_comparison_service_view_icon.png)
+
+Clicking on the View icon at the upper right portion of the job result page will display an interactive circular viewer of of the comparison results, with color-coding for protein percent identity relative to the best hit on the reference genome. Mousing over a feature (gene) will display its PATRIC locus tag, and clicking on it will display the PATRIC feature page for that gene.  
+
 ## References
-1. Li, H. (2014) Towards better understanding of artifacts in variant calling from high-coverage samples. Bioinformatics, btu356.
+1. Overbeek, R., et al., The SEED and the Rapid Annota on of microbial genomes using Subsystems Technology (RAST). Nucleic acids research, 2014. 42(D1): p. D206‑D214.
+
