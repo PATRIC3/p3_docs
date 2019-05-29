@@ -70,47 +70,26 @@ The Proteome Comparison Service generates several files that are deposited in th
 * **circos.svg** - a Scalable Vector Graphics (SVG) image showing the proteome comparison in a cicular view
 * **circos_final.html** - a webpage displaying the SVG file.
 * **comp_genome_X.txt** - 
+* **genome_comparison.xls** - an Excel file containing the best BLAST hits for each compared genome to the reference genome.  The columns in the table are as follows (for each genome):
+  * `_`contig - 
+  * `_`gene - 
+  * `_aa_length - 
+  * `_patric_id - 
+  * `_locus_tag - 
+  * `_gene_name - 
+  * `_plfam_id - 
+  * `_pgfam_id - 
+  * `_function - 
+  * `_start - 
+  * `_end - 
+  * `_strand - 
+  * `_hit - (comparison genomes only
 * **genome_comparison.json** - 
 * **genome_comparison.txt** - 
-* **genome_comparison.xls** - 
 * **karyotype.txt** - 
 * **large.tiles.txt** - 
 * **legend.txt** - 
 * **ref_genome.txt** - 
-
-
-
-
-* **bam** - a Binary Alignment/Map (BAM) file which is the companion format of the Sequence Alignment/Map (SAM) format. A SAM file (.sam) is a tab-delimited text file that contains sequence alignment data. The .bam format is compact in size and supports fast retrieval of alignments in specified regions. It is optimal for viewing in a genome browser. A bam file is generated for each of the read libraries that were loaded.
-* **tsv** - tab-separated-value file that summarizes the locations of the variants, shows the nucleotide change, and identifies if it was a synonymous or nonsynonymous substitution, or an indel. It also identifies the gene, or intergenic region, where the variation occurred. A tsv file is generated for each of the read libraries that were loaded.
-* **libs.txt** - text file that describes the libraries used in the comparison.
-* **summary.txt** files. This file provides a summary of the analysis. For each library it shows the number of reads, those that mapped to the reference, the number of bases in the reference, the median base coverage, bases with zero coverage, bases with less than (or equal to) 10 reads coverage, the raw variants that are detected by the variation calling tool, and those variants that have a high quality score.
-* **var.snpEFF.vcf** output file of SnpEff which rapidly categorizing the effects of variants in genome sequences. Once a genome is sequenced, SnpEff annotates variants based on their genomic locations and predicts coding effects. Annotated genomic locations include intronic, untranslated region, upstream, downstream, splice site, or intergenic regions. Coding effects such as synonymous or non-synonymous amino acid replacement, start codon gains or losses, stop codon gains or losses, or frame shifts can be predicted. A var.snpEFF.vcf file is generated for each of the read libraries that were loaded.
-* **var.snp.vcf** shows the location of the SNP on the genome. A var.snp.vcf file is generated for each of the read libraries that were loaded.
-* **.html** - opens a webpage that shows the same data available in the .tsv file. This column definitions are as follows: 
-  * Samples - internal library read name. The corresponding user library read name can be found in libs.txt
-  * Contig - contig name
-  * Pos - position of the variation
-  * Ref - reference nucleotide(s) at the variation position
-  * Var - variant nucleotide(s) at the variation position
-  * Score - quality score from the variant caller tool
-  * Var_cov - variant coverage (the average read depth of the variant)
-  * Var_frac - variant fraction (the fraction of the variant read depth among the all the reads that cover this region)
-  * Type - variant type
-  * Ref_nt - reference nucleotide(s)
-  * Var_nt - variant nucleotide(s)
-  * Ref_nt_pos_change - nucleotide change
-  * Ref_aa_pos_change - amino acid change
-  * Frameshift - frameshift variant
-  * Gene_ID - PATRIC feature (peg) id
-  * Locus_tag - RefSeq locus tag
-  * Gene_name - gene name
-  * Function - function description
-  * Upstream_feature - upstream feature
-  * Downstream_feature - downstream feature
-  * snpEff_type - snpEFF variant type
-  * snpEff_impact - snpEFF variant impact
-* **var.vcf.gz.tbi** - can be uploaded into a genome browser for viewing. A var.vcf.gz.tbi file is generated for each of the read libraries that were loaded.
 
 ### Action buttons
 After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table, listed below. To find out more about the different options for using these output files, see the [Variation Analysis Service Tutorial](https://docs.patricbrc.org//tutorial/variation_analysis_service/variation_analysis_service.html).
