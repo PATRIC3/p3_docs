@@ -71,19 +71,19 @@ The Proteome Comparison Service generates several files that are deposited in th
 * **circos_final.html** - a webpage displaying the SVG file.
 * **comp_genome_X.txt** - 
 * **genome_comparison.xls** - an Excel file containing the best BLAST hits for each compared genome to the reference genome.  The columns in the table are as follows (for each genome):
-  * _contig - 
-  * _gene - 
-  * _aa_length - 
-  * _patric_id - 
-  * _locus_tag - 
-  * _gene_name - 
-  * _plfam_id - 
-  * _pgfam_id - 
-  * _function - 
-  * _start - 
-  * _end - 
-  * _strand - 
-  * _hit - (comparison genomes only
+  * _contig - accession number for contig in reference genome
+  * _gene - order number for gene in the genome
+  * _aa_length - size in amino acids
+  * _patric_id - PATRIC locus tag
+  * _locus_tag - RefSeq locus tag
+  * _gene_name - gene name
+  * _plfam_id - PATRIC local protein family
+  * _pgfam_id - PATRIC global protein family
+  * _function - functional annotation
+  * _start - start location of the gene on the contig
+  * _end - end location of the gene on the contig
+  * _strand - strand that gene is located on
+  * _hit - type of BLAST hit: bi-directional, uni-directional, or missing (for comparison genomes only)
 * **genome_comparison.json** - 
 * **genome_comparison.txt** - 
 * **karyotype.txt** - 
