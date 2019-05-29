@@ -70,7 +70,7 @@ The Proteome Comparison Service generates several files that are deposited in th
 * **circos.svg** - a Scalable Vector Graphics (SVG) image showing the proteome comparison in a cicular view
 * **circos_final.html** - a webpage displaying the SVG file.
 * **comp_genome_X.txt** - 
-* **genome_comparison.xls** - an Excel file containing the best BLAST hits for each compared genome to the reference genome.  The columns in the table are as follows (for each genome):
+* **genome_comparison.xls** - an Excel file of the comparison results containing the best BLAST hits for each compared genome to the reference genome.  The columns in the table are as follows (for each genome):
   * _contig - accession number for contig in reference genome
   * _gene - order number for gene in the genome
   * _aa_length - size in amino acids
@@ -84,8 +84,8 @@ The Proteome Comparison Service generates several files that are deposited in th
   * _end - end location of the gene on the contig
   * _strand - strand that gene is located on
   * _hit - type of BLAST hit: bi-directional, uni-directional, or missing (for comparison genomes only)
-* **genome_comparison.json** - 
-* **genome_comparison.txt** - 
+* **genome_comparison.json** - JSON format of the comparison results
+* **genome_comparison.txt** - text file format of the comparison results
 * **karyotype.txt** - 
 * **large.tiles.txt** - 
 * **legend.txt** - 
