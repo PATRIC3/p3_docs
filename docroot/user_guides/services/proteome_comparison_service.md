@@ -111,6 +111,9 @@ More details are available in the [Action Buttons](../action_buttons.html) user 
 
 Clicking on the View icon at the upper right portion of the job result page will display an interactive circular viewer of of the comparison results, with color-coding for protein percent identity relative to the best hit on the reference genome. Mousing over a feature (gene) will display its PATRIC locus tag, and clicking on it will display the PATRIC feature page for that gene.  
 
+![Proteome Comparison Interactive Viewer](../images/proteome_comparison_circular_viewer.png)
+
+
 ## References
 1. Overbeek, R., et al., The SEED and the Rapid Annota on of microbial genomes using Subsystems Technology (RAST). Nucleic acids research, 2014. 42(D1): p. D206‑D214.
 
