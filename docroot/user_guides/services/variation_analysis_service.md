@@ -60,11 +60,11 @@ Read files placed here will contribute to a single analysis.
 ## Results
 ![Variation Service Results Page](../images/variation_service_results_page.png)
 
-The Variation Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
+The Variation Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include 
 
-* **bam**. The Binary Alignment/Map (BAM) is the companion format of the Sequence Alignment/Map (SAM) format(6). A SAM file (.sam) is a tab-delimited text file that contains sequence alignment data. The .bam format is compact in size and supports fast retrieval of alignments in specified regions. It is optimal for viewing in a genome browser. The PATRIC variant analysis service provides a .bam file for each of the read libraries that were loaded.
-* **tsv**. Tab-separated value file that summarizes the locations of the variants, shows the nucleotide change, and identifies if it was a synonymous or nonsynonymous substitution, or an indel. It also identifies the gene, or intergenic region, where the variation occurred. A tsv file is generated for each of the read libraries that were loaded.
-*
+* **bam** - a Binary Alignment/Map (BAM) file which is the companion format of the Sequence Alignment/Map (SAM) format. A SAM file (.sam) is a tab-delimited text file that contains sequence alignment data. The .bam format is compact in size and supports fast retrieval of alignments in specified regions. It is optimal for viewing in a genome browser. A bam file is generated for each of the read libraries that were loaded.
+* **tsv** - tab-separated-value file that summarizes the locations of the variants, shows the nucleotide change, and identifies if it was a synonymous or nonsynonymous substitution, or an indel. It also identifies the gene, or intergenic region, where the variation occurred. A tsv file is generated for each of the read libraries that were loaded.
+* **libs.txt** - text file that describes the libraries used in the comparison.
 *
 *
 *
