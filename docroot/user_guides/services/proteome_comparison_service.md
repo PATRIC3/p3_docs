@@ -63,7 +63,7 @@ Select a feature group from the workspace.
 **Submit:** Launches the proteome comparison job. Upon completion, the result is displayed as an interactive circular genome view and is downloadable as a print-quality image or tabular comparison results.
 
 ## Results
-![Proteome Comparison Service Results Page](../images/proteome_comparison_service_results.png)
+![Proteome Comparison Service Results Page](../images/proteome_comparison_service_results_page.png)
 
 The Proteome Comparison Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include 
 
@@ -90,6 +90,10 @@ The Proteome Comparison Service generates several files that are deposited in th
 * **large.tiles.txt** - 
 * **legend.txt** - 
 * **ref_genome.txt** - 
+
+### Proteome Comparison Viewer
+Clicking on the View icon at the upper right portion of the job result page will display an interactive 
+
 
 ### Action buttons
 After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table, listed below. To find out more about the different options for using these output files, see the [Variation Analysis Service Tutorial](https://docs.patricbrc.org//tutorial/variation_analysis_service/variation_analysis_service.html).
