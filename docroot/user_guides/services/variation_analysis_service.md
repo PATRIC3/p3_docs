@@ -58,22 +58,23 @@ Read files placed here will contribute to a single analysis.
 **Submit:** Launches the Variation Analysis job
 
 ## Results
-Clicking on the Jobs indicator at the bottom of the PATRIC page open the Jobs Status page that displays all current and previous service jobs and their status. 
+![Variation Service Results Page](../images/variation_service_results_page.png)
 
-![Jobs Indicator Bar](../images/jobs_indicator_bar.png)
+The Variation Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
-Once the job has completed, selecting the job by clicking on it and clicking the "View" button on the green vertical Action Bar on the right-hand side of the page displays the results files.
+* **bam**. The Binary Alignment/Map (BAM) is the companion format of the Sequence Alignment/Map (SAM) format(6). A SAM file (.sam) is a tab-delimited text file that contains sequence alignment data. The .bam format is compact in size and supports fast retrieval of alignments in specified regions. It is optimal for viewing in a genome browser. The PATRIC variant analysis service provides a .bam file for each of the read libraries that were loaded.
+* **tsv**. Tab-separated value file that summarizes the locations of the variants, shows the nucleotide change, and identifies if it was a synonymous or nonsynonymous substitution, or an indel. It also identifies the gene, or intergenic region, where the variation occurred. A tsv file is generated for each of the read libraries that were loaded.
+*
+*
+*
+*
+*
+*
+*
 
-![Job Status Page](../images/job_status_page.png)
 
-The results page will consist of a header describing the job and a list of output files,
-as shown below.
 
-![Annotation Service Results Page](../images/annotation_service_results_page.png "Annotation Service Results Page")
 
-The Genome Annotation Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
-
-* **contigs.fasta** - contains the assembled contigs of the genome in DNA FASTA format.
 * **embl** - contains an EMBL dump of the annotated genome.
 * **feature_dna.fasta** - contains all the feature sequences of the genome in DNA FASTA format.
 * **feature_protein.fasta** - contains all the protein sequences of the genome in protein FASTA format.
