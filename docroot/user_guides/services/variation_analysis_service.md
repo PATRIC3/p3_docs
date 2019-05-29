@@ -94,12 +94,12 @@ The Variation Service generates several files that are deposited in the Private 
 * **var.vcf.gz.tbi** - can be uploaded into a genome browser for viewing. A var.vcf.gz.tbi file is generated for each of the read libraries that were loaded.
 
 ### Action buttons
-After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
+After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table, listed below. To find out more about the different options for using these output files, see the [Variation Analysis Service Tutorial](https://docs.patricbrc.org//tutorial/variation_analysis_service/variation_analysis_service.html).
 
 * **Hide/Show:** Toggles (hides) the right-hand side Details Pane.
 * **Guide:** Link to the corresponding User Guide
 * **Download:**  Downloads the selected item.
-* **View:** Displays the content of the file, typically as plain text or rendered html, depending on filetype.
+* **View:** Displays the content of the file, typically as plain text or rendered html, depending on filetype. Only available for html, txt, and tsv file types.
 * **Delete:** Deletes the file.
 * **Rename:** Allows renaming of the file.
 * **Copy:** Copies the selected items to the clipboard.
