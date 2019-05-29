@@ -72,18 +72,18 @@ The Proteome Comparison Service generates several files that are deposited in th
 * **comp_genome_X.txt** - 
 * **genome_comparison.xls** - an Excel file containing the best BLAST hits for each compared genome to the reference genome.  The columns in the table are as follows (for each genome):
   * _contig - 
-  * `_`gene - 
-  * `_aa_length - 
-  * `_patric_id - 
-  * `_locus_tag - 
-  * `_gene_name - 
-  * `_plfam_id - 
-  * `_pgfam_id - 
-  * `_function - 
-  * `_start - 
-  * `_end - 
-  * `_strand - 
-  * `_hit - (comparison genomes only
+  * _gene - 
+  * _aa_length - 
+  * _patric_id - 
+  * _locus_tag - 
+  * _gene_name - 
+  * _plfam_id - 
+  * _pgfam_id - 
+  * _function - 
+  * _start - 
+  * _end - 
+  * _strand - 
+  * _hit - (comparison genomes only
 * **genome_comparison.json** - 
 * **genome_comparison.txt** - 
 * **karyotype.txt** - 
