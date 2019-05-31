@@ -67,9 +67,9 @@ Select a feature group from the workspace.
 
 The Proteome Comparison Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include 
 
-* **circos.svg** - a Scalable Vector Graphics (SVG) image showing the proteome comparison in a cicular view
-* **circos_final.html** - a webpage displaying the SVG file.
-* **comp_genome_X.txt** - 
+* **circos.svg** - a Scalable Vector Graphics (SVG) image showing the proteome comparison in a cicular view.
+* **circos_final.html** - a webpage displaying the SVG file of the proteome comparison result.
+* **comp_genome_X.txt** - the list of features in the comparison genome. The service generates a comp_genome_X.txt file for each comparison genome (where X is the genome number).
 * **genome_comparison.xls** - an Excel file of the comparison results containing the best BLAST hits for each compared genome to the reference genome.  The columns in the table are as follows (for each genome):
   * _contig - accession number for contig in reference genome
   * _gene - order number for gene in the genome
@@ -86,10 +86,10 @@ The Proteome Comparison Service generates several files that are deposited in th
   * _hit - type of BLAST hit: bi-directional, uni-directional, or missing (for comparison genomes only)
 * **genome_comparison.json** - JSON format of the comparison results
 * **genome_comparison.txt** - text file format of the comparison results
-* **karyotype.txt** - 
-* **large.tiles.txt** - 
-* **legend.txt** - 
-* **ref_genome.txt** - 
+* **karyotype.txt** - the karyotype file of the Circos output that defines genome contig id, size and color.
+* **large.tiles.txt** - the large tile file of the Circos output that provides the tile track information
+* **legend.txt** - the color legend for the percent protein sequence identity of the bidirectional and unidirectional best hits.
+* **ref_genome.txt** - the list of features in the reference genome.
 
 ### Action buttons
 After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table, listed below. To find out more about the different options for using these output files, see the [Variation Analysis Service Tutorial](https://docs.patricbrc.org//tutorial/variation_analysis_service/variation_analysis_service.html).
