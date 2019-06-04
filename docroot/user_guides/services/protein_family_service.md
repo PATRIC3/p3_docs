@@ -40,4 +40,9 @@ strains.
 ## Buttons
 
 ### Search
-Launches the Protein Family Sorter Service and, upon completion, displays a page in PATRIC showing all the families associated with the selected genomes, plus filter controls and an interactive heatmap. See [Protein Families Tab](../organisms_taxon/protein_families.html) for a detailed description of how to use the Protein Family Sorter filters and heatmap.
+Launches the Protein Family Sorter Service 
+
+## Output Results
+Results from the service will be shown in a Protein Families Filter Tool and Table, shown below. See [Protein Families Tab](../organisms_taxon/protein_families.html) for a detailed description of how to use the Protein Family Sorter filters and heatmap.
+
+![Protein Families Tab](../images/protein_families_tab.png)
