@@ -10,10 +10,10 @@ The Differential Expression Import Service facilitates upload of user-provided, 
 ## Using the Expression Import Service
 The **Expression Import** submenu option under the **Services** main menu (Transcriptomics category) opens the Expression Import input form (*shown below*). *Note: You must be logged into PATRIC to use this service.* The Expression Data Import Service can also be accessed via the PATRIC Command Line Interface (CLI).
 
-![Expression Import Menu](../images/services_menu.png)
+![Expression Import Menu](https://docs.patricbrc.org/user_guides/images/services_menu.png)
 
 ## Options
-![Expression Import Input Form](../images/expression_import_input_form.png) 
+![Expression Import Input Form](https://docs.patricbrc.org/user_guides/images/expression_import_input_form.png) 
 
 ## Data information
 
@@ -26,11 +26,11 @@ Files should contain data in one of the following formats:
 
 *Gene Matrix:* Gene IDs are represented in the first column with extra columns for each of the comparisons in the form of log ratio, i.e., log2(test/control). Below is an example of transcriptomics data in Gene Matrix format:
 
-![Sample Gene Matrix](../images/sample_gene_matrix.png)
+![Sample Gene Matrix](https://docs.patricbrc.org/user_guides/images/sample_gene_matrix.png)
 
 *Gene List:* Data are represented in three columns: Gene ID, Comparison ID, and Log Ratio of expression value, i.e., log2(test/control). Below is an example of transcriptomics data in Gene List format:
 
-![Sample Gene List](../images/sample_gene_list.png)
+![Sample Gene List](https://docs.patricbrc.org/user_guides/images/sample_gene_list.png)
 
 ### Experiment Type
 Dropdown list specifying the the experiment type, either Transcriptomics, Proteomics, or Phenomics.
