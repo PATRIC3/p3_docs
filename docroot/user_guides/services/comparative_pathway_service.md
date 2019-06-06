@@ -36,7 +36,7 @@ Dropdown list of filter options to use refine the results. A specific keyword, P
 Launches the Comparative Pathway Service and, upon completion, displays a page in PATRIC showing all the pathways that have any genes assigned to them from the genomes that have been chosen.
 
 ## Output Results
-Results from the service will be shown in a table in the Pathways Tab, shown below. See [Protein Families Tab](../organisms_taxon/pathways.html) for a detailed description of how to use the Pathway filters, KEGG maps, and heatmap.
+Results from the service will be shown in a table in the Pathways Tab, shown below. See [Pathways Tab](../organisms_taxon/pathways.html) for a detailed description of how to use the Pathway filters, KEGG maps, and heatmap.
 
 ![Pathway Table](../images/pathway_list.png)
 
