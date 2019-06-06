@@ -33,10 +33,10 @@ Dropdown list of filter options to use refine the results. A specific keyword, P
 ## Buttons
 
 ### Search
-Launches the Protein Family Sorter Service and, upon completion, displays a page in PATRIC showing all the Pathways that have any genes assigned to them from the genomes that have been chosen.
+Launches the Comparative Pathway Service and, upon completion, displays a page in PATRIC showing all the pathways that have any genes assigned to them from the genomes that have been chosen.
 
 ## Output Results
-Results from the service will be shown in a Protein Families Filter Tool and Table, shown below. See [Protein Families Tab](../organisms_taxon/protein_families.html) for a detailed description of how to use the Protein Family Sorter filters and heatmap.
+Results from the service will be shown in a table in the Pathways Tab, shown below. See [Protein Families Tab](../organisms_taxon/pathways.html) for a detailed description of how to use the Pathway filters, KEGG maps, and heatmap.
 
-![Protein Families Tab](../images/protein_families_tab.png)
+![Pathway Table](../images/pathway_list.png)
 
