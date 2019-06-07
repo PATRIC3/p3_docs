@@ -40,7 +40,7 @@ This tool uses the Uniprot-KB mapping table to map external IDs to PATRIC. This 
 ## Output Results
 ![ID Mapper Service Results](../images/id_mapper_service_results.png) 
 
-The ID Mapper Service generates a table containing all the matching items (e.g., features, genomes, etc.) that map to the list of IDs provided. The input IDs appear in the Source column and matching IDs in the Target column.  
+The ID Mapper Service generates a table containing all the matching items (e.g., features, genomes, etc.) that map to the list of IDs provided. The input IDs appear in the Source column and matching IDs in the Target column. Every feature may not have a matching ID in the target ID type.
 
 ### Action buttons
 After selecting one of the output features by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
