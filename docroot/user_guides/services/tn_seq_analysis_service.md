@@ -52,3 +52,8 @@ The group/condition specified will be used to determine contrasts in the conditi
 
 ## Selected Libraries
 Read files placed here will contribute to a single Tn-Seq analysis. Read files placed into this table under the same condition will be considered replicates.
+
+## Output Results
+(under development)
+
+
