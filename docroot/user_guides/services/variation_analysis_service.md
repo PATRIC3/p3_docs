@@ -57,7 +57,7 @@ Read files placed here will contribute to a single analysis.
 
 **Submit:** Launches the Variation Analysis job
 
-## Results
+## Output Results
 ![Variation Service Results Page](../images/variation_service_results_page.png)
 
 The Variation Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include 
