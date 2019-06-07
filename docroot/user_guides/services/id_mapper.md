@@ -36,3 +36,7 @@ This tool uses the Uniprot-KB mapping table to map external IDs to PATRIC. This 
 
 ## Buttons
 **Map:** Launches the mapping service, which, upon completion, displays a table below it containing all the matching items (e.g., features, genomes, etc.) that map to the list of IDs provided.
+
+## Output Results
+(under development)
+
