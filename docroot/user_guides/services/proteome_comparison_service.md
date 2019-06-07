@@ -62,7 +62,7 @@ Select a feature group from the workspace.
 
 **Submit:** Launches the proteome comparison job. Upon completion, the result is displayed as an interactive circular genome view and is downloadable as a print-quality image or tabular comparison results.
 
-## Results
+## Output Results
 ![Proteome Comparison Service Results Page](../images/proteome_comparison_service_results_page.png)
 
 The Proteome Comparison Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include 
