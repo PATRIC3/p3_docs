@@ -78,3 +78,7 @@ the metadata file should match those in the data file.* Click to download the [M
 **Reset:** Resets the input form to default values.
 
 **Submit:** Starts the upload.
+
+## Output Results
+(under development)
+
