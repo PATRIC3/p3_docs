@@ -45,7 +45,7 @@ protein family predictions.
 
 ![Job Launch Message](../images/job_launch_message.png)
 
-## Results
+## Output Results
 Clicking on the Jobs indicator at the bottom of the PATRIC page open the Jobs Status page that displays all current and previous service jobs and their status. 
 
 ![Jobs Indicator Bar](../images/jobs_indicator_bar.png)
