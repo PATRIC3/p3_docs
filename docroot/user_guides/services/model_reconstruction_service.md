@@ -63,8 +63,11 @@ More details are available in the [Action Buttons](../action_buttons.html) user 
 ### ModelSEED Model Viewer
 ![Model Reconstruction Service View Icon](../images/model_reconstruction_view_icon.png)
 
-Clicking on the View icon at the upper right portion of the job result page will open a login screen for the ModelSEED Model Viewer consisting of multiple tabs for Reactioons, Compounds, Genes, Compartments of the model, and the weighted components
-of the Biomass. Each column in the table is sortable by clicking the column header. Information about the model is searchable by using the search bar at the top left corner of the table.
+Clicking on the View icon at the upper right portion of the job result page will open a login screen for the ModelSEED. PATRIC or RAST credentials can be used for login.
+
+![ModelSEED Login](../images/modelseed_login.png)
+
+After login, the ModelSEED Model Viewer will be displayed, consisting of multiple tabs for Reactioons, Compounds, Genes, Compartments of the model, and the weighted components of the Biomass. Each column in the table is sortable by clicking the column header. Information about the model is searchable by using the search bar at the top left corner of the table.
 
 ![ModelSEED Model Viewer](../images/modelseed_model_viewer.png)
 
