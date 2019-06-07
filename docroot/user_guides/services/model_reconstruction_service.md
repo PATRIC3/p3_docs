@@ -69,5 +69,8 @@ of the Biomass. Each column in the table is sortable by clicking the column head
 ![ModelSEED Model Viewer](../images/modelseed_model_viewer.png)
 
 ## References
-
+1.	Orth, J.D., I. Thiele, and B.O. Palsson, What is flux balance analysis? Nat Biotechnol. **28**(3): p. 245-8.
+2.	Henry, C.S., et al., High-throughput generation, optimization and analysis of genome-scale metabolic models. Nat Biotechnol, 2010. **28**(9): p. 977-82.
+3.	Overbeek, R., et al., The SEED and the Rapid Annotation of microbial genomes using Subsystems Technology (RAST). Nucleic Acids Res, 2014. **42**(Database issue): p. D206-14.
+4.	Orth, J.D. and B.O. Palsson, Systematizing the generation of missing metabolic knowledge. Biotechnol Bioeng. **107**(3): p. 403-12.
 
