@@ -39,7 +39,7 @@ Name used to uniquely identify results.
 **Reconstruct:** Launches the model reconstruction job.
 
 ## Output Results
-![Metabolic Reconstruction Service Results Page](../images/metabolic_reconstruction_service_results_page.png)
+![Metabolic Reconstruction Service Results Page](../images/model_reconstruction_service_results_page.png)
 
 The Metabolic Reconstruction Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include 
 
@@ -52,10 +52,10 @@ The Metabolic Reconstruction Service generates several files that are deposited 
 * **fba.0.essentials** - List of genes in the model characterized as essential by the FBA simulation in the specified media.
 
 ### Action buttons
-After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table, listed below. For the Metabolic Reconstruction Service, the only options in the Action Bar are the following:
+After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table, listed below. For the Model Reconstruction Service, the only options in the Action Bar are the following:
 
 * **Hide/Show:** Toggles (hides) the right-hand side Details Pane.
-* **Guide:** Link to the corresponding User Guide
+* **Guide:** Link to the corresponding User Guide.
 * **Download:**  Downloads the selected item.
 
 More details are available in the [Action Buttons](../action_buttons.html) user guide.
