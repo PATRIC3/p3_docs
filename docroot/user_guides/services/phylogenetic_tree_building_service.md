@@ -90,6 +90,9 @@ This option selects the tree-building method to be used.
 ### Automated Progressive Refinement
 Option for selecting progressive refinement, which is a method for attempting to improve tree quality by targeted rebuilding of subtrees. Confidently placed subtrees that contain poorly-supported branches are re-analyzed in more detail in an attempt to resolve the less certain branches. Due to the additional rounds of tree building, this option can significantly increase the running time.
 
+## Output Results
+(under development)
+
 ## References
 * Price, Morgan N., Paramvir S. Dehal, and Adam P. Arkin. "FastTree 2–approximately maximum-likelihood trees for large alignments." PloS one 5.3 (2010): e9490.
 * Stamatakis, Alexandros. "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models." Bioinformatics 22.21 (2006): 2688-2690.
