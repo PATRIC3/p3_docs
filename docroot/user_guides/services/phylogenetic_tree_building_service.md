@@ -92,13 +92,13 @@ Option for selecting progressive refinement, which is a method for attempting to
 
 ## Output Results
 
-### Concantenated Protein Method
+### All Shared Proteins Method
 
 ![Phylogenetic Tree Building Service Output Files](../images/phylogenetic_protein_tree_output_files.png) 
 
 The Phylogenetic Tree Building Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
-* **_output-name_.final.nwk** - 
+* **_output-name_.final.nwk** - Newick tree format file. Selecting this file and clicking the View icon (described below) will open the tree in the PATRIC interactive Phylogenetic Tree Viewer.  See the [Phylogeny Tab User Guide](../organisms_taxon/phylogeny.html) for details about this viewer.
 * **_output-name_.html** - 
 * **_output-name_.json** - 
 * **_output-name_.nwk** - 
