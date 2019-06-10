@@ -7,6 +7,7 @@ The Phylogenetic Tree Building Service enables construction of custom phylogenet
 * [Phylogenetic Tree Building Service](https://patricbrc.org/app/PhylogeneticTree)
 * [Building Phylogenetic Trees - Codon Tutorial](https://docs.patricbrc.org/tutorial/codon_tree_building/codon_tree_building.html)
 * [Building Phylogenetic Trees - All Shared Proteins Tutorial](https://docs.patricbrc.org//tutorial/phylogenetic_tree_building/tree_building.html)
+* [Phylogeny Tab User Guide](../organisms_taxon/phylogeny.html)
 
 ## Using the Phylogenetic Tree Building Service
 The **Phylogenetic Tree** submenu option under the **Services** main menu (Genomics category) opens the Phylogenetic Tree input form (shown below). *Note: You must be logged into PATRIC to use this service.*
