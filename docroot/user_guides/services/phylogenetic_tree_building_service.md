@@ -99,11 +99,11 @@ Option for selecting progressive refinement, which is a method for attempting to
 The Phylogenetic Tree Building Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
 * **_output-name_.final.nwk** - Newick tree format file. Selecting this file and clicking the View icon (described below) will open the tree in the PATRIC interactive Phylogenetic Tree Viewer.  See the [Phylogeny Tab User Guide](../organisms_taxon/phylogeny.html) for details about this viewer.
-* **_output-name_.html** - 
-* **_output-name_.json** - 
+* **_output-name_.html** - Web-based (html) rendering of the tree.
+* **_output-name_.json** - JavaScript Object Notation (JSON) format file of the tree.
 * **_output-name_.nwk** - 
 * **_output-name_.out** - 
-* **_output-name_.pepr.log** - 
+* **_output-name_.pepr.log** - Details all the steps that occurred in construction of the tree.
 * **_output-name_.sup** - 
 
 ### Action buttons
