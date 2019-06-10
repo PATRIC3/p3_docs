@@ -91,12 +91,36 @@ This option selects the tree-building method to be used.
 Option for selecting progressive refinement, which is a method for attempting to improve tree quality by targeted rebuilding of subtrees. Confidently placed subtrees that contain poorly-supported branches are re-analyzed in more detail in an attempt to resolve the less certain branches. Due to the additional rounds of tree building, this option can significantly increase the running time.
 
 ## Output Results
-(under development)
+
+### Concantenated Protein Method
+
+![Phylogenetic Tree Building Service Output Files](../images/phylogenetic_protein_tree_output_files.png) 
+
+The Phylogenetic Tree Building Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
+
+* **_output-name_.final.nwk** - 
+* **_output-name_.html** - 
+* **_output-name_.json** - 
+* **_output-name_.nwk** - 
+* **_output-name_.out** - 
+* **_output-name_.pepr.log** - 
+* **_output-name_.sup** - 
+
+### Action buttons
+After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
+
+* **Hide/Show:** Toggles (hides) the right-hand side Details Pane.
+* **Guide** Link to the corresponding User Guide
+* **Download:**  Downloads the selected item.
+* **View** Displays the content of the file, typically as plain text or rendered html, depending on filetype.
+* **Delete** Deletes the file.
+* **Rename** Allows renaming of the file.
+* **Copy:** Copies the selected items to the clipboard.
+* **Move** Allows moving of the file to another folder.
+* **Edit Type** Allows changing of the type of the file in terms of how PATRIC interprets the content and uses it in other services or parts of the website.  Allowable types include unspecified, contigs, nwk, reads, differential expression input data, and differential expression input metadata.
+
+More details are available in the [Action Buttons](../action_buttons.html) user guide.
 
 ## References
 * Price, Morgan N., Paramvir S. Dehal, and Adam P. Arkin. "FastTree 2–approximately maximum-likelihood trees for large alignments." PloS one 5.3 (2010): e9490.
 * Stamatakis, Alexandros. "RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models." Bioinformatics 22.21 (2006): 2688-2690.
-
-
-
-
