@@ -102,7 +102,7 @@ The Phylogenetic Tree Building Service generates several files that are deposite
 * **_output-name_.html** - Web-based (html) rendering of the tree.
 * **_output-name_.json** - JavaScript Object Notation (JSON) format file of the tree.
 * **_output-name_.nwk** - 
-* **_output-name_.out** - 
+* **_output-name_.out** - Text file of raw output from the tree-building code
 * **_output-name_.pepr.log** - Details all the steps that occurred in construction of the tree.
 * **_output-name_.sup** - 
 
