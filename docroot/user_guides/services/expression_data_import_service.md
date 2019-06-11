@@ -80,5 +80,25 @@ the metadata file should match those in the data file.* Click to download the [M
 **Submit:** Starts the upload.
 
 ## Output Results
-(under development)
+![Expression Import Service Output Files](../images/expression_import_output_files.png) 
 
+The Expression Import Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
+
+* **experiment.json** - .
+* **expression.json** - .
+* **mapping.json** - .
+* **sample.json** - .
+
+
+### Action buttons
+After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
+
+* **Hide/Show:** Toggles (hides) the right-hand side Details Pane.
+* **Guide** Link to the corresponding User Guide
+* **Download:**  Downloads the selected item.
+* **View** Displays the content of the file, typically as plain text or rendered html, depending on filetype.
+* **Delete** Deletes the file.
+* **Rename** Allows renaming of the file.
+* **Copy:** Copies the selected items to the clipboard.
+* **Move** Allows moving of the file to another folder.
+* **Edit Type** Allows changing of the type of the file in terms of how PATRIC interprets the content and uses it in other services or parts of the website.  Allowable types include unspecified, contigs, nwk, reads, differential expression input data, and differential expression input metadata.
