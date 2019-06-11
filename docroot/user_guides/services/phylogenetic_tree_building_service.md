@@ -99,7 +99,7 @@ Option for selecting progressive refinement, which is a method for attempting to
 
 The Phylogenetic Tree Building Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
-* **TreeReport.html** - .
+* **TreeReport.html** - Web viewable file displaying the rendered tree and tree statistics, including the number of genomes, proteins, and genes using in building the tree.
 * **codontree.genesPerGenome.txt** - .
 * **codontree.nex** - .
 * **codontree.partitions** - .
