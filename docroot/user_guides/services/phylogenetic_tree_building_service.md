@@ -147,11 +147,17 @@ After selecting one of the output files by clicking it, a set of options becomes
 More details are available in the [Action Buttons](../action_buttons.html) user guide.
 
 ## References
+
+### Codon Tree Method
+
+
+
+### All Shared Proteins Method
 * Boratyn GM, Camacho C, Cooper PS et al. BLAST: a more efficient report with usability improvements, Nucleic Acids Res 2013;41:W29-33.
-* Van Dongren S. Graph Clustering by Flow Simulation. Utrecht,  Netherlands: University of Utrecht, 2001.
-* Edgar RC. MUSCLE: multiple sequence alignment with high accuracy and high throughput, Nucleic Acids Res 2004;32:1792-1797.
 * Eddy SR. Profile hidden Markov models, Bioinformatics (Oxford, England) 1998;14:755-763.
-* Talavera G, Castresana J. Improvement of phylogenies after removing divergent and ambiguously aligned blocks from protein sequence alignments, Systematic biology 2007;56:564-577.
+* Edgar RC. MUSCLE: multiple sequence alignment with high accuracy and high throughput, Nucleic Acids Res 2004;32:1792-1797.
 * Price MN, Dehal PS, Arkin AP. FastTree 2â€“approximately maximum-likelihood trees for large alignments, PLoS One 2010;5:e9490.
-* Stamatakis A. RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies, Bioinformatics 2014;30:1312-1313.
 * Rambaut A. FigTree. 2009.
+* Stamatakis A. RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies, Bioinformatics 2014;30:1312-1313.
+* Talavera G, Castresana J. Improvement of phylogenies after removing divergent and ambiguously aligned blocks from protein sequence alignments, Systematic biology 2007;56:564-577.
+* Van Dongren S. Graph Clustering by Flow Simulation. Utrecht,  Netherlands: University of Utrecht, 2001.
