@@ -93,6 +93,12 @@ Option for selecting progressive refinement, which is a method for attempting to
 
 ## Output Results
 
+### Phylogenetic Tree Viewer
+
+![Phylogenetic Tree View Icon](../images/phylogentic_tree_view_icon.png)
+
+Clicking on the View icon at the upper right portion of the job result page will display the PATRIC Phylogenetic Tree Viewer. See the [Phylogeny Tab User Guide](../organisms_taxon/phylogeny.html) for details about this viewer.  
+
 ### Codon Tree Method
 
 ![Phylogenetic Tree Codon Tree Method Output Files](../images/phylogenetic_codon_tree_output_files.png) 
