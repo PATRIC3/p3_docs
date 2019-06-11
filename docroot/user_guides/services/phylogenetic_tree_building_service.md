@@ -153,7 +153,7 @@ More details are available in the [Action Buttons](../action_buttons.html) user 
 * Davis, J.J., et al., PATtyFams: Protein families for the microbial genomes in the PATRIC database. 2016. 7: p. 118.
 * Edgar, R.C.J.N.a.r., MUSCLE: multiple sequence alignment with high accuracy and high throughput. 2004. 32(5): p. 1792-1797.
 * Letunic, I. and P. Bork, Interactive tree of life (iTOL) v3: an online tool for the display and annotation of phylogenetic and other trees. Nucleic acids research, 2016. 44(W1): p. W242-W245.
-* Rambaut, A.J.S.h.t.b.e.a.u.s.f., FigTree, a graphical viewer of phylogenetic trees. 2007.
+* Rambaut, A., FigTree, a graphical viewer of phylogenetic trees. 2007.
 * Stamatakis, A.J.B., RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies. 2014. 30(9): p. 1312-1313.
 * Stamatakis, A., P. Hoover, and J.J.S.b. Rougemont, A rapid bootstrap algorithm for the RAxML web servers. 2008. 57(5): p. 758-771.
 
@@ -163,7 +163,7 @@ More details are available in the [Action Buttons](../action_buttons.html) user 
 * Eddy SR. Profile hidden Markov models, Bioinformatics (Oxford, England) 1998;14:755-763.
 * Edgar RC. MUSCLE: multiple sequence alignment with high accuracy and high throughput, Nucleic Acids Res 2004;32:1792-1797.
 * Price MN, Dehal PS, Arkin AP. FastTree 2â€“approximately maximum-likelihood trees for large alignments, PLoS One 2010;5:e9490.
-* Rambaut A. FigTree. 2009.
+* Rambaut, A., FigTree v1. 3.1: Tree figure drawing tool. 2019.
 * Stamatakis A. RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies, Bioinformatics 2014;30:1312-1313.
 * Talavera G, Castresana J. Improvement of phylogenies after removing divergent and ambiguously aligned blocks from protein sequence alignments, Systematic biology 2007;56:564-577.
 * Van Dongren S. Graph Clustering by Flow Simulation. Utrecht,  Netherlands: University of Utrecht, 2001.
