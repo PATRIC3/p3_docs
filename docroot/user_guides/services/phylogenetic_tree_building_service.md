@@ -93,9 +93,33 @@ Option for selecting progressive refinement, which is a method for attempting to
 
 ## Output Results
 
+### Codon Tree Method
+
+![Phylogenetic Tree Codon Tree Method Output Files](../images/phylogenetic_codon_tree_output_files.png) 
+
+The Phylogenetic Tree Building Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
+
+* **TreeReport.html** - .
+* **codontree.genesPerGenome.txt** - .
+* **codontree.nex** - .
+* **codontree.partitions** - .
+* **codontree.pgfamAlignmentStats.txt** - 
+* **codontree.pgfamsAndGenesIncludedInAlignment.txt** - .
+* **codontree.phy** - .
+* **codontree.phy.reduced** - .
+* **codontree.png** - .
+* **codontree.preflight** - .
+* **codontree.raxmlCommand.sh** - .
+* **codontree.svg** - .
+* **codontree_codontree_analysis.stats** - .
+* **codontree_tipsAligned.nex.** - .
+* **codontree_treeWithGenomeIds.nwk** - .
+* **codontree_treeWithGenomeNames.nwk** - .
+* **p3x-build-codon-tree.log** - .
+
 ### All Shared Proteins Method
 
-![Phylogenetic Tree Building Service Output Files](../images/phylogenetic_protein_tree_output_files.png) 
+![Phylogenetic Tree All Shared Protein Output Files](../images/phylogenetic_protein_tree_output_files.png) 
 
 The Phylogenetic Tree Building Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
