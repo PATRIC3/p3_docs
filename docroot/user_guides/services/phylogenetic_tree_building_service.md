@@ -95,7 +95,7 @@ Option for selecting progressive refinement, which is a method for attempting to
 
 ### Phylogenetic Tree Viewer
 
-![Phylogenetic Tree View Icon](../images/phylogentic_tree_view_icon.png)
+![Phylogenetic Tree View Icon](../images/phylogenetic_tree_view_icon.png)
 
 Clicking on the View icon at the upper right portion of the job result page will display the PATRIC Phylogenetic Tree Viewer. See the [Phylogeny Tab User Guide](../organisms_taxon/phylogeny.html) for details about this viewer.  
 
