@@ -100,21 +100,21 @@ Option for selecting progressive refinement, which is a method for attempting to
 The Phylogenetic Tree Building Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
 * **TreeReport.html** - Web viewable file displaying the rendered tree and tree statistics, including the number of genomes, proteins, and genes using in building the tree.
-* **codontree.genesPerGenome.txt** - .
+* **codontree.genesPerGenome.txt** - Text file containing the genome ID, the number of genes that genome has, the total single copy genes in that genome, and the number of those genes that were used in the alignment.
 * **codontree.nex** - .
 * **codontree.partitions** - .
 * **codontree.pgfamAlignmentStats.txt** - 
-* **codontree.pgfamsAndGenesIncludedInAlignment.txt** - .
+* **codontree.pgfamsAndGenesIncludedInAlignment.txt** - Text file containing the PGFam ID and the locus tags for the proteins/genes for each of the genes used in the alignment for each of the genomes that were included in the analysis.
 * **codontree.phy** - .
 * **codontree.phy.reduced** - .
-* **codontree.png** - .
+* **codontree.png** - PNG-format image file displaying the rendered tree.
 * **codontree.preflight** - .
 * **codontree.raxmlCommand.sh** - .
-* **codontree.svg** - .
-* **codontree_codontree_analysis.stats** - .
+* **codontree.svg** - SVG-format, publication-quality image file displaying the rendered tree.
+* **codontree_codontree_analysis.stats** - Text file containig the statistics on the tree including the number of genomes in the tree, the number of proteins aligned, the number of amino acids included in the alignment, the number of genes (CDS) in the alignment, the number of nucleotides, and the PGFam IDs associated with the proteins/genes.
 * **codontree_tipsAligned.nex.** - .
-* **codontree_treeWithGenomeIds.nwk** - .
-* **codontree_treeWithGenomeNames.nwk** - .
+* **codontree_treeWithGenomeIds.nwk** - Newick tree format file with genome IDs as leaf nodes..
+* **codontree_treeWithGenomeNames.nwk** - Newick tree format file with genome names as leaf nodes.
 * **p3x-build-codon-tree.log** - .
 
 ### All Shared Proteins Method
