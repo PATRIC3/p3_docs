@@ -85,9 +85,20 @@ the metadata file should match those in the data file.* Click to download the [M
 The Expression Import Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
 * **experiment.json** - JavaScript Object Notation (JSON) format file containing experiment metadata.
-* **expression.json** - .
+* **expression.json** - JSON format file containing log-ratio expression values by feature.
 * **mapping.json** - JSON format file containing details of the mapping of genes/proteins in the uploaded file to PATRIC Feature IDs.
-* **sample.json** - .
+* **sample.json** - JSON format file containing the experiment conditions.
+
+### View Experiment Conditions
+![Expression Import View Icon](../images/expression_import_view_icon.png) 
+
+
+
+### View Experiment Results Across All Conditions
+![Expression Import Experiment Icon](../images/expression_import_experiment_icon.png) 
+
+
+
 
 
 ### Action buttons
