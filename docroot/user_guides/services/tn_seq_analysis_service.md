@@ -54,17 +54,20 @@ The group/condition specified will be used to determine contrasts in the conditi
 Read files placed here will contribute to a single Tn-Seq analysis. Read files placed into this table under the same condition will be considered replicates.
 
 ## Output Results
-![Tn-Seq Analysis Service Output Files](../images/tn-seq_analysis_output_files.png) 
+![Tn-Seq Analysis Service Output Files](../images/tn-seq_output_files.png) 
 
 The Tn-Seq Analysis Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
-* **.bam** - A binary version of a SAM file that describes the alignment andalignment quality of each read in a sample file.
+* **.bam** - A binary version of a SAM file that describes the alignment and alignment quality of each read in a sample file.
 * **.bai** - A binary index alignment file gives the byte range offset of particular sequence regions in the BAM file. This can be used to selectively load information for a particular region out of a BAM file.
-* **.counts** - .
-* **.tn_stats** - .
-* **.wig** - .
-* **output_keys.txt** - 
-* **resampling_control_treatment_transit.txt** - 
+* **.counts** - The counts associated with each of the read files.
+* **.tn_stats** - The statistics associated with each of the read files.
+* **.wig** - wiggle file that defines the feature/data track.
+* **output_keys.txt** - A summary of the reads and the metadata assigned to them.
+* **resampling_control_treatment_transit.txt** - A summary of the statistical data produced by the TRANSIT software.
+
+![Tn-Seq Analysis Service Browser Icon](../images/tn-seq_browser_icon.png)
+Clicking the 
 
 
 
