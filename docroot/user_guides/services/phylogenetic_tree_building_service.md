@@ -110,19 +110,26 @@ The Phylogenetic Tree Building Service generates several files that are deposite
 * **_output-name_ treeWithGenomeIds.nwk** - Newick tree format file with genome IDs as leaf nodes.
 
 The ‘detail_files’ subfolder has other output files that may be useful under special circumstances:
+
 * **_output-name_.genesPerGenome.txt** - Text file containing the genome ID, the number of genes that genome has, the total single copy genes in that genome, and the number of those genes that were used in the alignment.
-* **_output-name_.nex** - .
-* **_output-name_.partitions** - .
-* **_output-name_.pgfamAlignmentStats.txt** - 
+* **_output-name_ analysis.stats** - Text file containing the statistics on the tree including the number of genomes in the tree, the number of proteins aligned, the number of amino acids included in the alignment, the number of genes (CDS) in the alignment, the number of nucleotides, and the PGFam IDs associated with the proteins/genes.
+* **_output-name_.phy** - The alignment of nucleotides and amino acids for all genes. Input to RAxML.
+* **_output-name_.phy.reduced** - The alignment after removing any redundant genomes with identical rows.
+* **_output-name_.partitions** - The specification of the regions of the alignment that are 1st vs 2nd vs 3rd codon positions and the amino acids.
+* **_output-name_.pgfamAlignmentStats.txt** - A listing of statistics describing the quality of the protein alignment of each PGFam used to build the tree. Includes:
+  * gaps – the number of gap characters (‘-‘) in the protein alignment
+  * mean_squared_freq  - the average sum of the squared frequencies of each amino acid per position in the alignment. Closer to 1.0 means low variation. Closer to zero mean highly variable. PFFams scoring 1.0 here can still have informative variation at the nucleotide level, especially at 3rd codon positions.
+  * Num_pos – the length of the alignment
+  * Num_seqs – the number of genomes with a gene for that PGFam. Can be lower than the total number of genomes if the ‘maxGenomesMissing’ parameter is non-zero.
+  * Prop_gaps – the proportion of the alignment which is gap characters.
+  * Sum_sqared_freq – the sum of the squared amino acid frequencies per column
+  * UsedInAnalysis – Whether this PGFam was utilized in the analysis. The system evaluates many alignments and uses the most conserved ones for tree building.
 * **_output-name_.pgfamsAndGenesIncludedInAlignment.txt** - Text file containing the PGFam ID and the locus tags for the proteins/genes for each of the genes used in the alignment for each of the genomes that were included in the analysis.
-* **_output-name_.phy** - .
-* **_output-name_.phy.reduced** - .
-* **_output-name_.preflight** - .
-* **_output-name_.raxmlCommand.sh** - .
-* **_output-name_ analysis.stats** - Text file containig the statistics on the tree including the number of genomes in the tree, the number of proteins aligned, the number of amino acids included in the alignment, the number of genes (CDS) in the alignment, the number of nucleotides, and the PGFam IDs associated with the proteins/genes.
-* **_output-name_ tipsAligned.nex.** - .
+* **_output-name_.raxmlCommand.sh** - The command line used for running RAxML.
+* **_output-name_.nex** - NEXUS formatted tree file. Can be visualized in Figtree or other software.
+* **_output-name_ tipsAligned.nex.** - NEXUS file to draw tree with names aligned. Can enable viewing bootstrap support values better.
 * **_output-name_ treeWithGenomeNames.nwk** - Newick tree format file with genome names as leaf nodes.
-* **p3x-build-codon-tree.log** - .
+* **p3x-build-codon-tree.log** - Log file with information on progress of run.
 
 ### All Shared Proteins Method
 
