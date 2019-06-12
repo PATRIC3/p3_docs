@@ -108,8 +108,4 @@ After selecting one of the output files by clicking it, a set of options becomes
 * **Guide** Link to the corresponding User Guide
 * **Download:**  Downloads the selected item.
 * **View** Displays the content of the file, typically as plain text or rendered html, depending on filetype.
-* **Delete** Deletes the file.
-* **Rename** Allows renaming of the file.
 * **Copy:** Copies the selected items to the clipboard.
-* **Move** Allows moving of the file to another folder.
-* **Edit Type** Allows changing of the type of the file in terms of how PATRIC interprets the content and uses it in other services or parts of the website.  Allowable types include unspecified, contigs, nwk, reads, differential expression input data, and differential expression input metadata.
