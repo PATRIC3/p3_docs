@@ -68,7 +68,7 @@ The Tn-Seq Analysis Service generates several files that are deposited in the Pr
 
 ![Tn-Seq Analysis Service Browser Icon](../images/tn-seq_analysis_browser_icon.png)
 
-Clicking the displays the Genome Browser with the reference genome loaded.  
+Clicking the Browser icon at the top left displays the Genome Browser with the reference genome loaded.  
 
 ![Tn-Seq Data in Genome Browser](../images/tn-seq_genome_browser.png)
 
