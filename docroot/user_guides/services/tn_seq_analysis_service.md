@@ -54,6 +54,10 @@ The group/condition specified will be used to determine contrasts in the conditi
 Read files placed here will contribute to a single Tn-Seq analysis. Read files placed into this table under the same condition will be considered replicates.
 
 ## Output Results
-(under development)
+![Tn-Seq Analysis Service Output Files](../images/tn-seq_analysis_output_files.png) 
 
+The Tn-Seq Analysis Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
+
+* **.bam** - A binary version of a SAM file that describes the alignment andalignment quality of each read in a sample file
+* **.bai** - A binary index alignment file gives the byte range offset of particular sequence regions in the BAM file. This can be used to selectively load information for a particular region out of a BAM file.
 
