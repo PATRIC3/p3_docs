@@ -94,7 +94,7 @@ The Expression Import Service generates several files that are deposited in the 
 
 Clicking on the View icon at the top right of the page will display a page with each of the conditions that are part of the experiment. 
 
-![Expression Import Genes Table](../images/expression_import_genes_table.png)
+![Expression Import Conditions Table](../images/expression_import_conditions_table.png)
 
 Selecting one of the Conditions and clicking the Genes icon in the vertical green Action Bar on the right side of the table will display a table of the genes and how they are regulated for that condition. See [Transcriptomics Tab](https://docs.patricbrc.org/user_guides/organisms_taxon/transcriptomics.html) for more information on how to use this table and the associated heatmap.
 
