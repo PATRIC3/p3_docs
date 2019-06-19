@@ -37,3 +37,43 @@ Name used to uniquely identify results.
 **Reset:** Resets the input form to default values
 
 **Reconstruct:** Launches the model reconstruction job.
+
+## Output Results
+![Metabolic Reconstruction Service Results Page](../images/model_reconstruction_service_results_page.png)
+
+The Metabolic Reconstruction Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include 
+
+* **gf.0.gftbl** - a Gapfill reactions table containing the list of the reations added to the model by the gapfilling algorithm during reconstruction.
+* **gf.0.fbatbl** - a FBA flux distribution for the gapfilling simulation.
+* **_model_name_.sbml** - the model in Systems Biology Markup Language (SBML) format.
+* **_model_name_.rxntbl** - list of all the reactions in the model.
+* **_model_name_.cpdtbl** - list of all the reactions in the model.
+* **fba.0.futbl** - FBA flux for all model reactions.
+* **fba.0.essentials** - List of genes in the model characterized as essential by the FBA simulation in the specified media.
+
+### Action buttons
+After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table, listed below. For the Model Reconstruction Service, the only options in the Action Bar are the following:
+
+* **Hide/Show:** Toggles (hides) the right-hand side Details Pane.
+* **Guide:** Link to the corresponding User Guide.
+* **Download:**  Downloads the selected item.
+
+More details are available in the [Action Buttons](../action_buttons.html) user guide.
+
+### ModelSEED Model Viewer
+![Model Reconstruction Service View Icon](../images/model_reconstruction_view_icon.png)
+
+Clicking on the View icon at the upper right portion of the job result page will open a login screen for the ModelSEED. PATRIC or RAST credentials can be used for login.
+
+![ModelSEED Login](../images/modelseed_login.png)
+
+After login, the ModelSEED Model Viewer will be displayed, consisting of multiple tabs for Reactioons, Compounds, Genes, Compartments of the model, and the weighted components of the Biomass. Each column in the table is sortable by clicking the column header. Information about the model is searchable by using the search bar at the top left corner of the table.
+
+![ModelSEED Model Viewer](../images/modelseed_model_viewer.png)
+
+## References
+1.	Orth, J.D., I. Thiele, and B.O. Palsson, What is flux balance analysis? Nat Biotechnol. **28**(3): p. 245-8.
+2.	Henry, C.S., et al., High-throughput generation, optimization and analysis of genome-scale metabolic models. Nat Biotechnol, 2010. **28**(9): p. 977-82.
+3.	Overbeek, R., et al., The SEED and the Rapid Annotation of microbial genomes using Subsystems Technology (RAST). Nucleic Acids Res, 2014. **42**(Database issue): p. D206-14.
+4.	Orth, J.D. and B.O. Palsson, Systematizing the generation of missing metabolic knowledge. Biotechnol Bioeng. **107**(3): p. 403-12.
+

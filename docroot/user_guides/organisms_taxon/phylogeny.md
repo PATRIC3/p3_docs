@@ -5,7 +5,7 @@ The Phylogeny Tab and Phylogenetic Tree Viewer in PATRIC allow you to visualize 
 
 ### See also
   * [Building Phylogenetic Trees in PATRIC Tutorial](https://docs.patricbrc.org//tutorial/phylogenetic_tree_building/tree_building.html)
-  * [Phylogenetic Tree Building Service](../services/phylogenetic_tree_building_service.html)
+  * [Phylogenetic Tree Building Service User Guide](../services/phylogenetic_tree_building_service.html)
 
 ## Accessing Phylogenetic Trees on the PATRIC Website
 Phylogenetic trees can be viewed in PATRIC by either 
