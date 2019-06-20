@@ -29,6 +29,7 @@ PATRIC Documentation
    collaborations
    scientific_working_group
    systems_architecture
+   system_documentation
    usage_metrics
    github
    personnel
