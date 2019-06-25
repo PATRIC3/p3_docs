@@ -88,7 +88,7 @@ does the trick.
 
 
 The output is then filtered to exclude proteins from low-quality genomes. The resulting
-FASTA database currently contains over 80,000 proteins.
+FASTA database currently contains over 170,000 proteins.
 
 Step 1: For Each Sample, Construct a set of Contig Bins
 -------------------------------------------------------
@@ -168,8 +168,8 @@ of a bin? Fortunately, several such tools exist. The most notable is
         isolates, single cells, and metagenomes.  Genome Research, 25:
         1043-1055.
 
-We also annotation the bin using PATRIC RAST, and perform a consistency check
-on the annotation as a second check on the quality. The consistency checking
+We also annotate the bin using PATRIC RAST, and perform a consistency check
+on the annotation as a second check on the quality. The consistency-checking
 tool maintains a database of which functional roles tend to occur in the presence
 of others and which should not appear in the presence of others. This database
 is applied to the annotations from RAST to produce a coarse score (percentage of
