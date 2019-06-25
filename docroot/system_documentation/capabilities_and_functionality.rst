@@ -17,50 +17,50 @@ Source Code:
 - CSS: https://github.com/PATRIC3/p3_web/tree/master/public/js/p3/resources
 - Git submodules/external dependencies for JS: https://github.com/PATRIC3/p3_web/tree/master/public/js
 
-Taxonomy Overview Page
-#######################
+`Taxonomy Overview Page <https://www.patricbrc.org/view/Taxonomy/1763#view_tab=overview>`_
+###########################################################################################
 
 From Overview tab: Provides summary information for all genomes within the selected taxon level, including links to reference and representative genomes, interactive graphical portrayal of genome counts by antimicrobial resistance by RIS value (Resistant, Susceptible, or Intermediate) and metadata category (Host Name, Disease, Isolation Country, and Genome Status). Provides links to recent PubMed articles relevant to the selected taxon.
 
 User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/overview.html
 
-Phylogeny Page
-##############
+`Phylogeny Page <https://www.patricbrc.org/view/Taxonomy/1763#view_tab=phylogeny>`_
+####################################################################################
 
 From Phylogeny tab: Displays the interactive Phylogeny Viewer (described below), linked to the associated order-level tree for the selected taxonomy level.
 
 User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/phylogeny.html
 
-Taxonomy Page
-##############
+`Taxonomy Page <https://www.patricbrc.org/view/Taxonomy/1763#view_tab=taxontree>`_
+###################################################################################
 
 From Taxonomy tab: Provides an interactive expandable/collapsible taxonomy tree browser based on the NCBI taxonomy, filtered to the user-selected taxonomy level. The page provides links back to the appropriate Taxonomy Overview Page for the selected taxonomy level. 
 
 User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/taxonomy.html
 
-Genomes Page
-#############
+`Genomes Page <https://www.patricbrc.org/view/Taxonomy/77643#view_tab=genomes>`_
+#################################################################################
 
 From Genomes tab: Provides a list of genomes and sequences in the PATRIC database, filtered to the selected taxonomy level. Lists are filterable through an interactive metadata summary menu and by keyword. From this page, genomes and sequences can be selected and added to the user's workspace and downloaded in Excel or text format. Selected genomes can be viewed in the Genome Browser. The table containing the list is sortable and columns can be shown/hidden—this feature is true of all interactive tables in the PATRIC Website.
 
 User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/genomes.html
 
-AMR Phenotypes Page
-####################
+`AMR Phenotypes Page <https://www.patricbrc.org/view/Taxonomy/77643#view_tab=amr>`_
+####################################################################################
 
 From AMR Phenotypes tab: Provides a list of all genomes, by antibiotic AMR value, within the selected taxonomy level which have AMR values, either RIS or MIC (minimum inhibitory concentration), with associated metadata. In addition to the standard table features for genomes, links are provided to the associated Antibiotic Page in PATRIC for the selected genome/antibiotic item.
 
 User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/amr_phenotypes.html
 
-Sequences Page
-###############
+`Sequences Page <https://www.patricbrc.org/view/Taxonomy/77643#view_tab=sequences>`_
+#####################################################################################
 
 From AMR Phenotypes tab: Provides a list of all sequences (chromosome, contig, plasmid) associated with the genomes within the selected taxonomy level. Additional metadata such as length, GC content, sequence type, and topology are provided. In addition to the standard table features for genomes, links are provided to the associated Feature List Page for features associated with the selected sequences. 
 
 User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/sequences.html
 
-Features Page
-##############
+`Features Page <https://www.patricbrc.org/view/Taxonomy/77643#view_tab=features>`_
+###################################################################################
 
 From Features tab: Provides a list of features (CDS, source, repeat region, tRNA, pseudogene, rRNA, gene, and others) associated with genomes in the selected taxonomy level. From this page, the following functionality is available for selected features:
 
@@ -74,36 +74,36 @@ From Features tab: Provides a list of features (CDS, source, repeat region, tRNA
 
 User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/features.html
 
-Specialty Genes Page
-#####################
+`Specialty Genes Page <https://www.patricbrc.org/view/Taxonomy/77643#view_tab=specialtyGenes>`_
+################################################################################################
 
 From Specialty Genes tab: Provides Specialty Genes, i.e., genes that are of particular interest to the infectious disease researches, such as virulence factors, transporters, drug targets, antibiotic resistance genes, human homologs, and essential genes (see Specialty Genes section below). For selected genes, the same functionality is available as is for features in the Feature Page. 
 
 User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/specialty_genes.html
 
-Protein Families Page
-######################
+`Protein Families Page <https://www.patricbrc.org/view/Taxonomy/77643#view_tab=proteinFamilies>`_
+##################################################################################################
 
 From Protein Families tab: Displays the interactive Protein Family Sorter (described below), filtered to the selected taxonomy level.
 
 User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/protein_families.html
 
-Pathways Page
-##############
+`Pathways Page <https://www.patricbrc.org/view/Taxonomy/77643#view_tab=pathways>`_
+###################################################################################
 
 From Pathways tab: Displays the interactive Comparative Pathway Tool (described below), filtered to the selected taxonomy level. 
 
 User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/pathways.html
 
-Transcriptomics Page
-#####################
+`Transcriptomics Page <https://www.patricbrc.org/view/Taxonomy/77643#view_tab=transcriptomics>`_
+##################################################################################################
 
 From Transcriptomics tab: Provides access to and comparative tools for transcriptomics data curated (primarily) from NCBI’s GEO database. Users can also privately and securely upload and analyze their own unpublished gene expression data—generated by microarray or RNA-Seq technologies—and compare it with the other curated transcriptomics datasets in PATRIC. Functionality is summarized below.
 
 User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/transcriptomics.html
 
-Interactions Page
-##################
+`Interactions Page <https://www.patricbrc.org/view/Genome/83332.12#view_tab=interactions>`_
+############################################################################################
 
 From Interactions tab: Provides experimentally and computationally derived host-pathogen and protein-protein interactions (HPI/PPI) associated with the selected taxon level. The HPI/PPI data are collected from over 15 public repositories, including STRINGDB. Displays tabular and interaction network graph views (described below). 
 
@@ -122,16 +122,16 @@ From top-right portion of website: Performs full-text searches within the PATRIC
 | User Guide: https://docs.patricbrc.org/user_guides/global_search.html
 | Source Code: https://github.com/PATRIC3/p3_web/blob/master/.gitmodules
 
-Host-Pathogen Interactions
-###########################
+`Host-Pathogen Interactions <http://www.patricbrc.org/portal/portal/patric/HPITool?cType=taxon&cId=&dm=>`_
+###########################################################################################################
 
 From the Graph option: Provides interactive, Cytoscape-based network visualization of experimentally confirmed and computationally derived protein-protein interactions that occur between host and bacterial proteins and proteins in the bacterium. Interaction data are collected data are collected from over 15 public repositories, including STRINGDB. Interactions can be selected at the taxon, genome, and feature levels.
 
 | User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/interactions.html
 | Source Code: npm install: https://github.com/cytoscape/cytoscape.js
 
-Comparative Pathway Tool
-#########################
+`Comparative Pathway Tool <https://www.patricbrc.org/app/ComparativePathway>`_
+###############################################################################
 
 Supports comparison of consistently annotated metabolic pathways across closely related or diverse groups of genomes and visualizes them using interactive KEGG maps and heatmaps. The heatmap view is an interactive visualization tool that provides an overview of the distribution of genomes across the set of EC numbers within a selected pathway.
 
@@ -139,8 +139,8 @@ Supports comparison of consistently annotated metabolic pathways across closely 
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/comparative_pathways/comparative_pathways.html
 | Source Code: https://github.com/PATRIC3/p3_web/blob/master/.gitmodules
 
-Protein Family Sorter
-######################
+`Protein Family Sorter <https://www.patricbrc.org/app/ProteinFamily>`_
+########################################################################
 
 Compares protein families across closely related or diverse groups of genomes, visualizes them using interactive heatmaps, and generates multiple sequence alignments and phylogenetic trees for individual families. The heatmap view is an interactive visualization tool that provides an overview of the distribution of proteins across a selected set of genomes.
 
@@ -148,16 +148,16 @@ Compares protein families across closely related or diverse groups of genomes, v
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/protein_family_sorter/protein_family_sorter.html
 | Source Code: https://github.com/nconrad/heatmap
 
-Genome Metadata
-################
+`Genome Metadata <https://www.patricbrc.org/view/Taxonomy/2#view_tab=genomes>`_
+################################################################################
 
 From the Filter Tool in Genome Lists: Facilitates locating, sorting, and filtering genomes of interest based on various combinations of over 70 different metadata fields. For instance, all genomes that have been isolated from humans, genomes related by phylogeny, or genomes related by lifestyle. 
 
 | User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/genome_metadata.html
 | Source Code: https://github.com/PATRIC3/p3_web/tree/master/public/js/p3/widget
 
-Transcriptomics
-################
+`Transcriptomics <https://www.patricbrc.org/view/Genome/83332.12#view_tab=transcriptomics>`_
+##############################################################################################
 
 From Transcriptomics tab: Provides tools for comparative analysis of transcriptomics data including metadata filters; filtering gene lists based on Log Ratio or Z-score cut-off, up/down regulation, or gene functions; using the Heatmap Viewer and clustering; viewing corresponding metabolic pathways; and finding positively or negatively correlated genes based on gene expression ratio.
 
@@ -165,8 +165,8 @@ From Transcriptomics tab: Provides tools for comparative analysis of transcripto
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/examining_transcriptomics_data/examining_transcriptomics_data.html
 | Source Code: https://github.com/nconrad/heatmap
 
-Phylogeny Viewer
-#################
+`Phylogeny Viewer <https://www.patricbrc.org/view/Taxonomy/1763#view_tab=phylogeny>`_
+#####################################################################################
 
 Allows exploration of phylogenetic relationships using species- and genus-level coloring schemes. PATRIC's phylogeny viewer also supports custom creation of genome groups to be used as a basis for analysis in other PATRIC tools.
 
@@ -174,16 +174,16 @@ Allows exploration of phylogenetic relationships using species- and genus-level 
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/codon_tree_building/codon_tree_building.html
 | Source Code: https://github.com/aswarren/phyloview
 
-Compare Region Viewer
-#####################
+`Compare Region Viewer <https://www.patricbrc.org/view/Feature/PATRIC.83332.12.NC_000962.CDS.10484.10828.fwd#view_tab=compareRegionViewer>`_
+#############################################################################################################################################
 
 Allows comparison of genomic regions around a gene of interest across closely related genomes. Shows differences in translation start sites, potential frame shifts, or missing genes and facilitates visual identification of proteins with similar functions. 
 
 | User Guide: https://docs.patricbrc.org/user_guides/organisms_gene/compare_region_viewer.html
 | Source Code: https://github.com/olsonanl/compare_regions
 
-Genome Browser
-##############
+`Genome Browser <https://www.patricbrc.org/view/Genome/83332.12#view_tab=browser&loc=NC_000962%3A1..100027&tracks=refseqs%2CPATRICGenes%2CRefSeqGenes&highlight=>`_
+#####################################################################################################################################################################
 
 Provides graphical portrayal of the alignment of genes and other genomic data (i.e., genome features) depicted along a central horizontal axis of genome coordinates. PATRIC's genome browser supports comparison of genome annotations from multiple sources (e.g., PATRIC, RefSeq, etc.). Users can upload their own custom tracks. 
 
@@ -191,8 +191,8 @@ Provides graphical portrayal of the alignment of genes and other genomic data (i
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/private_genome/private_genome.html
 | Source Code: https://github.com/GMOD/jbrowse
 
-Circular Genome Viewer
-#######################
+`Circular Genome Viewer <https://www.patricbrc.org/view/Genome/83332.12#view_tab=circular>`_
+#############################################################################################
 
 Portrays the genome in a circular map, showing genome annotations and sequence properties.  Provides tracks for chromosomes / plasmids / contigs, CDS (forward & reverse), RNAs, GC content, GC skew, and miscellaneous features, GC content and GC skew can be displayed as a line plot, histogram, or heatmap. Users can upload their own custom tracks. 
 
@@ -224,8 +224,8 @@ Source Code:
   - https://github.com/olsonanl/p3_seed_server
   - https://github.com/PATRIC3/Workspace
 
-Genome Assembly Service
-########################
+`Genome Assembly Service <https://www.patricbrc.org/app/Assembly>`_
+####################################################################
 
 The Genome Assembly Service can be used to perform an automated genome assembly using the latest computational tools. Single or multiple assemblers can be invoked to compare results. The assembly service attempts to select the best assembly—i.e., assembly with the smallest number of contigs and the longest average contig length. Several assembly workflows or “recipes” are available. These workflows have been tuned and tested to fit certain data types or desired analysis criteria such as throughput or rigor. The assembly service’s flexible nature also enables the rapid design and emulation of other popular protocols. Login required.
 
@@ -233,8 +233,8 @@ The Genome Assembly Service can be used to perform an automated genome assembly 
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/genome_assembly/assembly.html
 | Source Code: https://github.com/PATRIC3/p3_assembly
 
-Genome Annotation Service
-##########################
+`Genome Annotation Service <https://www.patricbrc.org/app/Annotation>`_
+#########################################################################
 
 The Genome Annotation Service is based on the RAST Toolkit (RASTtk). RASTtk is a modular extensible genome annotation system that provides mechanisms for identifying genomic features and annotating their functions. The RASTtk annotation engine uses a signature k-mer method to propagate annotations taken from the CoreSEED, a genome annotation system that has been central to the quality of the RAST annotations over the years. The CoreSEED curation process takes advantage of subsystems-based annotation to ensure high-quality, consistent annotations. RASTtk is fully defined at http://www.ncbi.nlm.nih.gov/pubmed/25666585. Links and instructions for downloading and installing RASTtk client code are included. The subsystems annotation method is described at http://nar.oxfordjournals.org/content/33/17/5691.full. Login required.
 
@@ -242,8 +242,8 @@ The Genome Annotation Service is based on the RAST Toolkit (RASTtk). RASTtk is a
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/genome_annotation/annotation.html
 | Source Code: https://github.com/theseed/genome_annotation
 
-Comprehensive Genome Analysis Service
-######################################
+`Comprehensive Genome Analysis Service <https://patricbrc.org/app/ComprehensiveGenomeAnalysis>`_
+#################################################################################################
 
 The Comprehensive Genome Analysis Service provides a streamlined analysis "meta-service" that accepts raw reads and performs a comprehensive analysis including assembly, annotation, identification of nearest neighbors, a basic comparative analysis that includes a subsystem summary, phylogenetic tree, and the features that distinguish the genome from its nearest neighbors. Login required.
 
@@ -251,8 +251,8 @@ The Comprehensive Genome Analysis Service provides a streamlined analysis "meta-
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/comprehensive-genome-analysis/comprehensive-genome-analysis.html
 | Source Code:
 
-BLAST Service
-###############
+`BLAST Service <https://patricbrc.org/app/BLAST>`_
+###################################################
 
 The PATRIC BLAST service integrates the BLAST (Basic Local Alignment Search Tool) algorithms to perform searches against public or private genomes in PATRIC or other reference databases using a DNA or protein sequence and find matching genomes, genes, RNAs, or proteins.
 
@@ -260,8 +260,8 @@ The PATRIC BLAST service integrates the BLAST (Basic Local Alignment Search Tool
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/blast/blast.html
 | Source Code: https://github.com/PATRIC3/homology_service
 
-Similar Genome Finder
-######################
+`Similar Genome Finder <https://www.patricbrc.org/app/GenomeDistance>`_
+########################################################################
 
 The Similar Genome Finder Service will, for a user-selected genome or for an uploaded FASTA file, find the closest related public genomes (by sequence) in PATRIC using the MInHash algorithm to perform comparisons. Login required.
 
@@ -269,8 +269,8 @@ The Similar Genome Finder Service will, for a user-selected genome or for an upl
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/similar_genome_finder/similar_genome_finder.html
 | Source Code:
 
-Variation Analysis Service
-###########################
+`Variation Analysis Service <https://www.patricbrc.org/app/Variation>`_
+########################################################################
 
 The Variation Service can be used to identify and annotate sequence variations using a variety of aligner and SNP calling programs. The service enables users to upload one or multiple short read samples and compare them to a closely related reference genome. For each sample, the service computes the variations against the reference and presents a detailed list of SNPs, MNPs, insertions and deletions with confidence scores and effects such as “synonymous mutation” and “frameshift”. High confidence variations are downloadable in the standard VCF format augmented by SNP annotation. A summary table illustrating how the variations are shared across the samples is also available. Login required.
 
@@ -278,8 +278,8 @@ The Variation Service can be used to identify and annotate sequence variations u
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/variation_analysis_service/variation_analysis_service.html
 | Source Code:
 
-Tn-Seq Analysis Service
-########################
+`Tn-Seq Analysis Service <https://www.patricbrc.org/app/Tnseq>`_
+################################################################
 
 The Tn-Seq Analysis Service allows users to align reads and measure essentiality of their Tn-Seq data using the TRANSIT software. The results can be downloaded or viewed as alignments to the reference genome in the Genome Browser. The alignments are presented as a separate track in the Genome Browser along with annotated genes. Login required.
 
@@ -287,8 +287,8 @@ The Tn-Seq Analysis Service allows users to align reads and measure essentiality
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/tn-seq/tn-seq.html
 | Source Code: https://github.com/PATRIC3/p3_tnseq
 
-Phylogenetic Tree Service
-##########################
+`Phylogenetic Tree Service <https://www.patricbrc.org/app/PhylogeneticTree>`_
+##############################################################################
 
 The Phylogenetic Tree Service enables construction of custom phylogenetic trees for up to 50 user-selected genomes. The service builds trees using conserved protein sequences, which is the same methodology used to build the public genus-level phylogenetic trees in the PATRIC website. The service also provides an option for building a codon tree. Users can view or download a Newick file, or access the new tree in the interactive Phylogenetic Tree Viewer in PATRIC. Login required. 
 
@@ -299,8 +299,8 @@ The Phylogenetic Tree Service enables construction of custom phylogenetic trees 
 - Codon tree: https://github.com/PATRIC3/codon_trees
 - Shared proteins: https://github.com/PATRIC3/pepr
 
-Genome Alignment Service
-#########################
+`Genome Alignment Service <https://patricbrc.org/app/GenomeAlignment>`_
+########################################################################
 
 The Whole Genome Alignment Service aligns genomes using progressiveMauve to create whole genome alignments of up to 20 genomes. Login required.
 
@@ -308,8 +308,8 @@ The Whole Genome Alignment Service aligns genomes using progressiveMauve to crea
 | Use Case / Tutorial: TBD
 | Source Code: https://github.com/PATRIC3/p3_mauve
 
-Metagenomic Read Mapping Service
-#################################
+`Metagenomic Read Mapping Service <https://patricbrc.org/app/MetagenomicReadMapping>`_
+#######################################################################################
 
 The Metagenomic Read Mapping Service uses KMA to align reads against antibiotic resistance genes from CARD and virulence factors from VFDB. Login required.
 
@@ -317,8 +317,8 @@ The Metagenomic Read Mapping Service uses KMA to align reads against antibiotic 
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/metagenomic_read_mapping/metagenomic_read_mapping.html
 | Source Code:
 
-Taxonomic Classification Service
-#################################
+`Taxonomic Classification Service <https://patricbrc.org/app/TaxonomicClassification>`_
+########################################################################################
 
 The Taxonomic Classification Service accepts reads or contigs from sequencing of a metagenomic sample and uses Kraken 2 to assign the reads to taxonomic bins, providing an initial profile of the possible constituent organisms present in the sample. Login required.
 
@@ -326,8 +326,8 @@ The Taxonomic Classification Service accepts reads or contigs from sequencing of
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/taxonomic_classification/taxonomic_classification.html
 | Source Code:
 
-Metagenomic Binning Service
-#############################
+`Metagenomic Binning Service <https://patricbrc.org/app/MetagenomeBinning>`_
+#############################################################################
 
 The Metagenomic Binning Service accepts either reads or contigs, and attempts to "bin" the data into a set of genomes. This service can be used to reconstruct bacterial and archael genomes from environmental samples. Login required.
 
@@ -341,8 +341,8 @@ The Metagenomic Binning Service accepts either reads or contigs, and attempts to
 - https://github.com/SEEDtk/tbltools
 - https://github.com/SEEDtk/ERDB
 
-Expression Import Service
-#########################
+`Expression Import Service <https://www.patricbrc.org/app/Expression>`_
+########################################################################
 
 The Expression Import Service allows users to upload differential expression data into their private workspace and compare it with other expression data available in PATRIC. The service supports gene expression, protein expression, and phenotype array data in the form of log ratios, generated by comparing samples, conditions, or time points. Login required.
 
@@ -350,8 +350,8 @@ The Expression Import Service allows users to upload differential expression dat
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/expression_import/expression_import.html
 | Source Code: https://github.com/PATRIC3/p3diffexp
 
-RNA-Seq Analysis Service
-#########################
+`RNA-Seq Analysis Service <https://www.patricbrc.org/app/Rnaseq>`_
+###################################################################
 
 The RNA-Seq Analysis Service provides tools for aligning, assembling, and testing differential expression on RNA-Seq data. Three recipes for processing RNA-Seq data are included: 1) Rockhopper, based on the popular Rockhopper tool for processing prokaryotic RNA-Seq data; 2) Tuxedo, based on the tuxedo suite of tools (i.e., Bowtie, Cufflinks, Cuffdiff); and 3) Host HISTAT2 for analyzing RNA-Seq datasets from host (human, mouse, etc.) in support of dual RNA-Seq. The service provides SAM/BAM output for alignment, tab delimited files profiling expression levels, and differential expression test results between conditions. Login required.
 
@@ -365,8 +365,8 @@ Included RNA-Seq tools:
 - https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 - https://sourceforge.net/projects/samstat/
 
-Protein Family Sorter Service
-##############################
+`Protein Family Sorter Service <https://patricbrc.org/app/ProteinFamily>`_
+###########################################################################
 
 The Protein Family Sorter Service tool enables researchers to examine the distributionof protein families across a set of user-selected genomes. Results are displayed in a page showing all the families associated with the selected genomes, plus filter controls and an interactive heatmap.
 
@@ -374,8 +374,8 @@ The Protein Family Sorter Service tool enables researchers to examine the distri
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/protein_family_sorter/protein_family_sorter.html
 | Source Code:
 
-Proteome Comparison Service
-############################
+`Proteome Comparison Service <https://www.patricbrc.org/app/SeqComparison>`_
+############################################################################
 
 The Proteome Comparison Service performs protein sequence-based genome comparison using bidirectional BLASTP. This service allows users to select up to 8 genomes (either public or private) and compare them to a user selected reference genome. The service also allows users to upload an external genome file in FASTA format for an additional comparison. The genome comparison result is displayed as an interactive circular genome view on the webpage. Both the SVG image and the bidirectional BLASTP comparison results can be downloaded. Login required.
 
@@ -383,8 +383,8 @@ The Proteome Comparison Service performs protein sequence-based genome compariso
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/proteome_comparison/proteome_comparison.html
 | Source Code: 
 
-Comparative Pathway Service
-############################
+`Comparative Pathway Service <https://patricbrc.org/app/ComparativePathway>`_
+##############################################################################
 
 The Comparative Pathway Service allows users to identify a set of pathways based on taxonomy, EC number, pathway ID, pathway name and/or specific annotation type. 
 
@@ -392,8 +392,8 @@ The Comparative Pathway Service allows users to identify a set of pathways based
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/comparative_pathways/comparative_pathways.html
 | Source Code: 
 
-Model Reconstruction Service
-#############################
+`Model Reconstruction Service <https://www.patricbrc.org/app/Reconstruct>`_
+############################################################################
 
 The Model Reconstruction Service allows users to construct their own metabolic model for any genome in PATRIC. The service includes support for model gap-filling, flux balance analysis, essential gene prediction, and export of models in SBML format. The service leverages capabilities of the ModelSEED (PMID: 20802497). Login required. 
 
@@ -401,8 +401,8 @@ The Model Reconstruction Service allows users to construct their own metabolic m
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/metabolic_model_reconstruction/metabolic_model_reconstruction.html
 | Source Code: https://github.com/ModelSEED/ProbModelSEED
 
-ID Mapper Service
-##################
+`ID Mapper Service <https://www.patricbrc.org/app/IDMapper>`_
+##############################################################
 
 The ID Mapper Service allows users to map individual or sets of PATRIC identifiers to those from other prominent external databases, such as GenBank, RefSeq, EMBL, UniProt, KEGG, etc. Alternatively, users can start with a list of external database identifiers and map them to the corresponding PATRIC features. Login required.
 
@@ -422,59 +422,59 @@ From Help Menu: Short video that provides an overview of the PATRIC website and 
 
 Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/quickstart_video.md
 
-User Guides
-###########
+`User Guides <https://docs.patricbrc.org/user_guides/index.html>`_
+###################################################################
 
 Contains complete listing of all user documentation. User Guides are available for all major PATRIC features.
 
 | User Guide: https://docs.patricbrc.org/user_guides/index.html
 | Source Code: https://github.com/PATRIC3/p3_docs/tree/master/docroot/user_guides
 
-Tutorials (Use Cases)
-######################
+`Tutorials (Use Cases) <https://docs.patricbrc.org/tutorial/index.html>`_
+###########################################################################
 
 Provides print-friendly Use Case / Tutorials that explain step-by-step how to use key PATRIC features and tools using realistic biological research examples.
 
 | User Guide: https://docs.patricbrc.org/tutorial/index.html
 | Source Code: https://github.com/PATRIC3/p3_docs/tree/master/docroot/tutorial
 
-Common Tasks
-#############
+`Common Tasks <https://docs.patricbrc.org/common_tasks/>`_
+###########################################################
 
 Provides an overview with links to User Guides and Tutorials, organized by common tasks in PATRIC.
 
 Source Code: https://github.com/PATRIC3/p3_docs/tree/master/docroot/common_tasks
 
-CLI (Command Line Interface) Tutorial
-######################################
+`CLI (Command Line Interface) Tutorial <https://docs.patricbrc.org/cli_tutorial/>`_
+#####################################################################################
 
 Provides installation instructions and links to reference information and tutorials for the PATRIC Command Line Interface.
 
 Source Code: https://github.com/PATRIC3/p3_docs/tree/master/docroot/cli_tutorial
 
-Webinars
-#########
+`Webinars <https://docs.patricbrc.org/webinar/>`_
+##################################################
 
 Provides information on upcoming webinars and links to previously recorded webinars. Videos of recorded webinars are hosted on PATRIC’s YouTube Channel.
 
 Source Code: https://github.com/PATRIC3/p3_docs/tree/master/docroot/webinar
 
-Instructional Videos
-#####################
+`Instructional Videos <https://docs.patricbrc.org/videos/>`_
+#############################################################
 
 Provides links to short videos that demonstrate how to perform common tasks in PATRIC. The videos are hosted on PATRIC’s YouTube Channel.
 
 Source Code: https://github.com/PATRIC3/p3_docs/tree/master/docroot/videos
 
-PATRIC Workshops
-#################
+`PATRIC Workshops <https://docs.patricbrc.org/website/workshops.html>`_
+########################################################################
 
 Provides listing of all past PATRIC workshops and links to registration information for upcoming workshops. 
 
 Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/workshops.rst
 
-Contact Us
-############
+`Contact Us <https://docs.patricbrc.org/contact.html>`_
+########################################################
 
 Provides information on how to get in contact with the PATRIC team.
 
@@ -487,99 +487,99 @@ From the Help Menu: Provides a feedback form that generates a ticket in the PATR
 
 Source Code: 
 
-News
-#####
+`News <https://docs.patricbrc.org/news/>`_
+###########################################
 
 Listing of all recent and past PATRIC news items.  
 
 Source Code: https://github.com/PATRIC3/p3_docs/tree/master/docroot/news
 
-Publications
-#############
+`Publications <https://docs.patricbrc.org/website/publications.html>`_
+#######################################################################
 
 Provides listing of all publications developed in whole or in part through the PATRIC project, with links to the publications themselves. 
 
 Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/publications.md
 
-Workshops
-##########
+`Workshops <https://docs.patricbrc.org/website/workshops.html>`_
+#################################################################
 
 Provides listing of all past PATRIC workshops and links to registration information for upcoming workshops.
 
 Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/workshops.rst
 
-Presentations
-##############
+`Presentations <https://docs.patricbrc.org/website/presentations.html>`_
+#########################################################################
 
 Provides listing of all past PATRIC external presentations. 
 
 Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/presentations.rst
 
-Usage Metrics
-##############
+`Usage Metrics <https://docs.patricbrc.org/website/usage_metrics.html>`_
+##########################################################################
 
 Provides summary metrics for website traffic, analysis service usage, citations to the PATRIC resource, and other similar information. 
 
 Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/usage_metrics.md
 
-About PATRIC
-#############
+`About PATRIC <https://docs.patricbrc.org/website/about.html>`_
+################################################################
 
 Provides general information about the PATRIC project, its scope, funding, and project team. 
 
 Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/about.md
 
-Cite PATRIC
-############
+`Cite PATRIC <https://docs.patricbrc.org/website/cite_patric.html>`_
+######################################################################
 
 Provides reference information for citing PATRIC and a link to the full article at PubMed Central. 
 
 Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/cite_patric.md
 
-Scientific Working Group (SWG)
-###############################
+`Scientific Working Group (SWG) <https://docs.patricbrc.org/website/swg.html>`_
+#########################################################################################
 
 Provides listing of the PATRIC SWG members and their institutional affiliations. 
 
 Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/scientific_working_group.rst
 
-Personnel
-##########
+`Personnel <https://docs.patricbrc.org/website/personnel.html>`_
+#################################################################
 
 Provides listing of PATRIC team personnel. 
 
 Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/personnel.rst
 
-Scientific Collaborations
-##########################
+`Scientific Collaborations <https://docs.patricbrc.org/website/collaborators.html>`_
+#####################################################################################
 
 Provides listing of PATRIC key collaborators, data sources, and software tools used, with appropriate links.
 
 Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/collaborations.md
 
-Related Sites
-##############
+`Related Sites <https://docs.patricbrc.org/website/related_sites.html>`_
+##########################################################################
 
 Provides links to resources of relevance to PATRIC. 
 
 Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/related_sites.md
 
-System Architecture
-####################
+`System Architecture <https://docs.patricbrc.org/system_architecture/>`_
+##########################################################################
 
 [Link to the PATRIC GitHub code repository, including architectural and system descriptions.] 
 
 Source Code: 
 
-PATRIC GitHub
-##############
+`PATRIC GitHub <https://github.com/patric3>`_
+###############################################
 
 Link to PATRIC source code repository. 
 
 Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/github.rst
 
-System Status
-##############
+`System Status <https://www.patricbrc.org/status>`_
+####################################################
 
 Provides listing of current status (operational, down) of key backend services. This can be helpful for PATRIC developers and users if there appears to be a problem with some part the site. 
 
