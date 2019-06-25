@@ -31,7 +31,7 @@ will work through an example to make these concepts clear.
 One of the commonly used services at PATRIC is the genome assembly
 service. This service takes as input one or more sequence read
 libraries and given on a set of parameters creates an assembled
-genome. 
+genome.
 
 In this example, let us assume we have the following two paired-end
 read libraries, one single-end read library, and a reference
@@ -47,7 +47,7 @@ assembly::
 We'll also assume that these files are all residing on a computer that
 has the PATRIC command line tools installed and that we have set up
 our command line environment (see :ref:`cli-getting-started` for more
-information). 
+information).
 
 To use the command line services we need to be logged in to PATRIC::
 
@@ -89,12 +89,12 @@ determine the available options::
 
  $ p3-submit-genome-assembly --help
  p3-submit-assembly [-h] output-path output-name
- 	--recipe		      Assembly recipe
-	--reference-assembly STR      Reference set of assembled DNA contigs
-	--paired-end-lib P1 P2 	
-	--single-end-lib LIB
-	--workspace-path-prefix STR   Prefix for workspace pathnames
-				      as given to library parameters
+     --recipe		      Assembly recipe
+    --reference-assembly STR      Reference set of assembled DNA contigs
+    --paired-end-lib P1 P2
+    --single-end-lib LIB
+    --workspace-path-prefix STR   Prefix for workspace pathnames
+                      as given to library parameters
 
 We may now submit our assembly job. We will use the
 ``--workspace-path-prefix`` parameter to shorten the library names
@@ -122,3 +122,42 @@ output files for the job are written to the workspace in a directory
 that is named as the output name for the job prefixed with a period::
 
  $ p3-ls '/PatricUser@patricbrc.org/home/AssemblyRuns/.jobABC-auto'
+
+A general-purpose script, ``appserv-start-app`` can be used to submit a job to any
+PATRIC service.  In order to do this, you need to specify the service ID, a JSON file
+containing the parameters, and the path to a PATRIC workspace (usually your home workspace).
+
+We will show an example of how to do this for the Metagenome Binning Service (see
+:doc:`/tutorial/metagenomic_binning/metagenomic_binning` service).
+
+You can see a copy of the parameter json on the job results page.  Below, we show
+the top of a job results page.  Click on the **Parameters** bar to expand it and see
+the JSON string for the parameters.
+
+.. image:: images/parameters_page.png
+
+The JSON string from the above job is shown below.::
+
+ {
+   "contigs": null,
+   "srr_ids": null,
+   "output_file": "Seminar.Reads.4.19",
+   "skip_indexing": "0",
+   "output_path": "/parrello@patricbrc.org/home/Experiments",
+   "genome_group": "Seminar.Reads.4.19",
+   "paired_end_libs": [
+     "/rastuser25@patricbrc.org/Binning.Webinar/SRS014683_extract.1.fq",
+     "/rastuser25@patricbrc.org/Binning.Webinar/SRS014683_extract.2.fq"
+   ]
+ }
+
+Here the input is a pair of paired-end read files.  If contigs were being submitted, ``paired_end_libs`` would be ``null``
+and the contig file name would be specified as a string in the ``contigs`` member.
+
+This job is being run by ``parrello@patricbrc.org``, so the home workspace is ``parrello@patricbrc.org/home/``.
+If we put the above JSON in a file named ``params.json``, the submit command would be::
+
+ appserv-start-app MetagenomeBinning params.json "parrello@patricbrc.org/home/"
+
+The script will respond with a job identifier, and the job will appear in your running-jobs list.
+
