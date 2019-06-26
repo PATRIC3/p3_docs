@@ -111,4 +111,6 @@ and spawned two annotation jobs. When all the spawned jobs are
 complete, the Binning Service run is complete. Refresh your page to
 see the updated status in the right-side panel.
 
+To learn how the binning service works, see :doc:`/tutorial/binning_overview`.
+
 

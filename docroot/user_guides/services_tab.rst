@@ -23,6 +23,16 @@ Genomics
    services/genome_alignment_service.md
 
 
+Metagenomics
+-------------
+.. toctree::
+   :maxdepth: 1
+   
+   services/metagenomic_read_mapping_service.md
+   services/taxonomic_classification_service.md
+   services/metagenomic_binning_service.md
+
+
 Transcriptomics
 ----------------
 .. toctree::
@@ -32,7 +42,6 @@ Transcriptomics
    services/rna_seq_analysis_service.md
 
 
-
 Protein Tools
 --------------
 .. toctree::
@@ -40,7 +49,6 @@ Protein Tools
 
    services/protein_family_service.md
    services/proteome_comparison_service.md
-
 
 
 Metabolomics
@@ -59,4 +67,3 @@ Data
    :maxdepth: 1
 
    services/id_mapper.md
-   services/metagenome_binning_service.md

@@ -1,4 +1,4 @@
-# Examining Antimicrobial Resistance (AMR) data in PATRIC
+# Examining Antimicrobial Resistance (AMR)
 
 ## 1. Finding AMR data in PATRIC
 

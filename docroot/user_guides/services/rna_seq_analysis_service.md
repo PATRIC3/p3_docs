@@ -58,7 +58,7 @@ Turning on Groups/Conditions also turns on differential expression analysis. In 
 Read files placed here will contribute to a single RNA-Seq analysis. If the Groups/Conditions option is turned on, read files placed into this table under the same group will be considered replicates.
 
 ## Contrasts
-Contrasts specify which pairs of conditions to compare in differential expression analysis.
+Contrasts specify which pairs of conditions to compare in differential expression analysis. The RockHopper strategy performs all vs all contrats by default, hence, no cotrasts need to be specified. 
 
 ## Output Results
 ![RNA-Seq Service Output Files](../images/rna_seq_job_result.png) 
@@ -83,3 +83,17 @@ The RNA-Seq Analysis Service generates several files that are deposited in the P
 * **tss_group_exp.diff** - Primary transcript differential expression. Tests differences in the summed FPKM of transcripts sharing each tss_id
 * **tss_id** - The ID of this transcript’s inferred start site as assigned by Cufflinks. Determines which primary transcript this processed transcript is believed to come from. Cuffcompare appends this attribute to every transcript reported in the .combined.gtf file.
 * **p_id** - The ID of the coding sequence this transcript contains as assigned by Cufflinks. This attribute is attached by Cuffcompare to the .combined.gtf records only when it is run with a reference annotation that include CDS records. Further, differential CDS analysis is only performed when all isoforms of a gene have p_id attributes, because neither Cufflinks nor Cuffcompare attempt to assign an open reading frame to transcripts.
+
+![RNA-Seq Analysis Service Browser Icon](../images/rna-seq_analysis_browser_icon.png)
+
+Clicking the Browser icon at the top left displays the Genome Browser with the reference genome loaded.  
+
+![RNA-Seq Data in Genome Browser](../images/rna-seq_genome_browser.png)
+
+RNA-seq analysis result tracks are available to add to the browser by clicking the associated track options in the upper left corner. Transcripts are displayed in gold with orientation arrows, and individual reads with the colors indicative of the orientation (blue is forward, red is reverse). 
+
+## References
+* Kim, D., et al., TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions. Genome Biol, 2013. 14(4): p. R36.
+* Kim, D., B. Langmead, and S.L. Salzberg, HISAT: a fast spliced aligner with low memory requirements. Nat Methods, 2015. 12(4): p. 357-60.
+* McClure, R., et al., Computational analysis of bacterial RNA-Seq data. Nucleic Acids Res, 2013. 41(14): p. e140.
+

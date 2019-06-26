@@ -9,9 +9,9 @@ News Articles
    :description: PATRIC News RSS feed
    :link: https://docs.patricbrc.org/
 
+   2019/20190405-patric-march-2019-release
    2019/20190206-patric-workshop-at-argonne-national-lab
    2019/20190201-patric-january-2019-release
-   2018/20181207-patric-november-2018-release
    
 .. toctree::
    :maxdepth: 2

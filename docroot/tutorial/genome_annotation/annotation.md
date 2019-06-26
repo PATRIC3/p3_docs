@@ -1,4 +1,4 @@
-# Genome Annotation at PATRIC
+# Genome Annotation
 
 The Genome Annotation Service in PATRIC [1] uses the RAST tool kit (RASTtk) [2] to provide annotation of genomic features. All genomes in PATRIC have been annotated with this service, and researchers can submit their own private genome to the annotation service, where it will be deposited into their private workspace for their perusal.
 

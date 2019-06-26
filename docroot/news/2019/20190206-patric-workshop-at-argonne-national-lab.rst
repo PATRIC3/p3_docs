@@ -10,19 +10,21 @@ The PATRIC/RAST teams will be offering a tutorial workshop April 16-18, 2019, at
 
 .. cut::
 
-The workshop will be limited to 40 people on a first-come, first-served basis. There is no fee for the workshop, but participants are responsible for their own travel expenses. If you wish to participate, we encourage you to respond quickly at <rast-workshop@mcs.anl.gov>.
+The workshop will be limited to 40 people on a first-come, first-served basis. There is no fee for the workshop, but participants are responsible for their own travel expenses. If you wish to participate, we encourage you to respond quickly at rast-workshop@mcs.anl.gov
 
-NOTE: All workshop attendees must also separately fill out the “Argonne Visitor Request” form at: <https://apps.anl.gov/registration/visitors> as soon as possible — but especially non-U.S. Citizens, since they will take additional time to be cleared. Please enter Lisa Hundley, <lhundley@anl.gov>, for the “Sponsor’s e-mail address.”
+**NOTE**: All workshop attendees must also separately fill out the “Argonne Visitor Request” form at: https://apps.anl.gov/registration/visitors as soon as possible — but especially non-U.S. Citizens, since they will take additional time to be cleared. Please enter Lisa Hundley, **lhundley@anl.gov**, for the “Sponsor’s E-mail Address.”
 
 **LOCATION**
 
-Argonne National Laboratory
+| Argonne National Laboratory
+| 9700 Cass Avenue
+| Lemont, IL 60439
 
-240 Conference Center, Rooms 1405-1406-1407
+| **Tuesday:** Building 240 Conference Center - Rooms 1406/1407
+| **Wednesday:** Building 241 - Room D172
+| **Thursday:** Building 241 - Room D172
 
-Argonne, IL 60439
-
-**DRAFT AGENDA**
+**AGENDA**
 
 Tuesday, April 16
 ::

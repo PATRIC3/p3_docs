@@ -1,4 +1,4 @@
-# Exploring a private genome in PATRIC
+# Exploring a Private Genome
 
 ## Locating a privately annotated genome-Global Search
 1. Open the drop-down box using the arrow following All Data Types in the global search at the right of blue banner across any PATRIC page.
