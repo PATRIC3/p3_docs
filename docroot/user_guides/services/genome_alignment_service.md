@@ -39,12 +39,7 @@ Name used to uniquely identify results.
 
 ### Advanced Options
 
-**Seed Weight:** The seed size parameter sets the minimum weight of the seed pattern used to generate local multiple alignments (matches) during
-the first pass of anchoring the alignment. When aligning divergent genomes or aligning more genomes simultaneously, lower seed
-weights may provide better sensitivity. However, because Mauve also requires the matching seeds must to be unique in each
-genome, setting this value too low will reduce sensitivity.
-
-**Manually set seed weight:**
+**Manually set seed weight:** The seed size parameter sets the minimum weight of the seed pattern used to generate local multiple alignments (matches) during the first pass of anchoring the alignment. When aligning divergent genomes or aligning more genomes simultaneously, lower seed weights may provide better sensitivity. However, because Mauve also requires the matching seeds must to be unique in each genome, setting this value too low will reduce sensitivity.
 
 **Max gapped aligner length:**  Maximum number of base pairs to attempt aligning with the gapped aligner
 
@@ -67,10 +62,9 @@ genome, setting this value too low will reduce sensitivity.
 
 The Genome Alignment Service generates files that are deposited in the Private Workspace in the designated Output Folder. These include
 
+* **alignment.xmfa** - The Mauve alignment file.
 
 * **alignment.json** - The LCB coordinates in JSON format.
-
-* **alignment.xmfa** - The Mauve alignment file.
 
 
 Clicking on "VIEW" at the top right of this page will bring will allow you to visualize the genome alignment:
@@ -81,3 +75,5 @@ Clicking on "VIEW" at the top right of this page will bring will allow you to vi
 **References**
 
 1. Darling AE, Mau B, Perna NT (2010) progressiveMauve: Multiple Genome Alignment with Gene Gain, Loss and Rearrangement. PLOS ONE 5(6): e11147. https://doi.org/10.1371/journal.pone.0011147
+
+2. http://darlinglab.org/mauve/user-guide/
