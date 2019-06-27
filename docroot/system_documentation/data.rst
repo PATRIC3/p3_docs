@@ -110,7 +110,7 @@ Source Code:
 Specialty Genes 
 -----------------
 
-Source: Primary
+Source: Secondary
 
 Description: Specialty Genes refers to the special classes of genes that are of particular interest to infectious disease researchers, such as antibiotic resistance genes, virulence factors, drug targets, and human homologs. As part of genome annotation, maps reference genes to their homologs based on high sequence similarity using BLASTP, and thus, providing consistent annotation of specialty genes across all bacterial genomes. The classes and sources of PATRIC specialty genes are provided below.
 
@@ -169,7 +169,9 @@ Description: PATRIC provides multiple sets of protein families to enable compara
 
 Pathways
 --------
-Source: Primary
+
+Source: Secondary
+
 Description: Pathways in PATRIC are represented using KEGG (Kyoto Encyclopedia of Genes and Genomes) maps. As of October 2018, there are 147 unique pathways covering 2,820 unique EC numbers in PATRIC. These pathways are projected in all public and private bacterial genomes as part of the genome annotation process. 
 
 
@@ -221,5 +223,6 @@ Other Special Data Sets
 -----------------------
 
 Source: Primary
+
 Description: PATRIC contains collections of data of particular interest to researchers and NIAID program. These data sets typically are the result of experiments conducted in research projects funded by NIAID programs such as the Functional Genomics Centers, Systems Biology Centers, etc., as well as through collaborations in which PATRIC plays a part.  These data sets are available as “Specialty Data Collections” from the PATRIC main Data menu and have summary project information and links to associated publications and additional data in other public repositories.
 
