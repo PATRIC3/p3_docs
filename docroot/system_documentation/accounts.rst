@@ -3,7 +3,7 @@
 Accounts
 ========
 
-List of accounts owned by PATRIC: 
+List of external system and social media accounts used by PATRIC: 
 
 - GitHub
 - Facebook
