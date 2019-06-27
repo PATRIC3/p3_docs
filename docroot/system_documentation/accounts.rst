@@ -5,9 +5,9 @@ Accounts
 
 List of external system and social media accounts used by PATRIC: 
 
-- GitHub
-- Facebook
-- Twitter
-- LinkedIn
-- YouTube
+- GitHub: https://github.com/PATRIC3/
+- Facebook: https://www.facebook.com/patricbrc/
+- Twitter: https://twitter.com/PATRICBRC
+- LinkedIn: https://www.linkedin.com/company/patricbrc/
+- YouTube: https://www.youtube.com/user/PATRICBRC
 - Google Analytics
