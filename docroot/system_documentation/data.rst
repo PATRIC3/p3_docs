@@ -50,9 +50,9 @@ PATRIC metadata is collected from multiple sources, such as GenBank records, Bio
 User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/genome_metadata.html
 Source Code: 
 
- - Process curated genome metadata spreadsheet: https://github.com/PATRIC3/p3_data/blob/master/parseMetadataFile.pl
- - Process curated AMR metadata / antibiogram spreadsheet: https://github.com/PATRIC3/p3_data/blob/master/parseAMRMetadata.pl
- - Process genome metadata and antibiogram data from BioSample records: https://github.com/PATRIC3/p3_data/blob/master/parseBiosampleAMR.pl
+- Process curated genome metadata spreadsheet: https://github.com/PATRIC3/p3_data/blob/master/parseMetadataFile.pl
+- Process curated AMR metadata / antibiogram spreadsheet: https://github.com/PATRIC3/p3_data/blob/master/parseAMRMetadata.pl
+- Process genome metadata and antibiogram data from BioSample records: https://github.com/PATRIC3/p3_data/blob/master/parseBiosampleAMR.pl
 
 
 Antimicrobial Resistance Data and Metadata
@@ -79,8 +79,8 @@ Description: Genome-level antimicrobial resistance (AMR) phenotype data is colle
 User Guide: https://docs.patricbrc.org/user_guides/data/data_types/antimicrobial_resistance.html
 Source Code:
 
- - Process curated AMR metadata / antibiogram spreadsheet: https://github.com/PATRIC3/p3_data/blob/master/parseAMRMetadata.pl
- - Process genome metadata and antibiogram data from BioSample records: https://github.com/PATRIC3/p3_data/blob/master/parseBiosampleAMR.pl
+- Process curated AMR metadata / antibiogram spreadsheet: https://github.com/PATRIC3/p3_data/blob/master/parseAMRMetadata.pl
+- Process genome metadata and antibiogram data from BioSample records: https://github.com/PATRIC3/p3_data/blob/master/parseBiosampleAMR.pl
 
 
 Other Clinical Metadata 
