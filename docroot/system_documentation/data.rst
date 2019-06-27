@@ -15,9 +15,8 @@ Source: Primary
 
 Description: The central data type in PATRIC is genomes. Most of the data and information within PATRIC is related back to sequenced, assembled, and annotated genomes stored in the PATRIC database. Genomes are incorporated from RefSeq, GenBank, and other sources, and are annotated using a standard annotation protocol, RASTtk, to enable comparative analyses and linking of data across the website. In addition, we search literature for large published AMR studies and we assemble corresponding genomes using the reads available in the SRA database. As of October 2018, PATRIC contains 192,717 bacterial, 2,961 archaeal, 4,730 bacteriophage and 10 eukaryotic host genomes.
 
-User Guide: https://docs.patricbrc.org/user_guides/data/data_types/genomes.html
-
-Source Code: 
+| User Guide: https://docs.patricbrc.org/user_guides/data/data_types/genomes.html
+| Source Code: 
   - Retrieve new microbial genomes from GenBank/Refseq: https://github.com/PATRIC3/p3_data/blob/master/getGenomesGenbank.pl
   - Annotate genomes using PATRIC's annotation service
 
