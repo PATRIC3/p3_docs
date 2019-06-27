@@ -48,6 +48,7 @@ Description: Genome metadata in PATRIC consists of more than 70 different metada
 PATRIC metadata is collected from multiple sources, such as GenBank records, BioProject and BioSample database, published literature, other NIAID sequencing centers, and other PATRIC collaborators. Automated metadata collections are augmented with manual curation to ensure consistency and accuracy.
 
 User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/genome_metadata.html
+
 Source Code: 
 
 - Process curated genome metadata spreadsheet: https://github.com/PATRIC3/p3_data/blob/master/parseMetadataFile.pl
@@ -77,6 +78,7 @@ Description: Genome-level antimicrobial resistance (AMR) phenotype data is colle
 **AMR Regions** – AMR regions refer to the small genomic regions implicated in or associated with the resistance to one or more antibiotics. The AMR regions are computationally predicted using machine learning classifiers used to predict AMR phenotypes. They may map to existing genes or intergenic regions and may help identify new AMR genes or understand AMR mechanisms.
 
 User Guide: https://docs.patricbrc.org/user_guides/data/data_types/antimicrobial_resistance.html
+
 Source Code:
 
 - Process curated AMR metadata / antibiogram spreadsheet: https://github.com/PATRIC3/p3_data/blob/master/parseAMRMetadata.pl
@@ -99,6 +101,7 @@ Source: Secondary
 Description: PATRIC genome features are the resulting annotations from the RASTtk system, and include coding sequences (CDS / gene calls), rRNAs, tRNAs, CRISPR elements, other miscellaneous genomic features, aspecialty gene designations, and AMR phenotypes where classifiers exist for the organism. PATRIC also retains the original GenBank/RefSeq annotations.
 
 User Guide: https://docs.patricbrc.org/user_guides/data/data_types/genomic_features.html
+
 Source Code: 
 
 - Processing genomic features and related information from GenBank files and RAST genome objects: https://github.com/PATRIC3/p3_data/blob/master/rast2solr.pl
@@ -142,6 +145,7 @@ Description: Specialty Genes refers to the special classes of genes that are of 
   - PATRIC Essential Genes: Predicted using Metabolic modeling and FBA
   
 User Guide: https://docs.patricbrc.org/user_guides/data/data_types/specialty_genes.html
+
 Source Code:
 
 - Specialty gene search using BLAST or BLAT: https://github.com/PATRIC3/p3_data/blob/master/specialtyGenes.pl
