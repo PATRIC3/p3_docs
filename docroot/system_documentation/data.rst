@@ -18,6 +18,7 @@ Description: The central data type in PATRIC is genomes. Most of the data and in
 User Guide: https://docs.patricbrc.org/user_guides/data/data_types/genomes.html
 
 Source Code: 
+
 - Retrieve new microbial genomes from GenBank/Refseq: https://github.com/PATRIC3/p3_data/blob/master/getGenomesGenbank.pl
 - Annotate genomes using PATRIC's annotation service
 
