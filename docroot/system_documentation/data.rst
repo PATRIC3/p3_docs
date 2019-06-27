@@ -15,6 +15,11 @@ Source: Primary
 
 Description: The central data type in PATRIC is genomes. Most of the data and information within PATRIC is related back to sequenced, assembled, and annotated genomes stored in the PATRIC database. Genomes are incorporated from RefSeq, GenBank, and other sources, and are annotated using a standard annotation protocol, RASTtk, to enable comparative analyses and linking of data across the website. In addition, we search literature for large published AMR studies and we assemble corresponding genomes using the reads available in the SRA database. As of October 2018, PATRIC contains 192,717 bacterial, 2,961 archaeal, 4,730 bacteriophage and 10 eukaryotic host genomes.
 
+User Guide: https://docs.patricbrc.org/user_guides/data/data_types/genomes.html
+Source Code: 
+  - Retrieve new microbial genomes from GenBank/Refseq: https://github.com/PATRIC3/p3_data/blob/master/getGenomesGenbank.pl
+  - Annotate genomes using PATRIC's annotation service
+
 Genome Metadata
 ---------------
 
@@ -38,6 +43,12 @@ Description: Genome metadata in PATRIC consists of more than 70 different metada
 
 PATRIC metadata is collected from multiple sources, such as GenBank records, BioProject and BioSample database, published literature, other NIAID sequencing centers, and other PATRIC collaborators. Automated metadata collections are augmented with manual curation to ensure consistency and accuracy.
 
+User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/genome_metadata.html
+Source Code: 
+ - Process curated genome metadata spreadsheet: https://github.com/PATRIC3/p3_data/blob/master/parseMetadataFile.pl
+ - Process curated AMR metadata / antibiogram spreadsheet: https://github.com/PATRIC3/p3_data/blob/master/parseAMRMetadata.pl
+ - Process genome metadata and antibiogram data from BioSample records: https://github.com/PATRIC3/p3_data/blob/master/parseBiosampleAMR.pl
+
 Antimicrobial Resistance Data and Metadata
 -------------------------------------------
 
@@ -59,6 +70,11 @@ Description: Genome-level antimicrobial resistance (AMR) phenotype data is colle
 
 **AMR Regions** – AMR regions refer to the small genomic regions implicated in or associated with the resistance to one or more antibiotics. The AMR regions are computationally predicted using machine learning classifiers used to predict AMR phenotypes. They may map to existing genes or intergenic regions and may help identify new AMR genes or understand AMR mechanisms.
 
+User Guide: https://docs.patricbrc.org/user_guides/data/data_types/antimicrobial_resistance.html
+Source Code:
+ - Process curated AMR metadata / antibiogram spreadsheet: https://github.com/PATRIC3/p3_data/blob/master/parseAMRMetadata.pl
+ - Process genome metadata and antibiogram data from BioSample records: https://github.com/PATRIC3/p3_data/blob/master/parseBiosampleAMR.pl
+
 Other Clinical Metadata 
 ------------------------
 
@@ -71,7 +87,11 @@ Annotated Genome Features
 
 Source: Secondary
 
-Description: PATRIC genome features are the resulting annotations from the RASTtk system, and include coding sequences (CDS / gene calls), protein function predictions, rRNAs, tRNAs, specialty gene designations, and AMR phenotypes where classifiers exist for the organism. PATRIC also retains the original GenBank/RefSeq annotations.
+Description: PATRIC genome features are the resulting annotations from the RASTtk system, and include coding sequences (CDS / gene calls), rRNAs, tRNAs, CRISPR elements, other miscellaneous genomic features, aspecialty gene designations, and AMR phenotypes where classifiers exist for the organism. PATRIC also retains the original GenBank/RefSeq annotations.
+
+User Guide: https://docs.patricbrc.org/user_guides/data/data_types/genomic_features.html
+Source Code: 
+- Processing genomic features and related information from GenBank files and RAST genome objects: https://github.com/PATRIC3/p3_data/blob/master/rast2solr.pl
 
 Specialty Genes 
 -----------------
@@ -80,35 +100,40 @@ Source: Primary
 
 Description: Specialty Genes refers to the special classes of genes that are of particular interest to infectious disease researchers, such as antibiotic resistance genes, virulence factors, drug targets, and human homologs. As part of genome annotation, maps reference genes to their homologs based on high sequence similarity using BLASTP, and thus, providing consistent annotation of specialty genes across all bacterial genomes. The classes and sources of PATRIC specialty genes are provided below.
 
-- Antibiotic Resistance Genes
+- **Antibiotic Resistance Genes**
 
   - ARDB – Antibiotic Resistance Genes Database
   - CARD – The Comprehensive Antibiotic Resistance Database
   - NDARO – National Database of Antibiotic Resistance Organisms 
   - PATRIC AMR genes – Manually curated from literature
 
-- Drug Targets
+- **Drug Targets**
 
   - DrugBank
   - TTD – Therapeutic Targets Database
 
-- Human Homologs
+- **Human Homologs**
 
   - Proteins from the Reference Human Genome at NCBI RefSeq
 
-- Virulence Factors
+- **Virulence Factors**
 
   - VFDB – Virulence Factor Database
   - Victors – Virulence Factor Database
   - PATRIC_VF - a manually curated virulence factor database developed by the PATRIC team
 
-- Transporters
+- **Transporters**
 
   - TCDB: Transporter Classification Database
 
-- Essential Genes 
+- **Essential Genes** 
 
   - PATRIC Essential Genes: Predicted using Metabolic modeling and FBA
+  
+User Guide: https://docs.patricbrc.org/user_guides/data/data_types/specialty_genes.html
+Source Code:
+- Specialty gene search using BLAST or BLAT: https://github.com/PATRIC3/p3_data/blob/master/specialtyGenes.pl
+- Process and upload specialty genes: https://github.com/PATRIC3/p3_data/blob/master/uploadSpecialtyGenes.pl
 
 Other Annotations 
 -----------------
