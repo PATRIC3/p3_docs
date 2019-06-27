@@ -2,3 +2,12 @@
 
 Accounts
 ========
+
+List of accounts owned by PATRIC: 
+
+- GitHub
+- Facebook
+- Twitter
+- LinkedIn
+- YouTube
+- Google Analytics
