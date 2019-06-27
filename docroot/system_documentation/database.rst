@@ -11,9 +11,11 @@ Data Types
 Database Schema
 ----------------
 
-The primary data store for PATRIC is a Solr database. The Solr configuration allows "cores" to be defined in schema xml files. These core definitions, combined with the data indexes are deployed on a Solr host, allowing queries for those cores to be handled. Multiple machines can utilize the same set of cores and indexes to address availability and to scale to allow more concurrent queries to be handled. Below is a list of the cores and the main fields available for each core. Refer to https://github.com/PATRIC3/patric_solr for the most updated configurations and schemas.
+The primary data store for PATRIC is a distributed SolrCloud database. The SolrCloud configuration allows "collections" to be defined using xml schema files. These collection definitions, combined with the data indexes are deployed on one or more SolrCloud hosts. Multiple machines can utilize the same set of collections and/or indexes to address scalability, high availability and higher throughput and query performance by allowing more concurrent queries. 
 
-**Solr Cores:**
+Below is a list of the collections and the main fields/attributes available in each collection. Refer to https://github.com/PATRIC3/patric_solr_cloud for the most updated configurations and schemas.
+
+**Solr Cores/Collections:**
 
 - antibiotics
 - enzyme_class_ref
@@ -48,4 +50,21 @@ The primary data store for PATRIC is a Solr database. The Solr configuration all
 
 Data Dictionary
 ---------------
-**[NEEDED]**
+
+PATRIC uses several data dictionaries to support controlled cocabilaries for certain biological entities and annotations, which provide consistent naming across data from heterogenous sources for more efficient search and query. 
+
+The following Collections store such data dictionaries and related information. 
+
+- enzyme_class_ref: Information about EC numbers, enzyme names, and their hirarchical classification. 
+- gene_ontology_ref: Information about Gene Ontology terms, their description, and their hirarchical classification. 
+- id_ref: External database identified references, obtained from UniProt ID Mapping service. 
+- model_complex_role: Relationships between molecular complexes and their functinal roles. Part of the Biochemistry Database from ModelSEED.
+- model_compound: Information about compounds associated with metabolic pathways. Part of the Biochemistry Database from ModelSEED.
+- model_reaction: Information about reactions involved in metabolic pathways. Part of the Biochemistry Database from ModelSEED.
+- model_template_biomass: Model template biomass. Part of the Biochemistry database from ModelSEED and used for metabolic modeling and FBA.  
+- model_template_reaction: Model template reactions. Part of the Biochemistry database from ModelSEED and used for metabolic modeling and FBA.  
+- pathway_ref: Relationship between EC numbers and metabolic pathways and their location on the pathway maps from KEGG. 
+- protein_family_ref: Information about the PATRIC Global and Local Protein Families and their functauional roles. 
+- sp_gene_ref: Specialty gene refernece datasets, collected and curated from external sources as described in the Data Section. 
+- subsystem_ref: Information about the Subsystems, their classification, and corresponding functinal roles. 
+- taxonomy
