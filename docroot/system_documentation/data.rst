@@ -22,19 +22,19 @@ Source: Primary
 
 Description: Genome metadata in PATRIC consists of more than 70 different metadata fields, called attributes, which are organized into the following seven broad categories: Status, Organism Info, Isolate Info, Host Info, Sequence Info, Phenotype Info, Project Info, and Others. The attributes are provided below.
 
-- Organism Info - Genome Name, Genome ID, NCBI Taxon ID, Genome Status, Organism Name, Strain, Serovar, Biovar, Pathovar, MLST, Other Typing, Culture Collection, Type Strain, Antimicrobial Resistance, and Antimicrobial Resistance Evidence
+- **Organism Info** - Genome Name, Genome ID, NCBI Taxon ID, Genome Status, Organism Name, Strain, Serovar, Biovar, Pathovar, MLST, Other Typing, Culture Collection, Type Strain, Antimicrobial Resistance, and Antimicrobial Resistance Evidence
 
-- Isolate Info - Isolation Site, Isolation Source, Isolation Comments, Collection Date, Isolation Country, Geographic Location, Latitude, Longitude, Altitude, Depth, and Other Environmental
+- **Isolate Info** - Isolation Site, Isolation Source, Isolation Comments, Collection Date, Isolation Country, Geographic Location, Latitude, Longitude, Altitude, Depth, and Other Environmental
 
-- Host Info - Host Name, Host Gender, Host Age, Host Health, Body Sample Site, Body Sample Subsite, and Other Clinical
+- **Host Info** - Host Name, Host Gender, Host Age, Host Health, Body Sample Site, Body Sample Subsite, and Other Clinical
 
-- Sequence Info - Sequencing Status, Sequencing Platform, Sequencing Depth, Assembly Method, Chromosomes, Plasmids, Contigs, Sequences, Genome Length, CG Content, PATRIC CDS, and RefSeq CDS
+- **Sequence Info** - Sequencing Status, Sequencing Platform, Sequencing Depth, Assembly Method, Chromosomes, Plasmids, Contigs, Sequences, Genome Length, CG Content, PATRIC CDS, and RefSeq CDS
 
-- Phenotype Info - Gram Stain, Cell Shape, Motility, Sporulation, Temperature Range, Optimal Temperature, Salinity, Oxygen Requirement, Habitat, and Disease
+- **Phenotype Info** - Gram Stain, Cell Shape, Motility, Sporulation, Temperature Range, Optimal Temperature, Salinity, Oxygen Requirement, Habitat, and Disease
 
-- Project Info - Sequencing Center, Completion Date, Publication, SRA Accession, BioProject Accession, BioSample Accession, Assembly Accession, Genbank Accessions, and RefSeq Accessions
+- **Project Info** - Sequencing Center, Completion Date, Publication, SRA Accession, BioProject Accession, BioSample Accession, Assembly Accession, Genbank Accessions, and RefSeq Accessions
 
-- Others – Comments and Additional Metadata
+- **Others** – Comments and Additional Metadata
 
 PATRIC metadata is collected from multiple sources, such as GenBank records, BioProject and BioSample database, published literature, other NIAID sequencing centers, and other PATRIC collaborators. Automated metadata collections are augmented with manual curation to ensure consistency and accuracy.
 
