@@ -28,20 +28,28 @@ The browser application is written with ECMAScript (Javascript, JS) and DojoJS. 
 
 The browser application provides full support to common modern web browsers, with support for specific UI functionalities degrading when not supported by the underlying browser. Instead of requiring all users to conform to a specific set of browsers to use the website at all, we prefer to provide the best support possible for modern browsers, and support for older browsers via fallback mechanisms or degraded functionality. Browsers known to currently work are Chrome, Firefox, Safari, and IE7+. Some applications (pages) may require Flash for fully functionality.
 
+Source Code: https://github.com/PATRIC3/p3_web
+
 Web Application Server
 #######################
 
 This component serves the web content to client browsers. It is currently comprised an ExpressJS application running in a NodeJS webserver. It serves HTML, CSS, Javascript, and images to client browsers. The bulk of the user interface is implemented in Browser Application, which itself is built upon the Dojo javascript library.
+
+Source Code: https://github.com/PATRIC3/p3_web
 
 Static Content
 ###############
 
 Static content refers to electronic documents contains website Use Case / Tutorial, command line interface Use Case / Tutorial, user guides and PATRIC news. The contents of these documents are served independently of the main web server software and are publicly accessible. This site provides an RSS feed, which the main website application consumes and displays on its front page. Files are converted to html using the Python-based `Sphinx <http://www.sphinx-doc.org/en/stable/>`_ documentation generator. The files are stored in the PATRIC GitHub repository.
 
+Source Code: https://github.com/PATRIC3/p3_docs
+
 Workspace
 ##########
 
 The Workspace is an online document-based data store where data is organized into user-owned directories, analogous to DropBox or GoogleDrive. Any top-level directory may be shared with multiple users to enable collaborative work on uploaded data (also analogous to DropBox or GoogleDrive).
+
+Source Code: https://github.com/PATRIC3/Workspace
 
 **Workspace API:**
 
@@ -84,6 +92,8 @@ Data API
 
 The data API provides access to querying, retrieval, and indexing of public PATRIC data and for private annotated data. The API provides a REST interface to the rich data PATRIC provides. The data can be retrieved directly by ID or it can be queried using the Request Query Language (RQL) syntax or using Solr syntax. As queries are submitted to the API they are modified and submitted to the backend data sources (Solr) to retrieve the data that is visible to the user. Users are able to view public data, any data they own, or any data that another user has shared with them.
 
+Source Code: https://github.com/PATRIC3/p3_api
+
 Data API:
 
 The data API has two functions for each data type:
@@ -98,7 +108,14 @@ The associated resources are, respectively:
 
 In addition to the API for querying and retrieving data, there is also an API endpoint for submitting new data to the system to be indexed in the database.
 
-The data API is now available through a command line interface (CLI). Currently, the following commands are available to the community:
+Command-line Interface (CLI)
+############################
+
+PATRIC is an integration of different types of data and software tools that support research on bacterial pathogens. The typical biologist seeking access to the PATRIC data and tools will usually explore the web-based user interface. However, there are many instances in which programatic or command-line interfaces are more suitable, specially for querying data or submitting jobs in batch mode. For users that wish command-line access to PATRIC, we provide the tools described in this document. We call these tools the P3-scripts. They are intended to run on your machine, going over the network to access the services provided by PATRIC.
+
+Source Code and Client Application: https://github.com/PATRIC3/PATRIC-distribution/ 
+
+Currently, the following commands are available to the community:
 
 ========================  ===========================  =================================
 p3-abstract-clusters      p3-get-feature-sequence      p3-put-genome-group
@@ -146,9 +163,13 @@ Databases
 PATRIC data is stored `Solr <http://lucene.apache.org/solr/>`_ and indexed in its entirety (all fields) as PATRIC releases data. Solr then provides read-only searching services to both the server and browser side of the PATRIC via HTTP requests. A standard Solr 6 installation can host the PATRIC data, but the deployment of Solr can be accomplished in a number of different ways that can have a dramatic impact on performance for many of the PATRIC activities. 
 The performance of the Solr service is heavily memory dependent. It is important, at a minimum, to be able to fit the entire set of data indexes into memory. Additionally, cache and other such tunable parameters can require additional memory. In any deployment, this physical limitation of the available resources is likely to be one of the key defining factors for Solr configuration and performance.
 
+Source Code: https://github.com/PATRIC3/patric_solr_cloud
+
 User Service
 ############
 The user service provides user profile management and authentication for the PATRIC system. The user system provides a REST interface to read and modify a user's profile. It also provides authentication services for the PATRIC web application and related components. The backend services consume authentication tokens that are generated by the user service.
+
+Source Code: https://github.com/PATRIC3/p3_user
 
 Web/Proxy Server
 #################
@@ -156,10 +177,13 @@ Web/Proxy Server
 All PATRIC websites and web applications run behind a web server which is used to host static files, proxy requests to underlying application servers, and in some cases load balancing among web server instances. This component is not strictly required for deployment of the PATRIC infrastructure in basic form, but greatly simplifies deployment and is the current method used for load balancing.
 `NGINX <http://nginx.org/>`_ is deployed on hosts with websites on the standard HTTP and HTTPS ports (80,443), while the underlying applications are deployed on unused ports. nginx is then configured to proxy requests to these localhosts using its Named Virtual Hosting system.
 
+
 App Service
 ############
 
 The PATRIC resource supports a number of computational services (e.g., genome assembly and annotation, model production, etc.). These services are hosted on an extensible set of computational resources at Argonne. The interface between the user’s interaction with the PATRIC website and the computational resources is called the App Service. The App Service presents a unified view of all supported services, allowing the user to submit requests, monitor progress, and view results within a common framework on the PATRIC website. For the developers, the App Service enables the development of new applications without the need to handle the details of process execution and management.
+
+Source Code: https://github.com/PATRIC3/app_service
 
 App Service API:
 
