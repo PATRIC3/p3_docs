@@ -6,7 +6,7 @@ Software Tools And Code
 Data Processing Software
 -------------------------
 
-**[NEED THIS]**
+The software tools and scripts used for data processing are listed and described in the Data section, along with links to corresponding source code in the GutHub repository.
 
 
 Software Tools
