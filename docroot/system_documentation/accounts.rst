@@ -10,4 +10,4 @@ List of external system and social media accounts used by PATRIC:
 - Twitter: https://twitter.com/PATRICBRC
 - LinkedIn: https://www.linkedin.com/company/patricbrc/
 - YouTube: https://www.youtube.com/user/PATRICBRC
-- Google Analytics: https://analytics.google.com/analytics/web/
+- Google Analytics: https://analytics.google.com/analytics/web/?authuser=0#/report-home/a11736060w124923404p129251014
