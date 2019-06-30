@@ -276,7 +276,7 @@ The Variation Service can be used to identify and annotate sequence variations u
 
 | User Guide: https://docs.patricbrc.org/user_guides/services/variation_analysis_service.html
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/variation_analysis_service/variation_analysis_service.html
-| Source Code:
+| Source Code: https://github.com/PATRIC3/app_service
 
 `Tn-Seq Analysis Service <https://www.patricbrc.org/app/Tnseq>`_
 ################################################################
@@ -294,7 +294,7 @@ The Phylogenetic Tree Service enables construction of custom phylogenetic trees 
 
 | User Guide: https://docs.patricbrc.org/user_guides/services/phylogenetic_tree_building_service.html
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/phylogenetic_tree_building/tree_building.html, https://docs.patricbrc.org/tutorial/codon_tree_building/codon_tree_building.html
-| Source Code:
+| Source Code: 
 
 - Codon tree: https://github.com/PATRIC3/codon_trees
 - Shared proteins: https://github.com/PATRIC3/pepr
@@ -315,7 +315,7 @@ The Metagenomic Read Mapping Service uses KMA to align reads against antibiotic 
 
 | User Guide: https://docs.patricbrc.org/user_guides/services/metagenomic_read_mapping_service.html
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/metagenomic_read_mapping/metagenomic_read_mapping.html
-| Source Code:
+| Source Code: https://github.com/PATRIC3/app_service
 
 `Taxonomic Classification Service <https://patricbrc.org/app/TaxonomicClassification>`_
 ########################################################################################
@@ -324,7 +324,7 @@ The Taxonomic Classification Service accepts reads or contigs from sequencing of
 
 | User Guide: https://docs.patricbrc.org/user_guides/services/taxonomic_classification_service.html
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/taxonomic_classification/taxonomic_classification.html
-| Source Code:
+| Source Code: https://github.com/PATRIC3/app_service
 
 `Metagenomic Binning Service <https://patricbrc.org/app/MetagenomeBinning>`_
 #############################################################################
@@ -372,7 +372,7 @@ The Protein Family Sorter Service tool enables researchers to examine the distri
 
 | User Guide: https://docs.patricbrc.org/user_guides/services/protein_family_service.html
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/protein_family_sorter/protein_family_sorter.html
-| Source Code:
+| Source Code: https://github.com/PATRIC3/app_service
 
 `Proteome Comparison Service <https://www.patricbrc.org/app/SeqComparison>`_
 ############################################################################
@@ -381,7 +381,7 @@ The Proteome Comparison Service performs protein sequence-based genome compariso
 
 | User Guide: https://docs.patricbrc.org/user_guides/services/proteome_comparison_service.html
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/proteome_comparison/proteome_comparison.html
-| Source Code: 
+| Source Code: https://github.com/PATRIC3/app_service
 
 `Comparative Pathway Service <https://patricbrc.org/app/ComparativePathway>`_
 ##############################################################################
@@ -390,7 +390,7 @@ The Comparative Pathway Service allows users to identify a set of pathways based
 
 | User Guide: https://docs.patricbrc.org/user_guides/services/comparative_pathway_service.html
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/comparative_pathways/comparative_pathways.html
-| Source Code: 
+| Source Code: https://github.com/PATRIC3/app_service
 
 `Model Reconstruction Service <https://www.patricbrc.org/app/Reconstruct>`_
 ############################################################################
@@ -408,7 +408,7 @@ The ID Mapper Service allows users to map individual or sets of PATRIC identifie
 
 | User Guide: https://docs.patricbrc.org/user_guides/services/id_mapper.html
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/id_mapper/id_mapper.html
-| Source Code: 
+| Source Code: https://github.com/PATRIC3/app_service
 
 Project Information Pages
 --------------------------
