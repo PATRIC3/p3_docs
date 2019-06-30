@@ -6,7 +6,7 @@ Documentation
 User Documentation
 -------------------
 
-PATRIC provides several different categories of user documentation.  They include the following, and are described in the Project Information Pages section along with links to source code:
+PATRIC provides several different categories of user documentation.  They include the following, and are described in the *Project Information Pages* subsection of the **Capabilities and Functionality** section along with links to source code:
 
 - Quickstart Video (available from Help Menu)
 - User Guides
@@ -19,10 +19,9 @@ PATRIC provides several different categories of user documentation.  They includ
 Administrator Documentation
 ----------------------------
 
-**[NEED THIS]**
-
+Adminstrative documentation for data processing, analysis, cleansing, and harmonizing procedures and code is provided in the **Data** section.
 
 Software Documentation
 -----------------------
 
-**[NEED THIS]**
+Documentation for software developed under the contract is included in readme files and in the body of the code as needed in GitHub. Descriptions of the various parts of PATRIC systems are provided in the **Data**; **Database**; **Capabilities and Functionality**; and **Systems Architecture** sections.
