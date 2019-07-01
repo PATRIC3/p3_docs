@@ -251,7 +251,7 @@ The Comprehensive Genome Analysis Service provides a streamlined analysis "meta-
 
 | User Guide: https://docs.patricbrc.org/user_guides/services/comprehensive_genome_analysis_service.html
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/comprehensive-genome-analysis/comprehensive-genome-analysis.html
-| Source Code:
+| Source Code: https://github.com/PATRIC3/app_service
 
 `BLAST Service <https://patricbrc.org/app/BLAST>`_
 ###################################################
@@ -370,7 +370,7 @@ Included RNA-Seq tools:
 `Protein Family Sorter Service <https://patricbrc.org/app/ProteinFamily>`_
 ###########################################################################
 
-The Protein Family Sorter Service tool enables researchers to examine the distributionof protein families across a set of user-selected genomes. Results are displayed in a page showing all the families associated with the selected genomes, plus filter controls and an interactive heatmap.
+The Protein Family Sorter Service tool enables researchers to examine the distribution of protein families across a set of user-selected genomes. Results are displayed in a page showing all the families associated with the selected genomes, plus filter controls and an interactive heatmap.
 
 | User Guide: https://docs.patricbrc.org/user_guides/services/protein_family_service.html
 | Use Case / Tutorial: https://docs.patricbrc.org/tutorial/protein_family_sorter/protein_family_sorter.html
