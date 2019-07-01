@@ -26,7 +26,7 @@ PATRIC Documentation
    presentations
    brochure
    publications
-   collaborations
+   acknowledgements
    scientific_working_group
    system_documentation
    usage_metrics
