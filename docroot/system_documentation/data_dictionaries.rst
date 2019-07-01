@@ -2,7 +2,7 @@
 Data Dictionaries
 -----------------
 
-PATRIC uses several data dictionaries to support controlled vocabilaries for certain biological entities and annotations, which provide consistent naming across data from heterogenous sources for more efficient search and query. 
+PATRIC uses several data dictionaries to support controlled vocabularies for certain biological entities and annotations, which provide consistent naming across data from heterogenous sources for more efficient search and query. 
 
 The following Collections store such data dictionaries and related information. 
 
