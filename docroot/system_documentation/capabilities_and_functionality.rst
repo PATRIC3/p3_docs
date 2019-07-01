@@ -180,7 +180,7 @@ Allows exploration of phylogenetic relationships using species- and genus-level 
 Allows comparison of genomic regions around a gene of interest across closely related genomes. Shows differences in translation start sites, potential frame shifts, or missing genes and facilitates visual identification of proteins with similar functions. 
 
 | User Guide: https://docs.patricbrc.org/user_guides/organisms_gene/compare_region_viewer.html
-| Source Code: https://github.com/olsonanl/compare_regions
+| Source Code: https://github.com/PATRIC3/p3_web
 
 `Genome Browser <https://www.patricbrc.org/view/Genome/83332.12#view_tab=browser&loc=NC_000962%3A1..100027&tracks=refseqs%2CPATRICGenes%2CRefSeqGenes&highlight=>`_
 #####################################################################################################################################################################
