@@ -112,7 +112,7 @@ User Guide: https://docs.patricbrc.org/user_guides/organisms_taxon/interactions.
 Tools and Visualizations
 ------------------------
 
-PATRIC tools and visualizations are interactive components within the website that enable the user to search, retrieve, filter, compare, analyze, graphically portray, and otherwise reformat the presentation of data.
+PATRIC tools and visualizations are interactive components within the website that enable the user to search, retrieve, filter, compare, analyze, graphically portray, and otherwise reformat the presentation of data.  Some tools (e.g., Global Search) have all of the required code in the https://github.com/PATRIC3/p3_web/blob/master/.gitmodules repo, and thus do not have a separate repo 
 
 Global Search
 ##############
