@@ -1,20 +1,15 @@
-Scientific Collaborations
-=========================
+Acknowledgements
+================
 
-Click [here](./publications.html) for a list of PATRIC joint
-publications with other Scientific Collaborators.
+This page lists the data sources and third party software tools used in PATRIC. Click [here](./publications.html) for a list of PATRIC joint publications with other Scientific Collaborators.
 
-## Acknowledgements
-
-### Data Sources Used by PATRIC
+## Data Sources Used by PATRIC
 
 [ARDB (Antibiotic Resistance Genes Database)](http://ardb.cbcb.umd.edu/)
 
-[BIND (Berkeley Internet Name
-Domain)](http://www.isc.org/software/bind/history)
+[BIND (Berkeley Internet Name Domain)](http://www.isc.org/software/bind/history)
 
-[BioGRID (Biological General Repository for Interaction
-Datasets)](http://thebiogrid.org/)
+[BioGRID (Biological General Repository for Interaction Datasets)](http://thebiogrid.org/)
 
 [CARD (The Comprehensive Antibiotic Resistance
 Database)](http://arpcard.mcmaster.ca/)
@@ -81,7 +76,7 @@ Database)](http://bidd.nus.edu.sg/group/TTD/ttd.asp)
 
 [VFDB (Virulence Factors Database)](http://www.mgc.ac.cn/VFs/)
 
-### Software and Tools used by PATRIC
+## Software and Tools used by PATRIC
 
 [BLAST (Basic Local Alignment Search
 Tool)](http://blast.ncbi.nlm.nih.gov/Blast.cgi)
