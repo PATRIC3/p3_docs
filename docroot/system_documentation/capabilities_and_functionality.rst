@@ -487,7 +487,7 @@ Provide Feedback
 
 From the Help Menu: Provides a feedback form that generates a ticket in the PATRIC Jira user issue tracking system. 
 
-Source Code: 
+Source Code: https://github.com/PATRIC3/p3_web
 
 `News <https://docs.patricbrc.org/news/>`_
 ###########################################
@@ -569,9 +569,9 @@ Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/related_site
 `System Architecture <https://docs.patricbrc.org/system_architecture/>`_
 ##########################################################################
 
-[Link to the PATRIC GitHub code repository, including architectural and system descriptions.] 
+Link to the PATRIC GitHub code repository, including architectural and system descriptions. 
 
-Source Code: 
+Source Code: https://github.com/PATRIC3/p3_docs/tree/master/docroot/system_documentation
 
 `PATRIC GitHub <https://github.com/patric3>`_
 ###############################################
@@ -585,4 +585,4 @@ Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/github.rst
 
 Provides listing of current status (operational, down) of key backend services. This can be helpful for PATRIC developers and users if there appears to be a problem with some part the site. 
 
-Source Code:
+Source Code: https://github.com/PATRIC3/p3_web
