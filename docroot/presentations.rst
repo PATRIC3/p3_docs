@@ -3,6 +3,8 @@
 Presentations
 ==============
 
+Davis JJ. (2018) “Using Machine Learning to Predict Antibiotic Susceptibility or Resistance and Minimum Inhibitory Concentrations from Genomic Data.” Presentation at the Centers for Disease Control in Atlanta, Georgia.
+
 Wattam A.R. (2017) “PATRIC, the bacterial bioinformatics resource center.” Presentation for the German Fulbright Summer Student Institute at the Biocomplexity Institute of Virginia Tech, Blacksburg, VA.
 
 Stevens RL. (2017)” Introduction to Next-Generation Sequencing (NGS) Platforms. ”Presentation at the Centre for Antimicrobial Resistance Prevention and Containment, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, Thailand.
