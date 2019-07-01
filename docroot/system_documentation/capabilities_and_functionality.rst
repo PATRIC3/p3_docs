@@ -216,6 +216,7 @@ Source Code:
 
 - Submission forms: https://github.com/PATRIC3/p3_web/tree/master/public/js/p3/widget/app
 - Application Execution Service: https://github.com/PATRIC3/app_service
+
   - *Note: All of the standalone computational services are dependent on app_service.  For services below for which no other repos are listed (e.g., Variation Analysis, Metagenomic Read Mapping, Taxonomic Classification, Protein Family Sorter, Comparative Pathway, and ID Mapping) app_service includes all PATRIC code required for the service, plus possibly other third party command line tools.* 
 - Also required for all services:
 
