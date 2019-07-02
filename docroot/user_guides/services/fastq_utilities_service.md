@@ -23,9 +23,11 @@ The **Fastq Utilities** submenu option under the **Services** main menu (Genomic
 
 ## Pipeline
 
+**Select Action** Dropdown box with options for specifying the steps for processing the reads.  Each step can be added in any desired order:
 
-
-
+  * Trim - Uses Trim Galore to find and remove adapters, leaving the relevant part of the read.
+  * Fastqc - Uses FastQC to do quality checks on the raw sequence data.
+  * Align - .
 
 ## Paired read library
 
