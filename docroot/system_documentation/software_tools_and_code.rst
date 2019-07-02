@@ -6,15 +6,15 @@ Software Tools And Code
 Data Processing Software
 -------------------------
 
-The software tools and scripts used for data processing are listed and described in the Data section, along with links to corresponding source code in the GutHub repository.
+The software tools and scripts used for data processing are listed and described in the **Data Section**, along with links to corresponding source code in the GutHub repository.
 
 
 Software Tools
 ---------------
 
-The software tools used in the resource are listed and described in the Capabilities and Functionality section.  Links to corresponding source code are provided with each.
+The software tools used in the resource are listed and described in the **Capabilities and Functionality Section**.  Links to corresponding source code are provided with each.
 
 Other Software Code
 --------------------
 
-Other software code associated with the system and infrastructure is described in the System Architecture section. Links to corresponding source code are provided as well.
+Other software code associated with the system and infrastructure is described in the **System Architecture Section**. Links to corresponding source code are provided as well.
