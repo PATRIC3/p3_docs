@@ -57,9 +57,8 @@ Read files placed here will contribute to a single assembly.
 
 The Trim option generates several files that are deposited in the Private Workspace in the designated Output Folder. These include, for each read file, 
 
-* **xxx.fastq_trimming_report.txt** - .
-* **xxx_val_1.fq.gz** - .
-
+* **xxx.fastq_trimming_report.txt** - Report file with information on parameters used, adaptor sequences found, reads / base pairs processed, removed sequences, and statistics.
+* **xxx_val_1.fq.gz** - trimmed read files.
 
 
 ### Action buttons
