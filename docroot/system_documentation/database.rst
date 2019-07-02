@@ -6,7 +6,7 @@ Database
 Data Types
 ----------
 
-(See Data Section for list and description of data types supported)
+See **Data Section** for list and description of data types supported.
 
 Database Schema
 ----------------
