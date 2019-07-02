@@ -27,7 +27,7 @@ The **Fastq Utilities** submenu option under the **Services** main menu (Genomic
 
   * Trim - Uses Trim Galore to find and remove adapters, leaving the relevant part of the read.
   * Fastqc - Uses FastQC to do quality checks on the raw sequence data.
-  * Align - .
+  * Align - Aligns genomes using Bowtie2 to generate BAM files, saving unmapped reads, and generating SamStat reports of the amount and quality of alignments.
 
 ## Paired read library
 
