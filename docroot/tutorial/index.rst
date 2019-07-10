@@ -23,6 +23,7 @@ Genomics
    tn-seq/tn-seq.md
    codon_tree_building/codon_tree_building.md
    phylogenetic_tree_building/tree_building.md
+   fastq-utilities/fastq-utilities.rst
 
 Metagenomics
 ------------
