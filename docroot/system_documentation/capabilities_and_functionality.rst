@@ -552,7 +552,7 @@ Provides listing of PATRIC team personnel.
 
 Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/personnel.rst
 
-`Scientific Collaborations <https://docs.patricbrc.org/website/collaborators.html>`_
+`Scientific Collaborations <https://docs.patricbrc.org/acknowledgements.html>`_
 #####################################################################################
 
 Provides listing of PATRIC key collaborators, data sources, and software tools used, with appropriate links.
@@ -566,7 +566,7 @@ Provides links to resources of relevance to PATRIC.
 
 Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/related_sites.md
 
-`System Architecture <https://docs.patricbrc.org/system_architecture/>`_
+`System Documentation <https://docs.patricbrc.org/system_documentation.html>`_
 ##########################################################################
 
 Link to the PATRIC GitHub code repository, including architectural and system descriptions. 
