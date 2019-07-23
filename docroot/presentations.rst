@@ -3,6 +3,12 @@
 Presentations
 ==============
 
+Davis (2018) “Using Machine Learning to Predict Antimicrobial Minimum Inhibitory Concentrations and Associated Genomic Features for Nontyphoidal Salmonella.” Presentation at the Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies meeting in Hinxton, UK
+
+Davis (2018) “Using Machine Learning to Predict Antimicrobial Minimum Inhibitory Concentrations and Associated Genomic Features for Nontyphoidal Salmonella.” Presentation at the 2nd ASM Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines in Tysons, Virginia, USA.
+
+Davis JJ. (2018) “Using Machine Learning to Predict Antibiotic Susceptibility or Resistance and Minimum Inhibitory Concentrations from Genomic Data.” Presentation at the Centers for Disease Control in Atlanta, Georgia.
+
 Wattam A.R. (2017) “PATRIC, the bacterial bioinformatics resource center.” Presentation for the German Fulbright Summer Student Institute at the Biocomplexity Institute of Virginia Tech, Blacksburg, VA.
 
 Stevens RL. (2017)” Introduction to Next-Generation Sequencing (NGS) Platforms. ”Presentation at the Centre for Antimicrobial Resistance Prevention and Containment, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, Thailand.

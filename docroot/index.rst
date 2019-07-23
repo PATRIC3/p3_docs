@@ -26,9 +26,9 @@ PATRIC Documentation
    presentations
    brochure
    publications
-   collaborations
+   acknowledgements
    scientific_working_group
-   systems_architecture
+   system_documentation
    usage_metrics
    github
    personnel

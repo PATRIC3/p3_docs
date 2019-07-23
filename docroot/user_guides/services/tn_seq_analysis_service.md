@@ -52,3 +52,29 @@ The group/condition specified will be used to determine contrasts in the conditi
 
 ## Selected Libraries
 Read files placed here will contribute to a single Tn-Seq analysis. Read files placed into this table under the same condition will be considered replicates.
+
+## Output Results
+![Tn-Seq Analysis Service Output Files](../images/tn-seq_output_files.png) 
+
+The Tn-Seq Analysis Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
+
+* **.bam** - A binary version of a SAM file that describes the alignment and alignment quality of each read in a sample file.
+* **.bai** - A binary index alignment file gives the byte range offset of particular sequence regions in the BAM file. This can be used to selectively load information for a particular region out of a BAM file.
+* **.counts** - The counts associated with each of the read files.
+* **.tn_stats** - The statistics associated with each of the read files.
+* **.wig** - wiggle file that defines the feature/data track.
+* **output_keys.txt** - A summary of the reads and the metadata assigned to them.
+* **resampling_control_treatment_transit.txt** - A summary of the statistical data produced by the TRANSIT software.
+
+![Tn-Seq Analysis Service Browser Icon](../images/tn-seq_analysis_browser_icon.png)
+
+Clicking the Browser icon at the top left displays the Genome Browser with the reference genome loaded.  
+
+![Tn-Seq Data in Genome Browser](../images/tn-seq_genome_browser.png)
+
+Tn-seq analysis result tracks are available to add to the browser by clicking the associated track options in the upper left corner, displaying individual reads with the colors indicative of the orientation of the reads (blue is forward, red is reverse). 
+
+## References
+* Adey A, Morrison HG, Asan, Xun X, Kitzman JO, Turner EH, Stackhouse B, MacKenzie AP, Caruccio NC, Zhang X, et al. 2010. Rapid, low-input, low-bias construction of shotgun fragment libraries by high-density in vitro transposition. Genome Biol 11: R119.
+* DeJesus MA, Ambadipudi C, Baker R, Sassetti C, Ioerger TR. TRANSIT - a software tool for Himar1 Tnseq analysis. PLoS Comput Biol. 2015;11: 1004401.
+* Lampe DJ, Churchill ME, Robertson HM. A purified mariner transposase is sufficient to mediate transposition in vitro. The European Molecular Biology Organization Journal. 1996;15(19):5470–5479.
