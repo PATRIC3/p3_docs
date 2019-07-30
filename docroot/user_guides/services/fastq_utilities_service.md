@@ -5,7 +5,7 @@ The Fastq Utilities Service provides the capability for aligning, measuring base
 
 ### See also
 * [Fastq Utilities Service](https://patricbrc.org/app/FastqUtil)
-* [Fastq Utilities Service Tutorial](https://docs.patricbrc.org/tutorial/rna_seq_submission/submitting_fastq_utilites.html)
+* [Fastq Utilities Service Tutorial](https://docs.patricbrc.org/tutorial/fastq-utilities/fastq-utilities.html)
 
 ## Using the Fastq Utilities Service
 The **Fastq Utilities** submenu option under the **Services** main menu (Genomics category) opens the Fastq Utilities input form (*shown below*). *Note: You must be logged into PATRIC to use this service.*
@@ -60,6 +60,7 @@ The Trim option generates several files that are deposited in the Private Worksp
 * **xxx.fastq_trimming_report.txt** - Report file with information on parameters used, adaptor sequences found, reads / base pairs processed, removed sequences, and statistics.
 * **xxx_val_1.fq.gz** - trimmed read files.
 
+**Note:** Extensive details on the output reports and options are provided in the [Fastq Utilities Service Tutorial](https://docs.patricbrc.org/tutorial/fastq-utilities/fastq-utilities.html).
 
 ### Action buttons
 After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
