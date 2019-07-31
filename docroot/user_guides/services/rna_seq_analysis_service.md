@@ -15,7 +15,7 @@ The **RNA-Seq Analysis** submenu option under the **Services** main menu (Transc
 ![RNA-Seq Analysis Menu](../images/services_menu.png)
 
 ## Options
-![RNA-Seq Analysis Input Form](../images/rna-seq_analysis_input_form.png) 
+![RNA-Seq Analysis Input Form](../images/rna-seq_analysis_input_form2.png) 
 
 ## Parameters
 
