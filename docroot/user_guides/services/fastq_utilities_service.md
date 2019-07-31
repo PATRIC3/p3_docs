@@ -62,6 +62,8 @@ The Trim option generates several files that are deposited in the Private Worksp
 * **xxx.fastq_trimming_report.txt** - Report file with information on parameters used, adaptor sequences found, reads / base pairs processed, removed sequences, and statistics.
 * **xxx_val_1.fq.gz** - trimmed read files.
 
+**Note:** Extensive details on the output reports and options are provided in the [Fastq Utilities Service Tutorial](https://docs.patricbrc.org/tutorial/fastq-utilities/fastq-utilities.html).
+
 ### FastQC
 ![Fastq Utilities FastQC Output Files](../images/fastq_utilities_fastqc_output_files.png) 
 
@@ -78,6 +80,7 @@ The Align option generates several files that are deposited in the Private Works
 * **xxx.bam.bai** - Index of the corresponding BAM file.
 * **xxx.bam.samstat.html** - Web-friendly SAMStat report for the alignment job with the MAPQ statistics.
 * **xxx.unmapped#.fq.gz** - File containing all the reads from each read file that did not map to aligned to the target genome.
+
 
 ### Action buttons
 After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include 
