@@ -52,6 +52,8 @@ Read files placed here will contribute to a single assembly.
 
 ## Output Results
 
+**Note:** Extensive descriptions of the output files and options are provided in the [Fastq Utilities Service Tutorial](https://docs.patricbrc.org/tutorial/fastq-utilities/fastq-utilities.html).
+
 ### Trim
 ![Fastq Utilities Trim Output Files](../images/fastq_utilities_trim_output_files.png) 
 
@@ -60,8 +62,21 @@ The Trim option generates several files that are deposited in the Private Worksp
 * **xxx.fastq_trimming_report.txt** - Report file with information on parameters used, adaptor sequences found, reads / base pairs processed, removed sequences, and statistics.
 * **xxx_val_1.fq.gz** - trimmed read files.
 
+### FastQC
+![Fastq Utilities FastQC Output Files](../images/fastq_utilities_fastqc_output_files.png) 
 
-**Note:** Extensive descriptions of the output files and options are provided in the [Fastq Utilities Service Tutorial](https://docs.patricbrc.org/tutorial/fastq-utilities/fastq-utilities.html).
+The FastQC option generates several files that are deposited in the Private Workspace in the designated Output Folder. These include, for each read file, 
+
+* **xxx.fastq_trimming_report.txt** - Report file with information on parameters used, adaptor sequences found, reads / base pairs processed, removed sequences, and statistics.
+* **xxx_val_1.fq.gz** - trimmed read files.
+
+### Align
+![Fastq Utilities Align Output Files](../images/fastq_utilities_align_output_files.png) 
+
+The Align option generates several files that are deposited in the Private Workspace in the designated Output Folder. These include, for each read file, 
+
+* **xxx.fastq_trimming_report.txt** - Report file with information on parameters used, adaptor sequences found, reads / base pairs processed, removed sequences, and statistics.
+* **xxx_val_1.fq.gz** - trimmed read files.
 
 ### Action buttons
 After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include 
