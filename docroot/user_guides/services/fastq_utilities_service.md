@@ -74,10 +74,10 @@ The FastQC option generates several files that are deposited in the Private Work
 
 The Align option generates several files that are deposited in the Private Workspace in the designated Output Folder. These include 
 
-* **xxx.bam** - .
-* **xxx.bam.bai** - .
-* **xxx.bam.samstat.html** - .
-* **xxx.unmapped#.fq.gz** - .
+* **xxx.bam** - Compressed binary version of a SAM (Sequence Alignment/Map) file that is used to represent aligned sequences.
+* **xxx.bam.bai** - Index of the corresponding BAM file.
+* **xxx.bam.samstat.html** - Web-friendly SAMStat report for the alignment job with the MAPQ statistics.
+* **xxx.unmapped#.fq.gz** - File containing all the reads from each read file that did not map to aligned to the target genome.
 
 ### Action buttons
 After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include 
