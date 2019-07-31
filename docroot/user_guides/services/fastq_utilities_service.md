@@ -62,8 +62,6 @@ The Trim option generates several files that are deposited in the Private Worksp
 * **xxx.fastq_trimming_report.txt** - Report file with information on parameters used, adaptor sequences found, reads / base pairs processed, removed sequences, and statistics.
 * **xxx_val_1.fq.gz** - trimmed read files.
 
-**Note:** Extensive details on the output reports and options are provided in the [Fastq Utilities Service Tutorial](https://docs.patricbrc.org/tutorial/fastq-utilities/fastq-utilities.html).
-
 ### FastQC
 ![Fastq Utilities FastQC Output Files](../images/fastq_utilities_fastqc_output_files.png) 
 
