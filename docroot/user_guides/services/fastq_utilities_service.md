@@ -52,6 +52,8 @@ Read files placed here will contribute to a single assembly.
 
 ## Output Results
 
+**Note:** Extensive descriptions of the output files and options are provided in the [Fastq Utilities Service Tutorial](https://docs.patricbrc.org/tutorial/fastq-utilities/fastq-utilities.html).
+
 ### Trim
 ![Fastq Utilities Trim Output Files](../images/fastq_utilities_trim_output_files.png) 
 
@@ -62,8 +64,26 @@ The Trim option generates several files that are deposited in the Private Worksp
 
 **Note:** Extensive details on the output reports and options are provided in the [Fastq Utilities Service Tutorial](https://docs.patricbrc.org/tutorial/fastq-utilities/fastq-utilities.html).
 
+### FastQC
+![Fastq Utilities FastQC Output Files](../images/fastq_utilities_fastqc_output_files.png) 
+
+The FastQC option generates several files that are deposited in the Private Workspace in the designated Output Folder. These include, for each read file, 
+
+* **xxx_fastqc.html** - Web-friendly report file that provides information on the quality of the read file, with information on basic statistics, per base sequence quality, per tile sequence quality, per sequence quality scores, per base seqeunce content, per sequence GC content, and per base N content.
+
+### Align
+![Fastq Utilities Align Output Files](../images/fastq_utilities_align_output_files.png) 
+
+The Align option generates several files that are deposited in the Private Workspace in the designated Output Folder. These include 
+
+* **xxx.bam** - Compressed binary version of a SAM (Sequence Alignment/Map) file that is used to represent aligned sequences.
+* **xxx.bam.bai** - Index of the corresponding BAM file.
+* **xxx.bam.samstat.html** - Web-friendly SAMStat report for the alignment job with the MAPQ statistics.
+* **xxx.unmapped#.fq.gz** - File containing all the reads from each read file that did not map to aligned to the target genome.
+
+
 ### Action buttons
-After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
+After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include 
 
 * **Hide/Show:** Toggles (hides) the right-hand side Details Pane.
 * **Guide** Link to the corresponding User Guide
@@ -78,3 +98,11 @@ After selecting one of the output files by clicking it, a set of options becomes
 More details are available in the [Action Buttons](../action_buttons.html) user guide.
 
 ## References
+
+1. Krueger, F., Trim Galore: a wrapper tool around Cutadapt and FastQC to consistently apply quality and adapter trimming to FastQ files, with some extra functionality for MspI-digested RRBS-type (Reduced Representation Bisufite-Seq) libraries. URL http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/. (Date of access: 28/04/2016), 2012.
+2. Martin, M., Cutadapt removes adapter sequences from high-throughput sequencing reads. EMBnet. journal, 2011. 17(1): p. 10-12.
+3. Andrews, S., FastQC: a quality control tool for high throughput sequence data. 2010.
+4. Langmead, B. and S.L. Salzberg, Fast gapped-read alignment with Bowtie 2. Nature methods, 2012. 9(4): p. 357.
+5. Langmead, B., et al., Scaling read aligners to hundreds of threads on general-purpose processors. Bioinformatics, 2018. 35(3): p. 421-432.
+6. Lassmann, T., Y. Hayashizaki, and C.O. Daub, SAMStat: monitoring biases in next generation sequencing data. Bioinformatics, 2010. 27(1): p. 130-131.
+7. Bankevich, A., et al., SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing. Journal of computational biology, 2012. 19(5): p. 455-477.
