@@ -72,10 +72,12 @@ The FastQC option generates several files that are deposited in the Private Work
 ### Align
 ![Fastq Utilities Align Output Files](../images/fastq_utilities_align_output_files.png) 
 
-The Align option generates several files that are deposited in the Private Workspace in the designated Output Folder. These include, for each read file, 
+The Align option generates several files that are deposited in the Private Workspace in the designated Output Folder. These include 
 
-* **xxx.fastq_trimming_report.txt** - Report file with information on parameters used, adaptor sequences found, reads / base pairs processed, removed sequences, and statistics.
-* **xxx_val_1.fq.gz** - trimmed read files.
+* **xxx.bam** - .
+* **xxx.bam.bai** - .
+* **xxx.bam.samstat.html** - .
+* **xxx.unmapped#.fq.gz** - .
 
 ### Action buttons
 After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include 
