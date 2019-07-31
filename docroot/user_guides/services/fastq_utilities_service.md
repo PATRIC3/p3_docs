@@ -67,8 +67,7 @@ The Trim option generates several files that are deposited in the Private Worksp
 
 The FastQC option generates several files that are deposited in the Private Workspace in the designated Output Folder. These include, for each read file, 
 
-* **xxx.fastq_trimming_report.txt** - Report file with information on parameters used, adaptor sequences found, reads / base pairs processed, removed sequences, and statistics.
-* **xxx_val_1.fq.gz** - trimmed read files.
+* **xxx_fastqc.html** - Web-friendly report file that provides information on the quality of the read file, with information on basic statistics, per base sequence quality, per tile sequence quality, per sequence quality scores, per base seqeunce content, per sequence GC content, and per base N content.
 
 ### Align
 ![Fastq Utilities Align Output Files](../images/fastq_utilities_align_output_files.png) 
