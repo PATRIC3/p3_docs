@@ -67,3 +67,4 @@ Data
    :maxdepth: 1
 
    services/id_mapper.md
+   services/fastq_utilities_service.md
