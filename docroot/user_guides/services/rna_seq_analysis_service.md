@@ -22,9 +22,6 @@ The **RNA-Seq Analysis** submenu option under the **Services** main menu (Transc
 ### Strategy
 This parameter governs the software used to align, assemble, quantify, and compare reads from different samples.
 
-**Rockhopper:** Runs the [Rockhopper
-software](http://nar.oxfordjournals.org/content/41/14/e140) designed for RNA-Seq data for  prokarytoic organisms. With this strategy selected Rockhopper will handle all steps (alignment, assembly, quanitification, and differential expression testing).
-
 **Tuxedo:** Runs the [tuxedo
 strategy](http://www.nature.com/nprot/journal/v7/n3/abs/nprot.2012.016.html) using Bowtie2, Cufflinks, and CuffDiff to align, assemble, and compare samples respectively. This is a similar strategy as used by
 [RNA-Rocket](http://bioinformatics.oxfordjournals.org/content/31/9/1496).
