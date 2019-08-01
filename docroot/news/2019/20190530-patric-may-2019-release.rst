@@ -1,6 +1,6 @@
 :github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2019/20190530-patric-july-2019-release.rst
 
-PATRIC May 2019 Data Website Release
+PATRIC May 2019 Website Release
 ==============================================
 
 .. feed-entry::
