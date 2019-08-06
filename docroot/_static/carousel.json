@@ -1,4 +1,9 @@
 [{
+    "title": "Announcing Our New Fastq Utilities Service",
+    "desc": "The new Fastq Utilities Service provides the capability for aligning, measuring base call quality, and trimming fastq read files to estimate quality.",
+    "img": "https://docs.patricbrc.org/_static/announcements/fastq-utilities-service.png",
+    "link": "https://docs.patricbrc.org/news/2019/20190731-patric-july-2019-release.html"
+},{
     "title": "PATRIC March 2019 Data and Website Release",
     "desc": "This PATRIC release includes a new Metagenome Taxonomic Classification Service; a new Metagenomic Read Mapping Service; a new Codon Tree option for the Phylogenetic Tree Building Service; and over 18,250 new microbial genomes.",
     "img": "https://docs.patricbrc.org/_static/announcements/march-release-2019.png",
