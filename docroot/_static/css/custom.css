@@ -1,0 +1,68 @@
+body {
+    font-family: "Roboto",Arial,sans-serif;
+}
+
+h1,h2,.rst-content .toctree-wrapper p.caption,h3,h4,h5,h6,legend {
+    font-weight: 400;
+    font-family: "Roboto",Arial,sans-serif;
+}
+h2 { 
+    font-size: 20px;
+}
+
+p {
+    font-size: 14px;
+    color: #454545;
+}
+
+
+.wy-nav-top>a {
+    /* display: none; */
+}
+
+.wy-nav-side {
+    color: #404040;
+    background: #e3e3e3;
+    top: 45px;
+    min-height:calc(100% - 45px);
+}
+
+.wy-grid-for-nav {
+    height:calc(100% - 45px);
+    bottom: 0;
+}
+
+.wy-side-nav-search>a, .wy-side-nav-search .wy-dropdown>a, .wy-menu-vertical a {
+    color: #404040;
+}
+
+.wy-menu-vertical a:hover {
+    background-color: #e3e3e3;
+}
+
+.wy-menu-vertical a:active {
+    background-color: #e3e3e3;
+    color: #404040;
+}
+
+.patric-header {
+    position:fixed;
+    width:100%;
+    height:45px;
+    background:#2E76A3;
+    z-index:111111;
+}
+
+.patric-header a {
+    color: #fff;
+}
+
+.patric-header .header-logo {
+    height: 29px;
+    width: auto;
+    margin-top: 8px;
+}
+
+.wy-side-nav-search>a img.logo, .wy-side-nav-search .wy-dropdown>a img.logo {
+    display:none;
+}
