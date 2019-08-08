@@ -3,10 +3,354 @@
 {% block extrahead %}
 <meta name="google-site-verification" content="TkjceNtwo7upCQl_gx8Zmhhp9tCmc08LitZGuvQ1Eb8" />
 <link rel="icon" sizes="16x16 32x32" href="/_static/favicon.ico" />
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,400i,700|Roboto:400,700&display=swap">
 {% endblock %}
+
+{% block extrabody %}
+<div class="patric-bootstrap">
+
+    <!--/nav START-->
+    <nav class="navbar navbar-expand navbar-patric patric-bootstrap__nav shadow navbar-light" role="navigation" id="topnav">
+      <ul class="nav navbar-nav container-fluid justify-content-start">
+        <li class="nav-item">
+          <a href="#" class="nav-link nav-mobile-home">
+            <i class="fas fa-home"></i>
+          </a>
+          <a class="navbar-brand" href="https://patricbrc.org/">PATRIC</a>
+        </li>
+        <li class="nav-item mr-3">
+          <span class="text-secondary small">3.5.41</span>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <i class="fas fa-database"></i>
+            <span class="d-none d-lg-inline" style="">Browse</span>
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <div class="container my-3">
+              <div class="row">
+                <div class="col-md-12 mb-0" style="">
+                  <h6><strong>Browse All</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <div class="row">
+                    <div class="col-md-12 d-flex flex-wrap justify-content-start align-items-center">
+                      <a href="https://patricbrc.org/view/Taxonomy/2" title="Browse Bacteria" class="pill-border d-flex justify-content-center align-items-center flex-nowrap mr-1 mb-3">
+                        <img class="d-block rounded-circle" src="/_static/images/Image 2@2x.png" height="30px" width="30px">
+                        <p class="p-0 m-0 ml-1">Bacteria</p>
+                      </a>
+                      <a href="https://patricbrc.org/view/Taxonomy/2157" title="Browse Archaea" class="pill-border d-flex justify-content-center align-items-center flex-nowrap mr-1 mb-3">
+                        <img class="d-block rounded-circle" src="/_static/images/a0406b347d7a2ef0e22cbce848d25691.png" height="30px" width="30px">
+                        <p class="p-0 m-0 ml-1">Archaea</p>
+                      </a>
+                      <a href="https://patricbrc.org/view/Host/?eq(taxon_lineage_ids,2759)#view_tab=genomes" title="Browse Eukaryotic Hosts" class="pill-border d-flex justify-content-center align-items-center flex-nowrap mr-1 mb-3">
+                        <img class="d-block rounded-circle" src="/_static/images/52b8b776f9ef57ba07045457ba31ad2f@2x.png" height="30px" width="30px">
+                        <p class="p-0 m-0 ml-1">Eukaryotic Hosts</p>
+                      </a>
+                      <a href="https://patricbrc.org/view/Taxonomy/10239" title="Browse Phages" class="pill-border d-flex justify-content-center align-items-center flex-nowrap mr-1 mb-3">
+                        <img class="d-block rounded-circle" src="/_static/images/1_zMYIsLct4QF3X_BBI3RA-Q@2x.png" height="30px" width="30px">
+                        <p class="p-0 m-0 ml-1">Phages</p>
+                      </a>
+                    </div>
+                  </div>
+                  <h6><strong>Bacterial Pathogens</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-3">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://patricbrc.org/view/Taxonomy/469#view_tab=overview" title="Browse Acinetobacter" class="list-group-item list-group-item-action">Acinetobacter</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/1386#view_tab=overview" title="Browse Bacillus" class="list-group-item list-group-item-action">Bacillus</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/773#view_tab=overview" title="Browse Bartonella" class="list-group-item list-group-item-action">Bartonella</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/64895#view_tab=overview" title="Browse Borreliella" class="list-group-item list-group-item-action">Borreliella</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/234#view_tab=overview" title="Browse Brucella" class="list-group-item list-group-item-action">Brucella</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/32008#view_tab=overview" title="Browse Burkholderia" class="list-group-item list-group-item-action">Burkholderia</a>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://patricbrc.org/view/Taxonomy/194#view_tab=overview" title="Browse Campylobacter" class="list-group-item list-group-item-action">Campylobacter</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/810#view_tab=overview" title="Browse Chlamydia" class="list-group-item list-group-item-action">Chlamydia</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/1485#view_tab=overview" title="Browse Clostridium" class="list-group-item list-group-item-action">Clostridium</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/776#view_tab=overview" title="Browse Coxiella" class="list-group-item list-group-item-action">Coxiella</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/943#view_tab=overview" title="Browse Ehrlichia" class="list-group-item list-group-item-action">Ehrlichia</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/561#view_tab=overview" title="Browse Escherichia" class="list-group-item list-group-item-action">Escherichia</a>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://patricbrc.org/view/Taxonomy/262#view_tab=overview" title="Browse Francisella" class="list-group-item list-group-item-action">Francisella</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/209#view_tab=overview" title="Browse Helicobacter" class="list-group-item list-group-item-action">Helicobacter</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/1637#view_tab=overview" title="Browse Listeria" class="list-group-item list-group-item-action">Listeria</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/1763#view_tab=overview" title="Browse Mycobacterium" class="list-group-item list-group-item-action">Mycobacterium</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/286#view_tab=overview" title="Browse Pseudomonas" class="list-group-item list-group-item-action">Pseudomonas</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/780#view_tab=overview" title="Browse Rickettsia" class="list-group-item list-group-item-action">Rickettsia</a>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://patricbrc.org/view/Taxonomy/590#view_tab=overview" title="Browse Salmonella" class="list-group-item list-group-item-action">Salmonella</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/620#view_tab=overview" title="Browse Shigella" class="list-group-item list-group-item-action">Shigella</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/1279#view_tab=overview" title="Browse Staphylococcus" class="list-group-item list-group-item-action">Staphylococcus</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/1301#view_tab=overview" title="Browse Streptococcus" class="list-group-item list-group-item-action">Streptococcus</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/662#view_tab=overview" title="Browse Vibrio" class="list-group-item list-group-item-action">Vibrio</a>
+                    <a href="https://patricbrc.org/view/Taxonomy/629#view_tab=overview" title="Browse Yersinia" class="list-group-item list-group-item-action">Yersinia</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown__services" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <i class="fas fa-cogs"></i>
+            <span class="d-none d-lg-inline">Services</span>
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown__services">
+            <div class="container my-3">
+              <div class="row">
+                <div class="col-md-3">
+                  <h6><strong>Genomics</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://patricbrc.org/app/Assembly" title="Service: Assembly" class="list-group-item list-group-item-action">Assembly</a>
+                    <a href="https://patricbrc.org/app/Annotation" title="Service: Annotation" class="list-group-item list-group-item-action">Annotation</a>
+                    <a href="https://patricbrc.org/app/ComprehensiveGenomeAnalysis" title="Service: Comprehensive Genome Analysis" class="list-group-item list-group-item-action">Comprehensive Genome Analysis</a>
+                    <a href="https://patricbrc.org/app/BLAST" title="Service: BLAST" class="list-group-item list-group-item-action">BLAST</a>
+                    <a href="https://patricbrc.org/app/GenomeDistance" title="Service: Similar Genome Finder" class="list-group-item list-group-item-action">Similar Genome Finder</a>
+                    <a href="https://patricbrc.org/app/Variation" title="Service: Variation Analysis" class="list-group-item list-group-item-action">Variation Analysis</a>
+                    <a href="https://patricbrc.org/app/Tnseq" title="Service: Tn-Seq Analysis" class="list-group-item list-group-item-action">Tn-Seq Analysis</a>
+                    <a href="https://patricbrc.org/app/PhylogeneticTree" title="Service: Phylogenetic Tree" class="list-group-item list-group-item-action">Phylogenetic Tree</a>
+                    <a href="https://patricbrc.org/app/GenomeAlignment" title="Service: Genome Alignment" class="list-group-item list-group-item-action">Genome Alignment</a>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <h6><strong>Metagenomics</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://patricbrc.org/app/MetagenomicReadMapping" title="Service: Metagenomic Read Mapping" class="list-group-item list-group-item-action">Metagenomic Read Mapping</a>
+                    <a href="https://patricbrc.org/app/TaxonomicClassification" title="Service: Taxonomic Classification" class="list-group-item list-group-item-action">Taxonomic Classification</a>
+                    <a href="https://patricbrc.org/app/MetagenomicBinning" title="Service: Metagenomic Binning" class="list-group-item list-group-item-action">Metagenomic Binning</a>
+                  </div>
+                  <h6><strong>Transcriptomics</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://patricbrc.org/app/Expression" title="Service: Expression Import" class="list-group-item list-group-item-action">Expression Import</a>
+                    <a href="https://patricbrc.org/app/Rnaseq" title="Service: RNA-Seq Analysis" class="list-group-item list-group-item-action">RNA-Seq Analysis</a>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <h6><strong>Protein Tools</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://patricbrc.org/app/ProteinFamily" title="Service: Protein Family Sorter" class="list-group-item list-group-item-action">Protein Family Sorter</a>
+                    <a href="https://patricbrc.org/app/SeqComparison" title="Service: Proteome Comparison" class="list-group-item list-group-item-action">Proteome Comparison</a>
+                  </div>
+                  <h6><strong>Metabolomics</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://patricbrc.org/app/ComparativePathway" title="Service: Comparative Pathway" class="list-group-item list-group-item-action">Comparative Pathway</a>
+                    <a href="https://patricbrc.org/app/Reconstruct" title="Service: Model Reconstruction" class="list-group-item list-group-item-action">Model Reconstruction</a>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <h6><strong>Data</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://patricbrc.org/app/IDMapper" title="Service: ID Mapper" class="list-group-item list-group-item-action">ID Mapper</a>
+                  </div>
+                  <h6><strong>Raw Data Download</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <a class="btn btn-secondary" href="ftp://ftp.patricbrc.org/" title="Access PATRIC FTP Server" target="_blank"><i class="fa fa-download fa-fw"></i>&nbsp;FTP Server</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown__docs" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <i class="fas fa-book"></i>
+            <span class="d-none d-lg-inline">Docs</span>
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown__docs">
+            <div class="container my-3">
+              <div class="row">
+                <div class="col-md-3">
+                  <h6><strong>User Guides</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://docs.patricbrc.org/user_guides/organisms_tab.html" title="Docs: Organisms" class="list-group-item list-group-item-action">Organisms</a>
+                    <a href="https://docs.patricbrc.org/user_guides/data/index.html" class="list-group-item list-group-item-action">Data</a>
+                    <a href="https://docs.patricbrc.org/user_guides/workspace_groups_upload.html" class="list-group-item list-group-item-action">Workspace, Private Data, Groups, Jobs</a>
+                    <a href="https://docs.patricbrc.org/user_guides/services_tab.html" class="list-group-item list-group-item-action">Services and Tools</a>
+                    <a href="https://docs.patricbrc.org/user_guides/global_search.html" class="list-group-item list-group-item-action">Global Search</a>
+                    <a href="https://docs.patricbrc.org/user_guides/registration.html" class="list-group-item list-group-item-action">Registration</a>
+                    <a href="https://docs.patricbrc.org/user_guides/views_tables_action-bar.html" class="list-group-item list-group-item-action">Website Views, Tables, Filters, Action Bar</a>
+                    <a href="https://docs.patricbrc.org/user_guides/system_requirements.html" class="list-group-item list-group-item-action">System Requirements</a>
+                    <a href="https://docs.patricbrc.org/user_guides/data_submission_to_patric.html" class="list-group-item list-group-item-action">Data Submission to PATRIC</a>
+                    <a href="https://docs.patricbrc.org/user_guides/ftp.html" class="list-group-item list-group-item-action">FTP Site</a>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <h6><strong>Tutorials</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://docs.patricbrc.org/tutorial/index.html#genomics" class="list-group-item list-group-item-action">Genomics</a>
+                    <a href="https://docs.patricbrc.org/tutorial/index.html#metagenomics" class="list-group-item list-group-item-action">Metagenomics</a>
+                    <a href="https://docs.patricbrc.org/tutorial/index.html#transcriptomics" class="list-group-item list-group-item-action">Transcriptomics</a>
+                    <a href="https://docs.patricbrc.org/tutorial/index.html#protein-tools" class="list-group-item list-group-item-action">Protein Tools</a>
+                    <a href="https://docs.patricbrc.org/tutorial/index.html#metabolomics" class="list-group-item list-group-item-action">Metabolomics</a>
+                    <a href="https://docs.patricbrc.org/tutorial/index.html#data" class="list-group-item list-group-item-action">Data</a>
+                    <a href="https://docs.patricbrc.org/tutorial/index.html#others" class="list-group-item list-group-item-action">Others</a>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <h6><strong>Videos</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://docs.patricbrc.org/quickstart_video.html" class="list-group-item list-group-item-action">Introduction Video</a>
+                    <a href="https://docs.patricbrc.org/videos/cicular_genome_viewer.html" class="list-group-item list-group-item-action">Add track to Circular Genome Viewer (6:31)</a>
+                    <a href="https://docs.patricbrc.org/videos/create_genome_group.html" class="list-group-item list-group-item-action">Create a Genome Group (9:08)</a>
+                    <a href="https://docs.patricbrc.org/videos/id_mapper.html" class="list-group-item list-group-item-action">ID Mapping - finding genes (11:01)</a>
+                    <a href="https://docs.patricbrc.org/videos/multiple_sequence_alignment.html" class="list-group-item list-group-item-action">Generate a Mulitple Sequence Alignment (3:51)</a>
+                    <a href="https://docs.patricbrc.org/videos/using_genome_group.html" class="list-group-item list-group-item-action">Finding genes in a Genome Group (11:32)</a>
+                  </div>
+                  <a class="mb-3 btn btn-outline-primary" href="styleguide.html"> YouTube <i class="fa fa-external-link-alt fa-fw"></i></a>
+                </div>
+                <div class="col-md-3">
+                  <h6><strong>Common Tasks in PATRIC</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://docs.patricbrc.org/common_tasks/gui_tasks.html" class="list-group-item list-group-item-action">Common Tasks Using the Web Interface</a>
+                    <a href="https://docs.patricbrc.org/cli_tutorial/cli_common_tasks.html" class="list-group-item list-group-item-action">Common Tasks With P3 Scripts</a>
+                  </div>
+                  <h6><strong>Command Line Interface</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://docs.patricbrc.org/cli_tutorial/index.html#installing-the-cli-release" class="list-group-item list-group-item-action">Installing the CLI Release</a>
+                    <a href="https://docs.patricbrc.org/cli_tutorial/index.html#tutorials-and-reference-documentation" class="list-group-item list-group-item-action">Tutorials and Reference Documentation</a>
+                    <a href="https://docs.patricbrc.org/cli_tutorial/index.html#rast-tutorials" class="list-group-item list-group-item-action">RAST Tutorials</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown__about" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <i class="fas fa-bookmark"></i>
+            <span class="d-none d-lg-inline">About</span>
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown__about">
+            <div class="container my-3">
+              <div class="row">
+                <div class="col-md-3 mb-3">
+                  <h6><strong>About</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://docs.patricbrc.org/about.html" class="list-group-item list-group-item-action">About Us</a>
+                    <a href="https://docs.patricbrc.org/about.html#what-patric-offers" class="list-group-item list-group-item-action">What PATRIC Offers</a>
+                    <a href="https://docs.patricbrc.org/about.html#patric-brochure" class="list-group-item list-group-item-action">PATRIC Brochure</a>
+                    <a href="https://docs.patricbrc.org/about.html#about-the-university-of-chicago-department-of-computer-science" class="list-group-item list-group-item-action">About the University of Chicago Department of Computer Science</a>
+                    <a href="https://docs.patricbrc.org/about.html#about-the-biocomplexity-institute-and-initiative-of-the-university-of-virginia" class="list-group-item list-group-item-action">About the Biocomplexity Institute and Initiative of the University of Virginia</a>
+                  </div>
+                </div>
+                <div class="col-md-3 mb-3">
+                  <h6><strong>BRC Program</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://www.niaid.nih.gov/research/bioinformatics-resource-centers" target="_blank" class="list-group-item list-group-item-action">NIAID</a>
+                    <a href="https://www.patricbrc.org/" target="_blank" class="list-group-item list-group-item-action">PATRIC</a>
+                    <a href="https://www.viprbrc.org/brc/home.spg?decorator=vipr" target="_blank" class="list-group-item list-group-item-action">ViPR</a>
+                    <a href="https://www.fludb.org/brc/home.spg?decorator=influenza" target="_blank" class="list-group-item list-group-item-action">IRD</a>
+                    <a href="https://eupathdb.org/eupathdb/" target="_blank" class="list-group-item list-group-item-action">EuPathDB</a>
+                    <a href="https://www.vectorbase.org/" target="_blank" class="list-group-item list-group-item-action">VectorBase</a>
+                  </div>
+                </div>
+                <div class="col-md-3 mb-3">
+                  <h6><strong>Further Reading</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://docs.patricbrc.org/news/index.html" class="list-group-item list-group-item-action">News &amp; Announcements Archives</a>
+                    <a href="https://docs.patricbrc.org/brochure.html" class="list-group-item list-group-item-action">Download Brochure</a>
+                    <a href="https://docs.patricbrc.org/presentations.html" class="list-group-item list-group-item-action">Presentations</a>
+                    <a href="https://docs.patricbrc.org/publications.html" class="list-group-item list-group-item-action">Publications</a>
+                  </div>
+                </div>
+                <div class="col-md-3 mb-3">
+                  <h6><strong>Useful Links</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <div class="mb-3 list-group list-group-flush">
+                    <a href="https://docs.patricbrc.org/usage_metrics.html" class="list-group-item list-group-item-action">Usage Metrics</a>
+                    <a href="https://docs.patricbrc.org/cite_patric.html" class="list-group-item list-group-item-action">Citing PATRIC</a>
+                    <a href="https://docs.patricbrc.org/scientific_working_group.html" class="list-group-item list-group-item-action">Scientific Working Group</a>
+                    <a href="https://docs.patricbrc.org/personnel.html" class="list-group-item list-group-item-action">Personnel</a>
+                    <a href="https://docs.patricbrc.org/collaborations.html" class="list-group-item list-group-item-action">Scientific Collaborations</a>
+                    <a href="https://docs.patricbrc.org/system_documentation.html" class="list-group-item list-group-item-action">Systems Architecture</a>
+                    <a href="https://docs.patricbrc.org/related_sites.html" class="list-group-item list-group-item-action">Related Sites</a>
+                    <a href="https://docs.patricbrc.org/privacy_policy.html" class="list-group-item list-group-item-action">Privacy Policy</a>
+                    <a href="https://docs.patricbrc.org/github.html" class="list-group-item list-group-item-action">GitHub</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown__contact" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <i class="fas fa-envelope"></i>
+            <span class="d-none d-lg-inline">Contact</span>
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown__contact">
+            <div class="container my-3">
+              <div class="row">
+                <div class="col-md-6 mb-3">
+                  <h6><strong>Email PATRIC</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <form>
+                    <div class="form-row">
+                      <div class="form-group col-md-6">
+                        <label for="contactName" class="sr-only">Name</label>
+                        <input type="text" class="form-control" id="contactName" placeholder="Name">
+                      </div>
+                      <div class="form-group col-md-6">
+                        <label for="contactEmail" class="sr-only">Email</label>
+                        <input type="email" class="form-control" id="contactEmail" placeholder="Email">
+                      </div>
+                    </div>
+                    <div class="form-group">
+                      <label for="contactSubject" class="sr-only">Subject</label>
+                      <input type="text" class="form-control" id="contactSubject" placeholder="Subject">
+                    </div>
+                    <div class="form-group">
+                      <label for="contactMessage" class="sr-only">Message</label>
+                      <textarea class="form-control" id="contactMessage" rows="3" placeholder="Your message"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-block btn-secondary">Send</button>
+                  </form>
+                </div>
+                <div class="col-md-6 mb-3">
+                  <h6><strong>Contact</strong></h6>
+                  <hr class="hr--brand-sm col-2 ml-0 mt-0">
+                  <p>If you have questions about or would like assistance using the PATRIC website, please send a message using this form or direct email to <a href="mailto:help@patricbrc.org">help@patricbrc.org</a>. We appreciate your interest and will respond within two business days to your inquiry. </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li class="flex-grow-1">
+        </li>
+      </ul>
+    </nav>
+    <!--/nav END-->
+</div>
+{% endblock %}
+
 
 {% block footer %}
 {{ super() }}
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous" style=""></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-11736060-11"></script>
 <script>
