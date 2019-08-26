@@ -1,0 +1,18 @@
+# Use this file to install initial packages
+# pip3 install -r requirements.txt
+
+# Sphinx
+Sphinx
+
+# Initial Theme
+sphinx-rtd-theme
+
+# Markdown Support
+recommonmark
+
+# Additional Plugins Not Installed Automatically
+sphinx-autobuild
+sphinxcontrib-httpdomain
+sphinxcontrib-newsfeed
+sphinxcontrib-spelling
+sphinxcontrib-websupport
