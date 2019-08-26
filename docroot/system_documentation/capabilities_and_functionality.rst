@@ -567,7 +567,7 @@ Provides links to resources of relevance to PATRIC.
 Source Code: https://github.com/PATRIC3/p3_docs/blob/master/docroot/related_sites.md
 
 `System Documentation <https://docs.patricbrc.org/system_documentation.html>`_
-##########################################################################
+################################################################################
 
 Link to the PATRIC GitHub code repository, including architectural and system descriptions. 
 
