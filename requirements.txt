@@ -2,13 +2,13 @@
 # pip3 install -r requirements.txt
 
 # Sphinx
-Sphinx
+Sphinx==2.2.0
 
 # Initial Theme
-sphinx-rtd-theme
+sphinx-rtd-theme==0.4.3
 
 # Markdown Support
-recommonmark
+recommonmark==0.6.0
 
 # Additional Plugins Not Installed Automatically
 sphinx-autobuild
