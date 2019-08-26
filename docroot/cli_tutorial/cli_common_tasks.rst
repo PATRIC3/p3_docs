@@ -12,7 +12,7 @@ Working with Taxonomic Groupings
 --------------------------------
 
 List Roles that are Found in One Species but not Another
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 For our example, we will compare Vibrio campbellii with Vibrio
 alginolyticus.
@@ -113,7 +113,7 @@ The output looks something like this
 
 
 Compute How Many Genomes we have in a Particular Genus
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 For Streptococcus:
 
@@ -174,7 +174,7 @@ want them to appear.
         Streptococcus oralis strain DD30    1303.83
 
 Compute the  Fraction of the Genomes in a Genus that are Resistant to a Particular Drug
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In our example, we will look for Staphylococcus genomes resistant to methicillin.
 
@@ -217,7 +217,7 @@ Working with Genomes
 --------------------
 
 Find a Genome from an Accession Number or Project ID
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Genomes in PATRIC are stored with four alternate IDs, any of which
 can be used to search for the genomes.
@@ -258,7 +258,7 @@ solely the genome ID, a single output record in a single column.
 
 
 Given a Genome ID, Find the Name
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The genome name is in an attribute called *genome\_name*. You can
 get it from the genome ID using :ref:`cli::p3-all-genomes` as shown here.
@@ -286,7 +286,7 @@ Alternatively, you can use :ref:`cli::p3-get-genome-data` and use
 
 
 Find a Gene by Name in a Particular Genome
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Here you want to use :ref:`cli::p3-find-features` with a genome\_id filter.
 
@@ -301,7 +301,7 @@ Here you want to use :ref:`cli::p3-find-features` with a genome\_id filter.
 
 
 Display the CDS and RNA features for A Genome Sorted by Location on the Chromosome
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 For the genome 1313.7001 (Streptococcus pneumoniae P210774-233).
 
@@ -346,7 +346,7 @@ like this.
         1313.7001   fig|1313.7001.peg.16    1313.7001.con.0003  10656   +   Tellurite methyltransferase (EC 2.1.1.265)
 
 Compute the Upstream Regions for the Protein-Encoding Genes in a Genome
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 For the genome 1313.7001 (Streptococcus pneumoniae P210774-233).
 
@@ -466,7 +466,7 @@ field.
 
 
 Extract a Fasta File of a Genome's Contigs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Our example is 1302.21 (Streptococcus gordonii strain DD07).
 
@@ -485,7 +485,7 @@ Our example is 1302.21 (Streptococcus gordonii strain DD07).
         ttgctgtctgatagagcctttgtagccgtagcagtcagaccgatatgacttttcatttgc
 
 List the Protein Sequences for the Genes in a Genome
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Our example is 1302.21 (Streptococcus gordonii strain DD07).
 
@@ -506,7 +506,7 @@ Our example is 1302.21 (Streptococcus gordonii strain DD07).
         RQRRIEIKKYRCGRCKGKLRLLKQER
 
 Given a List of Genomes, Produce a List of Pairs of Roles that are Implemented by Genes that are Close on the Chromosome, Sorted by Number of Occurrences
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Here we assume our list of genomes is in the file **genomes.tbl**.
 The content of this file is shown below.
@@ -552,7 +552,7 @@ Note that the occurrence counts are shown in the last column of the
 output.
 
 Extract the Genomes in a List that have GC Content Values Greater Than a Certain Percentage
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 For this exercise we will use the **genomes.tbl** file as input and look for a
 GC content over 60%.
@@ -605,7 +605,7 @@ parameter to filter for specific values of that field.
 
 
 Compute how Close Two Features are on the Chromosome
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We will ask this question for features fig|1302.21.peg.966 and fig|1302.21.peg.1019.
 
@@ -641,7 +641,7 @@ always sort as further apart than features on the same contig.
 
 
 List the Drugs to which a Genome is Resistant
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The drug name is in the *antibiotic* attribute of the genome-drug
 table. We start with a genome ID and use :ref:`cli::p3-get-genome-drugs`.
@@ -665,7 +665,7 @@ Working with Anti-Microbial Drugs
 ---------------------------------
 
 Find Genomes that are Resistant to a Particular Drug
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Here we start with a drug name (our example is erythromycin) and
 use :ref:`cli::p3-get-drug-genomes` to
@@ -727,7 +727,7 @@ deviation of well over 193. The total range is 31 amino acids to 901
 amino acids.
 
 List the Genome and Feature ID for Each Feature in a Protein Family
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The following pipe does the trick, using
 global family PGF_00112374 as an example.
@@ -755,7 +755,7 @@ Working with Features
 ---------------------
 
 Find the Global Protein Family Containing a Particular Feature
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 For fig|446170.310.peg.738:
 
@@ -777,7 +777,7 @@ confuse the command-line shell.
 
 
 Find the Function a Particular Feature implements
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The function is stored in the feature table's *product* attribute. We
 will use fig|46160.310.peg.738 as an example.
@@ -812,7 +812,7 @@ column, and it can be easily piped to :ref:`cli::p3-get-feature-data`.
 
 
 Find a Feature from an Alternate Feature ID
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Features in PATRIC are stored with four alternate IDs, all of which
 are indexed for fast retrieval.
@@ -880,7 +880,7 @@ return the ID and functional assignment using alternate IDs.
     SMU.1126    fig|210007.7.peg.1009   Pantothenate kinase (EC 2.7.1.33)
 
 Given a Feature ID, Find the Amino Acid Sequence
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The amino acid sequence is in the attribute *aa\_sequence*. You use
 :ref:`cli::p3-get-feature-data` to access it.
@@ -895,7 +895,7 @@ The amino acid sequence is in the attribute *aa\_sequence*. You use
     fig|210007.7.peg.1009   MANEFINFEKISRKTWQHLHQESQPPLNENELNSIKSLNDRISIKDVTDIYLPLISLIQIYKKSQENLSFSKSIFLQKNISNRPFIIGVSGSVAVGKSTTSRLLQLLLARTFKDSSVELMTTDGFLYPNAVLSSRHMLNKKGFPESYDMERLLDFLDTIKNGQSAEIPVYSHEIYDIVPNKSQIIEVPDFLIIEGINVFQNPQNNRLYMSDFFDFSIYIDADSDYIENWYLERFATLLDLAKNDKQNYYNRFLKLGEKGALDFARDIWKDINLVNLEKYIEPTRSRAELILHKTKNHKIDEIYLKK
 
 Find How many Genomes have an Identical Protein to a Given Feature
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The individual protein sequences are not indexed, but the PATRIC
 database contains an MD5 signature for each protein that is indexed,
@@ -929,7 +929,7 @@ extract genome IDs and then count the number of distinct ones with
 
 
 Given a Feature ID, Find the Features in the Same Protein Family
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The family ID is in the *pgfam\_id* attribute, and we use
 :ref:`cli::p3-get-family-features` with the ``--ftype=global`` to find the
