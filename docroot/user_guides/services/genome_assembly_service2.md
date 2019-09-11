@@ -13,7 +13,7 @@ The **Assembly** submenu option under the **Services** main menu (Genomics categ
 ![Assembly Menu](../images/services_menu.png)
 
 ## Options
-![Assembly Input Form](../images/assembly_input_form.png) 
+![Assembly Input Form](../images/assembly_input_form2.png) 
 
 ## Selected libraries
 Read files placed here will contribute to a single assembly.
