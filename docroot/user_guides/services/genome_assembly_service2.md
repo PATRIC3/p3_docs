@@ -25,17 +25,12 @@ Read files placed here will contribute to a single assembly.
 **Advanced:**
   * File 1 Interleaved - Some paired libraries are available in a single file where each read in a pair occurs in succession. To specify such a file set this parameter to 'True'.
 
-  * Mean Insert Size - This refers to the mean insert size between paired reads. If you have this information you may provide it. If not the assembly algorithm will make an attempt to determine this value.
-  
-  * Std. Insert Size - This refers to the standard deviation of the insert size between paired reads. If you have this information you may provide it. If not the assembly algorithm will make an attempt to determine this value.
-  
-  * Mate Paired- Defines the orientation of read pairs. Setting Mate Paired to true indicates that the sequencing direction of the two reads in each pair is outward facing.
+  * Mate Paired- Defines the orientation of read pairs. Setting Mate Paired to True indicates that the sequencing direction of the two reads in each pair is outward facing.
   
   * Platform - The sequencing platform used for each library.
-    * infer: Infer sequencing platform from read files
-    * illumina: Illumina short reads
-    * pacbio: PacBio long reads
-    * nanopore: MinION long reads
+    * Infer Platform: Infer sequencing platform from read files
+    * Illumina: Illumina short reads
+    * Ion Torrent: Ion Torrent reads
 
 ## Single read library
 
@@ -45,10 +40,11 @@ The fastq file containing the reads
 **Advanced:**
 
   * Platform - The sequencing platform used for each library.
-    * infer: Infer sequencing platform from read files
-    * illumina: Illumina short reads
-    * pacbio: PacBio long reads
-    * nanopore: MinION long reads
+    * Infer Platform: Infer sequencing platform from read files
+    * Illumina: Illumina short reads
+    * Ion Torrent: Ion Torrent reads
+    * PacBio: PacBio long reads
+    * Nanopore: MinION long reads
 
 ## SRA run accession
 Allows direct upload of read files from the [NCBI Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) to the PATRIC Assembly Service. Entering the SRR accession number and clicking the arrow will add the file to the selected libraries box for use in the assembly. 
@@ -57,6 +53,8 @@ Allows direct upload of read files from the [NCBI Sequence Read Archive](https:/
 
 **Assembly Strategy:**
   * auto
+  
+
     * For short reads:
       1. Runs BayesHammer on reads
       2. Assembles with Velvet, IDBA and SPAdes
