@@ -90,7 +90,7 @@ todo_include_todos = False
 # Custom Theme styles to match PATRIC main styles
 
 def setup(app):
-    app.add_stylesheet('css/styles-export.min.css')
+    app.add_stylesheet('css/custom.css')
 
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for

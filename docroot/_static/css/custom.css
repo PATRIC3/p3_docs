@@ -1,9 +1,10 @@
+/*custom styles for rtd theme*/
 body {
     font-family: "Roboto",Arial,sans-serif;
 }
 
 h1,h2,.rst-content .toctree-wrapper p.caption,h3,h4,h5,h6,legend {
-    font-weight: 400;
+    font-weight: 500;
     font-family: "Roboto",Arial,sans-serif;
 }
 h2 { 
@@ -15,22 +16,18 @@ p {
     color: #454545;
 }
 
-
-.wy-nav-top>a {
-    /* display: none; */
-}
-
 .wy-nav-side {
     color: #404040;
     background: #e3e3e3;
-    top: 45px;
-    min-height:calc(100% - 45px);
+}
+/* .wy-side-scroll {
+    padding-top: 38px;
 }
 
 .wy-grid-for-nav {
-    height:calc(100% - 45px);
+    height:calc(100% - 38px);
     bottom: 0;
-}
+} */
 
 .wy-side-nav-search>a, .wy-side-nav-search .wy-dropdown>a, .wy-menu-vertical a {
     color: #404040;
