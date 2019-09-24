@@ -100,7 +100,7 @@ def setup(app):
 import sphinx_rtd_theme
 html_theme = "sphinx_rtd_theme"
 html_theme_options = {
-    'logo_only': False,
+    'logo_only': True,
     'collapse_navigation': True,
     'display_version': True,
     'style_nav_header_background': '#e3e3e3'
