@@ -3,6 +3,15 @@ Webinars
 
 PATRIC hosts webinars to introduce participants to features and functionality of the resource and allow an opportunity for questions and answers. The currently planned webinar schedule is below.  Completed webinars are recorded and made available as YouTube videos, accessible from the links below.
 
+Do you have a topic you'd like discussed or walked through? Let us know and we'll get back to you about hosting a webinar regarding your topic!
+
+.. raw:: html
+
+    <a class="btn btn-neutral" href="mailto:help@patricbrc.org">Request Topic</a>
+    <br>
+    <br>
+
+
 Upcoming Webinars
 ------------------
 
