@@ -18,9 +18,9 @@ The PATRIC website provides an entry point to integrated data and tools for bact
    data_submission_to_patric
    ftp
 
-   Primary access to these tools is provided through the
-   PATRIC main menu which is available at the top of the home page. The main menu 
-   provides the following options: 
+Primary access to these tools is provided through the
+PATRIC main menu which is available at the top of the home page. The main menu 
+provides the following options: 
 
 .. figure:: ./images/top_nav.png
    :alt: Top Navigation Bar
