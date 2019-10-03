@@ -207,11 +207,7 @@ RETURN
  complete
   
   \ ``1``\  if the genome is mostly complete, else \ ``0``\ .
-  
- 
- 
 
-.. _/n_metric:
 n_metric
 --------
 

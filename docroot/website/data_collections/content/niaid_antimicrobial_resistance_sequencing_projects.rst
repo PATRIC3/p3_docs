@@ -44,7 +44,7 @@ For more information about each projects, follow the project title link to the i
 .. _Acinetobacter Sequencing: https://olive.broadinstitute.org/projects/acinetobacter
 .. _Comparative genomic analyses of Streptococcus pneumoniae - emergence of multidrug resistant and vaccine replacement serotypes: http://gscid.igs.umaryland.edu/wp.php?wp=pneumococcal_multidrug_resistance_and_vaccine_escape
 .. _Enterococcus I comparative: http://www.broadinstitute.org/annotation/genome/enterococcus_faecalis/MultiHome.html
-.. _Identification of genomic changes in Staphylococcus aureus tdat confer resistance to peptidoglycan hydrolase antimicrobial enzymes: http://gscid.igs.umaryland.edu/wp.php?wp=identification_of_genomic_changes_in_staphylococcus_aureus_that_confer_resistance_to_peptidoglycan_hydrolase_antimicrobial_enzymes
+.. _Identification of genomic changes in Staphylococcus aureus that confer resistance to peptidoglycan hydrolase antimicrobial enzymes: http://gscid.igs.umaryland.edu/wp.php?wp=identification_of_genomic_changes_in_staphylococcus_aureus_that_confer_resistance_to_peptidoglycan_hydrolase_antimicrobial_enzymes
 .. _KPC and Klebsiella pneumoniae - virulence and resistance converge: http://gcid.jcvi.org/projects/gsc/klebsiella_pneumoniae/index.php
 .. _Livestock-associated MRSA ST398: https://olive.broadinstitute.org/projects/mrsa_st398
 .. _Staphyloccus Drug Resistance Evolution and Comparative: http://www.broadinstitute.org/annotation/genome/staphylococcus_aureus_drug_resistance/MultiHome.html

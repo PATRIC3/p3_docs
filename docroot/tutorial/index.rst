@@ -90,4 +90,4 @@ Others
    dev_at_argonne
    enabling_flash/enabling_flash
    sharing_data_in_the_workplace/sharing_data_in_the_workplace.md
-   sharing-a-private-genome-in-patric.md
+   sharing-a-private-genome-in-patric/sharing-a-private-genome-in-patric.md

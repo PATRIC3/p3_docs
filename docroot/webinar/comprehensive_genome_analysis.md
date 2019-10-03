@@ -1,4 +1,4 @@
-# Recorded Webinar: Comprehensive Genome Analysis Service
+# Comprehensive Genome Analysis Service
 Starting with a set of reads, use PATRIC's Comprehensive Genome Analysis Service to assemble, annotate, and provide a summary analysis of the resulting annotated genome.
 
 ## Description
