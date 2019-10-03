@@ -24,16 +24,16 @@ PATRIC 3
 +----------------------------------------------+---------------+---------+--------------+
 | Institute/Conference                         | Location      | Date    | Participants |
 +==============================================+===============+=========+==============+
-| DuPont                                       | Madison,      | Feb '19 |    25        |
+| DuPont                                       | Madison,      | Feb '19 |    26        |
 |                                              | WI            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Bacteriophage Meeting at                     | Olympia,      | Feb '19 |              |
+| Bacteriophage Meeting at                     | Olympia,      | Feb '19 |    57        |
 | Evergreen State College                      | WA            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Seattle Children’s Hospital                  | Seattle,      | Jun '19 |              |
+| Seattle Children’s Hospital                  | Seattle,      | Jun '19 |    26        |
 |                                              | WA            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Argonne National Laboratory                  | Lemont,       | Apr '19 |              |
+| Argonne National Laboratory                  | Lemont,       | Apr '19 |    35        |
 |                                              | IL            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
 | Odense University Hospital                   | Odense,       | Mar '19 |    24        |
