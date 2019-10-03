@@ -87,6 +87,12 @@ todo_include_todos = False
 
 # -- Options for HTML output ----------------------------------------------
 
+# Custom Theme styles to match PATRIC main styles
+
+def setup(app):
+    app.add_stylesheet('css/custom.css')
+
+
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
@@ -94,11 +100,13 @@ todo_include_todos = False
 import sphinx_rtd_theme
 html_theme = "sphinx_rtd_theme"
 html_theme_options = {
+    'logo_only': True,
     'collapse_navigation': True,
-    'display_version': True
+    'display_version': True,
+    'style_nav_header_background': '#e3e3e3'
 }
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-html_logo = "_static/patric_logo.png"
+html_logo = ""
 html_favicon = "_static/favicon.ico"
 html_title = "PATRIC Documentation"
 
