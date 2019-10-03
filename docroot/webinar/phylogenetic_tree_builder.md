@@ -1,4 +1,4 @@
-# Recorded Webinar: Phylogenetic Tree Builder
+# Phylogenetic Tree Builder
 Using PATRIC's Phylogenetic Tree Builder Service to construct a phylogenetic tree from a custom set of genomes.
 
 ## Description

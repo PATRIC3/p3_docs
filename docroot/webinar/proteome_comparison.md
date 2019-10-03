@@ -1,4 +1,4 @@
-# Recorded Webinar: Proteome Comparison Service
+# Proteome Comparison Service
 Using PATRIC's Proteome Service to perform protein sequence-based genome comparison across a set of genomes.
 
 ## Description

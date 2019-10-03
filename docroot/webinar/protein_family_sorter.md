@@ -1,4 +1,4 @@
-# Recorded Webinar: Protein Family Sorter
+# Protein Family Sorter
 Exploring the Pan-Proteome and Pathway Differences with PATRIC'S Protein Family Sorter.
 
 ## Description
