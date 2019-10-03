@@ -15,6 +15,15 @@ The map below shows locations of past workshops and the tables following provide
     :height: 345px
     :alt: Map of PATRIC workshops
 
+Previous Workshop Slides
+-------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   workshop_slides/workshop_May_2018
+   workshop_slides/workshop_Aug_2017
+
 PATRIC 3
 --------
 
