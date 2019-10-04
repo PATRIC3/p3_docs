@@ -2,6 +2,11 @@
 The publications listed below were developed, at least in part, by members of the PATRIC team and supported by the PATRIC contract. For a list of publications that cite PATRIC, visit the <a href="https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1">**PATRIC Google Scholar page**</a>.
 
 ## 2019
+<p>
+</p>
+
+<p>
+</p>
 
 
 ## 2018
