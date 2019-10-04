@@ -1,6 +1,8 @@
-# Publications
+# Publications by PATRIC
+The publications listed below were developed, at least in part, by members of the PATRIC team and supported by the PATRIC contract. For a list of publications that cite PATRIC, visit the [**PATRIC Google Scholar page**] (https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1).
 
-[**List of publications that cite PATRIC**](https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1)
+## 2019
+
 
 ## 2018
 <p>Banerjee K, Sekar P, Krishnan P, Wattam AR, Roy S, Hays JP, Menezes GA. <strong>Whole genome sequence analysis of NDM-1, CMY-4, and sHV-12 coproducing Salmonella enterica serovar typhimurium isolated from a case of fatal burn wound infection.</strong> Infection and Drug Resistance. 2018;11:2491. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30555248">30555248</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6278884/">PMC6278884</a>.
