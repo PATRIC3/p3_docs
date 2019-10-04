@@ -2,10 +2,10 @@
 The publications listed below were developed, at least in part, by members of the PATRIC team and supported by the PATRIC contract. For a list of publications that cite PATRIC, visit the <a href="https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1">**PATRIC Google Scholar page**</a>.
 
 ## 2019
-<p>Nguyen M, Long SW, McDermott PF, Olsen RJ, Olson R, Stevens RL, Tyson GH, Zhao S, Davis JJ. <strong>Using machine learning to predict antimicrobial minimum inhibitory concentrations and associated genomic features for nontyphoidal Salmonella.</strong> Journal of clinical microbiology. 2019 Feb 1;57(2):e01260-18. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+30333126">30333126</a>. DOI: <a href="https://doi.org/10.1128/JCM.01260-18">10.1128/JCM.01260-18</a>.
+<p>Gagetti P, Wattam AR, Giacoboni G, De Paulis A, Bertona E, Corso A, Rosato AE. <strong>Identification and molecular epidemiology of methicillin resistant Staphylococcus pseudintermedius strains isolated from canine clinical samples in Argentina.</strong> BMC Vet Res. 2019 Jul 27;15(1):264. doi: 10.1186/s12917-019-1990-x.PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=31351494">31351494</a>. PMCID: <a href="PMC6660709">PMC6660709</a>. 
 </p>
 
-<p>Gagetti P, Wattam AR, Giacoboni G, De Paulis A, Bertona E, Corso A, Rosato AE. <strong>Identification and molecular epidemiology of methicillin resistant Staphylococcus pseudintermedius strains isolated from canine clinical samples in Argentina.</strong> BMC Vet Res. 2019 Jul 27;15(1):264. doi: 10.1186/s12917-019-1990-x.PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=31351494">31351494</a>. PMCID: <a href="PMC6660709">PMC6660709</a>. 
+<p>Nguyen M, Long SW, McDermott PF, Olsen RJ, Olson R, Stevens RL, Tyson GH, Zhao S, Davis JJ. <strong>Using machine learning to predict antimicrobial minimum inhibitory concentrations and associated genomic features for nontyphoidal Salmonella.</strong> Journal of clinical microbiology. 2019 Feb 1;57(2):e01260-18. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+30333126">30333126</a>. DOI: <a href="https://doi.org/10.1128/JCM.01260-18">10.1128/JCM.01260-18</a>.
 </p>
 
 ## 2018
