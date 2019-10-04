@@ -8,6 +8,9 @@ The publications listed below were developed, at least in part, by members of th
 <p>Nguyen M, Long SW, McDermott PF, Olsen RJ, Olson R, Stevens RL, Tyson GH, Zhao S, Davis JJ. <strong>Using machine learning to predict antimicrobial minimum inhibitory concentrations and associated genomic features for nontyphoidal Salmonella.</strong> Journal of clinical microbiology. 2019 Feb 1;57(2):e01260-18. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+30333126">30333126</a>. DOI: <a href="https://doi.org/10.1128/JCM.01260-18">10.1128/JCM.01260-18</a>.
 </p>
 
+<p>Parrello B, Butler R, Chlenski P, Olson R, Overbeek J, Pusch GD, Vonstein V, Overbeek R. <strong>A machine learning-based service for estimating quality of genomes using PATRIC</strong>. BMC Bioinformatics. 2019; 20, Article number: 486. [Open Access](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3068-y).
+</p>
+
 ## 2018
 <p>Banerjee K, Sekar P, Krishnan P, Wattam AR, Roy S, Hays JP, Menezes GA. <strong>Whole genome sequence analysis of NDM-1, CMY-4, and sHV-12 coproducing Salmonella enterica serovar typhimurium isolated from a case of fatal burn wound infection.</strong> Infection and Drug Resistance. 2018;11:2491. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30555248">30555248</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6278884/">PMC6278884</a>.
 </p>
