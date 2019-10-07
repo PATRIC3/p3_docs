@@ -16,14 +16,19 @@ Genomics
    genome_annotation/annotation.md
    genome_quality_report/genome_quality_report
    comprehensive-genome-analysis/comprehensive-genome-analysis.md
+   comprehensive-genome-analysis/cga-results.rst
    private_genome/private_genome.md
    blast/blast.md
    similar_genome_finder/similar_genome_finder.md
+   submitting-the-comprehensive-genome-analysis-job/comprehensive-genome-analysis.md
    variation_analysis_service/variation_analysis_service.md
    tn-seq/tn-seq.md
    codon_tree_building/codon_tree_building.md
    phylogenetic_tree_building/tree_building.md
    fastq-utilities/fastq-utilities.rst
+   searching_and_sorting/genomes_by_taxonomy.rst
+   searching_and_sorting/protein_family_features.rst
+   searching_and_sorting/features_with_roles.rst
 
 Metagenomics
 ------------
@@ -90,4 +95,5 @@ Others
    dev_at_argonne
    enabling_flash/enabling_flash
    sharing_data_in_the_workplace/sharing_data_in_the_workplace.md
-   sharing-a-private-genome-in-patric.md
+   sharing-a-private-genome-in-patric/sharing-a-private-genome-in-patric.md
+   building_cli.rst

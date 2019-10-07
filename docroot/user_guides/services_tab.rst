@@ -68,3 +68,11 @@ Data
 
    services/id_mapper.md
    services/fastq_utilities_service.md
+
+Other
+------
+
+.. toctree::
+   :maxdepth: 1
+
+   other/msa_viewer.md

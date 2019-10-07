@@ -19,16 +19,21 @@ Join Zoom Meeting
 https://zoom.us/j/162727289
 
 One tap mobile
+
 +16699006833,,162727289# US (San Jose)
 +16465588656,,162727289# US (New York)
 
 Dial by your location
+
         +1 669 900 6833 US (San Jose)
         +1 646 558 8656 US (New York)
+
 Meeting ID: 162 727 289
+
 Find your local number: https://zoom.us/u/wU6z0dT5
 
 Join by SIP
+
 162727289@zoomcrc.com
 
 Join by H.323
