@@ -1,8 +1,8 @@
 [{
     "title": "New Bioinformatics Hub at UChicago Enables Next-Gen Infectious Disease Research",
-    "desc": "",
+    "desc": "The new Bacterial and Viral Bioinformatics Resource Center (BV-BRC) combines two independent efforts at UChicago and the J. Craig Venter Institute (JCVI) into a common infrastructure that will support richer scientific data and more powerful analytic tools",
     "img": "https://docs.patricbrc.org/_static/announcements/bv-brc.png",
-    "link": "https://docs.patricbrc.org/news/"
+    "link": "https://www.cs.uchicago.edu/news/article/bioinformatics-hub/"
 },{
     "title": "PATRIC July Release: New Fastq Utilities Service",
     "desc": "The new Fastq Utilities Service provides the capability for aligning, measuring base call quality, and trimming fastq read files to estimate quality.",
