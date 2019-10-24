@@ -10,4 +10,6 @@ Below are short YouTube instructional videos to help with performing common usef
    create_genome_group
    id_mapper
    multiple_sequence_alignment
-   using_genome_group.md
+   using_genome_group
+   are_genomes_treeable
+   codon_tree
