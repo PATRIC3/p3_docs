@@ -49,7 +49,7 @@ Downloading data for large number of genomes
 ---------------------------------------------
 
 Because of the large number of genomes currently available on the FTP site, it is not very 
-efficient to download them using FileZilla/lftp clients or the website. However, it is very easy 
+efficient to download them using lftp clients or the website. However, it is very easy 
 to do it using a simple shell script as follows.
 
 You can download list of all genomes you are interested in from the website and then copy 
@@ -73,7 +73,7 @@ file type, say .PATRIC.faa or .PATRIC.features.tab, simply replace .fna with tha
 Uploading/Downloading Data From Your Private Workspace using FTP Client
 -----------------------------------------------------------------------
 
-You can use FTP clients, such as `FileZilla <https://filezilla-project.org/>`_ or `lftp <https://lftp.yar.ru/>`_ , to batch upload/download data to your private workspace.
+You can use FTP clients, such as `lftp <https://lftp.yar.ru/>`_ , to batch upload/download data to your private workspace.
 
   ::
   
