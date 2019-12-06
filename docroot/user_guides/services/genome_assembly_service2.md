@@ -64,40 +64,9 @@ Allows direct upload of read files from the [NCBI Sequence Read Archive](https:/
 
   * plasmidSPAdes - For assembling plasmids from whole genome sequencing data and benchmark its performance on a diverse set of bacterial genomes.
 
-  * MDA (Single-cell) - A new SPAdes assembler for both single-cell and standard (multicell) assembly, and it improves on the recently released E+V−SC assembler (specialized for single-cell data).
+  * MDA (Single-cell) - A new assembler for both single-cell and standard (multicell) assembly, and it improves on the recently released E+V−SC assembler (specialized for single-cell data).
 
-  
-  
-  * fast
-    1. Assembles with MEGAHIT and Velvet.
-    2. Results are sorted by ARAST quality score.
-
-  * full_spades
-    1. Runs BayesHammer on reads
-    2. Assembles with SPAdes.
-
-  * kiki
-    1. Runs the Kiki assembler
-
-  * miseq
-    1. Runs Velvet with hash length 35.
-    2. Runs BayesHammer on reads and assembles with SPAdes with k up to 99.
-    3. Results are sorted by ARAST quality score.
-    4. Works for Illumina MiSeq reads.
-
-  * plasmid
-    1. Runs BayesHammer on reads and assembles with plasmidSPAdes.
-
-  * smart
-    * For short reads:
-      1. Runs BayesHammer on reads, Kmergenie to choose hash-length for Velvet
-      2. Assembles with Velvet, IDBA and SPAdes
-      3. Sorts assemblies by ALE score
-      4. Merges the two best assemblies with GAM-NGS
-
-    * For long reads (PacBio or Nanopore):
-      1. Assembles with MiniASM
-
+ 
 **Output Folder:** The workspace folder where results will be placed.
 
 **Output Name:** User-provided name used to uniquely identify results.
