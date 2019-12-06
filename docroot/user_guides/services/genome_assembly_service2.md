@@ -64,7 +64,7 @@ Allows direct upload of read files from the [NCBI Sequence Read Archive](https:/
 
   * plasmidSPAdes - For assembling plasmids from whole genome sequencing data and benchmark its performance on a diverse set of bacterial genomes.
 
-  * MDA (Single-cell) - A new assembler for both single-cell and standard (multicell) assembly, and it improves on the recently released E+V−SC assembler (specialized for single-cell data).
+  * MDA (single-cell) - A new assembler for both single-cell and standard (multicell) assembly, and it improves on the recently released E+V−SC assembler (specialized for single-cell data).
 
  
 **Output Folder:** The workspace folder where results will be placed.
@@ -75,22 +75,13 @@ Allows direct upload of read files from the [NCBI Sequence Read Archive](https:/
 
 ## Advanced
 
+**Trim reads before assembly:** Trim reads using TrimGalore (True/False)
+
+**Racon iternations** and **Pilon iterations:** Correct assembly errors (or “polish") using racon and/or Pilon. Both racon and Pilon take the contigs and the reads mapped to those contigs, and look for discrepancies between the assembly and the majority of the reads.  Where there is a discrepancy, racon or pilon will correct the assembly if the majority of the reads call for that.  Racon is for long reads (PacBio or Nanopore) and Pilon is for shorter reads (Illumina or Ion Torrent).  Once the assembly has been corrected with the reads, it is still possible to do another iteration to further improve the assembly, but each one takes time. 
+
 **Minimal output contig length:**  Filter out short contigs in final assembly
 
 **Minimal output contig coverage:** Filter out contigs with low read depth in final assembly
-
-### Assembly Pipeline
-The pipeline parameter is an advanced way to customize the assembly workflow by mixing and matching a variety of modules. Each modules works at one of the three stages of the pipeline: preprocessing, assembly, and post-processing. In general, you can compose a pipeline by concating one or more preprocessing modules, one assembler, and optionally one
-postprocessor.
-
-**Example 1: tagdust velvet** This pipeline will simply run tagdust to remove adapter sequences in the reads and then assemble them with velvet. Note: quotes should not be used around the two modules as they have special meaning in pipeline syntax.
-
-**Example 2: a6**  You can also invoke an assembler that we have not included in our curated strategies. In this case, A6 is an assembler with its built-in preprocessing and postprocessing steps.
-
-**Example 3: "tagdust none" "megahit velvet" sspace**  You can use quotes to specify alternative modules you would like to try at each step. This example will launch a cartesian combination of four parallel pipelines: tagdust+megahit+sspace, tagdust+velvet+sspace, megahit+sspace, velvet+sspace.
-
-*Note:* The pipeline parameter overrides the assembly strategy parameter. Not all modules combine well.
-[List of modules supported](https://github.com/PATRIC3/p3_docs/blob/master/docroot/user_guides/services/arast_supported_modules.txt).
 
 ## Buttons
 
