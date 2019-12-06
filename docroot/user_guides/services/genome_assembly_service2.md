@@ -115,15 +115,11 @@ After selecting one of the output files by clicking it, a set of options becomes
 More details are available in the [Action Buttons](../action_buttons.html) user guide.
 
 ## References
-1. Branton, D., et al., The poten al and challenges of nanopore sequencing. Nature biotechnology, 2008. 26(10): p. 1146‑1153.
-2. Nikolenko, S.I., A.I. Korobeynikov, and M.A. Alekseyev, BayesHammer: Bayesian clustering for error correc on in single‑cell sequencing. BMC genomics, 2013. 14(1): p. 1.
-3. Zerbino, D.R. and E. Birney, Velvet: algorithms for de novo short read assembly using de Bruijn graphs. Genome research, 2008. 18(5): p. 821‑829.
-4. Peng, Y., et al. IDBA: a prac cal itera ve de Bruijn graph de novo assembler. in Research in Computa onal Molecular Biology. 2010. Springer.
-5. Bankevich, A., et al., SPAdes: a new genome assembly algorithm and its applica ons to single‑cell sequencing. Journal of Computational Biology, 2012. 19(5): p. 455‑477.
-6. Li, D., et al., MEGAHIT: an ultra‑fast single‑node solu on for large and complex metagenomics assembly via succinct de Bruijn graph. Bioinforma cs, 2015: p. btv033.
-7. An pov D, Hartwick N, Shen M, Raiko M, Lapidus A, Pevzner PA. 2016. plasmidSPAdes: assembling plasmids from whole genome sequencing data. Bioinforma cs32(22):3390‑3397.
-8. Namiki, T., et al., MetaVelvet: an extension of Velvet assembler to de novo metagenome assembly from short sequence reads. Nucleic acids research, 2012. 40(20): p. e155‑e155.
-9. Clark, S.C., et al., ALE: a generic assembly likelihood evalua on framework for assessing the accuracy of genome and metagenome assemblies. Bioinforma cs, 2013: p. bts723.
-10. Vicedomini, R., et al., GAM‑NGS: genomic assemblies merger for next genera on sequencing. BMC bioinforma cs, 2013. 14(7): p. 1.
-11. Li, H., Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences. arXiv preprint arXiv:1512.01801, 2015.
-12. Gurevich, A., et al., QUAST: quality assessment tool for genome assemblies. Bioinforma cs, 2013. 29(8): p. 1072‑1075.
+1.	Wick, R.R., et al., Unicycler: resolving bacterial genome assemblies from short and long sequencing reads. PLoS computational biology, 2017. 13(6): p. e1005595.
+2.	Bankevich, A., et al., SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing. Journal of computational biology, 2012. 19(5): p. 455-477.
+3.	Koren, S., et al., Canu: scalable and accurate long-read assembly via adaptive k-mer weighting and repeat separation. Genome research, 2017. 27(5): p. 722-736.
+4.	Nurk, S., et al., metaSPAdes: a new versatile metagenomic assembler. Genome research, 2017. 27(5): p. 824-834.
+5.	Antipov, D., et al., plasmidSPAdes: assembling plasmids from whole genome sequencing data. bioRxiv, 2016: p. 048942.
+6.	Krueger, F., Trim Galore: a wrapper tool around Cutadapt and FastQC to consistently apply quality and adapter trimming to FastQ files, with some extra functionality for MspI-digested RRBS-type (Reduced Representation Bisufite-Seq) libraries. URL http://www. bioinformatics. babraham. ac. uk/projects/trim_galore/.(Date of access: 28/04/2016), 2012.
+7.	Wick, R.R., et al., Bandage: interactive visualization of de novo genome assemblies. Bioinformatics, 2015. 31(20): p. 3350-3352.
+8.	Gurevich, A., et al., QUAST: quality assessment tool for genome assemblies. Bioinformatics, 2013. 29(8): p. 1072-1075.
