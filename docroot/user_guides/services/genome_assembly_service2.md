@@ -30,7 +30,7 @@ Read files placed here will contribute to a single assembly.
   * Platform - The sequencing platform used for each library.
     * Infer Platform: Infer sequencing platform from read files
     * Illumina: Illumina short reads
-    * Ion Torrent: Ion Torrent reads
+    * Ion Torrent: Ion Torrent short reads
 
 ## Single read library
 
@@ -42,7 +42,7 @@ The fastq file containing the reads
   * Platform - The sequencing platform used for each library.
     * Infer Platform: Infer sequencing platform from read files
     * Illumina: Illumina short reads
-    * Ion Torrent: Ion Torrent reads
+    * Ion Torrent: Ion Torrent short reads
     * PacBio: PacBio long reads
     * Nanopore: MinION long reads
 
