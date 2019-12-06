@@ -52,15 +52,22 @@ Allows direct upload of read files from the [NCBI Sequence Read Archive](https:/
 ## Parameters
 
 **Assembly Strategy:**
-  * auto
-    * For short reads:
-      1. Runs BayesHammer on reads
-      2. Assembles with Velvet, IDBA and SPAdes
-      3. Sorts assemblies by ARAST quality score
+  * Auto - Will use Canu if only long reads are submitted. If long and short reads, as or short reads alone are submitted, Unicycler is selected.
+  
+  * Unicycler - Can assemble Illumina-only read sets where it functions as a SPAdes-optimizer. It can also assembly long-read-only sets (PacBio or Nanopore) where it runs a miniasm plus Racon pipeline. For the best possible assemblies, give it both Illumina reads and long reads, and it will conduct a hybrid assembly.
 
-    * For long reads (PacBio or Nanopore):
-      1. Assembles with MiniASM
+  * SPAdes - Designed to assemble small genomes, such as those from bacteria, and uses a multi-sized De Bruijn graph to guide assembly.
 
+  * Canu - Long-read assembler which works on both third and fourth generation reads. It is a successor of the old Celera Assembler that is specifically designed for noisy single-molecule sequences. It supports nanopore sequencing, halves depth-of-coverage requirements, and improves assembly continuity. It was designed for high-noise single-molecule sequencing (such as the PacBio RS II/Sequel or Oxford Nanopore MinION).
+
+  * metaSPAdes - Combines new algorithmic ideas with proven solutions from the SPAdes toolkit to address various challenges of metagenomic assembly.
+
+  * plasmidSPAdes - For assembling plasmids from whole genome sequencing data and benchmark its performance on a diverse set of bacterial genomes.
+
+  * MDA (Single-cell) - A new SPAdes assembler for both single-cell and standard (multicell) assembly, and it improves on the recently released E+V−SC assembler (specialized for single-cell data).
+
+  
+  
   * fast
     1. Assembles with MEGAHIT and Velvet.
     2. Results are sorted by ARAST quality score.
