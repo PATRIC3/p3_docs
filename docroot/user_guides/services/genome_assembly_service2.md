@@ -8,7 +8,7 @@ The Genome Assembly Service allows single or multiple assemblers to be invoked t
 * [Genome Assembly Service Tutorial](https://docs.patricbrc.org/tutorial/genome_assembly/assembly2.html)
 
 ## Using the Genome Assembly Service
-The **Assembly** submenu option under the **Services** main menu (Genomics category) opens the Genome Assembly input form (*shown below*). *Note: You must be logged into PATRIC to use this service.*
+The **Assembly** submenu option under the **Services** main menu (Genomics category) opens the Genome Assembly input form, shown below. *Note: You must be logged into PATRIC to use this service.*
 
 ![Assembly Menu](../images/services_menu.png)
 
