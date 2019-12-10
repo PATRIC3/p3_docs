@@ -13,6 +13,7 @@ Genomics
    :maxdepth: 1
 
    genome_assembly/assembly.md
+   genome_assembly/assembly2.md
    genome_annotation/annotation.md
    genome_quality_report/genome_quality_report
    comprehensive-genome-analysis/comprehensive-genome-analysis.md
