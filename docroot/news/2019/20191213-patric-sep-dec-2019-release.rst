@@ -18,9 +18,11 @@ Data Updates:
 **New Genomes**
 
 Over the past 3 months, PATRIC has added XXX new genomes bringing the total number of genomes and plasmids in PATRIC to over 290,000. This includes XXX microbial genomes and XXX phage genomes. Data releases by month were the following:
+
    * September: XXX microbial genomes, XXX phage genomes
    * October: 17,575 microbial genomes, 403 phage genomes
    * November: 9,807 microbial genomes, 53 phage genomes
+   
 The November release included new manually curated AMR phenotype data for 6,797 genomes, which was collected from 14 publications. The taxonomy, BLAST, and MinHash databases and PATRIC FTP site have been updated to reflect these new genomes. The full list of available microbial and host genomes can be accessed `here
 <https://www.patricbrc.org/view/GenomeList/?or(keyword(Bacteria),keyword(Archaea),keyword(Eukaryota))#view_tab=genomes>`__.
 
