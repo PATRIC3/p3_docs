@@ -23,7 +23,7 @@ Over the past 3 months, PATRIC has added 31,523 new genomes bringing the total n
 - October: 11,813 microbial genomes, 187 phage genomes
 - November: 9,572 microbial genomes, 5 phage genomes
    
-The November release included new manually curated AMR phenotype data for 6,797 genomes, which was collected from 14 publications. The taxonomy, BLAST, and MinHash databases and PATRIC FTP site have been updated to reflect these new genomes. Click the links to access the full list of available bacterial, archaeal and phage genomes.  Click the links to access the full list of available `bacterial <https://patricbrc.org/view/Taxonomy/2#view_tab=genomes>`_, `archaeal <https://patricbrc.org/view/Taxonomy/2157>`_, and `phage <https://patricbrc.org/view/Taxonomy/10239>`_ genomes.
+The November release included new manually curated AMR phenotype data for 6,797 genomes, which was collected from 14 publications. The taxonomy, BLAST, and MinHash databases and PATRIC FTP site have been updated to reflect these new genomes.  Click the links to access the full list of available `bacterial <https://patricbrc.org/view/Taxonomy/2#view_tab=genomes>`_, `archaeal <https://patricbrc.org/view/Taxonomy/2157>`_, and `phage <https://patricbrc.org/view/Taxonomy/10239>`_ genomes.
 
 New Website Features:
 ----------------------
