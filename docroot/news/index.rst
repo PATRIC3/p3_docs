@@ -9,9 +9,9 @@ News Articles
    :description: PATRIC News RSS feed
    :link: https://docs.patricbrc.org/
 
+   2019/20191213-patric-sep-dec-2019-release
    2019/20190731-patric-july-2019-release
    2019/20190530-patric-may-2019-release
-   2019/20190405-patric-march-2019-release
    
 .. toctree::
    :maxdepth: 2
