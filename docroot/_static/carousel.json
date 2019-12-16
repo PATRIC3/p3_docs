@@ -1,4 +1,9 @@
 [{
+    "title": "PATRIC Data and Website Releases, September – December 2019",
+    "desc": "This PATRIC release includes a new Genome Assembly Service, new Heatmap Viewer, new analysis Job Scheduler, and over 31,000 new microbial genomes.",
+    "img": "https://docs.patricbrc.org/_static/announcements/sep-dec-2019-release.png",
+    "link": "https://docs.patricbrc.org/news/2019/20191213-patric-sep-dec-2019-release.html"
+},{
     "title": "New Bioinformatics Hub at UChicago Enables Next-Gen Infectious Disease Research",
     "desc": "The new Bacterial and Viral Bioinformatics Resource Center (BV-BRC) combines two independent efforts at UChicago and the J. Craig Venter Institute (JCVI) into a common infrastructure that will support richer scientific data and more powerful analytic tools",
     "img": "https://docs.patricbrc.org/_static/announcements/bv-brc.png",
