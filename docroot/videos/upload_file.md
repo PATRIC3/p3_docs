@@ -1,4 +1,4 @@
-# Uploading files to the workspace (23:43)
+# Uploading files to the workspace (14:51)
 
 Step-by-step instructions for uploading a file into the PATRIC private workspace.
 
