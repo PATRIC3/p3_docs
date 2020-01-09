@@ -1,7 +1,7 @@
 # Fastq Utilities Service
 
 ## Overview
-The Fastq Utilities Service provides the capability for aligning, measuring base call quality, and trimming fastq read files to estimate quality. Fastq reads (paired-or single-end, long or short, zipped or not), as well as Sequence Read Archive accession numbers are supported.  The three components (trim, fastqc and align) can be used independently, or in any combination.
+The Fastq Utilities Service makes available common operations for FASTQ files from high throughput sequencing, including: generating FastQC reports of base call quality; aligning reads to genomes using Bowtie2 to generate BAM files, saving unmapped reads, and generating SamStat reports of the amount and quality of alignments; and trimming of adapters and low quality sequences using TrimGalore and CutAdapt. The Fastq Utiliites app allows the user to define a pipeline of activities to be performed to designated FASTQ files. The three components (trim, fastqc and align) can be used independently, or in any combination.These actions happen in the order in which they are specified. In the case of trimming, the action will replace untrimmed read files with trimmed ones as the target for all subsequent actions. FASTQ reads (paired-or single-end, long or short, zipped or not), as well as Sequence Read Archive accession numbers are supported.  
 
 ### See also
 * [Fastq Utilities Service](https://patricbrc.org/app/FastqUtil)
