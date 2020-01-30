@@ -6,7 +6,7 @@ PATRIC/RAST Bacterial and IRD/ViPR Viral Workshops at Argonne National Laborator
 .. feed-entry::
    :date: 2020-01-30
 
-The new Bacterial-Viral BRC (BV-BRC), a collaboration between the PATRIC/RAST and IRD/ViPR teams, will be offering a joint bacterial and viral workshop March 23-27, 2020, at Argonne National Laboratory in the suburbs of Chicago, IL. The first 2.5 day section will focus on bacterial data and analyses using the PATRIC/RAST system and the second 2.5 day section will focus on viral data and analysis usind the IRD/ViPR systems. **Participants may attend one or both sections.**
+The new Bacterial-Viral BRC (BV-BRC), a collaboration between the PATRIC/RAST and IRD/ViPR teams, will be offering a joint bacterial and viral workshop March 23-27, 2020, at Argonne National Laboratory in the suburbs of Chicago, IL. The first 2.5 day section will focus on bacterial data and analyses using the PATRIC/RAST system and the second 2.5 day section will focus on viral data and analysis using the IRD/ViPR systems. Participants may attend one or both sections.
 
 .. cut::
 
