@@ -18,7 +18,7 @@ The new Bacterial-Viral BRC (BV-BRC), a collaboration between the PATRIC/RAST an
  | Rooms 1405-1406-1407
 
 **DATES AND TIMES**
- |The workshop is composed of two 2.5-day sessions. Participants may sign up for either, or both, sessions. 
+The workshop is composed of two 2.5-day sessions. Participants may sign up for either, or both, sessions. 
 
  | Bacterial Session: Bioinformatics using PATRIC/RAST
  | March 23, 2020: 9:00 am – 5:00 pm
