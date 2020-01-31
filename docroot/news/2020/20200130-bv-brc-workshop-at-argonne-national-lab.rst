@@ -10,21 +10,28 @@ The new Bacterial-Viral BRC (BV-BRC), a collaboration between the PATRIC/RAST an
 
 .. cut::
 
-
-
-The workshop will be limited to 40 people on a first-come, first-served basis. There is no fee for the workshop, but participants are responsible for their own travel expenses. If you wish to participate, we encourage you to respond quickly at rast-workshop@mcs.anl.gov
-
-**NOTE**: All workshop attendees must also separately fill out the “Argonne Visitor Request” form at: https://apps.anl.gov/registration/visitors as soon as possible — but especially non-U.S. Citizens, since they will take additional time to be cleared. Please enter Lisa Hundley, **lhundley@anl.gov**, for the “Sponsor’s E-mail Address.”
-
 **LOCATION**
-
 | Argonne National Laboratory
 | 9700 Cass Avenue
 | Lemont, IL 60439
+| Building 240 - TCS
+| Rooms 1405-1406-1407
 
-| **Tuesday:** Building 240 Conference Center - Rooms 1406/1407
-| **Wednesday:** Building 241 - Room D172
-| **Thursday:** Building 241 - Room D172
+**DATES AND TIMES**
+The workshop is composed of two 2.5-day sessions. Participants may sign up for either, or both, sessions. 
 
-**AGENDA**
+Bacterial Session: Bioinformatics using PATRIC/RAST
+March 23, 2020: 9:00 am – 5:00 pm
+March 24, 2020: 9:00 am – 5:00 pm
+March 25, 2020: 9:00 am – 12:00 pm
 
+Viral Session: Bioinformatics using IRD/ViPR
+March 25, 2020: 1:00 – 5:00 pm
+March 26, 2020: 9:00 am – 5:00 pm
+March 27, 2020: 9:00 am – 5:00 pm
+
+**REGISTRATION**
+
+Registration is free. Participants must pay for their own travel, lodging, and meals. Limited lodging and food services are available on the Argonne campus. The workshop will be limited to 40 people on a first-come, first-served basis. 
+
+REGISTER HERE
