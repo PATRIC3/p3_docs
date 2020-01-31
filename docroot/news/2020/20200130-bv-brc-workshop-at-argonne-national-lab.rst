@@ -36,4 +36,6 @@ The workshop is composed of two 2.5-day sessions. Participants may sign up for e
 
 Registration is free. Participants must pay for their own travel, lodging, and meals. Limited lodging and food services are available on the Argonne campus. The workshop will be limited to 40 people on a first-come, first-served basis. 
 
+.. rst-class:: registration-link
+
 To register, click `HERE <https://www.surveymonkey.com/r/KVHNRDN>`_.
