@@ -16,6 +16,10 @@ p {
     color: #454545;
 }
 
+.registration-link {
+    font-size: 18px;
+}
+
 .wy-nav-side {
     color: #404040;
     background: #e3e3e3;

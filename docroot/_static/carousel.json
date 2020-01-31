@@ -1,4 +1,9 @@
 [{
+    "title": "PATRIC/RAST Bacterial and IRD/ViPR Viral Workshops at Argonne National Laboratory, March 23-27, 2019",
+    "desc": "The new Bacterial-Viral BRC (BV-BRC), a collaboration between the PATRIC/RAST and IRD/ViPR teams",
+    "img": "https://docs.patricbrc.org/_static/announcements/workshop-1.png",
+    "link": "https://docs.patricbrc.org/news/2020/20200130-bv-brc-workshop-at-argonne-national-lab.html"
+},{
     "title": "PATRIC Data and Website Releases, September – December 2019",
     "desc": "This PATRIC release includes a new Genome Assembly Service, new Heatmap Viewer, new analysis Job Scheduler, and over 31,000 new microbial genomes.",
     "img": "https://docs.patricbrc.org/_static/announcements/sep-dec-2019-release.png",
@@ -23,9 +28,4 @@
     "desc": "This PATRIC release includes over 9,200 new genomes bringing the total to over 215,000, as well as other minor enhancements.",
     "img": "https://docs.patricbrc.org/_static/announcements/jan-release-2019.png",
     "link": "https://docs.patricbrc.org/news/2019/20190201-patric-january-2019-release.html" 
-},{
-    "title": "Introducing PATRIC Instructional Videos",
-    "desc": "In addition to the current Tutorials, User Guides, and Webinars, PATRIC now features short instructional YouTube videos that demonstrate how to perform a useful task in the PATRIC website",
-    "img": "https://docs.patricbrc.org/_static/announcements/instructional-videos.png",
-    "link": "https://docs.patricbrc.org/news/2018/20181204-instructional-videos.html"
 }]
