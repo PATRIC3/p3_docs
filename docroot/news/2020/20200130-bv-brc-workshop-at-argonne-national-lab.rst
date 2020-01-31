@@ -11,16 +11,11 @@ The new Bacterial-Viral BRC (BV-BRC), a collaboration between the PATRIC/RAST an
 .. cut::
 
 **LOCATION**
-
-Argonne National Laboratory
-
-9700 Cass Avenue
-
-Lemont, IL 60439
-
-Building 240 - TCS
-
-Rooms 1405-1406-1407
+ | Argonne National Laboratory
+ | 9700 Cass Avenue
+ | Lemont, IL 60439
+ | Building 240 - TCS
+ | Rooms 1405-1406-1407
 
 **DATES AND TIMES**
 The workshop is composed of two 2.5-day sessions. Participants may sign up for either, or both, sessions. 
