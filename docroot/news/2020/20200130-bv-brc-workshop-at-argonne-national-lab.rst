@@ -11,6 +11,7 @@ The new Bacterial-Viral BRC (BV-BRC), a collaboration between the PATRIC/RAST an
 .. cut::
 
 **LOCATION**
+
  | Argonne National Laboratory
  | 9700 Cass Avenue
  | Lemont, IL 60439
@@ -21,12 +22,12 @@ The new Bacterial-Viral BRC (BV-BRC), a collaboration between the PATRIC/RAST an
 
 The workshop is composed of two 2.5-day sessions. Participants may sign up for either, or both, sessions. 
 
- | Bacterial Session: Bioinformatics using PATRIC/RAST
+ | *Bacterial Session: Bioinformatics using PATRIC/RAST*
  | March 23, 2020: 9:00 am – 5:00 pm
  | March 24, 2020: 9:00 am – 5:00 pm
  | March 25, 2020: 9:00 am – 12:00 pm
 
- | Viral Session: Bioinformatics using IRD/ViPR
+ | *Viral Session: Bioinformatics using IRD/ViPR*
  | March 25, 2020: 1:00 – 5:00 pm
  | March 26, 2020: 9:00 am – 5:00 pm
  | March 27, 2020: 9:00 am – 5:00 pm

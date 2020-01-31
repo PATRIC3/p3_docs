@@ -9,6 +9,7 @@ News Articles
    :description: PATRIC News RSS feed
    :link: https://docs.patricbrc.org/
 
+   2020/20200130-bv-brc-workshop-at-argonne-national-lab
    2019/20191213-patric-sep-dec-2019-release
    2019/20190731-patric-july-2019-release
    2019/20190530-patric-may-2019-release
@@ -16,7 +17,8 @@ News Articles
 .. toctree::
    :maxdepth: 2
    :caption: News Articles Archives:
-
+   
+   2020/index
    2019/index
    2018/index
    2017/index
