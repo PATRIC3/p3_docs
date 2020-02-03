@@ -1,6 +1,6 @@
 :github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2020/20200130-bv-brc-workshop-at-argonne-national-lab.rst
 
-PATRIC/RAST Bacterial and IRD/ViPR Viral Workshops at Argonne National Laboratory, March 23-27, 2019
+PATRIC/RAST Bacterial and IRD/ViPR Viral Workshops at Argonne National Laboratory, March 23-27, 2020
 ====================================================================================================
 
 .. feed-entry::
