@@ -16,3 +16,6 @@ Below are short YouTube instructional videos to help with performing common usef
    upload_file
    taxonomic_classification_service
    venn_diagram
+   download_private_genomes
+   metagenomic_read_mapping_service
+   set_upload_type
