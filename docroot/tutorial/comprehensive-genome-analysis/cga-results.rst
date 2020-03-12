@@ -14,8 +14,8 @@ The output of the pipeline looks like this
 .. image:: images/cga_result.png
 
 The Full Genome Report contains a lengthy text analysis (with tables and diagrams) of the genome and its
-annotation.  Among the diagrams will be a phylogenetic tree showing the new genome’s relationship to its
-neighbors.  The list of neighbors will be in the text file *tree_ingroup.txt*.
+annotation. Among the diagrams will be a phylogenetic tree showing the new genome's relationship to its
+neighbors. The list of neighbors will be in the text file *tree_ingroup.txt*.
 
 Checking the Annotation Quality
 -------------------------------

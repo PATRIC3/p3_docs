@@ -1,6 +1,15 @@
-# Publications
+# Publications by PATRIC
+The publications listed below were developed, at least in part, by members of the PATRIC team and supported by the PATRIC contract. For a list of publications that cite PATRIC, visit the <a href="https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1">**PATRIC Google Scholar page**</a>.
 
-[**List of publications that cite PATRIC**](https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1)
+## 2019
+<p>Gagetti P, Wattam AR, Giacoboni G, De Paulis A, Bertona E, Corso A, Rosato AE. <strong>Identification and molecular epidemiology of methicillin resistant Staphylococcus pseudintermedius strains isolated from canine clinical samples in Argentina.</strong> BMC Vet Res. 2019 Jul 27;15(1):264. doi: 10.1186/s12917-019-1990-x.PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=31351494">31351494</a>. PMCID: <a href="PMC6660709">PMC6660709</a>. 
+</p>
+
+<p>Nguyen M, Long SW, McDermott PF, Olsen RJ, Olson R, Stevens RL, Tyson GH, Zhao S, Davis JJ. <strong>Using machine learning to predict antimicrobial minimum inhibitory concentrations and associated genomic features for nontyphoidal Salmonella.</strong> Journal of clinical microbiology. 2019 Feb 1;57(2):e01260-18. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+30333126">30333126</a>. DOI: <a href="https://doi.org/10.1128/JCM.01260-18">10.1128/JCM.01260-18</a>.
+</p>
+
+<p>Parrello B, Butler R, Chlenski P, Olson R, Overbeek J, Pusch GD, Vonstein V, Overbeek R. <strong>A machine learning-based service for estimating quality of genomes using PATRIC</strong>. BMC Bioinformatics. 2019; 20, Article number: 486. <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3068-y">Open Access</a>.
+</p>
 
 ## 2018
 <p>Banerjee K, Sekar P, Krishnan P, Wattam AR, Roy S, Hays JP, Menezes GA. <strong>Whole genome sequence analysis of NDM-1, CMY-4, and sHV-12 coproducing Salmonella enterica serovar typhimurium isolated from a case of fatal burn wound infection.</strong> Infection and Drug Resistance. 2018;11:2491. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30555248">30555248</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6278884/">PMC6278884</a>.
@@ -11,9 +20,6 @@
 
 <p>Nguyen M, Brettin T, Long SW, Musser JM, Olsen RJ, Olson R, Shukla M, Stevens RL, Xia F, Yoo H, Davis JJ.  <strong>Developing an in silico minimum inhibitory concentration panel test for Klebsiella pneumoniae.</strong> Sci Rep. 2018 Jan 11;8(1):421. doi: 10.1038/s41598-017-18972-w. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+29323230">29323230</a>.
 	PMCID:<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5765115/">PMC5765115</a>.
-</p>
-
-<p>Nguyen M, Long SW, McDermott PF, Olsen RJ, Olson R, Stevens RL, Tyson GH, Zhao S, Davis JJ. <strong>Using machine learning to predict antimicrobial minimum inhibitory concentrations and associated genomic features for nontyphoidal Salmonella.</strong> Journal of clinical microbiology. 2018 Oct 17:JCM-01260. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+30333126">30333126</a>. DOI: <a href="https://doi.org/10.1128/JCM.01260-18">10.1128/JCM.01260-18</a>.
 </p>
 
 <p>Viana MV, Sahm A, Neto AG, Figueiredo HC, Wattam AR, Azevedo V. <strong>Rapidly evolving changes and gene loss associated with host switching in Corynebacterium pseudotuberculosis.</strong> PloS one. 2018 Nov 12;13(11):e0207304. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMID%3A+30419061">30419061</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6231662/">PMC6231662</a>.

@@ -1,4 +1,4 @@
-:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2019/2019040507-patric-march-2019-release.rst
+:github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2019/20190405-patric-march-2019-release.rst
 
 PATRIC March 2019 Data and Website Release
 ==============================================

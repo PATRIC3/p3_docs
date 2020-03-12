@@ -1,7 +1,7 @@
 # RNA-Seq Analysis
 
 ## Overview
-The RNA-Seq Analysis Service provides services for aligning, assembling, and testing differential expression on RNA-Seq data. The service provides three recipes for processing RNA-Seq data: 1) Rockhopper, based on the popular Rockhopper tool for processing prokaryotic RNA-Seq data; 2) Tuxedo, based on the tuxedo suite of tools (i.e., Bowtie, Cufflinks, Cuffdiff); and 3) and HISAT2 for host (human, etc.) reference genomes. The service provides SAM/BAM output for alignment, tab delimited files profiling expression levels, and differential expression test results between conditions. A tutorial for using the RNA-Seq Analysis Service is available here.
+The RNA-Seq Analysis Service provides services for aligning, assembling, and testing differential expression on RNA-Seq data. The service provides two recipes for processing RNA-Seq data: 1) Tuxedo, based on the tuxedo suite of tools (i.e., Bowtie, Cufflinks, Cuffdiff); and 2) and HISAT2 for host (human, etc.) reference genomes. The service provides SAM/BAM output for alignment, tab delimited files profiling expression levels, and differential expression test results between conditions. A tutorial for using the RNA-Seq Analysis Service is available here.
 
 The RNA-Seq Service can be accessed from the Services Menu at the top of the PATRIC website page and via the PATRIC Command Line Interface (CLI).
 
@@ -15,15 +15,12 @@ The **RNA-Seq Analysis** submenu option under the **Services** main menu (Transc
 ![RNA-Seq Analysis Menu](../images/services_menu.png)
 
 ## Options
-![RNA-Seq Analysis Input Form](../images/rna-seq_analysis_input_form.png) 
+![RNA-Seq Analysis Input Form](../images/rna-seq_analysis_input_form2.png) 
 
 ## Parameters
 
 ### Strategy
 This parameter governs the software used to align, assemble, quantify, and compare reads from different samples.
-
-**Rockhopper:** Runs the [Rockhopper
-software](http://nar.oxfordjournals.org/content/41/14/e140) designed for RNA-Seq data for  prokarytoic organisms. With this strategy selected Rockhopper will handle all steps (alignment, assembly, quanitification, and differential expression testing).
 
 **Tuxedo:** Runs the [tuxedo
 strategy](http://www.nature.com/nprot/journal/v7/n3/abs/nprot.2012.016.html) using Bowtie2, Cufflinks, and CuffDiff to align, assemble, and compare samples respectively. This is a similar strategy as used by

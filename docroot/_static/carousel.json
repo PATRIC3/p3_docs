@@ -1,26 +1,31 @@
 [{
+    "title": "RESECHEDULED! - PATRIC/RAST Bacterial and IRD/ViPR Viral Workshops at Argonne National Laboratory",
+    "desc": "The new Bacterial-Viral BRC (BV-BRC), a collaboration between the PATRIC/RAST and IRD/ViPR teams",
+    "img": "https://docs.patricbrc.org/_static/announcements/workshop-1.png",
+    "link": "https://docs.patricbrc.org/news/2020/20200130-bv-brc-workshop-at-argonne-national-lab.html"
+},{
+    "title": "PATRIC Data and Website Releases, September – December 2019",
+    "desc": "This PATRIC release includes a new Genome Assembly Service, new Heatmap Viewer, new analysis Job Scheduler, and over 31,000 new microbial genomes.",
+    "img": "https://docs.patricbrc.org/_static/announcements/sep-dec-2019-release.png",
+    "link": "https://docs.patricbrc.org/news/2019/20191213-patric-sep-dec-2019-release.html"
+},{
+    "title": "New Bioinformatics Hub at UChicago Enables Next-Gen Infectious Disease Research",
+    "desc": "The new Bacterial and Viral Bioinformatics Resource Center (BV-BRC) combines two independent efforts at UChicago and the J. Craig Venter Institute (JCVI) into a common infrastructure that will support richer scientific data and more powerful analytic tools",
+    "img": "https://docs.patricbrc.org/_static/announcements/bv-brc.png",
+    "link": "https://www.cs.uchicago.edu/news/article/bioinformatics-hub/"
+},{
+    "title": "PATRIC July Release: New Fastq Utilities Service",
+    "desc": "The new Fastq Utilities Service provides the capability for aligning, measuring base call quality, and trimming fastq read files to estimate quality.",
+    "img": "https://docs.patricbrc.org/_static/announcements/fastq-utilities-service.png",
+    "link": "https://docs.patricbrc.org/news/2019/20190731-patric-july-2019-release.html"
+},{
     "title": "PATRIC March 2019 Data and Website Release",
     "desc": "This PATRIC release includes a new Metagenome Taxonomic Classification Service; a new Metagenomic Read Mapping Service; a new Codon Tree option for the Phylogenetic Tree Building Service; and over 18,250 new microbial genomes.",
     "img": "https://docs.patricbrc.org/_static/announcements/march-release-2019.png",
     "link": "https://docs.patricbrc.org/news/2019/20190405-patric-march-2019-release.html"
 },{
-    "title": "PATRIC/RAST Workshop at Argonne National Laboratory, April 16-18, 2019",
-    "desc": "The PATRIC/RAST teams will be offering a tutorial workshop April 16-18, 2019, at Argonne National Laboratory in the suburbs of Chicago, IL.",
-    "img": "https://docs.patricbrc.org/_static/announcements/workshop-1.png",
-    "link": "https://docs.patricbrc.org/news/2019/20190206-patric-workshop-at-argonne-national-lab.html"
-},{
     "title": "PATRIC January 2019 Data Release",
     "desc": "This PATRIC release includes over 9,200 new genomes bringing the total to over 215,000, as well as other minor enhancements.",
     "img": "https://docs.patricbrc.org/_static/announcements/jan-release-2019.png",
     "link": "https://docs.patricbrc.org/news/2019/20190201-patric-january-2019-release.html" 
-},{
-    "title": "PATRIC November 2018 Data and Website Release",
-    "desc": "This PATRIC release includes a new Genome Alignment Service; enhancements to the Metagenomic Binning, Tn-Seq, and RNA-Seq Services; 5 new instructional videos; and over 10,000 new microbial genomes.",
-    "img": "https://docs.patricbrc.org/_static/announcements/november-release-2018.png",
-    "link": "https://docs.patricbrc.org/news/2018/20181207-patric-november-2018-release.html" 
-},{
-    "title": "Introducing PATRIC Instructional Videos",
-    "desc": "In addition to the current Tutorials, User Guides, and Webinars, PATRIC now features short instructional YouTube videos that demonstrate how to perform a useful task in the PATRIC website",
-    "img": "https://docs.patricbrc.org/_static/announcements/instructional-videos.png",
-    "link": "https://docs.patricbrc.org/news/2018/20181204-instructional-videos.html"
 }]

@@ -1,0 +1,68 @@
+/*custom styles for rtd theme*/
+body {
+    font-family: "Roboto",Arial,sans-serif;
+}
+
+h1,h2,.rst-content .toctree-wrapper p.caption,h3,h4,h5,h6,legend {
+    font-weight: 500;
+    font-family: "Roboto",Arial,sans-serif;
+}
+h2 { 
+    font-size: 20px;
+}
+
+p {
+    font-size: 14px;
+    color: #454545;
+}
+
+.registration-link {
+    font-size: 18px;
+}
+
+.wy-nav-side {
+    color: #404040;
+    background: #e3e3e3;
+}
+
+.wy-side-nav-search>a, .wy-side-nav-search .wy-dropdown>a, .wy-menu-vertical a {
+    color: #404040;
+}
+
+.wy-menu-vertical a:hover {
+    background-color: #e3e3e3;
+}
+
+.wy-menu-vertical a:active {
+    background-color: #e3e3e3;
+    color: #404040;
+}
+
+.wy-side-nav-search img.logo, .wy-side-nav-search .wy-dropdown img.logo {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    width: auto;
+    border-radius: 0;
+    max-width: 100%;
+    background: transparent;
+}
+
+.wy-side-nav-search .branding { margin: 8px; }
+.wy-side-nav-search .branding, .wy-side-nav-search .branding a { color: #404040; }
+.wy-side-nav-search .branding a:hover { color: #404040; text-decoration: underline; }
+
+a.icon-home { display: none; }
+
+.wy-menu-vertical li.toctree-l1.current > ul { background-color: #fcfcfc; }
+
+.wy-menu-vertical li.toctree-l1.current>a {
+    border-top: none; 
+    border-bottom: none;
+    border-right: solid 1px #c9c9c9;
+}
+
+.wy-menu-vertical li.toctree-l1.current {
+    border-bottom: solid 1px #c9c9c9;
+    border-top: solid 1px #c9c9c9;
+}

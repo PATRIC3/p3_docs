@@ -64,15 +64,22 @@ you can use the following one line shell script to read the list of genome ids f
 and download corresponding .fna files from the PATRIC FTP site. If you are interested in other 
 file type, say .PATRIC.faa or .PATRIC.features.tab, simply replace .fna with that extension. 
 
-  :: 
+  ::
 
-  for i in `cat genome_list`; do wget -qN "ftp://ftp.patricbrc.org/genomes/$i/$i.fna"; done
+   for i in `cat genome_list`; do wget -qN "ftp://ftp.patricbrc.org/genomes/$i/$i.fna";
+   done
   
 
 Uploading/Downloading Data From Your Private Workspace using FTP Client
 -----------------------------------------------------------------------
 
-You can use FTP clients, such as `FileZilla <https://filezilla-project.org/>`_ or `lftp <https://lftp.yar.ru/>`_ , to batch upload/download data to your private workspace.
+| You can use a FTP client to batch upload/download data to your private workspace.
+
+| Suggested clients:
+| `FileZilla <https://filezilla-project.org/>`_ (Windows, MacOS, & Linux)
+| `WinSCP <https://winscp.net/eng/index.php>`_ (Windows)
+| `Cyberduck <https://cyberduck.io/>`_ (MacOS & Windows)
+| `LFTP <https://lftp.yar.ru/>`_ (Linux)
 
   ::
   

@@ -30,9 +30,9 @@ desktop session is suitable::
   distro-build-mac-app --app-name PATRIC --icon ~/icon/patric.icns --banner "Welcome to the PATRIC Command Line Interface." ../build-1
 
 
-==============================
+==================================
  Building the Ubuntu CLI Release
-==============================
+==================================
 
 Clone the PATRIC distribution and tools::
 

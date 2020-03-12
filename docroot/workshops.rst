@@ -15,15 +15,39 @@ The map below shows locations of past workshops and the tables following provide
     :height: 345px
     :alt: Map of PATRIC workshops
 
+Previous Workshop Slides
+-------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   workshop_slides/workshop_May_2018
+   workshop_slides/workshop_Aug_2017
+
 PATRIC 3
 --------
 
-.. table:: PATRIC 3 Workshops
-   :widths: 2in 1in 0.5in 1in
-   
 +----------------------------------------------+---------------+---------+--------------+
 | Institute/Conference                         | Location      | Date    | Participants |
 +==============================================+===============+=========+==============+
+| DuPont                                       | Madison,      | Feb '19 |    26        |
+|                                              | WI            |         |              |
++----------------------------------------------+---------------+---------+--------------+
+| Bacteriophage Meeting at                     | Olympia,      | Feb '19 |    57        |
+| Evergreen State College                      | WA            |         |              |
++----------------------------------------------+---------------+---------+--------------+
+| Seattle Children’s Hospital                  | Seattle,      | Jun '19 |    26        |
+|                                              | WA            |         |              |
++----------------------------------------------+---------------+---------+--------------+
+| Argonne National Laboratory                  | Lemont,       | Apr '19 |    35        |
+|                                              | IL            |         |              |
++----------------------------------------------+---------------+---------+--------------+
+| Odense University Hospital                   | Odense,       | Mar '19 |    24        |
+|                                              | Denmark       |         |              |
++----------------------------------------------+---------------+---------+--------------+
+| Explora Biotech                              | Mestre,       | Feb '19 |    30        |
+|                                              | Italy         |         |              |
++----------------------------------------------+---------------+---------+--------------+
 | University of Pittsburgh                     | Pittsburgh    | Feb '19 |    34        |
 |                                              | PA            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
@@ -33,8 +57,8 @@ PATRIC 3
 | Fort Detrick                                 | Frederick,    | Dec '18 |    23        |
 |                                              | MD            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
-| Argonne National Laboratory                  | Argonne, IL   | Oct '18 |    30        |
-|                                              |               |         |              |
+| Argonne National Laboratory                  | Lemont ,      | Oct '18 |    30        |
+|                                              | IL            |         |              |
 +----------------------------------------------+---------------+---------+--------------+
 | ASM Conference on Rapid and Applied Next     | Tysons,       | Sep '18 |    45        |
 | Gen Seqeuncing and Bioinformatics Pipelines  | VA            |         |              |
@@ -163,9 +187,6 @@ PATRIC 3
 
 PATRIC 2
 --------
-
-.. table:: PATRIC 2 Workshops
-    :widths: 50 20 10 20
 
 +----------------------------------------------+---------------+---------+--------------+
 | Institute/Conference                         | Location      | Date    | Participants |

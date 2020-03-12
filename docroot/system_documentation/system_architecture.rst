@@ -219,17 +219,11 @@ The hardware hosted at Argonne National Laboratory on behalf of the University o
   - 12 x E5-2620 CPUs
   - 256 GB RAM
 
-- Primary Solr server
+- Solr Cloud servers (x3)
 
-  - 160 E7-8870 v4 CPUs
-  - 1.5 TB RAM
-  - 6.2TB SSD storage
-
-- Secondary Solr server
-
-  - 24 x E5-2620
-  - 256 GB RAM
-  - 10 TB raid disk
+  - 32 Xeon Gold 6134 CPUs
+  - 760 GB RAM
+  - 5.3 TB SSD storage
 
 - ARAST Server and Primary Compute
 
