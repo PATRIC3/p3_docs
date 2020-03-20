@@ -1,6 +1,11 @@
 # Publications by PATRIC
 The publications listed below were developed, at least in part, by members of the PATRIC team and supported by the PATRIC contract. For a list of publications that cite PATRIC, visit the <a href="https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1">**PATRIC Google Scholar page**</a>.
 
+## 2020
+<p>Davis JJ, Wattam AR, Aziz RK, Brettin T, Butler R, Butler RM, Chlenski P, Conrad N, Dickerman A, Dietrich EM, Gabbard JL. <strong>The PATRIC Bioinformatics Resource Center: expanding data and analysis capabilities.</strong> Nucleic acids research. 2020 Jan 8;48(D1):D606-12.
+</p>
+
+
 ## 2019
 <p>Gagetti P, Wattam AR, Giacoboni G, De Paulis A, Bertona E, Corso A, Rosato AE. <strong>Identification and molecular epidemiology of methicillin resistant Staphylococcus pseudintermedius strains isolated from canine clinical samples in Argentina.</strong> BMC Vet Res. 2019 Jul 27;15(1):264. doi: 10.1186/s12917-019-1990-x.PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=31351494">31351494</a>. PMCID: <a href="PMC6660709">PMC6660709</a>. 
 </p>
