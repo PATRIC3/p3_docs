@@ -6,7 +6,7 @@ The publications listed below were developed, at least in part, by members of th
 </p>
 
 <p>
-Saranathan R, Levi MH, Wattam AR, Malek A, Asare E, Behin DS, Pan DH, Jacobs WR Jr, Szymczak WA. J Clin Microbiol. <strong>Helicobacter pylori Infections in the Bronx, New York: Surveying Antibiotic Susceptibility and Strain Lineage by Whole-Genome Sequencing.</strong> 2020 Feb 24;58(3). pii: e01591-19. doi: 10.1128/JCM.01591-19. Print 2020 Feb 24.
+Saranathan R, Levi MH, Wattam AR, Malek A, Asare E, Behin DS, Pan DH, Jacobs WR Jr, Szymczak WA. J Clin Microbiol. <strong>Helicobacter pylori Infections in the Bronx, New York: Surveying Antibiotic Susceptibility and Strain Lineage by Whole-Genome Sequencing.</strong> 2020 Feb 24;58(3). pii: e01591-19. doi: 10.1128/JCM.01591-19. Print 2020 Feb 24. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/31801839">31801839</a> PMCID: PMC7041580 
 </p>
 
 ## 2019
