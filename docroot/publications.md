@@ -5,7 +5,9 @@ The publications listed below were developed, at least in part, by members of th
 <p>Davis JJ, Wattam AR, Aziz RK, Brettin T, Butler R, Butler RM, Chlenski P, Conrad N, Dickerman A, Dietrich EM, Gabbard JL, Gerdes S, Guard A, Kenyon RW, Machi D, Mao C, Murphy-Olson D, Nguyen M, Nordberg EK, Olsen GJ, Olson RD, Overbeek JC, Overbeek R, Parrello B, Pusch GD, Shukla M, Thomas C, VanOeffelen M, Vonstein V, Warren AS, Xia F, Xie D, Yoo H, Stevens R. <strong>The PATRIC Bioinformatics Resource Center: expanding data and analysis capabilities.</strong> Nucleic Acids Res. 2020 Jan 8;48(D1):D606-D612. doi: 10.1093/nar/gkz943. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/31667520">31667520</a>.
 </p>
 
-
+<p>
+Saranathan R, Levi MH, Wattam AR, Malek A, Asare E, Behin DS, Pan DH, Jacobs WR Jr, Szymczak WA. J Clin Microbiol. <strong>Helicobacter pylori Infections in the Bronx, New York: Surveying Antibiotic Susceptibility and Strain Lineage by Whole-Genome Sequencing.</strong> 2020 Feb 24;58(3). pii: e01591-19. doi: 10.1128/JCM.01591-19. Print 2020 Feb 24.
+</p>
 
 ## 2019
 <p>Gagetti P, Wattam AR, Giacoboni G, De Paulis A, Bertona E, Corso A, Rosato AE. <strong>Identification and molecular epidemiology of methicillin resistant Staphylococcus pseudintermedius strains isolated from canine clinical samples in Argentina.</strong> BMC Vet Res. 2019 Jul 27;15(1):264. doi: 10.1186/s12917-019-1990-x.PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=31351494">31351494</a>. PMCID: <a href="PMC6660709">PMC6660709</a>. 
