@@ -19,9 +19,9 @@ Data Updates:
 
 Over the past 3 months, PATRIC has added 54,730 new genomes bringing the total number of genomes and plasmids in PATRIC to over 336,00 bacterial and archaeal genomes and 11,000 phage genomes. Data releases by month were the following:
 
-- January: 22,540 microbial genomes: 7,296 genomes were from GenBank, 15,244 were assembled from SRA. Integrated manually curated AMR phenotype data for 6,951 genomes.
-- February: 19,346 microbial genomes: 3,695 genomes were from GenBank, 15,651 were assembled from SRA.
-- March: 12,844 microbial genomes: 10,602 genomes were from GenBank, 2,242 were assembled from SRA. Integrated manually curated AMR phenotype data for 13,658 genomes.
+- January: 22,540 microbial genomes. 7,296 genomes were from GenBank, 15,244 were assembled from SRA. Integrated manually curated AMR phenotype data for 6,951 genomes.
+- February: 19,346 microbial genomes. 3,695 genomes were from GenBank, 15,651 were assembled from SRA.
+- March: 12,844 microbial genomes. 10,602 genomes were from GenBank, 2,242 were assembled from SRA. Integrated manually curated AMR phenotype data for 13,658 genomes.
    
 The taxonomy, BLAST, and MinHash databases and PATRIC FTP site have been updated to reflect these new genomes.  Click the links to access the full list of available `bacterial <https://patricbrc.org/view/Taxonomy/2#view_tab=genomes>`_, `archaeal <https://patricbrc.org/view/Taxonomy/2157>`_, and `phage <https://patricbrc.org/view/Taxonomy/10239>`_ genomes.
 
