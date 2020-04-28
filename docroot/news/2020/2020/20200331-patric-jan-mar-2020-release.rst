@@ -17,6 +17,26 @@ Data Updates:
 
 **New Genomes**
 
+
+January PATRIC Data Updates
+• Integrated 22,540 new microbial genomes with uniform annotations using PATRIC’s annotation service. Of these, 7,296 genomes were from GenBank, while 15,244 were assembled from SRA.
+• Integrated manually curated AMR phenotype data for 6,951 genomes.
+• Updated taxonomy, BLAST, and MinHash databases, and FTP download files.
+
+
+February PATRIC Data Updates
+• Integrated 19,346 new microbial genomes with uniform annotations using PATRIC’s annotation service. Of these, 3,695 genomes were from GenBank, while 15,651 were assembled from SRA.
+• Updated taxonomy, BLAST, and MinHash databases, and FTP download files.
+
+
+March PATRIC Data Updates
+•	Integrated 12,844 new microbial genomes with uniform annotations using PATRIC’s annotation service. Of these, 10,602 genomes were from GenBank, while 2,242 were assembled from SRA.
+•	Added manually curated AMR phenotype data for 13,658 genomes.   
+•	Updated taxonomy, BLAST, and MinHash databases, and FTP download files.
+
+
+
+
 Over the past 3 months, PATRIC has added 31,523 new genomes bringing the total number of genomes and plasmids in PATRIC to over 293,000. This includes 26,443 microbial genomes and 5,080 phage genomes. Data releases by month were the following:
 
 - September: 5,058 microbial genomes, 4,888 phage genomes
@@ -24,6 +44,11 @@ Over the past 3 months, PATRIC has added 31,523 new genomes bringing the total n
 - November: 9,572 microbial genomes, 5 phage genomes
    
 The November release included new manually curated AMR phenotype data for 6,797 genomes, which was collected from 14 publications. The taxonomy, BLAST, and MinHash databases and PATRIC FTP site have been updated to reflect these new genomes.  Click the links to access the full list of available `bacterial <https://patricbrc.org/view/Taxonomy/2#view_tab=genomes>`_, `archaeal <https://patricbrc.org/view/Taxonomy/2157>`_, and `phage <https://patricbrc.org/view/Taxonomy/10239>`_ genomes.
+
+
+
+
+
 
 New Website Features:
 ----------------------
