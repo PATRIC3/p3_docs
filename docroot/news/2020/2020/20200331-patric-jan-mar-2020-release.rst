@@ -6,7 +6,7 @@ PATRIC Data and Website Releases, January – March 2020
 .. feed-entry::
    :date: 2020-03-31
 
-This PATRIC release includes a new Genome Assembly Service, new Heatmap Viewer, new analysis Job Scheduler, and over 31,000 new microbial genomes.  
+PATRIC data releases for January - March 2020 include over 54,000 new microbial genomes with AMR phenotype data for over 20,000 genomes.  
 
 
 .. cut::
