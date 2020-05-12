@@ -37,10 +37,9 @@ Allows direct upload of read files from the [NCBI Sequence Read Archive](https:/
 ## Selected libraries
 Read files placed here will contribute to a single assembly.
 
-## Parameters
+## Assembly Parameters
 
-### Assembly Strategy
-*Note: Available only when "Read File" is selected above.*
+### Strategy
 
 #### auto
   * Uses Canu if only long reads are submitted
@@ -63,6 +62,15 @@ Read files placed here will contribute to a single assembly.
 
 #### Single-cell
   * SPAdes is an assembler for both single-cell and standard (multicell) assembly, and it improves on the recently released E+V−SC assembler (specialized for single-cell data). 
+
+### Trim Reads Before Assembly
+Selecting "True" opens additional options for trimming reads.
+
+#### Racon and Pilon Iterrations
+  * PATRIC’s assembly service also allows for the correction of assembly errors (or “polish) using Racon and/or Pilon. Both Racon and Pilon take the contigs and the reads mapped to those contigs, and look for discrepancies between the assembly and the majority of the reads. Where there is a discrepancy, Racon or Pilon will correct the assembly if the majority of the reads call for that. Racon is for long reads (PacBio or Nanopore) and Pilon is for shorter reads (Illumina or Ion Torrent). Once the assembly has been corrected with the reads, it is still possible to do another iteration to further improve the assembly, but each one takes time. PATRIC allows for 0 to 4 Racon or Pilon iterations.
+
+#### Min. Contig Length and Coverage
+  * The assembly service also provides the ability to change the minimum contig length and coverage.
 
 ### Domain
 The taxonomic domain of the target organism: bacteria or archaea.
