@@ -43,43 +43,26 @@ Read files placed here will contribute to a single assembly.
 *Note: Available only when "Read File" is selected above.*
 
 #### auto
-  * For short reads:
-    1. Runs BayesHammer on reads
-    2. Assembles with Velvet, IDBA and SPAdes
-    3. Sorts assemblies by ARAST quality score
+  * Uses Canu if only long reads are submitted
+  * Uses Unicycler if long and short reads, as or short reads alone are submitted
 
-  * For long reads (PacBio or Nanopore):
-    1. Assembles with MiniASM
+#### Unicycler
+  * Unicycler is an assembly pipeline that can assemble Illumina-only read sets where it functions as a SPAdes-optimizer. It can also assemble long-read-only sets (PacBio or Nanopore) where it runs a miniasm plus Racon pipeline. For the best possible assemblies, provide both Illumina reads and long reads and it will conduct a hybrid assembly. Unicycler builds an initial assembly graph from short reads using the de novo assembler and then uses a novel semi-global aligner to align long reads to it.
 
-#### fast
-  1. Assembles with MEGAHIT and Velvet.
-  2. Results are sorted by ARAST quality score.
+#### SPAdes
+  * SPAdes is an assembler that is designed to assemble small genomes, such as those from bacteria, and uses a multi-sized De Bruijn graph to guide assembly.
 
-#### full_spades
-1. Runs BayesHammer on reads
-2. Assembles with SPAdes.
+#### Canu
+  * Canu is a long-read assembler which works on both third and fourth generation reads. It is a successor of the old Celera Assembler that is specifically designed for noisy single-molecule sequences. It supports nanopore sequencing, halves depth-of-coverage requirements, and improves assembly continuity. It was designed for high-noise single-molecule sequencing, such as the PacBio RS II/Sequel or Oxford Nanopore MinION.
 
-#### kiki
-1. Runs the Kiki assembler
+#### metaSPAdes
+  * The metaSPAdes software combines new algorithmic ideas with proven solutions from the SPAdes toolkit to address various challenges of metagenomic assembly.
 
-#### miseq
-1. Runs Velvet with hash length 35.
-2. Runs BayesHammer on reads and assembles with SPAdes with k up to 99.
-3. Results are sorted by ARAST quality score.
-4. Works for Illumina MiSeq reads.
+#### plasmidSPAdes
+  * The plasmidSPAdes algorithm is a software tool for assembling plasmids from whole genome sequencing data and benchmarks its performance on a diverse set of bacterial genomes. 
 
-#### plasmid
-1. Runs BayesHammer on reads and assembles with plasmidSPAdes.
-
-#### smart
-- For short reads:
-  1. Runs BayesHammer on reads, Kmergenie to choose hash-length for Velvet
-  2. Assembles with Velvet, IDBA and SPAdes
-  3. Sorts assemblies by ALE score
-  4. Merges the two best assemblies with GAM-NGS
-
-- For long reads (PacBio or Nanopore):
-  1. Assembles with MiniASM
+#### Single-cell
+  * SPAdes is an assembler for both single-cell and standard (multicell) assembly, and it improves on the recently released E+V−SC assembler (specialized for single-cell data). 
 
 ### Domain
 The taxonomic domain of the target organism: bacteria or archaea.
