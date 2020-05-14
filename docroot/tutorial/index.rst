@@ -12,11 +12,9 @@ Genomics
 .. toctree::
    :maxdepth: 1
 
-   genome_assembly/assembly.md
    genome_assembly/assembly2.md
    genome_annotation/annotation.md
    genome_quality_report/genome_quality_report
-   comprehensive-genome-analysis/comprehensive-genome-analysis.md
    comprehensive-genome-analysis/comprehensive-genome-analysis2.md
    comprehensive-genome-analysis/cga-results.rst
    private_genome/private_genome.md

@@ -1,19 +1,19 @@
 # Genome Assembly Service
 
 ## Overview
-The Genome Assembly Service allows single or multiple assemblers to be invoked to compare results. The service attempts to select the best assembly, i.e., assembly with the smallest number of contigs and the longest average contig length. Several assembly workflows or "recipes" are available that have been tuned to fit certain data types or desired analysis criteria such as throughput or rigor. Once the assembly process has started by clicking the Assemble button, the genome is queued as a "job" for the Assembly Service to process, and will increment the count in the Jobs information box on the bottom right of the page. Once the assembly job has successfully completed, the output file will appear in the workspace, available for use in the PATRIC comparative tools and downloaded if desired.
+The Genome Assembly Service allows single or multiple assemblers to be invoked to compare results. Several assembly workflows or "strategies" are available that have been tuned to fit certain data types or desired analysis criteria such as throughput or rigor. Once the assembly process has started by clicking the Assemble button, the genome is queued as a "job" for the Assembly Service to process, and will increment the count in the Jobs information box on the bottom right of the page. Once the assembly job has successfully completed, the output file will appear in the workspace, available for use in the PATRIC comparative tools and downloaded if desired.
 
 ### See also
-* [Genome Assembly Service](https://patricbrc.org/app/Assembly)
-* [Genome Assembly Service Tutorial](https://docs.patricbrc.org/tutorial/genome_assembly/assembly.html)
+* [Genome Assembly Service](https://patricbrc.org/app/Assembly2)
+* [Genome Assembly Service Tutorial](https://docs.patricbrc.org/tutorial/genome_assembly/assembly2.html)
 
 ## Using the Genome Assembly Service
-The **Assembly** submenu option under the **Services** main menu (Genomics category) opens the Genome Assembly input form (*shown below*). *Note: You must be logged into PATRIC to use this service.*
+The **Assembly** submenu option under the **Services** main menu (Genomics category) opens the Genome Assembly input form, shown below. *Note: You must be logged into PATRIC to use this service.*
 
 ![Assembly Menu](../images/services_menu.png)
 
 ## Options
-![Assembly Input Form](../images/assembly_input_form.png) 
+![Assembly Input Form](../images/assembly2_input_form.png) 
 
 ## Selected libraries
 Read files placed here will contribute to a single assembly.
@@ -24,18 +24,13 @@ Read files placed here will contribute to a single assembly.
 
 **Advanced:**
   * File 1 Interleaved - Some paired libraries are available in a single file where each read in a pair occurs in succession. To specify such a file set this parameter to 'True'.
-
-  * Mean Insert Size - This refers to the mean insert size between paired reads. If you have this information you may provide it. If not the assembly algorithm will make an attempt to determine this value.
-  
-  * Std. Insert Size - This refers to the standard deviation of the insert size between paired reads. If you have this information you may provide it. If not the assembly algorithm will make an attempt to determine this value.
   
   * Mate Paired- Defines the orientation of read pairs. Setting Mate Paired to true indicates that the sequencing direction of the two reads in each pair is outward facing.
   
   * Platform - The sequencing platform used for each library.
-    * infer: Infer sequencing platform from read files
-    * illumina: Illumina short reads
-    * pacbio: PacBio long reads
-    * nanopore: MinION long reads
+    * Infer Platform: Infer sequencing platform from read files
+    * Illumina: Illumina short reads
+    * Ion Torrent: Ion Torrent short reads
 
 ## Single read library
 
@@ -45,10 +40,11 @@ The fastq file containing the reads
 **Advanced:**
 
   * Platform - The sequencing platform used for each library.
-    * infer: Infer sequencing platform from read files
-    * illumina: Illumina short reads
-    * pacbio: PacBio long reads
-    * nanopore: MinION long reads
+    * Infer Platform: Infer sequencing platform from read files
+    * Illumina: Illumina short reads
+    * Ion Torrent: Ion Torrent short reads
+    * PacBio: PacBio long reads
+    * Nanopore: MinION long reads
 
 ## SRA run accession
 Allows direct upload of read files from the [NCBI Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) to the PATRIC Assembly Service. Entering the SRR accession number and clicking the arrow will add the file to the selected libraries box for use in the assembly. 
@@ -56,45 +52,21 @@ Allows direct upload of read files from the [NCBI Sequence Read Archive](https:/
 ## Parameters
 
 **Assembly Strategy:**
-  * auto
-    * For short reads:
-      1. Runs BayesHammer on reads
-      2. Assembles with Velvet, IDBA and SPAdes
-      3. Sorts assemblies by ARAST quality score
+  * Auto - Will use Canu if only long reads are submitted. If long and short reads, as or short reads alone are submitted, Unicycler is selected.
+  
+  * Unicycler - Can assemble Illumina-only read sets where it functions as a SPAdes-optimizer. It can also assembly long-read-only sets (PacBio or Nanopore) where it runs a miniasm plus Racon pipeline. For the best possible assemblies, give it both Illumina reads and long reads, and it will conduct a hybrid assembly.
 
-    * For long reads (PacBio or Nanopore):
-      1. Assembles with MiniASM
+  * SPAdes - Designed to assemble small genomes, such as those from bacteria, and uses a multi-sized De Bruijn graph to guide assembly.
 
-  * fast
-    1. Assembles with MEGAHIT and Velvet.
-    2. Results are sorted by ARAST quality score.
+  * Canu - Long-read assembler which works on both third and fourth generation reads. It is a successor of the old Celera Assembler that is specifically designed for noisy single-molecule sequences. It supports nanopore sequencing, halves depth-of-coverage requirements, and improves assembly continuity. It was designed for high-noise single-molecule sequencing (such as the PacBio RS II/Sequel or Oxford Nanopore MinION).
 
-  * full_spades
-    1. Runs BayesHammer on reads
-    2. Assembles with SPAdes.
+  * metaSPAdes - Combines new algorithmic ideas with proven solutions from the SPAdes toolkit to address various challenges of metagenomic assembly.
 
-  * kiki
-    1. Runs the Kiki assembler
+  * plasmidSPAdes - For assembling plasmids from whole genome sequencing data and benchmark its performance on a diverse set of bacterial genomes.
 
-  * miseq
-    1. Runs Velvet with hash length 35.
-    2. Runs BayesHammer on reads and assembles with SPAdes with k up to 99.
-    3. Results are sorted by ARAST quality score.
-    4. Works for Illumina MiSeq reads.
+  * MDA (single-cell) - A new assembler for both single-cell and standard (multicell) assembly, and it improves on the recently released E+V−SC assembler (specialized for single-cell data).
 
-  * plasmid
-    1. Runs BayesHammer on reads and assembles with plasmidSPAdes.
-
-  * smart
-    * For short reads:
-      1. Runs BayesHammer on reads, Kmergenie to choose hash-length for Velvet
-      2. Assembles with Velvet, IDBA and SPAdes
-      3. Sorts assemblies by ALE score
-      4. Merges the two best assemblies with GAM-NGS
-
-    * For long reads (PacBio or Nanopore):
-      1. Assembles with MiniASM
-
+ 
 **Output Folder:** The workspace folder where results will be placed.
 
 **Output Name:** User-provided name used to uniquely identify results.
@@ -103,22 +75,13 @@ Allows direct upload of read files from the [NCBI Sequence Read Archive](https:/
 
 ## Advanced
 
+**Trim reads before assembly:** Trim reads using TrimGalore (True/False)
+
+**Racon iternations** and **Pilon iterations:** Correct assembly errors (or “polish") using racon and/or Pilon. Both racon and Pilon take the contigs and the reads mapped to those contigs, and look for discrepancies between the assembly and the majority of the reads.  Where there is a discrepancy, racon or pilon will correct the assembly if the majority of the reads call for that.  Racon is for long reads (PacBio or Nanopore) and Pilon is for shorter reads (Illumina or Ion Torrent).  Once the assembly has been corrected with the reads, it is still possible to do another iteration to further improve the assembly, but each one takes time. 
+
 **Minimal output contig length:**  Filter out short contigs in final assembly
 
 **Minimal output contig coverage:** Filter out contigs with low read depth in final assembly
-
-### Assembly Pipeline
-The pipeline parameter is an advanced way to customize the assembly workflow by mixing and matching a variety of modules. Each modules works at one of the three stages of the pipeline: preprocessing, assembly, and post-processing. In general, you can compose a pipeline by concating one or more preprocessing modules, one assembler, and optionally one
-postprocessor.
-
-**Example 1: tagdust velvet** This pipeline will simply run tagdust to remove adapter sequences in the reads and then assemble them with velvet. Note: quotes should not be used around the two modules as they have special meaning in pipeline syntax.
-
-**Example 2: a6**  You can also invoke an assembler that we have not included in our curated strategies. In this case, A6 is an assembler with its built-in preprocessing and postprocessing steps.
-
-**Example 3: "tagdust none" "megahit velvet" sspace**  You can use quotes to specify alternative modules you would like to try at each step. This example will launch a cartesian combination of four parallel pipelines: tagdust+megahit+sspace, tagdust+velvet+sspace, megahit+sspace, velvet+sspace.
-
-*Note:* The pipeline parameter overrides the assembly strategy parameter. Not all modules combine well.
-[List of modules supported](https://github.com/PATRIC3/p3_docs/blob/master/docroot/user_guides/services/arast_supported_modules.txt).
 
 ## Buttons
 
@@ -127,40 +90,43 @@ postprocessor.
 **Assemble:** Clicking this button launches the assembly job.
 
 ## Output Results
-![Assembly Service Output Files](../images/genome_assembly_output_files.png) 
+![Assembly Service Output Files](../images/genome_assembly2_output_files.png) 
 
 The Genome Assembly Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
-* **strategy_contigs.fasta** - A FASTA file containing the contigs generated by the selected assembly strategy.
-* **analysis.zip** - A zip file containing results of QUAST (Quality Assessment Tool for Genome Assemblies) for the assembly.
-* **contigs.fa** - File containig contigs for best assembly
-* **report.txt** - Text file providing details of the assembly process.
+* **assembly_graph.gfa.** - File used to generate the assembly graph plot.
+* **assembly_graph.plot.svg** - Image file containing assembly graph shown as a Bandage plot.
+* **assembly_report.html** - Web-viewable report of the assembly including information about the submitted reads and assembly process used.
+* **contigs.fasta** - File containig contigs for best assembly.
+* **p3_assembly.log** - Log file providing steps used in the assembly.
+* **quast_report.html** - Web-viewable Quast-generated report providing evaluation information, summary tables, and plots regarding the assembly.
+* **quast_report.txt** - Text version of the Quast report.
+* **run_details.json** - Json-formatted file containing information about the assembly process.
+* **unicycler.log** - Log file generated by the Unicycler assembly .
+* **p3x-assembly.stderr** - Standard error file generated by the assembly job process.
+* **p3x-assembly.stdout** - Standard output file generated by the assembly job process.
 
 ### Action buttons
 After selecting one of the output files by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
 
 * **Hide/Show:** Toggles (hides) the right-hand side Details Pane.
-* **Guide** Link to the corresponding User Guide
+* **Guide:** Link to the corresponding User Guide
 * **Download:**  Downloads the selected item.
-* **View** Displays the content of the file, typically as plain text or rendered html, depending on filetype.
-* **Delete** Deletes the file.
-* **Rename** Allows renaming of the file.
+* **View:** Displays the content of the file, typically as plain text or rendered html, depending on filetype.
+* **Delete:** Deletes the file.
+* **Rename:** Allows renaming of the file.
 * **Copy:** Copies the selected items to the clipboard.
-* **Move** Allows moving of the file to another folder.
-* **Edit Type** Allows changing of the type of the file in terms of how PATRIC interprets the content and uses it in other services or parts of the website.  Allowable types include unspecified, contigs, nwk, reads, differential expression input data, and differential expression input metadata.
+* **Move:** Allows moving of the file to another folder.
+* **Edit Type:** Allows changing of the type of the file in terms of how PATRIC interprets the content and uses it in other services or parts of the website.  Allowable types include unspecified, contigs, nwk, reads, differential expression input data, and differential expression input metadata.
 
 More details are available in the [Action Buttons](../action_buttons.html) user guide.
 
 ## References
-1. Branton, D., et al., The poten al and challenges of nanopore sequencing. Nature biotechnology, 2008. 26(10): p. 1146‑1153.
-2. Nikolenko, S.I., A.I. Korobeynikov, and M.A. Alekseyev, BayesHammer: Bayesian clustering for error correc on in single‑cell sequencing. BMC genomics, 2013. 14(1): p. 1.
-3. Zerbino, D.R. and E. Birney, Velvet: algorithms for de novo short read assembly using de Bruijn graphs. Genome research, 2008. 18(5): p. 821‑829.
-4. Peng, Y., et al. IDBA: a prac cal itera ve de Bruijn graph de novo assembler. in Research in Computa onal Molecular Biology. 2010. Springer.
-5. Bankevich, A., et al., SPAdes: a new genome assembly algorithm and its applica ons to single‑cell sequencing. Journal of Computational Biology, 2012. 19(5): p. 455‑477.
-6. Li, D., et al., MEGAHIT: an ultra‑fast single‑node solu on for large and complex metagenomics assembly via succinct de Bruijn graph. Bioinforma cs, 2015: p. btv033.
-7. An pov D, Hartwick N, Shen M, Raiko M, Lapidus A, Pevzner PA. 2016. plasmidSPAdes: assembling plasmids from whole genome sequencing data. Bioinforma cs32(22):3390‑3397.
-8. Namiki, T., et al., MetaVelvet: an extension of Velvet assembler to de novo metagenome assembly from short sequence reads. Nucleic acids research, 2012. 40(20): p. e155‑e155.
-9. Clark, S.C., et al., ALE: a generic assembly likelihood evalua on framework for assessing the accuracy of genome and metagenome assemblies. Bioinforma cs, 2013: p. bts723.
-10. Vicedomini, R., et al., GAM‑NGS: genomic assemblies merger for next genera on sequencing. BMC bioinforma cs, 2013. 14(7): p. 1.
-11. Li, H., Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences. arXiv preprint arXiv:1512.01801, 2015.
-12. Gurevich, A., et al., QUAST: quality assessment tool for genome assemblies. Bioinforma cs, 2013. 29(8): p. 1072‑1075.
+1.	Wick, R.R., et al., Unicycler: resolving bacterial genome assemblies from short and long sequencing reads. PLoS computational biology, 2017. 13(6): p. e1005595.
+2.	Bankevich, A., et al., SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing. Journal of computational biology, 2012. 19(5): p. 455-477.
+3.	Koren, S., et al., Canu: scalable and accurate long-read assembly via adaptive k-mer weighting and repeat separation. Genome research, 2017. 27(5): p. 722-736.
+4.	Nurk, S., et al., metaSPAdes: a new versatile metagenomic assembler. Genome research, 2017. 27(5): p. 824-834.
+5.	Antipov, D., et al., plasmidSPAdes: assembling plasmids from whole genome sequencing data. bioRxiv, 2016: p. 048942.
+6.	Krueger, F., Trim Galore: a wrapper tool around Cutadapt and FastQC to consistently apply quality and adapter trimming to FastQ files, with some extra functionality for MspI-digested RRBS-type (Reduced Representation Bisufite-Seq) libraries. URL http://www. bioinformatics. babraham. ac. uk/projects/trim_galore/.(Date of access: 28/04/2016), 2012.
+7.	Wick, R.R., et al., Bandage: interactive visualization of de novo genome assemblies. Bioinformatics, 2015. 31(20): p. 3350-3352.
+8.	Gurevich, A., et al., QUAST: quality assessment tool for genome assemblies. Bioinformatics, 2013. 29(8): p. 1072-1075.
