@@ -1,4 +1,4 @@
-# Comprehensive Genome Analysis Service (Revised Service Dec 2019)
+# Comprehensive Genome Analysis Service
 
 The Comprehensive Genome Analysis Service is a streamlined analysis "meta-service" that accepts raw genome reads and performs a comprehensive analysis including assembly, annotation, identification of nearest neighbors, a basic comparative analysis that includes a subsystem summary, phylogenetic tree, and the features that distinguish the genome from its nearest neighbors.
 

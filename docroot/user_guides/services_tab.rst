@@ -13,7 +13,6 @@ Genomics
    :maxdepth: 1
 
    services/genome_assembly_service.md
-   services/genome_assembly_service2.md
    services/genome_annotation_service.md
    services/comprehensive_genome_analysis_service.md
    services/blast.md
