@@ -18,6 +18,7 @@ This set of short videos provides a step-by-step demonstration of using the PATR
 Links to the videos are provided below.  They can also be viewed in order in the [PATRIC YouTube channel playlist](https://www.youtube.com/watch?v=IOo3POYtCKs&list=PLsstVALeacELn_vRu1tm7654_pdnm6lQT). Relevant references are provided at the bottom of this page.
 
 1. Uploading contig files to the PATRIC workspace (12:08)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IOo3POYtCKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
