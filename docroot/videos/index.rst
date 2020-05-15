@@ -9,6 +9,7 @@ Genomics Services
 .. toctree::
    :maxdepth: 1
    
+   genome_assembly_service
    genome_annotation_service
 
 Others
