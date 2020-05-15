@@ -3,7 +3,7 @@
 ## Overview
 This set of short videos provides a step-by-step demonstration of using the PATRIC Genome Assembly Service to create an assembled genome from a set a bacterial sequence reads. From these videos you will learn how to do the following:
 
-* Upload your read files to the private PATRIC workspace
+* Upload your read files to the private workspace
 * Select assembly strategies and  and initiate a Genome Assembly Service job
 * Access and interpret the results from the assembly job
 * Get help if you have problems using the service
