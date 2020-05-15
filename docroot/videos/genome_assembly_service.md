@@ -10,15 +10,25 @@ This set of short videos provides a step-by-step demonstration of using the PATR
 
 ### See also
 * [Genome Assembly Service](https://patricbrc.org/app/Assembly2)
-* [Genome Assembly Service Tutorial](https://docs.patricbrc.org/tutorial/genome_assembly/assembly2.html)(document)
+* [Genome Assembly Service Tutorial](https://docs.patricbrc.org/tutorial/genome_assembly/assembly2.html) (document)
 
 ## Using the Genome Assembly Service
 
 Links to the videos are provided below.  They can also be viewed in order in the [PATRIC YouTube channel playlist](https://www.youtube.com/playlist?list=PLsstVALeacEIk2iu794_XYrPFUEAETy_l). Relevant references are provided at the bottom of this page.
 
-##### 1. 
+##### 1. Uploading read files to the Workspace (11:08)
 
 
+##### 2. Submitting reads to the Genome Assembly Service (9:15) 
+
+
+##### 3. Selecting assembly Strategies and submitting the assembly job (7:14)
+
+
+##### 4. Monitoring the assembly jobe and reviewing job results (8:06)
+
+
+##### 5. Assembly questions and getting help with problems (4:16)
 
 
 ## References
