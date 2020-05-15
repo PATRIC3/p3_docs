@@ -16,20 +16,20 @@ This set of short videos provides a step-by-step demonstration of using the PATR
 
 Links to the videos are provided below.  They can also be viewed in order in the [PATRIC YouTube channel playlist](https://www.youtube.com/playlist?list=PLsstVALeacEIk2iu794_XYrPFUEAETy_l). Relevant references are provided at the bottom of this page.
 
-##### 1. Uploading read files to the Workspace (11:08)
-
+##### 1. Uploading read files to the workspace (11:08)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aCJrMDyfDDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### 2. Submitting reads to the Genome Assembly Service (9:15) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/89cpfkQvgWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-##### 3. Selecting assembly Strategies and submitting the assembly job (7:14)
-
+##### 3. Selecting assembly strategies and submitting the assembly job (7:14)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/afxnUM7jtk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### 4. Monitoring the assembly jobe and reviewing job results (8:06)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wWq1Ec6yhWM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### 5. Assembly questions and getting help with problems (4:16)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e8dnNw0Ir0w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## References
 * Antipov, D., et al., plasmidSPAdes: assembling plasmids from whole genome sequencing data. bioRxiv, 2016: p. 048942.
