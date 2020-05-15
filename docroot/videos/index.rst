@@ -23,8 +23,8 @@ Genomics Services and Tools
    multiple_sequence_alignment
 
 
-Metagenomics Services
----------------------
+Metagenomics Services and Tools
+-------------------------------
 
 .. toctree::
    :maxdepth: 1
