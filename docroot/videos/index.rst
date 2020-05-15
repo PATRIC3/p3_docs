@@ -12,7 +12,7 @@ Genomics Services and Tools
    genome_assembly_service
    genome_annotation_service
 
-   cicular_genome_viewer
+   circular_genome_viewer
 
    create_genome_group
    using_genome_group
