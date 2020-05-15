@@ -3,6 +3,17 @@ Instructional Videos
 
 Below are short YouTube instructional videos to help with performing common useful tasks in PATRIC. The videos can also be accessed directly from the the `PATRIC YouTube channel <https://www.youtube.com/user/PATRICBRC>`_.
 
+Genomics Services
+-----------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   genome_annotation_service
+
+Others
+------
+
 .. toctree::
    :maxdepth: 1
    
