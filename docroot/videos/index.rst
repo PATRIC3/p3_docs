@@ -12,6 +12,16 @@ Genomics Services
    genome_assembly_service
    genome_annotation_service
 
+Protein Services and Tools
+--------------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   protein_family_sorter
+
+
+
 Others
 ------
 
