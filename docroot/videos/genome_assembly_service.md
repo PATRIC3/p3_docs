@@ -1,4 +1,4 @@
-# Genome Assembly Service Tutorial
+# Tutorial: Genome Assembly Service
 
 ## Overview
 This set of short videos provides a step-by-step demonstration of using the PATRIC Genome Assembly Service to create an assembled genome from a set a bacterial sequence reads. From these videos you will learn how to do the following:
