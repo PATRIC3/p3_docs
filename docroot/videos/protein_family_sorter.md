@@ -1,4 +1,4 @@
-# Protein Family Sorter Service Tutorial
+# Tutorial: Protein Family Sorter Service
 
 ## Overview
 This set of short videos provides a step-by-step demonstration of using the PATRIC Protein Family Sorter to analyze protein families across a set of closely related bacterial genomes. From these videos you will learn how to do the following:
