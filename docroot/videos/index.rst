@@ -49,6 +49,7 @@ Protein Services and Tools
    :maxdepth: 1
    
    protein_family_sorter
+   proteome_comparison_service
 
 
 Data Services and Tools
