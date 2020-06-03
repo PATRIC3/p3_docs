@@ -14,24 +14,24 @@ This set of short videos provides a step-by-step demonstration of using the PATR
 Links to the videos are provided below.  They can also be viewed in order in the [PATRIC YouTube channel playlist](https://www.youtube.com/watch?v=hV_cnv0icb4&list=PLsstVALeacEIh8Tq9tqAJcWpXySlAcTP_). Relevant references are provided at the bottom of this page.
 
 ##  
-##### 1. Uploading read files to the workspace (11:08)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aCJrMDyfDDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### 1. Selecting parameters (8:13)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hV_cnv0icb4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
-##### 2. Submitting reads to the Genome Assembly Service (9:15) 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/89cpfkQvgWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### 2. Selecting a reference genome (3:05) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IpU84kXqKkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
-##### 3. Selecting assembly strategies and submitting the assembly job (7:14)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/afxnUM7jtk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### 3. Using a feature group or FASTA file as input (5:20)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8PyZCkGqku8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
-##### 4. Monitoring the assembly jobe and reviewing job results (8:06)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wWq1Ec6yhWM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### 4. Using a FASTA file as the reference (3:38)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PtdJ0YDkssA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
-##### 5. Assembly questions and getting help with problems (4:16)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e8dnNw0Ir0w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### 5. Using a feature group as the reference (2:04)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hen1vQr6s3Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
 ## References
