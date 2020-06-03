@@ -1,7 +1,7 @@
 # Proteome Comparison Service Tutorial
 
 ## Overview
-This set of short videos provides a step-by-step demonstration of using the PATRIC Proteome Comparison Service to identify insertions and deletions in up to nine target genomes that are compared with one reference, which can be a researcher’s private genome in PATRIC, a genome that has been annotated outside PATRIC, any of the publicly available genomes in PATRIC, or a set of proteins that you have saved in PATRIC as a feature group.. From these videos you will learn how to do the following:
+This set of short videos provides a step-by-step demonstration of using the PATRIC Proteome Comparison Service to identify insertions and deletions in up to nine target genomes that are compared with one reference, which can be a researcher’s private genome in PATRIC, a genome that has been annotated outside PATRIC, any of the publicly available genomes in PATRIC, or a set of proteins that you have saved in PATRIC as a feature group. From these videos you will learn how to do the following:
 
 * Select parameters for the service
 * Use a genome, feature group, or FASTA file as the reference
