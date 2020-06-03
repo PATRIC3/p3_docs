@@ -1,4 +1,4 @@
-# Genome Annotation Service Tutorial
+# Tutorial: Genome Annotation Service
 
 ## Overview
 This set of short videos provides a step-by-step demonstration of using the PATRIC Genome Annotation Service to annotate a genome from a set a bacterial contig files. From these videos you will learn how to do the following:
