@@ -11,6 +11,7 @@ Genomics Services and Tools
    
    genome_assembly_service
    genome_annotation_service
+   phylogenetic_codon_tree
 
    circular_genome_viewer
 
