@@ -1,9 +1,11 @@
 # Proteome Comparison Service Tutorial
 
 ## Overview
-This set of short videos provides a step-by-step demonstration of using the PATRIC Proteome Comparison Service to XXXXXXXX. From these videos you will learn how to do the following:
+This set of short videos provides a step-by-step demonstration of using the PATRIC Proteome Comparison Service to identify insertions and deletions in up to nine target genomes that are compared with one reference, which can be a researcher’s private genome in PATRIC, a genome that has been annotated outside PATRIC, any of the publicly available genomes in PATRIC, or a set of proteins that you have saved in PATRIC as a feature group.. From these videos you will learn how to do the following:
 
-* XXXXX
+* Select parameters for the service
+* Use a genome, feature group, or FASTA file as the reference
+* Review and interpret the results
 
 ### See also
 * [Proteome Comparison Service](https://patricbrc.org/app/SeqComparison)
@@ -32,6 +34,22 @@ Links to the videos are provided below.  They can also be viewed in order in the
 ##  
 ##### 5. Using a feature group as the reference (2:04)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hen1vQr6s3Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##  
+##### 6. Selecting the genomes to use for the comparison (5:57)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yzT6awJDiok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##  
+##### 7. 3 flavors of reference genomes (5:38)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7w1foW5whU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##  
+##### 8. Reviewing the output job results (22:54)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dND2JAAdsQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##  
+##### 9. Citing PATRIC and getting help (5:52)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bWvGddaYYlg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
 ## References
