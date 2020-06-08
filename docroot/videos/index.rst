@@ -36,6 +36,9 @@ Common Tasks
 Metagenomics Services and Tools
 -------------------------------
 
+Tutorials
+^^^^^^^^^
+
 .. toctree::
    :maxdepth: 1
    
@@ -45,6 +48,9 @@ Metagenomics Services and Tools
 
 Protein Services and Tools
 --------------------------
+
+Tutorials
+^^^^^^^^^
 
 .. toctree::
    :maxdepth: 1
@@ -56,6 +62,9 @@ Protein Services and Tools
 Data Services and Tools
 -----------------------
 
+Tutorials
+^^^^^^^^^
+
 .. toctree::
    :maxdepth: 1
    
@@ -64,6 +73,9 @@ Data Services and Tools
 
 Workspace and Files
 -------------------
+
+Common Tasks
+^^^^^^^^^^^^
 
 .. toctree::
    :maxdepth: 1
