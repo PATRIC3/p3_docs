@@ -6,12 +6,21 @@ Below are short YouTube instructional videos to help with performing common usef
 Genomics Services and Tools
 ---------------------------
 
+Tutorials
+^^^^^^^^^
+
 .. toctree::
    :maxdepth: 1
    
    genome_assembly_service
    genome_annotation_service
    phylogenetic_codon_tree
+
+Common Tasks
+^^^^^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
 
    circular_genome_viewer
 
