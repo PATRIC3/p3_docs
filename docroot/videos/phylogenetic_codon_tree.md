@@ -1,14 +1,16 @@
 # Tutorial: Phylogenetic Codon Tree Service
 
 ## Overview
-This set of short videos provides a step-by-step demonstration of using the PATRIC Phylogenetic Codon Tree Service to construct a codon-based phylogenetic tree from a set of genomes. From these videos you will learn how to do the following:
+This set of short videos provides a step-by-step demonstration of using the PATRIC Phylogenetic Codon Tree Service to construct a codon-based phylogenetic tree from a set of genomes.
 
-* Create a group of genomes
-* Submit the tree-building service job
-* Access resulting codon tree file and interpret the job report
-* Remove problematic genomes
-* Improve the tree using the Protein Family Sorter
-* View the tree in FigTree
+1. [Creating genome groups for building codon trees (16:54)](#codon1)
+2. [Submitting the tree-building job (11:38)](#codon2)
+3. [Reviewing the codon tree report (11:31)](#codon3)
+4. [Accessing codon tree files in the jobs folder (10:58)](#codon4)
+5. [Removing problem genomes from groups (15:42)](#codon5)
+6. [Using the Protein Family Sorter to improve the tree (15:35)](#codon6)
+7. [Viewing the tree in FigTree (7:17)](#codon7)
+8. [Finding help and citing (8:50)](#codon8)
 
 ### See also
 * [Phylogenetic Tree Service](https://patricbrc.org/app/PhylogeneticTree)
@@ -19,34 +21,42 @@ This set of short videos provides a step-by-step demonstration of using the PATR
 Links to the videos are provided below.  They can also be viewed in order in the [PATRIC YouTube channel playlist](https://www.youtube.com/playlist?list=PLsstVALeacEIj7YA33V4nYi10oOZgEVDq). Relevant references are provided at the bottom of this page.
 
 ##  
+<a name="codon1"></a>
 ##### 1. Creating genome groups for building codon trees (16:54)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TzTyQcSz7bQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
+<a name="codon2"></a>
 ##### 2. Submitting the tree-building job (11:38)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EVIwNDoK6HI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
+<a name="codon3"></a>
 ##### 3. Reviewing the codon tree report (11:31)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3ED2aX412dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
+<a name="codon4"></a>
 ##### 4. Accessing codon tree files in the jobs folder (10:58)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BuwPNJXcIJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
+<a name="codon5"></a>
 ##### 5. Removing problem genomes from groups (15:42)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qPBQV1UNPzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
+<a name="codon6"></a>
 ##### 6. Using the Protein Family Sorter to improve the tree (15:35)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tg27Z3Btk8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
+<a name="codon7"></a>
 ##### 7. Viewing the tree in FigTree (7:17)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K6dNUVHsHAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
+<a name="codon8"></a>
 ##### 8. Finding help and citing (8:50)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DDWPcJLgWr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
