@@ -3,11 +3,13 @@
 ## Overview
 This set of short videos provides a step-by-step demonstration of using the PATRIC Genome Annotation Service to annotate a genome from a set a bacterial contig files. From these videos you will learn how to do the following:
 
-* Upload your contig files to the private PATRIC workspace and initiate a Genome Annotation Service job
-* Access and interpret the results from the annotation job
-* Download the annotated genome files
-* Examine the annotated genome using PATRIC tools
-* Get help if you have problems using the service
+1. [Upload contig files to the PATRIC workspace (12:08)](#annotation1)
+2. [Submit a job to the PATRIC Genome Annotation Service (7:08)](#annotation2)
+3. [Review the resulting Genome Report (21:33)](#annotation3)
+4. [Download the generated files (11:06)](#annotation4)
+5. [View your annotated genome in PATRIC (16:53)](#annotation5)
+6. [Find help or reporting problems with the service (4:26)](#annotation6)
+
 
 ### See also
 * [Genome Annotation Service](https://patricbrc.org/app/Annotation)
@@ -18,26 +20,32 @@ This set of short videos provides a step-by-step demonstration of using the PATR
 Links to the videos are provided below.  They can also be viewed in order in the [PATRIC YouTube channel playlist](https://www.youtube.com/watch?v=IOo3POYtCKs&list=PLsstVALeacELn_vRu1tm7654_pdnm6lQT). Relevant references are provided at the bottom of this page.
 
 ##  
+<a name="annotation1"></a>
 ##### 1. Uploading contig files to the PATRIC workspace (12:08)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IOo3POYtCKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
+<a name="annotation2"></a>
 ##### 2. Submitting a job to the PATRIC Genome Annotation Service (7:08)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dnopNXkJM6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
+<a name="annotation3"></a>
 ##### 3. Reviewing the resulting Genome Report (21:33)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R4nWHC2921A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
+<a name="annotation4"></a>
 ##### 4. Downloading generated files (11:06)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2oiBZIuQAXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
+<a name="annotation5"></a>
 ##### 5. Viewing your annotated genome in PATRIC (16:53)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YIO-ssRz42g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
+<a name="annotation6"></a>
 ##### 6. Finding help or reporting problems with the service (4:26)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Byq98NNxWQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
