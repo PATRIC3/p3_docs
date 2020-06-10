@@ -6,8 +6,7 @@ Below are short YouTube instructional videos to help with performing common usef
 Genomics Services and Tools
 ---------------------------
 
-Tutorials
-^^^^^^^^^
+**Tutorials**
 
 .. toctree::
    :maxdepth: 1
@@ -16,8 +15,7 @@ Tutorials
    genome_annotation_service
    phylogenetic_codon_tree
 
-Common Tasks
-^^^^^^^^^^^^
+**Common Tasks**
 
 .. toctree::
    :maxdepth: 1
@@ -36,8 +34,7 @@ Common Tasks
 Metagenomics Services and Tools
 -------------------------------
 
-Tutorials
-^^^^^^^^^
+**Tutorials**
 
 .. toctree::
    :maxdepth: 1
@@ -49,8 +46,7 @@ Tutorials
 Protein Services and Tools
 --------------------------
 
-Tutorials
-^^^^^^^^^
+**Tutorials**
 
 .. toctree::
    :maxdepth: 1
@@ -62,8 +58,7 @@ Tutorials
 Data Services and Tools
 -----------------------
 
-Tutorials
-^^^^^^^^^
+**Tutorials**
 
 .. toctree::
    :maxdepth: 1
@@ -74,8 +69,7 @@ Tutorials
 Workspace and Files
 -------------------
 
-Common Tasks
-^^^^^^^^^^^^
+**Common Tasks**
 
 .. toctree::
    :maxdepth: 1
