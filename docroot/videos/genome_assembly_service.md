@@ -6,7 +6,7 @@ This set of short videos provides a step-by-step demonstration of using the PATR
 1. [Uploading read files to the workspace (11:08)](#assembly1)
 2. [Submitting reads to the Genome Assembly Service (9:15)](#assembly2)
 3. [Selecting assembly strategies and submitting the assembly job (7:14)](#assembly3)
-4. [Monitoring the assembly jobe and reviewing job results (8:06)](#assembly4)
+4. [Monitoring the assembly job and reviewing job results (8:06)](#assembly4)
 5. [Assembly questions and getting help with problems (4:16)](#assembly5)
 
 ### See also
@@ -34,7 +34,7 @@ Links to the videos are provided below.  They can also be viewed in order in the
 
 ##  
 <a name="assembly4"></a>
-##### 4. Monitoring the assembly jobe and reviewing job results (8:06)
+##### 4. Monitoring the assembly job and reviewing job results (8:06)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wWq1Ec6yhWM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
