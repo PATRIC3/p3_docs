@@ -1,14 +1,14 @@
 # Tutorial: Genome Annotation Service
 
 ## Overview
-This set of short videos provides a step-by-step demonstration of using the PATRIC Genome Annotation Service to annotate a genome from a set a bacterial contig files. From these videos you will learn how to do the following:
+This set of short videos provides a step-by-step demonstration of using the PATRIC Genome Annotation Service to annotate a genome from a set a bacterial contig files:
 
-1. [Upload contig files to the PATRIC workspace (12:08)](#annotation1)
-2. [Submit a job to the PATRIC Genome Annotation Service (7:08)](#annotation2)
-3. [Review the resulting Genome Report (21:33)](#annotation3)
-4. [Download the generated files (11:06)](#annotation4)
-5. [View your annotated genome in PATRIC (16:53)](#annotation5)
-6. [Find help or reporting problems with the service (4:26)](#annotation6)
+1. [Uploading contig files to the PATRIC workspace (12:08)](#annotation1)
+2. [Submitting a job to the PATRIC Genome Annotation Service (7:08)](#annotation2)
+3. [Reviewing the resulting Genome Report (21:33)](#annotation3)
+4. [Downloading the generated files (11:06)](#annotation4)
+5. [Viewing your annotated genome in PATRIC (16:53)](#annotation5)
+6. [Finding help or reporting problems with the service (4:26)](#annotation6)
 
 
 ### See also
