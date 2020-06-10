@@ -3,17 +3,17 @@
 ## Overview
 This set of short videos provides a step-by-step demonstration of using the PATRIC Protein Family Sorter to analyze protein families across a set of closely related bacterial genomes.
 
-1. Using Global Search (7:37)(#pfs1)
-2. Creating a genome group (5:01)(#pfs2)
-3. Submitting a Protein Family Sorter Service analysis job (5:44)(#pfs3)
-4. Protein Family Sorter tabular results (7:41)(#pfs4)
-5. Filtering tabular results (8:17)(#pfs5)
-6. Heatmap filtering (5:02)(#pfs6)
-7. Heatmap clustering (4:47)(#pfs7)
-8. Anchoring and downloading heatmap data (6:01)(#pfs8)
-9. Using the Feature Table and Compare Region Viewer (12:40)(#pfs9)
-10. Downloading sequences from Feature Table and viewing in the Genome Browser (9:38)(#pfs10)
-11. BLASTing a genomic region (10:21)(#pfs11)
+1. [Using Global Search (7:37)](#pfs1)
+2. [Creating a genome group (5:01)](#pfs2)
+3. [Submitting a Protein Family Sorter Service analysis job (5:44)](#pfs3)
+4. [Protein Family Sorter tabular results (7:41)](#pfs4)
+5. [Filtering tabular results (8:17)](#pfs5)
+6. [Heatmap filtering (5:02)](#pfs6)
+7. [Heatmap clustering (4:47)](#pfs7)
+8. [Anchoring and downloading heatmap data (6:01)](#pfs8)
+9. [Using the Feature Table and Compare Region Viewer (12:40)](#pfs9)
+10. [Downloading sequences from Feature Table and viewing in the Genome Browser (9:38)](#pfs10)
+11. [BLASTing a genomic region (10:21)](#pfs11)
 
 ### See also
 * [Protein Family Sorter Service](https://patricbrc.org/app/ProteinFamily)
