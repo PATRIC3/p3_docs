@@ -7,7 +7,6 @@ Genomics Services and Tools
 ---------------------------
 
 **Tutorials**
-
 .. toctree::
    :maxdepth: 1
    
@@ -16,7 +15,6 @@ Genomics Services and Tools
    phylogenetic_codon_tree
 
 **Common Tasks**
-
 .. toctree::
    :maxdepth: 1
 
@@ -35,7 +33,6 @@ Metagenomics Services and Tools
 -------------------------------
 
 **Tutorials**
-
 .. toctree::
    :maxdepth: 1
    
@@ -47,7 +44,6 @@ Protein Services and Tools
 --------------------------
 
 **Tutorials**
-
 .. toctree::
    :maxdepth: 1
    
@@ -59,7 +55,6 @@ Data Services and Tools
 -----------------------
 
 **Tutorials**
-
 .. toctree::
    :maxdepth: 1
    
@@ -70,7 +65,6 @@ Workspace and Files
 -------------------
 
 **Common Tasks**
-
 .. toctree::
    :maxdepth: 1
    
