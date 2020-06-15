@@ -67,7 +67,7 @@ Workspace and Files
 
 **Tutorials**
 
-[In development]
+*Coming soon*
 
 **Common Tasks**
 
