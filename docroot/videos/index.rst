@@ -21,13 +21,9 @@ Genomics Services and Tools
    :maxdepth: 1
 
    circular_genome_viewer
-
    create_genome_group
    using_genome_group
-
    are_genomes_treeable
-   codon_tree
-
    multiple_sequence_alignment
 
 
@@ -68,6 +64,10 @@ Data Services and Tools
 
 Workspace and Files
 -------------------
+
+**Tutorials**
+
+[In development]
 
 **Common Tasks**
 
