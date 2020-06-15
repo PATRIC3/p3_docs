@@ -37,7 +37,7 @@ Allows direct upload of read files from the [NCBI Sequence Read Archive](https:/
 ## Selected libraries
 Read files placed here will contribute to a single assembly.
 
-## Assembly Parameters
+## Parameters
 
 ### Strategy
 
