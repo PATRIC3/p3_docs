@@ -76,4 +76,4 @@ Other
    :maxdepth: 1
 
    other/msa_viewer.md
-   services/sars_cov_2_assembly_annotation.md
+   services/sars_cov_2_assembly_annotation_service.md
