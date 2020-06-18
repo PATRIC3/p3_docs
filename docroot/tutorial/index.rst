@@ -97,3 +97,4 @@ Others
    sharing_data_in_the_workplace/sharing_data_in_the_workplace.md
    sharing-a-private-genome-in-patric/sharing-a-private-genome-in-patric.md
    building_cli.rst
+   sars_cov_2_assembly_annotation/sars_cov_2_assembly_annotation.md
