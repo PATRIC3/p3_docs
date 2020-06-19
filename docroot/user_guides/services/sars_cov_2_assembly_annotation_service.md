@@ -1,14 +1,7 @@
 # SARS-CoV-2 Genome Assembly and Annotation Service
 
 ## Overview
-The Comprehensive Genome Analysis Service provides a streamlined analysis **"meta-service"** that accepts raw reads and performs a comprehensive analysis including assembly, annotation, identification of nearest neighbors, a basic comparative analysis that includes a subsystem summary, phylogenetic tree, and the features that distinguish the genome from its nearest neighbors.
-
-### See also
-  * [Comprehensive Genome Analysis Service](https://patricbrc.org/app/ComprehensiveGenomeAnalysis)
-  * [Comprehensive Genome Analysis Service Tutorial](https://docs.patricbrc.org//tutorial/comprehensive-genome-analysis/comprehensive-genome-analysis.html)
-  * [Genome Assembly Service User Guide](./genome_assembly_service.html)
-  * [Genome Annotation Service User Guide](./genome_annotation_service.html)
-  * [Phylogenetic Tree Building Service User Guide](./phylogenetic_tree_building_service.html)
+The SARS-CoV-2 Genome Assembly and Annotation Service provides a streamlined **"meta-service"** that accepts raw reads and performs genome assembly, annotation, and variation analysis.
 
 
 ## Using the SARS-CoV-2 Genome Assembly and Annotation Service
@@ -42,42 +35,19 @@ Read files placed here will contribute to a single assembly.
 ### Strategy
 
 #### auto
-  * Uses Canu if only long reads are submitted
-  * Uses Unicycler if long and short reads, as or short reads alone are submitted
+Uses CDC-Illumina or CDC-Nanopore protocol based on the type of reads provided. 
+  
+#### CDC-Illumina
 
-#### Unicycler
-Unicycler is an assembly pipeline that can assemble Illumina-only read sets where it functions as a SPAdes-optimizer. It can also assemble long-read-only sets (PacBio or Nanopore) where it runs a miniasm plus Racon pipeline. For the best possible assemblies, provide both Illumina reads and long reads and it will conduct a hybrid assembly. Unicycler builds an initial assembly graph from short reads using the de novo assembler and then uses a novel semi-global aligner to align long reads to it.
 
-#### SPAdes
-SPAdes is an assembler that is designed to assemble small genomes, such as those from bacteria, and uses a multi-sized De Bruijn graph to guide assembly.
+#### CDC-Nanopore
 
-#### Canu
-Canu is a long-read assembler which works on both third and fourth generation reads. It is a successor of the old Celera Assembler that is specifically designed for noisy single-molecule sequences. It supports nanopore sequencing, halves depth-of-coverage requirements, and improves assembly continuity. It was designed for high-noise single-molecule sequencing, such as the PacBio RS II/Sequel or Oxford Nanopore MinION.
 
-#### metaSPAdes
-The metaSPAdes software combines new algorithmic ideas with proven solutions from the SPAdes toolkit to address various challenges of metagenomic assembly.
+#### ARTIC-Nanopore
 
-#### plasmidSPAdes
-The plasmidSPAdes algorithm is a software tool for assembling plasmids from whole genome sequencing data and benchmarks its performance on a diverse set of bacterial genomes. 
-
-#### Single-cell
-SPAdes is an assembler for both single-cell and standard (multicell) assembly, and it improves on the recently released E+V−SC assembler (specialized for single-cell data). 
-
-### Trim Reads Before Assembly
-Selecting "True" opens additional options for trimming reads.
-
-#### Racon and Pilon Iterrations
-PATRIC’s assembly service also allows for the correction of assembly errors (or “polish) using Racon and/or Pilon. Both Racon and Pilon take the contigs and the reads mapped to those contigs, and look for discrepancies between the assembly and the majority of the reads. Where there is a discrepancy, Racon or Pilon will correct the assembly if the majority of the reads call for that. Racon is for long reads (PacBio or Nanopore) and Pilon is for shorter reads (Illumina or Ion Torrent). Once the assembly has been corrected with the reads, it is still possible to do another iteration to further improve the assembly, but each one takes time. PATRIC allows for 0 to 4 Racon or Pilon iterations.
-
-#### Min. Contig Length and Coverage
-The assembly service also provides the ability to change the minimum contig length and coverage.
-
-### Domain
-The taxonomic domain of the target organism: bacteria or archaea.
 
 ### Taxonomy Name
-Taxon must be specified at the genus level or below to get the latest
-protein family predictions.
+Taxon must be specified at the genus level or below to get the latest protein family predictions.
 
 ### Taxonomy ID
 Auto-populated after entering Taxonomy Name. If a Taxonomy ID is entered, auto-populates the Taxonomy Name
