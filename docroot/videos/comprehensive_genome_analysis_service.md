@@ -22,34 +22,44 @@ This set of short videos provides a step-by-step demonstration of using the PATR
 Links to the videos are provided below.  They can also be viewed in order in the [PATRIC YouTube channel playlist](https://www.youtube.com/playlist?list=PLsstVALeacEL_UE2oYbJW45BDHmwL9cjz). Relevant references are provided at the bottom of this page.
 
 ##  
-<a name="annotation1"></a>
-##### 1. Uploading contig files to the PATRIC workspace (12:08)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IOo3POYtCKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a name="cga1"></a>
+##### 1. Submitting a job using reads (13:08)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8hU2t4OhMCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
-<a name="annotation2"></a>
-##### 2. Submitting a job to the PATRIC Genome Annotation Service (7:08)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dnopNXkJM6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a name="cga2"></a>
+##### 2. Submitting contig files (3:36)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NquDD9LoTdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
-<a name="annotation3"></a>
-##### 3. Reviewing the resulting Genome Report (21:33)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R4nWHC2921A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a name="cga3"></a>
+##### 3. Full genome report (13:06)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XqgyobAw2sQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
-<a name="annotation4"></a>
-##### 4. Downloading generated files (11:06)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2oiBZIuQAXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a name="cga4"></a>
+##### 4. Job results (11:22)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_NgplRiYfJw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
-<a name="annotation5"></a>
-##### 5. Viewing your annotated genome in PATRIC (16:53)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YIO-ssRz42g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a name="cga5"></a>
+##### 5. Assembly results (6:13)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_aqN_V12VZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
-<a name="annotation6"></a>
-##### 6. Finding help or reporting problems with the service (4:26)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Byq98NNxWQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a name="cga6"></a>
+##### 6. Annotation results (8:50)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bqkNsg_QqIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##  
+<a name="cga7"></a>
+##### 7. Viewing your genome (8:05)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_C-a-UG92Ws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##  
+<a name="cga8"></a>
+##### 8. Finding help and citing PATRIC (6:51)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k65b1fCsSEk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
 ## References
