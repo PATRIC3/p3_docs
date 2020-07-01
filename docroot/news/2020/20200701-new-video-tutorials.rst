@@ -16,23 +16,28 @@ Comparative Genomics - Series 1
 Genomics Services and Tools
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   genome_assembly_service
-   genome_annotation_service
-   comprehensive_genome_analysis_service
-   similar_genome_finder_service
-   phylogenetic_codon_tree
+`Genome Assembly Service <https://docs.patricbrc.org/videos/genome_assembly_service.html>`_
+`Genome Annotation Service <https://docs.patricbrc.org/videos/genome_annotation_service.html>`_
+`Comprehensive Genome Analysis Service <>`_
+`Similar Genome Finder Service <>`_
+`Phylogenetic Codon Tree Service <https://docs.patricbrc.org/videos/phylogenetic_codon_tree.html>`_
 
 Metagenomics Services and Tools
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   metagenomic_read_mapping_service
-   taxonomic_classification_service
+`Metagenomic Read Mapping Service <https://docs.patricbrc.org/videos/metagenomic_read_mapping_service.html>`_
+`Taxonomic Classification Service <https://docs.patricbrc.org/videos/taxonomic_classification_service.html>`_
 
 Protein Services and Tools
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   protein_family_sorter
-   proteome_comparison_service
+`Protein Family Sorter Service <https://docs.patricbrc.org/videos/protein_family_sorter.html>`_
+`Proteome Comparison Service <https://docs.patricbrc.org/videos/proteome_comparison_service.html>`_
+
+Data Services and Tools
+^^^^^^^^^^^^^^^^^^^^^^^
+
+`ID Mapping Service <https://docs.patricbrc.org/videos/id_mapper.html>`_
 
 
 All PATRIC video tutorials are available at `Instructional Videos <https://docs.patricbrc.org/videos/>`_ and at the `PATRIC YouTube Channel <https://www.youtube.com/user/PATRICBRC>`_.
