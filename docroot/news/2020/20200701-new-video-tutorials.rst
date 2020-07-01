@@ -6,6 +6,11 @@ New PATRIC Video Tutorial Series
 .. feed-entry::
    :date: 2020-07-01
 
+.. image:: path/filename.png
+  :width: 400
+  :alt: Alternative text
+
+
 We have released a series of new video tutorials for PATRIC services and associated functionality. Each tutorial features a set of short instructional videos that provide a step-by-step of how to use a PATRIC analysis service, from beginning to end. The first series focuses on genome assembly, annotation, and common comparative genomic analyses in PATRIC.
 
 .. cut::
