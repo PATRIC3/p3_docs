@@ -9,42 +9,32 @@ This set of short videos provides a step-by-step demonstration of using the PATR
 4. [Finding help and citing PATRIC (3:08)](#sgf4)
 
 ### See also
-* [Genome Annotation Service](https://patricbrc.org/app/Annotation)
-* [Genome Annotation Service Tutorial](https://docs.patricbrc.org/tutorial/genome_annotation/annotation.html) (document)
+* [Similar Genome Finder Service](https://patricbrc.org/app/GenomeDistance)
+* [Similar Genome Finder Service Tutorial](https://docs.patricbrc.org/tutorial/similar_genome_finder/similar_genome_finder.html) (document)
 
-## Using the Genome Annotation Service
+## Using the Similar Genome Finder Service
 
-Links to the videos are provided below.  They can also be viewed in order in the [PATRIC YouTube channel playlist](https://www.youtube.com/watch?v=IOo3POYtCKs&list=PLsstVALeacELn_vRu1tm7654_pdnm6lQT). Relevant references are provided at the bottom of this page.
-
-##  
-<a name="annotation1"></a>
-##### 1. Uploading contig files to the PATRIC workspace (12:08)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IOo3POYtCKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Links to the videos are provided below.  They can also be viewed in order in the [PATRIC YouTube channel playlist](https://www.youtube.com/playlist?list=PLsstVALeacEKzy0_piBAo6JXE0AmmaEr9). Relevant references are provided at the bottom of this page.
 
 ##  
-<a name="annotation2"></a>
-##### 2. Submitting a job to the PATRIC Genome Annotation Service (7:08)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dnopNXkJM6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a name="sgf1"></a>
+##### 1. Launching a search using a genome (5:49)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RzVyQbZ4O1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
-<a name="annotation3"></a>
-##### 3. Reviewing the resulting Genome Report (21:33)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R4nWHC2921A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a name="sgf2"></a>
+##### 2. Launching a search using a contig file (5:26)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r7TVt6RWy-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
-<a name="annotation4"></a>
-##### 4. Downloading generated files (11:06)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2oiBZIuQAXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a name="sgf3"></a>
+##### 3. Launching a search using a fastq file (5:52)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QlGKjR84EAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
-<a name="annotation5"></a>
-##### 5. Viewing your annotated genome in PATRIC (16:53)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YIO-ssRz42g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-##  
-<a name="annotation6"></a>
-##### 6. Finding help or reporting problems with the service (4:26)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Byq98NNxWQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a name="sgf4"></a>
+##### 4. Finding help and citing PATRIC (3:08)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K5EFDNDAMbI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  
 ## References
