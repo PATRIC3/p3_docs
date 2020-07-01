@@ -18,8 +18,8 @@ Genomics Services and Tools
 
 - `Genome Assembly Service <https://docs.patricbrc.org/videos/genome_assembly_service.html>`_
 - `Genome Annotation Service <https://docs.patricbrc.org/videos/genome_annotation_service.html>`_
-- `Comprehensive Genome Analysis Service <>`_
-- `Similar Genome Finder Service <>`_
+- `Comprehensive Genome Analysis Service <https://docs.patricbrc.org/videos/comprehensive_genome_analysis_service.html>`_
+- `Similar Genome Finder Service <https://docs.patricbrc.org/videos/similar_genome_finder_service.html>`_
 - `Phylogenetic Codon Tree Service <https://docs.patricbrc.org/videos/phylogenetic_codon_tree.html>`_
 
 Metagenomics Services and Tools
