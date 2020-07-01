@@ -14,6 +14,7 @@ Genomics Services and Tools
    genome_assembly_service
    genome_annotation_service
    comprehensive_genome_analysis_service
+   similar_genome_finder_service
    phylogenetic_codon_tree
 
 **Common Tasks**
