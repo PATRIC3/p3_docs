@@ -6,7 +6,7 @@ New PATRIC Video Tutorial Series
 .. feed-entry::
    :date: 2020-07-01
 
-.. image:: ../images/genomics_tutorials_image_series1_horiz.png
+.. image:: ../images/genomics_tutorials_image_series1_horiz_v2.png
   :width: 520
   :alt: Alternative text
 
