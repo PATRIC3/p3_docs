@@ -1,4 +1,9 @@
 [{
+    "title": "New PATRIC Video Tutorial Series",
+    "desc": "We have released a series of new video tutorials for PATRIC services and associated functionality.",
+    "img": "https://docs.patricbrc.org/_static/announcements/video-tutorials.png",
+    "link": "https://docs.patricbrc.org/news/2020/20200701-new-video-tutorials.html"
+},{
     "title": "RESECHEDULED! - PATRIC/RAST Bacterial and IRD/ViPR Viral Workshops at Argonne National Laboratory",
     "desc": "The new Bacterial-Viral BRC (BV-BRC), a collaboration between the PATRIC/RAST and IRD/ViPR teams",
     "img": "https://docs.patricbrc.org/_static/announcements/workshop-1.png",
@@ -23,9 +28,4 @@
     "desc": "This PATRIC release includes a new Metagenome Taxonomic Classification Service; a new Metagenomic Read Mapping Service; a new Codon Tree option for the Phylogenetic Tree Building Service; and over 18,250 new microbial genomes.",
     "img": "https://docs.patricbrc.org/_static/announcements/march-release-2019.png",
     "link": "https://docs.patricbrc.org/news/2019/20190405-patric-march-2019-release.html"
-},{
-    "title": "PATRIC January 2019 Data Release",
-    "desc": "This PATRIC release includes over 9,200 new genomes bringing the total to over 215,000, as well as other minor enhancements.",
-    "img": "https://docs.patricbrc.org/_static/announcements/jan-release-2019.png",
-    "link": "https://docs.patricbrc.org/news/2019/20190201-patric-january-2019-release.html" 
 }]
