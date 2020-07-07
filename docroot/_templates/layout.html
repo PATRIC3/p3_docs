@@ -13,9 +13,13 @@
 {% block footer %}
 {{ super() }}
 <script>
-  var logo = '<img src="/_static/patric_logo.png" class="logo" alt="Logo">';
-  var home = '<div class="branding"><a href="https://patricbrc.org" title="PATRIC Homepage">PATRIC Home</a> &rsaquo; <a href="/" title="PATRIC Documentation">Docs</a></div>';
-  $(".wy-side-nav-search").prepend(home).prepend(logo);
+  var branding =
+    '<div class="branding">' +
+      '<a class="patric-home" href="https://patricbrc.org" title="PATRIC Homepage">' +
+        '<img src="/_static/patric-logo.png" class="logo" alt="Logo">' +
+      '</a> <a href="/" title="PATRIC Documentation">Documentation</a>' +
+    '</div>';
+  $(".wy-side-nav-search").prepend(branding)
 </script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-11736060-11"></script>

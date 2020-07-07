@@ -103,7 +103,7 @@ html_theme_options = {
     'logo_only': True,
     'collapse_navigation': True,
     'display_version': True,
-    'style_nav_header_background': '#e3e3e3'
+    'style_nav_header_background': '#2e75a3'
 }
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_logo = ""
