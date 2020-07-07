@@ -7,7 +7,7 @@ h1,h2,.rst-content .toctree-wrapper p.caption,h3,h4,h5,h6,legend {
     font-weight: 500;
     font-family: "Roboto",Arial,sans-serif;
 }
-h2 { 
+h2 {
     font-size: 20px;
 }
 
@@ -56,8 +56,8 @@ a.icon-home { display: none; }
 
 .wy-menu-vertical li.toctree-l1.current > ul { background-color: #fcfcfc; }
 
-.wy-menu-vertical li.toctree-l1.current>a {
-    border-top: none; 
+.wy-menu-vertical li.toctree-l1.current > a {
+    border-top: none;
     border-bottom: none;
     border-right: solid 1px #c9c9c9;
 }
@@ -65,4 +65,24 @@ a.icon-home { display: none; }
 .wy-menu-vertical li.toctree-l1.current {
     border-bottom: solid 1px #c9c9c9;
     border-top: solid 1px #c9c9c9;
+}
+
+/* override rtd theme stuff for algolia search */
+@media only screen and (min-width : 768px) {
+.wy-nav-side {
+    position: fixed;
+    overflow: visible;
+}
+.wy-side-scroll {
+    margin-top: 120px;
+    overflow: scroll;
+    width: 300px;
+}
+.wy-side-nav-search {
+    position: fixed;
+    top: 0;
+}
+}
+.algolia-autocomplete {
+    width: 100%;
 }
