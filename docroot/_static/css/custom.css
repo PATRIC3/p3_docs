@@ -7,7 +7,7 @@ h1,h2,.rst-content .toctree-wrapper p.caption,h3,h4,h5,h6,legend {
     font-weight: 500;
     font-family: "Roboto",Arial,sans-serif;
 }
-h2 { 
+h2 {
     font-size: 20px;
 }
 
@@ -39,7 +39,7 @@ p {
 }
 
 .wy-side-nav-search img.logo, .wy-side-nav-search .wy-dropdown img.logo {
-    display: block;
+    display: inline-block;
     margin: 0 auto;
     height: auto;
     width: auto;
@@ -48,16 +48,25 @@ p {
     background: transparent;
 }
 
-.wy-side-nav-search .branding { margin: 8px; }
-.wy-side-nav-search .branding, .wy-side-nav-search .branding a { color: #404040; }
-.wy-side-nav-search .branding a:hover { color: #404040; text-decoration: underline; }
+.wy-side-nav-search img {
+    padding: 0;
+}
+
+.wy-side-nav-search .branding { display: flex; align-items: center; margin-bottom: 10px; }
+.wy-side-nav-search .branding a:last-child { padding-top: 1px; }
+.wy-side-nav-search .branding, .wy-side-nav-search .branding a { color: #f2f2f2; }
+.wy-side-nav-search .branding a:hover { text-decoration: underline; }
+.wy-side-nav-search .branding .patric-home { padding-right: 5px; margin-right: 5px; border-right: 1px solid #f2f2f2; }
+.wy-side-nav-search .branding img.logo { width: 140px; }
+.wy-side-nav-search .branding img.logo:hover { opacity: .8; }
+
 
 a.icon-home { display: none; }
 
 .wy-menu-vertical li.toctree-l1.current > ul { background-color: #fcfcfc; }
 
-.wy-menu-vertical li.toctree-l1.current>a {
-    border-top: none; 
+.wy-menu-vertical li.toctree-l1.current > a {
+    border-top: none;
     border-bottom: none;
     border-right: solid 1px #c9c9c9;
 }
@@ -65,4 +74,24 @@ a.icon-home { display: none; }
 .wy-menu-vertical li.toctree-l1.current {
     border-bottom: solid 1px #c9c9c9;
     border-top: solid 1px #c9c9c9;
+}
+
+/* override rtd theme stuff for algolia search */
+@media only screen and (min-width : 768px) {
+.wy-nav-side {
+    position: fixed;
+    overflow: visible;
+}
+.wy-side-scroll {
+    margin-top: 100px;
+    overflow: scroll;
+    width: 300px;
+}
+.wy-side-nav-search {
+    position: fixed;
+    top: 0;
+}
+}
+.algolia-autocomplete {
+    width: 100%;
 }

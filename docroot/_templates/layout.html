@@ -4,14 +4,22 @@
 <meta name="google-site-verification" content="TkjceNtwo7upCQl_gx8Zmhhp9tCmc08LitZGuvQ1Eb8" />
 <link rel="icon" sizes="16x16 32x32" href="/_static/favicon.ico" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,400i,700|Roboto:400,700&display=swap">
+
+<!-- algolia search styling, see _static/css/custom.css for theme overrides -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
 {% endblock %}
+
 
 {% block footer %}
 {{ super() }}
 <script>
-  var logo = '<img src="/_static/patric_logo.png" class="logo" alt="Logo">';
-  var home = '<div class="branding"><a href="https://patricbrc.org" title="PATRIC Homepage">PATRIC Home</a> &rsaquo; <a href="/" title="PATRIC Documentation">Docs</a></div>';
-  $(".wy-side-nav-search").prepend(home).prepend(logo);
+  var branding =
+    '<div class="branding">' +
+      '<a class="patric-home" href="https://patricbrc.org" title="PATRIC Homepage">' +
+        '<img src="/_static/patric-logo.png" class="logo" alt="Logo">' +
+      '</a> <a href="/" title="PATRIC Documentation">Documentation</a>' +
+    '</div>';
+  $(".wy-side-nav-search").prepend(branding)
 </script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-11736060-11"></script>
@@ -32,5 +40,15 @@
     gtag('config', 'UA-11736060-7', {
         'link_attribution': true
     });
+</script>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js"></script>
+<script type="text/javascript">
+  docsearch({
+    apiKey: '6620e5f4c72844d992f79a6315b0c3a5',
+    indexName: 'patricbrc',
+    inputSelector: '#search-input',
+    debug: false // Set debug to true if you want to inspect the dropdown
+  });
 </script>
 {% endblock %}
