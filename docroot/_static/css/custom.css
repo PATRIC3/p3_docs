@@ -52,7 +52,8 @@ p {
     padding: 0;
 }
 
-.wy-side-nav-search .branding { display: flex; align-items: flex-end; margin-bottom: 10px; }
+.wy-side-nav-search .branding { display: flex; align-items: center; margin-bottom: 10px; }
+.wy-side-nav-search .branding a:last-child { padding-top: 1px; }
 .wy-side-nav-search .branding, .wy-side-nav-search .branding a { color: #f2f2f2; }
 .wy-side-nav-search .branding a:hover { text-decoration: underline; }
 .wy-side-nav-search .branding .patric-home { padding-right: 5px; margin-right: 5px; border-right: 1px solid #f2f2f2; }
