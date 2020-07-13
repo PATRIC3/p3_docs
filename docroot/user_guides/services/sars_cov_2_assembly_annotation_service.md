@@ -5,7 +5,7 @@ The SARS-CoV-2 Genome Assembly and Annotation Service provides a streamlined **"
 
 
 ## Using the SARS-CoV-2 Genome Assembly and Annotation Service
-*Note: You must be logged into PATRIC to use this service.*
+*Note: You must be logged in to use this service.*
 
 ## Options
 ![Input Form](../images/sars_assembly_annotation_input_form.png)
