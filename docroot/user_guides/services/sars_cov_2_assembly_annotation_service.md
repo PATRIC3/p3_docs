@@ -1,16 +1,14 @@
 # SARS-CoV-2 Genome Assembly and Annotation Service
 
 ## Overview
-The SARS-CoV-2 Genome Assembly and Annotation Service provides a streamlined **"meta-service"** that accepts raw reads and performs genome assembly, annotation, and variation analysis.
+The SARS-CoV-2 Genome Assembly and Annotation Service provides a streamlined **"meta-service"** that accepts raw reads and performs genome assembly, annotation, and variation analysis for SARS-CoV-2 genome reads.
 
 
 ## Using the SARS-CoV-2 Genome Assembly and Annotation Service
-The **Comprehensive Genome Analysis** submenu option under the **Services** main menu (Genomics category) opens the Comprehensive Genome Analysis input form (shown below). *Note: You must be logged into PATRIC to use this service.*
-
-![Comprehensive Genome Analysis Menu](../images/services_menu.png)
+*Note: You must be logged into PATRIC to use this service.*
 
 ## Options
-![Comprehensive Genome Analysis Input Form](../images/genome_analysis_input_form.png)
+![Input Form](../images/sars_assembly_annotation_input_form.png)
 
 ## Start with
 The service can accept either read files or assembled contigs. If the "Read Files" option is selected, the Assembly Service will be invoked automatically to assemble the reads into contigs before invoking the Annotation Service. If the "Assembled Contigs" option is chosen, the Annotation Service will automatically be invoked, bypassing the Assembly Service.
