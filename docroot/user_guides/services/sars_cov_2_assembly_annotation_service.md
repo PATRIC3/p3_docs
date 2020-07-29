@@ -32,7 +32,7 @@ Read files placed here will contribute to a single assembly.
 
 ### Strategy
 
-**auto:** Uses CDC-Illumina or CDC-Nanopore protocol based on the type of reads provided. 
+**auto:** Uses CDC-Illumina or CDC-Nanopore protocol based on the type of reads provided (see below). 
   
 **CDC-Illumina:** Implements CDC-prescribed assembly [protocol for SARS-CoV-2 genome sequences](https://github.com/CDCgov/SARS-CoV-2_Sequencing/blob/master/protocols/CDC-Comprehensive/CDC_SARS-CoV-2_Sequencing_200325-2.pdf) for Illumina-generated sequences.
 
@@ -41,7 +41,6 @@ Read files placed here will contribute to a single assembly.
 
 
 **ARTIC-Nanopore:** Implements the ARTICnetwork-prescribed [protocol for nCoV-19 genome sequences](https://artic.network/ncov-2019/ncov2019-bioinformatics-sop.html) for Nanopore-generated sequences. 
-
 
 ### Taxonomy Name
 Taxon must be specified at the genus level or below to get the latest protein family predictions.
