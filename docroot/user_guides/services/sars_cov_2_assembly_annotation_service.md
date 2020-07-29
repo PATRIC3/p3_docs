@@ -60,7 +60,9 @@ Auto-generated name for the results (Taxonomy Name + My Label)
 ## Output Results
 ![SARS-CoV-2 Output Files](../images/sars-cov-2_service_output_files.png)
 
-The Comprehensive Genome Analysis Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
+The SARS-CoV-2 Genome Assembly and Annotation Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
+
+# NOTE: THE SECTIONS BELOW NEEDS TO BE UPDATED
 
  * **FullGenomeReport.html** - A web-browser-viewable report that summarizes the results of the service including
    * Summary information - genome name, quality,
