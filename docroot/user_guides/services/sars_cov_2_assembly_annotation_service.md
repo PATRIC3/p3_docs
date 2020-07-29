@@ -43,13 +43,13 @@ Read files placed here will contribute to a single assembly.
 **ARTIC-Nanopore:** Implements the ARTICnetwork-prescribed [protocol for nCoV-19 genome sequences](https://artic.network/ncov-2019/ncov2019-bioinformatics-sop.html) for Nanopore-generated sequences. 
 
 ### Taxonomy Name
-Taxon must be specified at the genus level or below to get the latest protein family predictions.
+Pre-populated with the appropriate taxonomy name for SARS-CoV-2. 
 
 ### Taxonomy ID
-Auto-populated after entering Taxonomy Name. If a Taxonomy ID is entered, auto-populates the Taxonomy Name
+Pre-populated with the appropriate taxonomy ID for SARS-CoV-2.
 
-### Genetic Code
-The codon translation used in calling genes.
+### My Label
+User-provided name for the results
 
 ### Output Folder
 The workspace folder where results will be placed.
