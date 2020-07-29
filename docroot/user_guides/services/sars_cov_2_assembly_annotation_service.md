@@ -52,10 +52,13 @@ Pre-populated with the appropriate taxonomy ID for SARS-CoV-2.
 User-provided name to uniquely identify the results.
 
 ### Output Folder
-The workspace folder where results will be placed.
+User-selected workspace folder where results will be placed.
+
+### Output Name
+Auto-generated name for the results (Taxonomy Name + My Label)
 
 ## Output Results
-![Comprehensive Genome Analysis Output Files](../images/cga_service_output_files.png)
+![SARS-CoV-2 Output Files](../images/sars-cov-2_service_output_files.png)
 
 The Comprehensive Genome Analysis Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
 
