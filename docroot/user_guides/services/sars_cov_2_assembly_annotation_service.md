@@ -49,13 +49,10 @@ Pre-populated with the appropriate taxonomy name for SARS-CoV-2.
 Pre-populated with the appropriate taxonomy ID for SARS-CoV-2.
 
 ### My Label
-User-provided name for the results
+User-provided name to uniquely identify the results.
 
 ### Output Folder
 The workspace folder where results will be placed.
-
-### Output Name
-Name used to uniquely identify results.
 
 ## Output Results
 ![Comprehensive Genome Analysis Output Files](../images/cga_service_output_files.png)
