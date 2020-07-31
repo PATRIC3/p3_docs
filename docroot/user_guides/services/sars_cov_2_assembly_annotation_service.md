@@ -70,24 +70,24 @@ The SARS-CoV-2 Genome Assembly and Annotation Service generates several files th
  * **annotated.genome** - A JSON-format file encapsulating all the data from the annotated genome
  * **annotation** - Job output from the annotion portion of the service. Provides a collection of output files:
    * annotation.feature_dna.fasta - DNA sequence for each feature called by the annotation pipeline
-   * annotation.feature_protein.fasta contains the amino sequence for each gene called by the annotation pipeline
-   * annotation.features file contains a list of the features, where they are located on the contig, their type, their function, any known alias, and (for protein-coding genes) the protein MD5 checksum
-   * annotation.gb file contains the annotation in GenBank format
-   * annotation.gff lists all the features of the genome in a General Feature Format
-   * merged.gb has all of the contigs merged into a single locus instead of being separate locus objects.  The merged.gb can be used in artemis
-   * annotation.tar.gz is a tar ball file where all of files are wrapped up in one single file
-   * annotation.txt file contains all the information on the called features, including the nucleotide and amino acid sequences
-   * annotation.xls file contains all the information on the called features, including the nucleotide and amino acid sequences, but in excel format
-   * vigor4.stderr.txt file shows any standard errors that result from the VIGOR4 annotation pipeline
-   * vigor4.stdout.txt file shows the output of the VIGOR4 annotation pipeline at each step in the process
-   * vigor_out-20200729-135437.ini file contains the set of VIGOR4 settings that were used to compute that annotation
-   * vigor.out.aln file contains alignment  of  predicted  protein  to  reference, and from the reference protein to genome
-   * vigor_out.cds file is a fasta file of predicted CDSs
-   * vigor_out.gff3 file shows the  predicted features in GFF3 format
-   * vigor_out.rpt file shows the summary results from the annotation program
-   * vigor_out.pep file shows the fata file of the predicted proteins
-   * vigor_out.tbl file shows the predicted features in GenBank table format
-   * vigor_out.warnings file shows any warning produced by the VIGOR4 pipeline when it generated the annotation
+   * annotation.feature_protein.fasta - amino sequence for each gene called by the annotation pipeline
+   * annotation.features - list of the features, location on contig, type, function, any known alias, and (for protein-coding genes) the protein MD5 checksum
+   * annotation.gb - annotation in GenBank format
+   * annotation.gff - features of the genome in a General Feature Format
+   * merged.gb - all of the contigs merged into a single locus instead of being separate locus objects; can be used in Artemis
+   * annotation.tar.gz - tar ball file containing all files
+   * annotation.txt - all information on the called features, including the nucleotide and amino acid sequences, in text file format
+   * annotation.xls - all information on the called features, including the nucleotide and amino acid sequences, in Excel format
+   * vigor4.stderr.txt - standard errors that result from the VIGOR4 annotation pipeline
+   * vigor4.stdout.txt - output of the VIGOR4 annotation pipeline at each step in the process
+   * vigor_out-20200729-135437.ini - VIGOR4 settings that were used to compute that annotation
+   * vigor.out.aln file - alignment  of  predicted  protein  to  reference, and from the reference protein to genome
+   * vigor_out.cds - FASTA-format file of predicted CDSs
+   * vigor_out.gff3 - predicted features in GFF3 format
+   * vigor_out.rpt - summary results from the annotation program
+   * vigor_out.pep - EMBL-format file of the predicted proteins
+   * vigor_out.tbl - predicted features in GenBank table format
+   * vigor_out.warnings - any warnings produced by the VIGOR4 pipeline during annotation
    * 
    
    
