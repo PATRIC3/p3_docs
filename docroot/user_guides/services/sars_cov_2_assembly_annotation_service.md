@@ -66,8 +66,27 @@ The SARS-CoV-2 Genome Assembly and Annotation Service generates several files th
    * Assembly coverage depth graph
    * Variation data, including contig, SNP position, reference genome nucleotide, submitted genome nucleotide
    * Annotation summary with table of called features including ID, start position, strand, length, and function for each
+ * **(output name).fasta** - Annotated genome in FASTA format
+ * **annotated.genome** - A JSON-format file encapsulating all the data from the annotated genome
+ * **annotation** - Job output from the annotion portion of the service. Provides a collection of output files:
+   * annotation.feature_dna.fasta - DNA sequence for each feature called by the annotation pipeline
+   * annotation.feature_protein.fasta contains the amino sequence for each gene called by the annotation pipeline
+   * annotation.features file contains a list of the features, where they are located on the contig, their type, their function, any known alias, and (for protein-coding genes) the protein MD5 checksum
+   * annotation.gb file contains the annotation in GenBank format
+   * annotation.gff lists all the features of the genome in a General Feature Format
+   * merged.gb has all of the contigs merged into a single locus instead of being separate locus objects.  The merged.gb can be used in artemis
+   * annotation.tar.gz is a tar ball file where all of files are wrapped up in one single file
+   * annotation.txt file contains all the information on the called features, including the nucleotide and amino acid sequences
+   * annotation.xls file contains all the information on the called features, including the nucleotide and amino acid sequences, but in excel format
+   * 
+   * 
+   * 
+   
  
- **GOT TO HERE**
+
+
+
+
  
  
  
