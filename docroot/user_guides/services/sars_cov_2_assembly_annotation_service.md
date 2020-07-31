@@ -78,9 +78,19 @@ The SARS-CoV-2 Genome Assembly and Annotation Service generates several files th
    * annotation.tar.gz is a tar ball file where all of files are wrapped up in one single file
    * annotation.txt file contains all the information on the called features, including the nucleotide and amino acid sequences
    * annotation.xls file contains all the information on the called features, including the nucleotide and amino acid sequences, but in excel format
+   * vigor4.stderr.txt file shows any standard errors that result from the VIGOR4 annotation pipeline
+   * vigor4.stdout.txt file shows the output of the VIGOR4 annotation pipeline at each step in the process
+   * vigor_out-20200729-135437.ini file contains the set of VIGOR4 settings that were used to compute that annotation
+   * vigor.out.aln file contains alignment  of  predicted  protein  to  reference, and from the reference protein to genome
+   * vigor_out.cds file is a fasta file of predicted CDSs
+   * vigor_out.gff3 file shows the  predicted features in GFF3 format
+   * vigor_out.rpt file shows the summary results from the annotation program
+   * vigor_out.pep file shows the fata file of the predicted proteins
+   * vigor_out.tbl file shows the predicted features in GenBank table format
+   * vigor_out.warnings file shows any warning produced by the VIGOR4 pipeline when it generated the annotation
    * 
-   * 
-   * 
+   
+   
    
  
 
