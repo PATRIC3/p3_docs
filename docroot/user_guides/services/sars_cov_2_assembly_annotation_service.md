@@ -3,7 +3,7 @@
 ## Overview
 The SARS-CoV-2 Genome Assembly and Annotation Service provides a streamlined **"meta-service"** that accepts raw reads and performs genome assembly, annotation, and variation analysis for SARS-CoV-2 genome reads. The figure below provides an overview of the workflows of the service.
 
-![SARS-CoV-2 Assembly and Annotation Workflow](../images/sars_assembly_annotation_workflow.png)
+![SARS-CoV-2 Assembly and Annotation Workflow](../images/sars_assembly_annotation_workflow2.png)
 
 
 ## Using the SARS-CoV-2 Genome Assembly and Annotation Service
