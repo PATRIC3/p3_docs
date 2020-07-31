@@ -88,7 +88,18 @@ The SARS-CoV-2 Genome Assembly and Annotation Service generates several files th
    * vigor_out.pep - EMBL-format file of the predicted proteins
    * vigor_out.tbl - predicted features in GenBank table format
    * vigor_out.warnings - any warnings produced by the VIGOR4 pipeline during annotation
+ * **assembly** - Job output from the assembly portion of the service. Provides a collection of output files:
+   * assembly-details.json - information about the assembly in JSON-format
+   * assembly.bam - a Binary Alignment Map (BAM) containing comprehensive raw data of genome sequencing
+   * assembly.bam.bai - BAM index file
+   * assembly.depth - depth of support based on the reads at each position in the assembly
+   * assembly.fasta - nucleotide sequence of the contig
+   * assembly.png - graph that shows the coverage depth for the assembly at the specific positions in the genome, also shown in the Full Genome Report
+   * vc.gz and vcfgz.tbi - Variant Call Format (VCF) specification VCF, a (compressed) text file containing meta-information lines, a header line, and then data lines each containing information about a position in the genome; can contain genotype information on samples for each position
    * 
+   * 
+   * 
+   
    
    
    
