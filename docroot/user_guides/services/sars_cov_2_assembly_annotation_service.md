@@ -61,13 +61,18 @@ Auto-generated name for the results (Taxonomy Name + My Label)
 ![SARS-CoV-2 Output Files](../images/sars-cov-2_service_output_files.png)
 
 The SARS-CoV-2 Genome Assembly and Annotation Service generates several files that are deposited in the Private Workspace in the designated Output Folder. These include
-
-# NOTE: THE SECTIONS BELOW NEEDS TO BE UPDATED
-
  * **FullGenomeReport.html** - A web-browser-viewable report that summarizes the results of the service including
-   * Summary information - genome name, quality,
-   * Genome assembly information - contigs, GC content, plasmids, L50, genome length, chromosomes
-   * Genome annotation information - taxonomy, CDS, tRNA, rRNA, partial CDS, misc RNA, repeat regions, protein feature summary, circular view with annotations
+   * Assembly statistics
+   * Assembly coverage depth graph
+   * Variation data, including contig, SNP position, reference genome nucleotide, submitted genome nucleotide
+   * Annotation summary with table of called features including ID, start position, strand, length, and function for each
+ 
+ **GOT TO HERE**
+ 
+ 
+ 
+
+Genome annotation information - taxonomy, CDS, tRNA, rRNA, partial CDS, misc RNA, repeat regions, protein feature summary, circular view with annotations
    * Specialty genes - antibiotic resistance, drug targets, transporters, virulence factors
    * Subsystem analysis - summary
    * Phylogenetic analysis - phylogenetic tree generated using the analyzed genome and the closest Reference and Representative genomes
