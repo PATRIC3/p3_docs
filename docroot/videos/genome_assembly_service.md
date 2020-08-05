@@ -17,32 +17,26 @@ This set of short videos provides a step-by-step demonstration of using the PATR
 
 Links to the videos are provided below.  They can also be viewed in order in the [PATRIC YouTube channel playlist](https://www.youtube.com/playlist?list=PLsstVALeacEIk2iu794_XYrPFUEAETy_l). Relevant references are provided at the bottom of this page.
 
-##  
 <a name="assembly1"></a>
-##### 1. Uploading read files to the workspace (11:08)
+### 1. Uploading read files to the workspace (11:08)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aCJrMDyfDDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##  
 <a name="assembly2"></a>
-##### 2. Submitting reads to the Genome Assembly Service (9:15) 
+### 2. Submitting reads to the Genome Assembly Service (9:15) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/89cpfkQvgWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##  
 <a name="assembly3"></a>
-##### 3. Selecting assembly strategies and submitting the assembly job (7:14)
+### 3. Selecting assembly strategies and submitting the assembly job (7:14)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/afxnUM7jtk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##  
 <a name="assembly4"></a>
-##### 4. Monitoring the assembly job and reviewing job results (8:06)
+### 4. Monitoring the assembly job and reviewing job results (8:06)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wWq1Ec6yhWM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##  
 <a name="assembly5"></a>
-##### 5. Assembly questions and getting help with problems (4:16)
+### 5. Assembly questions and getting help with problems (4:16)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e8dnNw0Ir0w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##  
 ## References
 * Antipov, D., et al., plasmidSPAdes: assembling plasmids from whole genome sequencing data. bioRxiv, 2016: p. 048942.
 * Bankevich, A., et al., SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing. Journal of computational biology, 2012. 19(5): p. 455-477.

@@ -21,47 +21,38 @@ This set of short videos provides a step-by-step demonstration of using the PATR
 
 Links to the videos are provided below.  They can also be viewed in order in the [PATRIC YouTube channel playlist](https://www.youtube.com/playlist?list=PLsstVALeacEL_UE2oYbJW45BDHmwL9cjz). Relevant references are provided at the bottom of this page.
 
-##  
 <a name="cga1"></a>
 ##### 1. Submitting a job using reads (13:08)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8hU2t4OhMCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##  
 <a name="cga2"></a>
 ##### 2. Submitting contig files (3:36)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NquDD9LoTdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##  
 <a name="cga3"></a>
 ##### 3. Full genome report (13:06)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XqgyobAw2sQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##  
 <a name="cga4"></a>
 ##### 4. Job results (11:22)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_NgplRiYfJw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##  
 <a name="cga5"></a>
 ##### 5. Assembly results (6:13)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_aqN_V12VZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##  
 <a name="cga6"></a>
 ##### 6. Annotation results (8:50)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bqkNsg_QqIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##  
 <a name="cga7"></a>
 ##### 7. Viewing your genome (8:05)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_C-a-UG92Ws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##  
 <a name="cga8"></a>
 ##### 8. Finding help and citing PATRIC (6:51)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k65b1fCsSEk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##  
 ## References
 * Antipov, D., et al., plasmidSPAdes: assembling plasmids from whole genome sequencing data. bioRxiv, 2016: p. 048942.
 * Bankevich, A., et al., SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing. Journal of computational biology, 2012. 19(5): p. 455-477.
