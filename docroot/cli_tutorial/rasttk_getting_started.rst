@@ -40,7 +40,7 @@ The ``p3-genome-fasta`` command returns the DNA data for the contigs
 of the given genome. 
 
 If you want to annotate batches of genomes, please refer to our
-`tutorial <Batch_Mode.html>`_ on this topic.
+`tutorial <rasttk_batch_mode.html>`_ on this topic.
 
 The Default RASTtk Pipeline
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
