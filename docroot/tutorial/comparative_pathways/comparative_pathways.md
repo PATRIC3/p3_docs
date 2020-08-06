@@ -1,4 +1,4 @@
-# Comparing Pathways in PATRIC across individual genomes or genome groups
+# Comparing Pathways Across Genomes Or Genome Groups
 
 The Comparative Pathway Tool allows users to search for pathways based on taxonomy, EC number, pathway ID, or pathway name and compare pathways across one or more genomes using KEGG pathway maps and interactive heatmap viewer. 
 
