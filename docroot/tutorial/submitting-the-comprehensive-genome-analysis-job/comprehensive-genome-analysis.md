@@ -1,4 +1,4 @@
-# Submitting the Comprehensive Genome Analysis job
+# Submitting the Comprehensive Genome Analysis Job
 
 1.  Finding the service.
 

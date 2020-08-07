@@ -1,4 +1,4 @@
-# Formatting an Excel file to rapidly scan comparison genomes – Proteome Comparison
+# Proteome Comparison: Formatting an Excel File To Scan Comparison Genomes
 
 ## Mac Format (Windows format is below)
 ### 1. Highlighting cells that have unidirectional BLASTP hits

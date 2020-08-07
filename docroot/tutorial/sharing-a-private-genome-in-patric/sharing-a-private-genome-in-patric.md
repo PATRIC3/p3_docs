@@ -1,4 +1,4 @@
-# Sharing a private genome in PATRIC
+# Sharing a Private Genome
 
 1.  Click on the Share icon, which is located on the upper far right
     corner of the landing page for your private genome.

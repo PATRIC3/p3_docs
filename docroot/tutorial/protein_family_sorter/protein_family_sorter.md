@@ -1,4 +1,4 @@
-# Comparing Protein Families across individual genomes and genome groups
+# Comparing Protein Families Across Individual Genomes and Genome Groups
 
 The Protein Family Sorter tool enables researchers to examine the distribution of specific protein families across different genomes.
 

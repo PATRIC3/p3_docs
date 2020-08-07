@@ -54,7 +54,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'PATRIC Documentation'
-copyright = '2019 | The PATRIC Team'
+copyright = '2020 | The PATRIC Team'
 author = 'PATRIC team'
 
 # The version info for the project you're documenting, acts as replacement for

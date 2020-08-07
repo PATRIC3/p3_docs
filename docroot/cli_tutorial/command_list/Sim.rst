@@ -192,7 +192,7 @@ as_line
 
 
 Return the similarity as an output line. This is exactly the reverse of
-`/new_from_line </new_from_line>`_.
+/new_from_line_.
 
 
 id1
