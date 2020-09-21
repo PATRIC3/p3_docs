@@ -25,9 +25,9 @@ Last month: **5,301**
 ![Users 6 months](_static/images/usage_metrics/users_6_months_aug2020.png)
 
 ## Analysis Service Jobs
-6-month total: **80,183**   
+6-month total: **114,103**   
 
-Last month: **35,875**
+Last month: **10,251**
 
 ![Service Jobs 6 months](_static/images/usage_metrics/analysis_jobs_6_months_aug2020.png)
 
