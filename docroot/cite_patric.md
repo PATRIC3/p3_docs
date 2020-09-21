@@ -12,7 +12,7 @@ Brettin, T., J. J. Davis, T. Disz, R. A. Edwards, S. Gerdes, G. J. Olsen, R. Ols
 
 ---
 
-For a list of all PATRIC publications, please visit the <a href="./publications.html">Publications page</a>.
+For a list of all PATRIC publications, please visit the <a href="./publications.html">**Publications page**</a>.
 
 For a list of other publications that cite PATRIC, please visit the <a href="https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1">**PATRIC Google Scholar page**</a>.
 
