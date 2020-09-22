@@ -21,7 +21,7 @@ The publications listed below were developed, at least in part, by members of th
 </p>
 
 <p>
-Saranathan R, Levi MH, Wattam AR, Malek A, Asare E, Behin DS, Pan DH, Jacobs WR Jr, Szymczak WA. J Clin Microbiol. <strong>Helicobacter pylori Infections in the Bronx, New York: Surveying Antibiotic Susceptibility and Strain Lineage by Whole-Genome Sequencing.</strong> 2020 Feb 24;58(3). pii: e01591-19. doi: 10.1128/JCM.01591-19. Print 2020 Feb 24. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/31801839">31801839</a> PMCID: PMC7041580 
+Saranathan R, Levi MH, Wattam AR, Malek A, Asare E, Behin DS, Pan DH, Jacobs WR Jr, Szymczak WA. J Clin Microbiol. <strong>Helicobacter pylori Infections in the Bronx, New York: Surveying Antibiotic Susceptibility and Strain Lineage by Whole-Genome Sequencing.</strong> 2020 Feb 24;58(3). pii: e01591-19. doi: <a href="https://doi.org/10.1128/jcm.01591-19">10.1128/JCM.01591-19</a>. Print 2020 Feb 24. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/31801839">31801839</a> PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7041580/">PMC7041580</a>.
 </p>
 
 <p>Varela MC,  Roch M, Taglialegna A, W Long SW, Saavedra MO,  Rose WE, Wattam AR, Davis JJ, Hoffman LR, Hernandez RE, Rosato RR and Rosato AE. <strong>Carbapenems as a key driver of collateral ceftaroline resistance in cystic fibrosis  patients with MRSA.</strong> Nature Communications Biology 2020.
