@@ -38,7 +38,7 @@ Last month: **10,251**
 
 [Publications that cite PATRIC/RAST:](https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1) **>11,500**
 
-[PATRIC Publications:](https://docs.patricbrc.org/publications.html) **86**
+[PATRIC Publications:](https://docs.patricbrc.org/publications.html) **92**
 
 ### PATRIC Workshops
 
