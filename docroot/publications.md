@@ -11,10 +11,10 @@ The publications listed below were developed, at least in part, by members of th
 <p>Madin JS, Nielsen DA, Brbic M, Corkrey R, Danko D, Edwards K, Engqvist MKM, Fierer N, Geoghegan JL, Gillings M, Kyrpides NC, Litchman E, Mason CE, Moore L, Nielsen SL, Paulsen IT, Price ND, Reddy TBK, Richards MA, Rocha EPC, Schmidt TM, Shaaban H, Shukla M, Supek F, Tetu SG, Vieira-Silva S, Wattam AR, Westfall DA, Westoby M.Sci Data. 2020. <strong>A synthesis of bacterial and archaeal phenotypic trait data.</strong> Jun 5;7(1):170. doi: 10.1038/s41597-020-0497-4.PMID: 32503990.
 </p>
 
-<p>McDermott PF, Davis JJ. <strong>Predicting antimicrobial susceptibility from the bacterial genome: A new paradigm for one health resistance monitoring.</strong> Journal of Veterinary Pharmacology and Therapeutics. <accepted>.
+<p>McDermott PF, Davis JJ. <strong>Predicting antimicrobial susceptibility from the bacterial genome: A new paradigm for one health resistance monitoring.</strong> Journal of Veterinary Pharmacology and Therapeutics. (Accepted).
 </p>
 
-<p>Nguyen M, Olson R, Shukla M, VanOeffelen M, Davis JJ. <strong>Predicting Antimicrobial Resistance Using Conserved Genes.</strong> bioRxiv. 2020:2020.04.29.068254. doi: 10.1101/2020.04.29.068254. Plos Comp Bio. <accepted>.
+<p>Nguyen M, Olson R, Shukla M, VanOeffelen M, Davis JJ. <strong>Predicting Antimicrobial Resistance Using Conserved Genes.</strong> bioRxiv. 2020:2020.04.29.068254. doi: 10.1101/2020.04.29.068254. Plos Comp Bio. (Accepted).
 </p>
 
 <p>Pincus NB, Ozer EA, Allen JP, Nguyen M, Davis JJ, Winter DR, Chuang CH, Chiu CH, Zamorano L, Oliver A, Hauser AR. <strong>A Genome-Based Model to Predict the Virulence of Pseudomonas aeruginosa Isolates.</strong> mBio. 2020 Aug 25;11(4):e01527-20. doi: 10.1128/mBio.01527-20.
