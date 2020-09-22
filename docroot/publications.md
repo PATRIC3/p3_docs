@@ -5,8 +5,29 @@ The publications listed below were developed, at least in part, by members of th
 <p>Davis JJ, Wattam AR, Aziz RK, Brettin T, Butler R, Butler RM, Chlenski P, Conrad N, Dickerman A, Dietrich EM, Gabbard JL, Gerdes S, Guard A, Kenyon RW, Machi D, Mao C, Murphy-Olson D, Nguyen M, Nordberg EK, Olsen GJ, Olson RD, Overbeek JC, Overbeek R, Parrello B, Pusch GD, Shukla M, Thomas C, VanOeffelen M, Vonstein V, Warren AS, Xia F, Xie D, Yoo H, Stevens R. <strong>The PATRIC Bioinformatics Resource Center: expanding data and analysis capabilities.</strong> Nucleic Acids Res. 2020 Jan 8;48(D1):D606-D612. doi: 10.1093/nar/gkz943. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/31667520">31667520</a>.
 </p>
 
+<p>Gagetti P, Errecalde L, Wattam AR, De Belder D, Ojeda Saavedra M, Corso A, Rosato AE.   Characterization of the First mecA-Positive Multidrug-Resistant Staphylococcus pseudintermedius Isolated from an Argentinian Patient. 2020.  Microb Drug Resist.. doi: 10.1089/mdr.2019.0308. PMID:32031908.
+</p>
+
+<p>Madin JS, Nielsen DA, Brbic M, Corkrey R, Danko D, Edwards K, Engqvist MKM, Fierer N, Geoghegan JL, Gillings M, Kyrpides NC, Litchman E, Mason CE, Moore L, Nielsen SL, Paulsen IT, Price ND, Reddy TBK, Richards MA, Rocha EPC, Schmidt TM, Shaaban H, Shukla M, Supek F, Tetu SG, Vieira-Silva S, Wattam AR, Westfall DA, Westoby M.Sci Data. 2020 . A synthesis of bacterial and archaeal phenotypic trait data.Jun 5;7(1):170. doi: 10.1038/s41597-020-0497-4.PMID: 32503990.
+</p>
+
+<p>McDermott PF, Davis JJ.  Predicting antimicrobial susceptibility from the bacterial genome: A new paradigm for one health resistance monitoring. Journal of Veterinary Pharmacology and Therapeutics. <accepted>.
+</p>
+
+<p>Nguyen M, Olson R, Shukla M, VanOeffelen M, Davis JJ. Predicting Antimicrobial Resistance Using Conserved Genes. bioRxiv. 2020:2020.04.29.068254. doi: 10.1101/2020.04.29.068254. Plos Comp Bio. <accepted>.
+</p>
+
+<p>Parrello B, Butler R, Chlenski P, Olson R, Overbeek J, Pusch GD, Vonstein V, Overbeek R. A machine learning-based service for estimating quality of genomes using PATRIC. BMC Bioinformatics. 2019 Oct 3;20(1):486. doi: 10.1186/s12859-019-3068-y.
+</p>
+
+<p>Pincus NB, Ozer EA, Allen JP, Nguyen M, Davis JJ, Winter DR, Chuang CH, Chiu CH, Zamorano L, Oliver A, Hauser AR. A Genome-Based Model to Predict the Virulence of Pseudomonas aeruginosa Isolates. mBio. 2020 Aug 25;11(4):e01527-20. doi: 10.1128/mBio.01527-20.
+</p>
+
 <p>
 Saranathan R, Levi MH, Wattam AR, Malek A, Asare E, Behin DS, Pan DH, Jacobs WR Jr, Szymczak WA. J Clin Microbiol. <strong>Helicobacter pylori Infections in the Bronx, New York: Surveying Antibiotic Susceptibility and Strain Lineage by Whole-Genome Sequencing.</strong> 2020 Feb 24;58(3). pii: e01591-19. doi: 10.1128/JCM.01591-19. Print 2020 Feb 24. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/31801839">31801839</a> PMCID: PMC7041580 
+</p>
+
+<p>Varela MC,  Roch M, Taglialegna A, W Long SW, Saavedra MO,  Rose WE, Wattam AR, Davis JJ, Hoffman LR, Hernandez RE, Rosato RR and Rosato AE. Carbapenems as a key driver of collateral ceftaroline resistance in cystic fibrosis  patients with MRSA. Nature Communications Biology 2020.
 </p>
 
 ## 2019
