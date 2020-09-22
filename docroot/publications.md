@@ -17,9 +17,6 @@ The publications listed below were developed, at least in part, by members of th
 <p>Nguyen M, Olson R, Shukla M, VanOeffelen M, Davis JJ. Predicting Antimicrobial Resistance Using Conserved Genes. bioRxiv. 2020:2020.04.29.068254. doi: 10.1101/2020.04.29.068254. Plos Comp Bio. <accepted>.
 </p>
 
-<p>Parrello B, Butler R, Chlenski P, Olson R, Overbeek J, Pusch GD, Vonstein V, Overbeek R. A machine learning-based service for estimating quality of genomes using PATRIC. BMC Bioinformatics. 2019 Oct 3;20(1):486. doi: 10.1186/s12859-019-3068-y.
-</p>
-
 <p>Pincus NB, Ozer EA, Allen JP, Nguyen M, Davis JJ, Winter DR, Chuang CH, Chiu CH, Zamorano L, Oliver A, Hauser AR. A Genome-Based Model to Predict the Virulence of Pseudomonas aeruginosa Isolates. mBio. 2020 Aug 25;11(4):e01527-20. doi: 10.1128/mBio.01527-20.
 </p>
 
