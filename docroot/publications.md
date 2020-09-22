@@ -17,7 +17,7 @@ The publications listed below were developed, at least in part, by members of th
 <p>Nguyen M, Olson R, Shukla M, VanOeffelen M, Davis JJ. <strong>Predicting Antimicrobial Resistance Using Conserved Genes.</strong> bioRxiv. 2020:2020.04.29.068254. doi: 10.1101/2020.04.29.068254. Plos Comp Bio. (Accepted).
 </p>
 
-<p>Pincus NB, Ozer EA, Allen JP, Nguyen M, Davis JJ, Winter DR, Chuang CH, Chiu CH, Zamorano L, Oliver A, Hauser AR. <strong>A Genome-Based Model to Predict the Virulence of Pseudomonas aeruginosa Isolates.</strong> mBio. 2020 Aug 25;11(4):e01527-20. doi: 10.1128/mBio.01527-20.
+<p>Pincus NB, Ozer EA, Allen JP, Nguyen M, Davis JJ, Winter DR, Chuang CH, Chiu CH, Zamorano L, Oliver A, Hauser AR. <strong>A Genome-Based Model to Predict the Virulence of Pseudomonas aeruginosa Isolates.</strong> mBio. 2020 Aug 25;11(4):e01527-20. doi: 10.1128/mBio.01527-20. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/32843552/">32843552</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7448275/">PMC7448275</a>.
 </p>
 
 <p>
