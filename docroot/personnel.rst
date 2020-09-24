@@ -6,11 +6,13 @@ Personnel
 University of Chicago / Argonne National Laboratory / FIG
 ----------------------------------------------------------
 
+- Rick Stevens, Co-Principal Investigator
 - Thomas Brettin
+- Philippe Chlenski
 - Neal Conrad
 - James Davis
 - Emily Dietrich
-- Svetlana Gerdes
+- Irina Goltsman
 - Marcus Nguyen
 - Daniel Murphy-Olson
 - Robert Olson
@@ -18,25 +20,20 @@ University of Chicago / Argonne National Laboratory / FIG
 - Bruce Parrello
 - Gordon Pusch
 - Maulik Shukla
-- Rick Stevens (Principal Investigator)
 - Chris Thomas
 - Veronika Vonstein
-- Fangfang Xia
 - Harry Yoo
 
 Biocomplexity Institute and Initiative at University of Virginia
 -----------------------------------------------------------------
 
+- Dina Bai
+- Clark Cucinell
 - Allan Dickerman
-- Ron Kenyon (Project Manager)
+- Ron Kenyon
 - Chunhong Mao
 - Dustin Machi
-- Bruno Sobral
+- Jacob Porter
 - Andrew Warren
 - Rebecca Wattam
 - Dawen Xie
-
-Industrial and Systems Engineering Department at Virginia Tech
----------------------------------------------------------------
-
-- Joseph Gabbard
