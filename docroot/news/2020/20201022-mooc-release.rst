@@ -20,4 +20,4 @@ We have released a new online Bacterial Bioinformatics course, freely available 
 
 Below is a link to flyer with additional information about the course.
 
-`Bacterial Bioinformatics flyer <https://www.coursera.org/learn/informatics#about>`_
+`Bacterial Bioinformatics flyer <mooc-ad-oct-2020_v3.pdf>`_
