@@ -13,10 +13,11 @@ New PATRIC Online Bacterial Bioinformatics Course
 
 We have released a new online Bacterial Bioinformatics course, freely available through Coursera. The course has biologically based lessons for PATRIC services including genome assembly, annotation, comprehensive genome analysis, phylogenetic trees, finding similar genomes, comparing protein families, and proteome comparison. 
 
-- `Register for free here <https://www.coursera.org/learn/informatics#about>`_.
+`Register for free here <https://www.coursera.org/learn/informatics#about>`_.
 
 
 .. cut::
 
 Below is a link to flyer with additional information about the course.
 
+`Bacterial Bioinformatics flyer <https://www.coursera.org/learn/informatics#about>`_
