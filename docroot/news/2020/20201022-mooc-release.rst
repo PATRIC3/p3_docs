@@ -6,7 +6,7 @@ New PATRIC Online Bacterial Bioinformatics Course
 .. feed-entry::
    :date: 2020-10-22
 
-.. image:: ../images/mooc_logo.png
+.. image:: ../images/mooc_logo2.png
   :width: 520
   :alt: Alternative text
 
