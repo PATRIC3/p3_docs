@@ -20,7 +20,7 @@ We have released a new online Bacterial Bioinformatics course, freely available 
 
 Below is a link to flyer with additional information about the course.
 
-`Bacterial Bioinformatics flyer <mooc-ad-oct-2020_v3.pdf>`_
+`Bacterial Bioinformatics flyer <https://docs.patricbrc.org/_static/files/mooc-ad-oct-2020_v3.pdf>`_
 
 .. image:: ../images/mooc-ad-image.png
-   :target: mooc-ad-oct-2020_v3.pdf
+   :target: https://docs.patricbrc.org/_static/files/mooc-ad-oct-2020_v3.pdf
