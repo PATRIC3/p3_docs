@@ -17,4 +17,4 @@ The software tools used in the resource are listed and described in the `Capabil
 Other Software Code
 --------------------
 
-Other software code associated with the system and infrastructure is described in the **System Architecture Section**. Links to corresponding source code are provided as well.
+Other software code associated with the system and infrastructure is described in the `System Architecture Section <https://docs.patricbrc.org/system_documentation/system_architecture.html>`_. Links to corresponding source code are provided as well.
