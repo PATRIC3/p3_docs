@@ -12,7 +12,7 @@ The software tools and scripts used for data processing are listed and described
 Software Tools
 ---------------
 
-The software tools used in the resource are listed and described in the `Capabilities and Functionality Section <https://docs.patricbrc.org/system_documentation/capabilities_and_functionality.html>`_.  Links to corresponding source code are provided with each.
+The software tools used in the resource are listed and described in the `Capabilities and Functionality Section <./capabilities_and_functionality.rst>`_.  Links to corresponding source code are provided with each.
 
 Other Software Code
 --------------------
