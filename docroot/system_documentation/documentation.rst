@@ -10,11 +10,10 @@ PATRIC provides several different categories of user documentation.  They includ
 
 - Quickstart Video (available from Help Menu)
 - `User Guides <../user_guides/index.html>`_
-- Tutorials
-- Common Tasks
-- CLI Tutorial
-- Webinars
-- Instructional Videos
+- `Tutorials <../tutorial/index.html>`_
+- `Common Tasks <../common_tasks/index.html>`_
+- `CLI Tutorial <../cli_tutorial/index.html>`_
+- `Instructional Videos <../cli_tutorial/index.html>`_
 
 Administrator Documentation
 ----------------------------
