@@ -22,4 +22,4 @@ Adminstrative documentation for data processing, analysis, cleansing, and harmon
 Software Documentation
 -----------------------
 
-Documentation for software developed under the contract is included in readme files and in the body of the code as needed in GitHub. Descriptions of the various parts of PATRIC systems are provided in the `Data <./data.html>`_, `Database <./database.html>, `Capabilities and Functionality <./capabilities_and_functionality.html>`_, and `Systems Architecture <./system_architecture.html>`_ sections.
+Documentation for software developed under the contract is included in readme files and in the body of the code as needed in GitHub. Descriptions of the various parts of PATRIC systems are provided in the `Data <./data.html>`_, `Database <./database.html>`_, `Capabilities and Functionality <./capabilities_and_functionality.html>`_, and `Systems Architecture <./system_architecture.html>`_ sections.
