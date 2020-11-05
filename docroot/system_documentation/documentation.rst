@@ -6,7 +6,7 @@ Documentation
 User Documentation
 -------------------
 
-PATRIC provides several different categories of user documentation.  They include the following, and are described in the *Project Information Pages* subsection of the **Capabilities and Functionality** section along with links to source code:
+PATRIC provides several different categories of user documentation.  They include the following, and are described in the *Project Information Pages* subsection of the `Capabilities and Functionality <./capabilities_and_functionality.html>`_ section along with links to source code:
 
 - `User Guides <../user_guides/index.html>`_
 - `Tutorials <../tutorial/index.html>`_
