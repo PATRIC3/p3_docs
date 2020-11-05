@@ -6,7 +6,7 @@ Software Tools And Code
 Data Processing Software
 -------------------------
 
-The software tools and scripts used for data processing are listed and described in the **Data Section**, along with links to corresponding source code in the GutHub repository.
+The software tools and scripts used for data processing are listed and described in the `Data Section<https://docs.patricbrc.org/system_documentation/data.html>`_, along with links to corresponding source code in the GutHub repository.
 
 
 Software Tools
