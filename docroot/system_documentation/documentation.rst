@@ -8,7 +8,6 @@ User Documentation
 
 PATRIC provides several different categories of user documentation.  They include the following, and are described in the *Project Information Pages* subsection of the **Capabilities and Functionality** section along with links to source code:
 
-- Quickstart Video (available from Help Menu)
 - `User Guides <../user_guides/index.html>`_
 - `Tutorials <../tutorial/index.html>`_
 - `Common Tasks <../common_tasks/index.html>`_
