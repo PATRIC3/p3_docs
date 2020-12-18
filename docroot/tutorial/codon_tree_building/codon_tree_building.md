@@ -1,7 +1,5 @@
 # Building Phylogenetic Trees - Codon Trees
 
-For the **All Shared Proteins** version of this tutorial see: [All Shared Proteins Tree Building](https://docs.patricbrc.org/tutorial/phylogenetic_tree_building/tree_building.html)
-
 A phylogenetic tree or evolutionary tree is a branching diagram or "tree" showing the evolutionary relationships among various biological species or other entities. The Codon Tree service in PATRIC allows researchers to build trees that contain private and public genomes, adjusting for the number of genes that will be used to generate the tree.
 
 ## I.  Locating the Phylogenetic Tree Service – Codon Tree App
