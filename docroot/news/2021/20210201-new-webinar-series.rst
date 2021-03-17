@@ -6,7 +6,7 @@ Bioninformatics Resource Center Webinar Series
 .. feed-entry::
    :date: 2021-02-01
 
-.. image:: ../BRC_Logo_v8_transparant_small.png
+.. image:: ../images/BRC_Logo_v8_transparant_small.png
   :width: 635
   :alt: BRC logo
 
