@@ -6,9 +6,9 @@ Bioninformatics Resource Center Webinar Series
 .. feed-entry::
    :date: 2021-02-01
 
-.. image:: ../images/genomics_tutorials_image_series1_horiz_v2.png
-  :width: 520
-  :alt: Alternative text
+.. image:: ../BRC_Logo_v8_transparant_small.png
+  :width: 635
+  :alt: BRC logo
 
 
 The Bioinformatic Resource Centers (BRC) have partnered to present a joint webinar series on Respiratory Pathogens and the tools available for their study. 
