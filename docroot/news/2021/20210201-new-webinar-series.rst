@@ -45,34 +45,26 @@ RSV, Pneumoviridae & ViPR
 | **Registration:** https://jcvi.webex.com/jcvi/j.php?RGID=r3305a49424c66191b85bc2d62611dc74
 | **Additional Details:** This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.
 
+Aspergillus and FungiDB
+^^^^^^^^^^^^^^^^^^^^^^^
+| **Date:** Tuesday May 4th 2021
+| **Time:** 11AM US Eastern Time
+| **Registration:** https://jcvi.webex.com/jcvi/j.php?RGID=rc56f63b3a337eb29428a94f8c9234c07
+| **Additional Details:** This webinar will focus on Aspergillus pathogens and introduce users to bioinformatic resources available at FungiDB.
 
+Enterovirus, Picornaviridae & ViPR
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+| **Date:** Tuesday May 18th 2021
+| **Time:** 11AM US Eastern Time
+| **Registration:** https://jcvi.webex.com/jcvi/j.php?RGID=r92ea0b9b113ecdab29ccf51f45bdc209
+| **Additional Details:** This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.
 
-
-Tuesday April 20th, 2021: The Bioinformatic Resource Centers Webinar Series: IRSV, Pneumoviridae & ViPR
-
-Thursday May 4th, 2021: The Bioinformatic Resource Centers Webinar Series: Aspergillus & FungiDB
-
-Tuesday May 18th, 2021: The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR
-
-Tuesday June 1st, 2021: The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC
-
-
-
-
-
-
-
-
-
-- `ID Mapping Service <https://docs.patricbrc.org/videos/id_mapper.html>`_
+Bacterial Respiratory Pathogens & PATRIC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Date:** Tuesday June 1st 2021
+**Time:** 11AM US Eastern Time
+**Registration:** https://jcvi.webex.com/jcvi/j.php?RGID=re7dd05381f96e50405e90793bae8f838
+**Additional Details:** This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Pathosystems Resource Integration Center.
 
 
 A full calendar of all BRC events is available at `BRC Event Calendar <https://brc-gateway.github.io/brc-gateway-website/outreach#calendar>`_.
-
-
-
-
-
-
-
-
