@@ -61,10 +61,10 @@ Enterovirus, Picornaviridae & ViPR
 
 Bacterial Respiratory Pathogens & PATRIC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-**Date:** Tuesday June 1st 2021
-**Time:** 11AM US Eastern Time
-**Registration:** https://jcvi.webex.com/jcvi/j.php?RGID=re7dd05381f96e50405e90793bae8f838
-**Additional Details:** This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Pathosystems Resource Integration Center.
+| **Date:** Tuesday June 1st 2021
+| **Time:** 11AM US Eastern Time
+| **Registration:** https://jcvi.webex.com/jcvi/j.php?RGID=re7dd05381f96e50405e90793bae8f838
+| **Additional Details:** This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Pathosystems Resource Integration Center.
 
 
 A full calendar of all BRC events is available at `BRC Event Calendar <https://brc-gateway.github.io/brc-gateway-website/outreach#calendar>`_.
