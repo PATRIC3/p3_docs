@@ -15,31 +15,12 @@ We have released a series of new video tutorials for PATRIC services and associa
 
 .. cut::
 
-Comparative Genomics - Series 1
--------------------------------
-
-Genomics Services and Tools
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- `ID Mapping Service <https://docs.patricbrc.org/videos/id_mapper.html>`_
 
 
+A full calendar of all BRC events is available at `BRC Event Calendar <https://brc-gateway.github.io/brc-gateway-website/outreach#calendar>`_.
 
 
-
-Tuesday February 16th, 2021: The Bioinformatic Resource Centers Webinar Series: Influenza & IRD
-
-Tuesday March 2nd, 2021: The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB
-
-Tuesday March 16th, 2021: The Bioinformatic Resource Centers Webinar Series: Coronaviridae & ViPR
-
-Tuesday March 30th, 2021: The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC
-
-Tuesday April 20th, 2021: The Bioinformatic Resource Centers Webinar Series: IRSV, Pneumoviridae & ViPR
-
-Thursday May 4th, 2021: The Bioinformatic Resource Centers Webinar Series: Aspergillus & FungiDB
-
-Tuesday May 18th, 2021: The Bioinformatic Resource Centers Webinar Series: Enterovirus, Picornaviridae & ViPR
-
-Tuesday June 1st, 2021: The Bioinformatic Resource Centers Webinar Series: Bacterial Resp. Pathogens & PATRIC
 
 
 
