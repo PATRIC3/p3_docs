@@ -19,10 +19,19 @@ While much of the scientific focus of attention has been on the novel coronaviru
 
 A special guest speaker will also be featured during each session. The IRD and ViPR will focus on the following viral families: Orthomyxoviridae (Influenza), Coronaviridae (various human coronavirus species), Pneumoviridae (RSV), and Picornaviridae (Enterovirus). Our counterparts at the Pathosystems Resource Integration Center (PATRIC) will discuss bacterial respiratory pathogens and antibacterial resistance, and showcase PATRIC’s bioinformatic tools. Finally our partners at VEuPathDB, will present data on Aspergillus and Candida, and introduce users to bioinformatic resources available at FungiDB and HostDB. A schedule is provided below.
 
-Tuesday February 16th, 2021: The Bioinformatic Resource Centers Webinar Series: Influenza & IRD
+Influenza & IRD
+^^^^^^^^^^^^^^^
+| **Date:** Tuesday February 16th, 2021
+| **Time:** 11AM US Eastern Time
+| **Recording:**
+| **Additional Details:** This webinar focused on respiratory pathogens and introduced users to bioinformatic resources available at the Influenza Research Database.
 
-Tuesday March 2nd, 2021: The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB
-
+Coccidioides & FungiDB
+^^^^^^^^^^^^^^^^^^^^^^
+| **Date:** Tuesday March 2nd, 2021
+| **Time:** 11AM US Eastern Time
+| **Recording Link:** https://youtu.be/SEWk0BvaWkc
+| **Additional Details:** This webinar will feature a lecture from Dr Bridget Barker from Northern Arizona University and introduce users to bioinformatic resources available at FungiDB.org.
 
 Coronaviridae & ViPR
 ^^^^^^^^^^^^^^^^^^^^
@@ -47,21 +56,21 @@ RSV, Pneumoviridae & ViPR
 
 Aspergillus and FungiDB
 ^^^^^^^^^^^^^^^^^^^^^^^
-| **Date:** Tuesday May 4th 2021
+| **Date:** Tuesday May 4th, 2021
 | **Time:** 11AM US Eastern Time
 | **Registration:** https://jcvi.webex.com/jcvi/j.php?RGID=rc56f63b3a337eb29428a94f8c9234c07
 | **Additional Details:** This webinar will focus on Aspergillus pathogens and introduce users to bioinformatic resources available at FungiDB.
 
 Enterovirus, Picornaviridae & ViPR
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-| **Date:** Tuesday May 18th 2021
+| **Date:** Tuesday May 18th, 2021
 | **Time:** 11AM US Eastern Time
 | **Registration:** https://jcvi.webex.com/jcvi/j.php?RGID=r92ea0b9b113ecdab29ccf51f45bdc209
 | **Additional Details:** This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.
 
 Bacterial Respiratory Pathogens & PATRIC
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-| **Date:** Tuesday June 1st 2021
+| **Date:** Tuesday June 1st, 2021
 | **Time:** 11AM US Eastern Time
 | **Registration:** https://jcvi.webex.com/jcvi/j.php?RGID=re7dd05381f96e50405e90793bae8f838
 | **Additional Details:** This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Pathosystems Resource Integration Center.
