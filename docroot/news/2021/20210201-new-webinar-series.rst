@@ -11,17 +11,18 @@ Bioninformatics Resource Center Webinar Series
   :alt: Alternative text
 
 
-In collaboration with VEuPathDB (eukaryotic pathogens, vectors, and host), the BV-BRC is providing a set of respiratory disease related bioinformatics webinars that feature use of BRC tools and data. The schedule is below.  
-
-have released a series of new video tutorials for PATRIC services and associated functionality. Each tutorial features a set of short instructional videos that provide a step-by-step of how to use a PATRIC analysis service, from beginning to end. The first series focuses on genome assembly, annotation, and common comparative genomic analyses in PATRIC.
+The Bioinformatic Resource Centers (BRC) have partnered to present a joint webinar series on Respiratory Pathogens and the tools available for their study. 
 
 .. cut::
+
+While much of the scientific focus of attention has been on the novel coronavirus, SARS-CoV-2, we will discuss other pathogens that may cause respiratory illness, or even co-occur with SARS-CoV-2. The Bacterial and Viral Bioinformatics Resource Center, (BV-BRC) will discuss viral and bacterial pathogens, whereas The Eukaryotic Pathogen, Host & Vector Genomics Resource (VEuPathDB), will focus on fungal pathogens and host response. Webinars will be structured to include a brief basic biology refresher on the pathogen of interest and a live demo of available tools for in silico research.
+
+A special guest speaker will also be featured during each session. The IRD and ViPR will focus on the following viral families: Orthomyxoviridae (Influenza), Coronaviridae (various human coronavirus species), Pneumoviridae (RSV), and Picornaviridae (Enterovirus). Our counterparts at the Pathosystems Resource Integration Center (PATRIC) will discuss bacterial respiratory pathogens and antibacterial resistance, and showcase PATRIC’s bioinformatic tools. Finally our partners at VEuPathDB, will present data on Aspergillus and Candida, and introduce users to bioinformatic resources available at FungiDB and HostDB. A schedule is provided below.
 
 Tuesday February 16th, 2021: The Bioinformatic Resource Centers Webinar Series: Influenza & IRD
 
 Tuesday March 2nd, 2021: The Bioinformatic Resource Centers Webinar Series: Coccidioides & FungiDB
 
-Tuesday March 16th, 2021, 11AM US Eastern Time: Coronaviridae & ViPR
 
 | **Topic:** Coronaviridae & ViPR
 | **Date:** Tuesday March 16th, 2021
@@ -29,6 +30,11 @@ Tuesday March 16th, 2021, 11AM US Eastern Time: Coronaviridae & ViPR
 | **Registration:** https://jcvi.webex.com/jcvi/j.php?RGID=r2bbbbd00a3c3606b0c8f8abc232b2f94
 | **Additional Details:** This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.
 
+| **Topic:** AMR, bacteria & PATRIC
+| **Date:** Tuesday March 30th, 2021
+| **Time:** 11AM US Eastern Time
+| **Registration:** https://jcvi.webex.com/jcvi/j.php?RGID=r6b68a005abac7a6f2679419fc25ec788
+| **Additional Details:** This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Pathosystems Resource Integration Center.
 
 
 
