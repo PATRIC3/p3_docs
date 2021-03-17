@@ -23,11 +23,11 @@ Tuesday March 2nd, 2021: The Bioinformatic Resource Centers Webinar Series: Cocc
 
 Tuesday March 16th, 2021, 11AM US Eastern Time: Coronaviridae & ViPR
 
-Topic: Coronaviridae & ViPR
-Date: Tuesday March 16th, 2021
-Time: 11AM US Eastern Time
-Registration: https://jcvi.webex.com/jcvi/j.php?RGID=r2bbbbd00a3c3606b0c8f8abc232b2f94
-Additional Details: This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.
+**Topic:** Coronaviridae & ViPR
+**Date:** Tuesday March 16th, 2021
+**Time:** 11AM US Eastern Time
+**Registration:** https://jcvi.webex.com/jcvi/j.php?RGID=r2bbbbd00a3c3606b0c8f8abc232b2f94
+**Additional Details:** This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.
 
 
 
