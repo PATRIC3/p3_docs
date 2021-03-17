@@ -9,15 +9,16 @@ News Articles
    :description: PATRIC News RSS feed
    :link: https://docs.patricbrc.org/
 
+   2021/20210201-new-webinar-series.rst
    2020/20201022-mooc-release.rst
    2020/20200701-new-video-tutorials
-   2020/20200331-patric-jan-mar-2020-release
 
    
 .. toctree::
    :maxdepth: 2
    :caption: News Articles Archives:
    
+   2021/index
    2020/index
    2019/index
    2018/index
