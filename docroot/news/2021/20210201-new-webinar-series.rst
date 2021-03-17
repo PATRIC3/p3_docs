@@ -26,7 +26,6 @@ Tuesday March 2nd, 2021: The Bioinformatic Resource Centers Webinar Series: Cocc
 
 Coronaviridae & ViPR
 ^^^^^^^^^^^^^^^^^^^^
-| **Topic:** Coronaviridae & ViPR
 | **Date:** Tuesday March 16th, 2021
 | **Time:** 11AM US Eastern Time
 | **Registration:** https://jcvi.webex.com/jcvi/j.php?RGID=r2bbbbd00a3c3606b0c8f8abc232b2f94
@@ -34,17 +33,20 @@ Coronaviridae & ViPR
 
 AMR, bacteria & PATRIC
 ^^^^^^^^^^^^^^^^^^^^^^
-| **Topic:** AMR, bacteria & PATRIC
 | **Date:** Tuesday March 30th, 2021
 | **Time:** 11AM US Eastern Time
 | **Registration:** https://jcvi.webex.com/jcvi/j.php?RGID=r6b68a005abac7a6f2679419fc25ec788
 | **Additional Details:** This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Pathosystems Resource Integration Center.
 
+RSV, Pneumoviridae & ViPR
+^^^^^^^^^^^^^^^^^^^^^^^^^
+| **Date:** Tuesday April 20th, 2021
+| **Time:** 11AM US Eastern Time
+| **Registration:** https://jcvi.webex.com/jcvi/j.php?RGID=r3305a49424c66191b85bc2d62611dc74
+| **Additional Details:** This webinar will focus on respiratory pathogens and introduce users to bioinformatic resources available at the Virus Pathogen Resource.
 
 
 
-
-Tuesday March 30th, 2021: The Bioinformatic Resource Centers Webinar Series: AMR, bacteria & PATRIC
 
 Tuesday April 20th, 2021: The Bioinformatic Resource Centers Webinar Series: IRSV, Pneumoviridae & ViPR
 
