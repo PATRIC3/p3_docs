@@ -1,5 +1,11 @@
 [
     {
+        "title": "Bioninformatics Resource Center Webinar Series",
+        "desc": "The Bioinformatic Resource Centers (BRC) have partnered to present a joint webinar series on Respiratory Pathogens and the tools available for their study.",
+        "img": "https://docs.patricbrc.org/_static/announcements/brc-webinar.png",
+        "link": "https://docs.patricbrc.org/news/2021/20210201-new-webinar-series.html"
+    },
+    {
         "title": "New PATRIC Online Bacterial Bioinformatics Course",
         "desc": "We have released a new online Bacterial Bioinformatics course, freely available through Coursera.",
         "img": "https://docs.patricbrc.org/_static/announcements/mooc.png",
