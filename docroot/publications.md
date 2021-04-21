@@ -36,6 +36,9 @@ Saranathan R, Levi MH, Wattam AR, Malek A, Asare E, Behin DS, Pan DH, Jacobs WR 
 <p>Varela MC,  Roch M, Taglialegna A, W Long SW, Saavedra MO,  Rose WE, Wattam AR, Davis JJ, Hoffman LR, Hernandez RE, Rosato RR and Rosato AE. <strong>Carbapenems as a key driver of collateral ceftaroline resistance in cystic fibrosis  patients with MRSA.</strong> Nature Communications Biology 2020.
 </p>
 
+<p>Viana MVC, Profeta R, da Silva AL, Hurtado R, Cerqueira JC, Ribeiro BFS, Almeida MO, Morais-Rodrigues F, Soares SC, Oliveira M, Tavares L, Figueiredo H, Wattam AR, Barh D, Ghosh P, Silva A, Azevedo V.  <strong>Taxonomic classification of strain PO100/5 shows a broader geographic distribution and genetic markers of the recently described Corynebacterium silvaticum.</strong> PLoS One. 2020 Dec 21;15(12):e0244210. doi: 10.1371/journal.pone.0244210. eCollection 2020. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33347470/">33347470</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7595632/">PMC7751848</a>.
+</p>
+
 ## 2019
 <p>Gagetti P, Wattam AR, Giacoboni G, De Paulis A, Bertona E, Corso A, Rosato AE. <strong>Identification and molecular epidemiology of methicillin resistant Staphylococcus pseudintermedius strains isolated from canine clinical samples in Argentina.</strong> BMC Vet Res. 2019 Jul 27;15(1):264. doi: 10.1186/s12917-019-1990-x.PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=31351494">31351494</a>. PMCID: <a href="PMC6660709">PMC6660709</a>. 
 </p>
