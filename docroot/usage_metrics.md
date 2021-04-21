@@ -29,7 +29,7 @@ Last month: **9,073**
 
 Last month: **10,251**
 
-![Service Jobs 6 months](_static/images/usage_metrics/analysis_jobs_6_months_aug2020.png)
+![Service Jobs 6 months](_static/images/usage_metrics/analysis_jobs_6_months_feb2021.png)
 
 
 ## Cumulative Metrics
