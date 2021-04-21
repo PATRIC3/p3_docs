@@ -12,6 +12,9 @@ The publications listed below were developed, at least in part, by members of th
 <p>Gagetti P, Errecalde L, Wattam AR, De Belder D, Ojeda Saavedra M, Corso A, Rosato AE. <strong>Characterization of the First mecA-Positive Multidrug-Resistant Staphylococcus pseudintermedius Isolated from an Argentinian Patient.</strong> 2020. Microb Drug Resist. doi: <a href="https://www.liebertpub.com/doi/10.1089/mdr.2019.0308">10.1089/mdr.2019.0308</a>. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/32031908/">32031908</a>. PMCID: PMC7368382 (available on 2021-07-01).
 </p>
 
+<p>Long SW, Olsen RJ, Christensen PA, Bernard DW, Davis JJ, Shukla M, Nguyen M, Saavedra MO, Yerramilli P, Pruitt L, Subedi S, Kuo HC, Hendrickson H, Eskandari G, Nguyen HAT, Long JH, Kumaraswami M, Goike J, Boutz D, Gollihar J, McLellan JS, Chou CW, Javanmardi K, Finkelstein IJ, Musser JM.  Molecular Architecture of Early Dissemination and Massive Second Wave of the SARS-CoV-2 Virus in a Major Metropolitan Area.  mBio. 2020 Oct 30;11(6):e02707-20. doi: 10.1128/mBio.02707-20.  PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33127862/">33127862</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7642679/">PMC7642679</a>.
+
+
 <p>Madin JS, Nielsen DA, Brbic M, Corkrey R, Danko D, Edwards K, Engqvist MKM, Fierer N, Geoghegan JL, Gillings M, Kyrpides NC, Litchman E, Mason CE, Moore L, Nielsen SL, Paulsen IT, Price ND, Reddy TBK, Richards MA, Rocha EPC, Schmidt TM, Shaaban H, Shukla M, Supek F, Tetu SG, Vieira-Silva S, Wattam AR, Westfall DA, Westoby M.Sci Data. 2020. <strong>A synthesis of bacterial and archaeal phenotypic trait data.</strong> Jun 5;7(1):170. doi: <a href="https://doi.org/10.1038/s41597-020-0497-4">10.1038/s41597-020-0497-4</a>. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/32503990/">32503990</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7275036/">PMC7275036</a>.
 </p>
 
