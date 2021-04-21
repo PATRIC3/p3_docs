@@ -23,7 +23,7 @@ The publications listed below were developed, at least in part, by members of th
 <p>McDermott PF, Davis JJ. <strong>Predicting antimicrobial susceptibility from the bacterial genome: A new paradigm for one health resistance monitoring.</strong> Journal of Veterinary Pharmacology and Therapeutics. (Accepted).
 </p>
 
-<p>Nguyen M, Olson R, Shukla M, VanOeffelen M, Davis JJ. <strong>Predicting Antimicrobial Resistance Using Conserved Genes.</strong> bioRxiv. 2020:2020.04.29.068254. doi: 10.1101/2020.04.29.068254. Plos Comp Bio. (Accepted).
+<p>Nguyen M, Olson R, Shukla M, VanOeffelen M, Davis JJ. Predicting antimicrobial resistance using conserved genes. PLoS Comput Biol. 2020 Oct 19;16(10):e1008319. doi: 10.1371/journal.pcbi.1008319. eCollection 2020 Oct. PMID: <a href"https://pubmed.ncbi.nlm.nih.gov/33075053/">33075053</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7595632/">PMC7595632</a>.
 </p>
 
 <p>Pincus NB, Ozer EA, Allen JP, Nguyen M, Davis JJ, Winter DR, Chuang CH, Chiu CH, Zamorano L, Oliver A, Hauser AR. <strong>A Genome-Based Model to Predict the Virulence of Pseudomonas aeruginosa Isolates.</strong> mBio. 2020 Aug 25;11(4):e01527-20. doi: <a href="https://doi.org/10.1128/mbio.01527-20">10.1128/mBio.01527-20</a>. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/32843552/">32843552</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7448275/">PMC7448275</a>.
