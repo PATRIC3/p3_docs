@@ -18,6 +18,6 @@ Click this link '<https://www.surveymonkey.com/r/BRCsImpactSurvey>'_ to share yo
 
 .. cut::
 
- This survey is conducted on behalf of program evaluations at the National Institute of Allergy and Infectious Diseases (NIAID) to understand the usage and utility of the resource and improve the service provided by the BRCs to the community.
+This survey is conducted on behalf of program evaluations at the National Institute of Allergy and Infectious Diseases (NIAID) to understand the usage and utility of the resource and improve the service provided by the BRCs to the community.
 
 Your opinion as a user is important and greatly appreciated. The survey should take less than 5 minutes to complete and is both voluntary and anonymous. Your decision to participate in this survey and any information you provide will not affect your current or future funding.
