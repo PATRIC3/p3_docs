@@ -1,6 +1,6 @@
 :github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/news/2021/20210513-brc-impact-survey.rst
 
-Bioninformatics Resource Center Impact Survey
+Bioinformatics Resource Center Impact Survey
 ==============================================
 
 Tell Us What You Think!
