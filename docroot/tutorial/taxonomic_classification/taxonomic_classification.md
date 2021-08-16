@@ -1,9 +1,9 @@
 # Taxonomic Classification
-Metagenomics is the study of genomic sequences obtained directly from an environment. For many metagenomic samples, the species, genera and even phyla present in the sample are largely unknown at the time of sequencing, and the goal of sequencing is to determine the microbial composition as precisely as possible. The BV-BRC Taxonomic Classification service can be used to identify the microbial composition of metagenomic samples. Researchers can submit their metagenomic samples that are reads (paired-or single-end, long or short, zipped or not) or contigs to the service, as well as the Sequence Read Archive accession numbers. This service uses Kraken 21. Kraken, first released in 2014, has been shown to provide exceptionally fast and accurate classification for shotgun metagenomics sequencing projects. Kraken 2, which matches the accuracy and speed of Kraken 1, supports 16S rRNA databases.  Kraken uses exact-match database queries of k-mers, rather than inexact alignment of sequences.  Sequences are classified by querying the database for each k-mer in a sequence, and then using the resulting set of lowest common ancestor (LCA) taxa to determine an appropriate label for the sequence.
+Metagenomics is the study of genomic sequences obtained directly from an environment. For many metagenomic samples, the species, genera and even phyla present in the sample are largely unknown at the time of sequencing, and the goal of sequencing is to determine the microbial composition as precisely as possible. The PATRIC Taxonomic Classification service can be used to identify the microbial composition of metagenomic samples. Researchers can submit their metagenomic samples that are reads (paired-or single-end, long or short, zipped or not) or contigs to the service, as well as the Sequence Read Archive accession numbers. This service uses Kraken 21. Kraken, first released in 2014, has been shown to provide exceptionally fast and accurate classification for shotgun metagenomics sequencing projects. Kraken 2, which matches the accuracy and speed of Kraken 1, supports 16S rRNA databases.  Kraken uses exact-match database queries of k-mers, rather than inexact alignment of sequences.  Sequences are classified by querying the database for each k-mer in a sequence, and then using the resulting set of lowest common ancestor (LCA) taxa to determine an appropriate label for the sequence.
 
 ## I. Locating the Taxonomic Classification Service App
 
-1. At the top of any BV-BRC page, find the Services tab.
+1. At the top of any PATRIC page, find the Services tab.
 ![Figure 1](./images/Picture1.png "Figure 1")
 
 2. Click on Taxonomic Classification.
@@ -20,7 +20,7 @@ Paired read libraries are usually given as file pairs, with each file containing
 1.	To upload a fastq file that contains paired reads, locate the box called “Paired read library.”
 ![Figure 4](./images/Picture4.png "Figure 4")
 
-2.	The reads must be located in the workspace to submit them to a BV-BRC service.  To initiate the upload, first click on the folder icon.
+2.	The reads must be located in the workspace to submit them to a PATRIC service.  To initiate the upload, first click on the folder icon.
 ![Figure 5](./images/Picture5.png "Figure 5")
 
 3.	This opens up a pop-up window where the files for upload can be selected.  Click on the icon with the arrow pointing up.
@@ -38,7 +38,7 @@ Paired read libraries are usually given as file pairs, with each file containing
 7.	This will auto-fill the name of the document into the text box as seen below.
 ![Figure 10](./images/Picture10.png "Figure 10")
 
-8.	Pay attention to the upload monitor in the lower right corner of the BV-BRC page. It will show the progress of the upload. Do not submit the job until the upload is 100% complete.
+8.	Pay attention to the upload monitor in the lower right corner of the PATRIC page. It will show the progress of the upload. Do not submit the job until the upload is 100% complete.
 ![Figure 11](./images/Picture11.png "Figure 11")
 
 9.	Repeat steps 2-5 to upload the second pair of reads.
@@ -109,7 +109,7 @@ The only database selection currently is only “All genomes”.
 6.	After clicking the submit button, your job will be launched.  A successful submission will generate a message indicating that the job has been queued.  
 ![Figure 31](./images/Picture31.png "Figure 31")
 
-The bottom of each BV-BRC page has an indicator that shows the number of jobs that are queued, running or completed. Clicking on the word Jobs will rewrite the page to show the Job status. Researchers can monitor the Jobs Status page to see the status of their job, which is indicated in the first column (Queued, Running, Complete, Failed).
+The bottom of each PATRIC page has an indicator that shows the number of jobs that are queued, running or completed. Clicking on the word Jobs will rewrite the page to show the Job status. Researchers can monitor the Jobs Status page to see the status of their job, which is indicated in the first column (Queued, Running, Complete, Failed).
 ![Figure 32](./images/Picture32.png "Figure 32")
 
 ## VII. Viewing the Taxonomic Classification job – Output files
@@ -123,7 +123,7 @@ The bottom of each BV-BRC page has an indicator that shows the number of jobs th
 3.	Clicking on the row that contains the job of interest will open two icons in the vertical green bar.  To view the job, click on the View icon.
 ![Figure 35](./images/Picture35.png "Figure 35")
 
-4.	This will open a pop-up window where issues with particular jobs can be reported. A description of the particular problem can be provided and clicking the submission button will generate a message to BV-BRC team members, notifying them that there has been a problem. We encourage researchers to report all failed jobs, or those that have results that are confusing. In addition, researchers should report long waits that they are experiencing in the queue.
+4.	This will open a pop-up window where issues with particular jobs can be reported. A description of the particular problem can be provided and clicking the submission button will generate a message to PATRIC team members, notifying them that there has been a problem. We encourage researchers to report all failed jobs, or those that have results that are confusing. In addition, researchers should report long waits that they are experiencing in the queue.
 ![Figure 36](./images/Picture36.png "Figure 36")
 
 5.	A job that has been successfully completed can be viewed by clicking on the row (which will turn the row blue) and then clicking on the View icon in the vertical green bar.
@@ -138,7 +138,7 @@ The bottom of each BV-BRC page has an indicator that shows the number of jobs th
 8.	This will open a new tab where you can see the user guide for this particular page, describing what you are seeing on the output page.
 ![Figure 40](./images/Picture40.png "Figure 40")
 
-9.	Back on the output page, in the vertical green bar you will see icons for downloading the data, viewing it, deleting the file, renaming the file, copying or sharing it with another BV-BRC user, moving it to a different director, or changing the type tagged to the file. With the TaxonomicReport.html file selected, click on the View icon.
+9.	Back on the output page, in the vertical green bar you will see icons for downloading the data, viewing it, deleting the file, renaming the file, copying or sharing it with another PATRIC user, moving it to a different director, or changing the type tagged to the file. With the TaxonomicReport.html file selected, click on the View icon.
 ![Figure 41](./images/Picture41.png "Figure 41")
 
 10. This will rewrite the page to show Kraken2’s standard output report format. 
