@@ -9,7 +9,7 @@ p3-gto
 
 
 ************************************
-Create GTO Files from PATRIC Genomes
+Create GTO Files from BV-BRC Genomes
 ************************************
 
 
@@ -19,7 +19,7 @@ Create GTO Files from PATRIC Genomes
      p3-gto.pl [options] genome1 genome2 ... genomeN
 
 
-This script creates :ref:`cli::GenomeTypeObject` files for the specified PATRIC genomes. Each file is named using the genome ID with the suffix \ ``.gto``\ 
+This script creates :ref:`cli::GenomeTypeObject` files for the specified BV-BRC genomes. Each file is named using the genome ID with the suffix \ ``.gto``\ 
 and placed in the current directory. The \ ``--outDir``\  option can be used to specify an alternate output directory. Existing files will be
 replaced.
 

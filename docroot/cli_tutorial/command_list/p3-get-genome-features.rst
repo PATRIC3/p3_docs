@@ -9,7 +9,7 @@ p3-get-genome-features
 
 
 **************************************
-Return Features From Genomes in PATRIC
+Return Features From Genomes in BV-BRC
 **************************************
 
 
@@ -19,7 +19,7 @@ Return Features From Genomes in PATRIC
      p3-get-genome-features [options]
 
 
-This script returns data for all the features in one or more genomes from the PATRIC database. It supports standard filtering
+This script returns data for all the features in one or more genomes from the BV-BRC database. It supports standard filtering
 parameters and the specification of additional columns if desired.
 
 Parameters

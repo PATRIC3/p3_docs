@@ -45,7 +45,7 @@ roles
  
  A tab-delimited file of roles. Each record consists of (0) a role ID, (1) the role checksum, and
  (2) the role description. Specify this file if you want a role-filtering scheme other than
- official PATRIC roles.
+ official BV-BRC roles.
  
 
 

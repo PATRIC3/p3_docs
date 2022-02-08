@@ -9,7 +9,7 @@ p3-get-family-data
 
 
 *******************************************
-Return Data From Protein Families in PATRIC
+Return Data From Protein Families in BV-BRC
 *******************************************
 
 

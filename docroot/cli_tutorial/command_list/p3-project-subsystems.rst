@@ -9,7 +9,7 @@ p3-project-subsystems
 
 
 **************************************
-Project Subsystems onto PATRIC Genomes
+Project Subsystems onto BV-BRC Genomes
 **************************************
 
 
@@ -19,14 +19,14 @@ Project Subsystems onto PATRIC Genomes
      gto_project.pl [ options ] outDir genome1 genome2 ... genomeN
 
 
-This script will examine PATRIC genomes and project subsystems onto them. The resulting GTOs will be output to the
+This script will examine BV-BRC genomes and project subsystems onto them. The resulting GTOs will be output to the
 specified output directory.
 
 Parameters
 ==========
 
 
-The positional parameters are the name of the output directory followed by one or more PATRIC genome IDs.
+The positional parameters are the name of the output directory followed by one or more BV-BRC genome IDs.
 
 The command-line options are the following:
 

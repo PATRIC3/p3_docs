@@ -9,7 +9,7 @@ p3-get-feature-data
 
 
 ***********************************
-Return Data From Features in PATRIC
+Return Data From Features in BV-BRC
 ***********************************
 
 

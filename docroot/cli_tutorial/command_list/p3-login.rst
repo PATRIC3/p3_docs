@@ -9,7 +9,7 @@ p3-login
 
 
 ****************************
-Create a PATRIC login token.
+Create a BV-BRC login token.
 ****************************
 
 
@@ -19,7 +19,7 @@ Create a PATRIC login token.
      p3-login [options] username
 
 
-Create a PATRIC login token, used with workspace operations. To use this script, specify your user name on
+Create a BV-BRC login token, used with workspace operations. To use this script, specify your user name on
 the command line as a positional parameter. You will be asked for your password.
 
 The following command-line options are supported.

@@ -9,7 +9,7 @@ p3-all-drugs
 
 
 **************************
-Return All Drugs in PATRIC
+Return All Drugs in BV-BRC
 **************************
 
 
@@ -19,7 +19,7 @@ Return All Drugs in PATRIC
      p3-all-drugs [options]
 
 
-This script returns the IDs of all the antibiotic drugs in the PATRIC database. It supports standard filtering
+This script returns the IDs of all the antibiotic drugs in the BV-BRC database. It supports standard filtering
 parameters and the specification of additional columns if desired.
 
 Parameters

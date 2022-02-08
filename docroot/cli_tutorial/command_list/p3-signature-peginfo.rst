@@ -9,7 +9,7 @@ p3-signature-peginfo
 
 
 *****************************************************
-Return Signature Feature Data From Families in PATRIC
+Return Signature Feature Data From Families in BV-BRC
 *****************************************************
 
 

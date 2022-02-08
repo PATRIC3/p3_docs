@@ -9,7 +9,7 @@ p3-all-genomes
 
 
 ****************************
-Return All Genomes in PATRIC
+Return All Genomes in BV-BRC
 ****************************
 
 
@@ -19,7 +19,7 @@ Return All Genomes in PATRIC
      p3-all-genomes [options]
 
 
-This script returns the IDs of all the genomes in the PATRIC database. It supports standard filtering
+This script returns the IDs of all the genomes in the BV-BRC database. It supports standard filtering
 parameters and the specification of additional columns if desired.
 
 Parameters
@@ -56,7 +56,7 @@ You can peruse
 
 .. code-block:: perl
 
-      https://github.com/PATRIC3/patric_solr/blob/master/genome/conf/schema.xml
+      https://github.com/BV-BRC3/patric_solr/blob/master/genome/conf/schema.xml
 
 
 to gain access to all of the supported fields.  There are quite a

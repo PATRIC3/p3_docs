@@ -9,7 +9,7 @@ p3-get-genome-data
 
 
 **********************************
-Return Data From Genomes in PATRIC
+Return Data From Genomes in BV-BRC
 **********************************
 
 

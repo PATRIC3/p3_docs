@@ -9,7 +9,7 @@ p3-get-drug-genomes
 
 
 *************************************
-Return AMR Data for Drugs From PATRIC
+Return AMR Data for Drugs From BV-BRC
 *************************************
 
 

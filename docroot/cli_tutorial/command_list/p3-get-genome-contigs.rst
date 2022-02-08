@@ -9,7 +9,7 @@ p3-get-genome-contigs
 
 
 **********************************
-Return Data From Contigs in PATRIC
+Return Data From Contigs in BV-BRC
 **********************************
 
 

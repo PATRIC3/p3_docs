@@ -9,7 +9,7 @@ p3-get-family-features
 
 
 ***************************************
-Return Features From Families in PATRIC
+Return Features From Families in BV-BRC
 ***************************************
 
 
@@ -19,7 +19,7 @@ Return Features From Families in PATRIC
      p3-get-family-features [options]
 
 
-This script returns data for all the features in one or more protein families from the PATRIC database. It supports standard filtering
+This script returns data for all the features in one or more protein families from the BV-BRC database. It supports standard filtering
 parameters and the specification of additional columns if desired. In addition, the results can be filtered by genomes
 from a secondary input file. As currently coded, the command may fail if the number of genomes in the secondary file is
 large.
@@ -50,7 +50,7 @@ gCol
 
 ftype
  
- The type of family being used. The default is \ ``local``\ , indicating PATRIC local protein families. Other options are
+ The type of family being used. The default is \ ``local``\ , indicating BV-BRC local protein families. Other options are
  \ ``figfam``\  or \ ``global``\ .
  
 

@@ -34,9 +34,9 @@ A blank value in the category column will cause the input line to be ignored.
 The output will be three columns-- the two category IDs and the number of times the couple occurred.
 
 If both the location and the sequence ID are present in the input file, then this command will not query the
-database. In that case, it can be run independent of access to PATRIC, even on genomes not necessarily in the
-PATRIC system. The feature IDs, however, must include the genome ID as a substring (which means the IDs should
-be of a format similar to the short-form PATRIC feature IDs).
+database. In that case, it can be run independent of access to BV-BRC, even on genomes not necessarily in the
+BV-BRC system. The feature IDs, however, must include the genome ID as a substring (which means the IDs should
+be of a format similar to the short-form BV-BRC feature IDs).
 
 Parameters
 ==========

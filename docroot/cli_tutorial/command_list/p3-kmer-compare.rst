@@ -34,7 +34,7 @@ Parameters
 ==========
 
 
-The positional parameters are the two genomes to compare. Each genome can be either (1) a PATRIC genome ID, (2) the name of a DNA FASTA file, or
+The positional parameters are the two genomes to compare. Each genome can be either (1) a BV-BRC genome ID, (2) the name of a DNA FASTA file, or
 (3) the name of a :ref:`cli::GenomeTypeObject` file.
 
 There is no standard input.
