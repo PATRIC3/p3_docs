@@ -4,7 +4,7 @@
 The Specialty Genes Tab provides a table of all the annotated "specialty genes" (virulence factors, antibiotic resistance genes, drug targets, human homologs, transporters, and essential genes) corresponding to the set of genomes in the selected Taxon View level or in the user-defined Genome Group.  From this page, features can be sorted, filtered, collected into groups, and downloaded. 
 
 ### See also
-  * [Data - Specialty Genes](../data.html#data-types)
+  * [Specialty Genes](../data/data_types/specialty_genes.html)
   * [Genome Annotations](../organisms_taxon/genome_annotations.html)
   * [Features Tab](../organisms_taxon/features.html)
 
@@ -26,7 +26,7 @@ PATRIC identifies features as Specialty Genes via BLASTP-based sequence similari
 
 * **Essential Genes:** Mapped to essential genes (using flux-balance for Reference and Representative genomes, predicted using [flux-balance analysis](http://www.nature.com/nbt/journal/v28/n3/abs/nbt.1614.html).
 
-See [Data - Specialty Genes](../data.html#data-types) for additional information.
+See [Specialty Genes](../data/data_types/specialty_genes.html) for additional information.
 
 
 ### Specialty Gene Table Tools
@@ -42,7 +42,7 @@ As with all tables in PATRIC, the Filters tool is available to narrow the displa
   
 ![Specialty Genes Filter Panel](../images/specialty_genes_filter_panel.png)
 
-Clicking on the Filters button at the top right of the table opens the Filter Panel above the table, displaying column names from the table and values for those columns with counts of occurence.  Clicking on the filter values narrows the features displayed in the table to those matching the chosen filter values.  Clicking the Hide button closes the Filter Panel. More details are available in the [Filter Tool](../other/filter_tool.html) user guide.
+Clicking on the Filters button at the top right of the table opens the Filter Panel above the table, displaying column names from the table and values for those columns with counts of occurence.  Clicking on the filter values narrows the features displayed in the table to those matching the chosen filter values.  Clicking the Hide button closes the Filter Panel. More details are available in the [Tables and Filters](../tables.html) user guide.
 
 ### Action buttons
 
@@ -61,4 +61,4 @@ After selecting one or more of the features by clicking the checkbox beside the 
 * **Pathway:** Loads the Pathway Summary Table containing a list of all the pathways in PATRIC in which the selected features are found.
 * **Group:** Opens a pop-up window to enable adding the selected sequences to an existing or new group in the private workspace.
 
-More details are available in the [Action Buttons](../other/action_buttons.html) user guide.
+More details are available in the [Selection Action Bar](../action_bar.html) user guide.

@@ -9,15 +9,16 @@ News Articles
    :description: PATRIC News RSS feed
    :link: https://docs.patricbrc.org/
 
-   2020/20200701-new-video-tutorials
-   2020/20200331-patric-jan-mar-2020-release
-   2020/20200130-bv-brc-workshop-at-argonne-national-lab
+   2021/20210513-brc-impact-survey
+   2021/20210201-new-webinar-series
+   2020/20201022-mooc-release
 
    
 .. toctree::
    :maxdepth: 2
    :caption: News Articles Archives:
    
+   2021/index
    2020/index
    2019/index
    2018/index

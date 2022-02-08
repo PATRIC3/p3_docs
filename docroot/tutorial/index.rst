@@ -24,7 +24,6 @@ Genomics
    variation_analysis_service/variation_analysis_service.md
    tn-seq/tn-seq.md
    codon_tree_building/codon_tree_building.md
-   phylogenetic_tree_building/tree_building.md
    fastq-utilities/fastq-utilities.rst
    searching_and_sorting/genomes_by_taxonomy.rst
    searching_and_sorting/protein_family_features.rst

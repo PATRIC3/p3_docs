@@ -1,12 +1,42 @@
 # Publications by PATRIC
 The publications listed below were developed, at least in part, by members of the PATRIC team and supported by the PATRIC contract. For a list of publications that cite PATRIC, visit the <a href="https://scholar.google.com/citations?user=Ov91kMAAAAAJ&hl=en&authuser=1">**PATRIC Google Scholar page**</a>.
 
+## 2021
+<p>Long SW, Olsen RJ, Christensen PA, Subedi S, Olson R, Davis JJ, Saavedra MO, Yerramilli P, Pruitt L, Reppond K, Shyer MN, Cambric J, Finkelstein IJ, Gollihar J, Musser JM. <strong>Sequence Analysis of 20,453 Severe Acute Respiratory Syndrome Coronavirus 2 Genomes from the Houston Metropolitan Area Identifies the Emergence and Widespread Distribution of Multiple Isolates of All Major Variants of Concern.</strong> Am J Pathol. 2021 Mar 16:S0002-9440(21)00108-5. doi: 10.1016/j.ajpath.2021.03.004. Epub ahead of print. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33741335/">33741335</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7962948/">PMC7962948</a>.
+</p>
+
+<p>Musser JM, Olsen RJ, Christensen PA, Long SW, Subedi S, Davis JJ, Gollihar J. <strong>Rapid, widespread, and preferential increase of SARS-CoV-2 B. 1.1. 7 variant in Houston, TX, revealed by 8,857 genome sequences.</strong> medRxiv. 2021 Jan 1. doi: <a href="https://doi.org/10.1101/2021.03.16.21253753">2021.03.16.21253753</a>.
+
 ## 2020
-<p>Davis JJ, Wattam AR, Aziz RK, Brettin T, Butler R, Butler RM, Chlenski P, Conrad N, Dickerman A, Dietrich EM, Gabbard JL, Gerdes S, Guard A, Kenyon RW, Machi D, Mao C, Murphy-Olson D, Nguyen M, Nordberg EK, Olsen GJ, Olson RD, Overbeek JC, Overbeek R, Parrello B, Pusch GD, Shukla M, Thomas C, VanOeffelen M, Vonstein V, Warren AS, Xia F, Xie D, Yoo H, Stevens R. <strong>The PATRIC Bioinformatics Resource Center: expanding data and analysis capabilities.</strong> Nucleic Acids Res. 2020 Jan 8;48(D1):D606-D612. doi: 10.1093/nar/gkz943. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/31667520">31667520</a>.
+<p>Davis JJ, Wattam AR, Aziz RK, Brettin T, Butler R, Butler RM, Chlenski P, Conrad N, Dickerman A, Dietrich EM, Gabbard JL, Gerdes S, Guard A, Kenyon RW, Machi D, Mao C, Murphy-Olson D, Nguyen M, Nordberg EK, Olsen GJ, Olson RD, Overbeek JC, Overbeek R, Parrello B, Pusch GD, Shukla M, Thomas C, VanOeffelen M, Vonstein V, Warren AS, Xia F, Xie D, Yoo H, Stevens R. <strong>The PATRIC Bioinformatics Resource Center: expanding data and analysis capabilities.</strong> Nucleic Acids Res. 2020 Jan 8;48(D1):D606-D612. doi: <a href="https://doi.org/10.1093/nar/gkz943">10.1093/nar/gkz943</a>. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/31667520">31667520</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7145515/">PMC7145515</a>.
+</p>
+
+<p>Gagetti P, Errecalde L, Wattam AR, De Belder D, Ojeda Saavedra M, Corso A, Rosato AE. <strong>Characterization of the First mecA-Positive Multidrug-Resistant Staphylococcus pseudintermedius Isolated from an Argentinian Patient.</strong> 2020. Microb Drug Resist. doi: <a href="https://www.liebertpub.com/doi/10.1089/mdr.2019.0308">10.1089/mdr.2019.0308</a>. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/32031908/">32031908</a>. PMCID: PMC7368382 (available on 2021-07-01).
+</p>
+
+<p>Long SW, Olsen RJ, Christensen PA, Bernard DW, Davis JJ, Shukla M, Nguyen M, Saavedra MO, Yerramilli P, Pruitt L, Subedi S, Kuo HC, Hendrickson H, Eskandari G, Nguyen HAT, Long JH, Kumaraswami M, Goike J, Boutz D, Gollihar J, McLellan JS, Chou CW, Javanmardi K, Finkelstein IJ, Musser JM.  <strong>Molecular Architecture of Early Dissemination and Massive Second Wave of the SARS-CoV-2 Virus in a Major Metropolitan Area.</strong>  mBio. 2020 Oct 30;11(6):e02707-20. doi: 10.1128/mBio.02707-20.  PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33127862/">33127862</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7642679/">PMC7642679</a>.
+
+
+<p>Madin JS, Nielsen DA, Brbic M, Corkrey R, Danko D, Edwards K, Engqvist MKM, Fierer N, Geoghegan JL, Gillings M, Kyrpides NC, Litchman E, Mason CE, Moore L, Nielsen SL, Paulsen IT, Price ND, Reddy TBK, Richards MA, Rocha EPC, Schmidt TM, Shaaban H, Shukla M, Supek F, Tetu SG, Vieira-Silva S, Wattam AR, Westfall DA, Westoby M.Sci Data. 2020. <strong>A synthesis of bacterial and archaeal phenotypic trait data.</strong> Jun 5;7(1):170. doi: <a href="https://doi.org/10.1038/s41597-020-0497-4">10.1038/s41597-020-0497-4</a>. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/32503990/">32503990</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7275036/">PMC7275036</a>.
+</p>
+
+<p>McDermott PF, Davis JJ. <strong>Predicting antimicrobial susceptibility from the bacterial genome: A new paradigm for one health resistance monitoring.</strong> Journal of Veterinary Pharmacology and Therapeutics. doi: 10.1111/jvp.12913. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33010049/">33010049</a>. 
+</p>
+
+<p>Nguyen M, Olson R, Shukla M, VanOeffelen M, Davis JJ. <strong>Predicting antimicrobial resistance using conserved genes.</strong> PLoS Comput Biol. 2020 Oct 19;16(10):e1008319. doi: 10.1371/journal.pcbi.1008319. eCollection 2020 Oct. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33075053/">33075053</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7595632/">PMC7595632</a>.
+</p>
+
+<p>Pincus NB, Ozer EA, Allen JP, Nguyen M, Davis JJ, Winter DR, Chuang CH, Chiu CH, Zamorano L, Oliver A, Hauser AR. <strong>A Genome-Based Model to Predict the Virulence of Pseudomonas aeruginosa Isolates.</strong> mBio. 2020 Aug 25;11(4):e01527-20. doi: <a href="https://doi.org/10.1128/mbio.01527-20">10.1128/mBio.01527-20</a>. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/32843552/">32843552</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7448275/">PMC7448275</a>.
 </p>
 
 <p>
-Saranathan R, Levi MH, Wattam AR, Malek A, Asare E, Behin DS, Pan DH, Jacobs WR Jr, Szymczak WA. J Clin Microbiol. <strong>Helicobacter pylori Infections in the Bronx, New York: Surveying Antibiotic Susceptibility and Strain Lineage by Whole-Genome Sequencing.</strong> 2020 Feb 24;58(3). pii: e01591-19. doi: 10.1128/JCM.01591-19. Print 2020 Feb 24. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/31801839">31801839</a> PMCID: PMC7041580 
+Saranathan R, Levi MH, Wattam AR, Malek A, Asare E, Behin DS, Pan DH, Jacobs WR Jr, Szymczak WA. J Clin Microbiol. <strong>Helicobacter pylori Infections in the Bronx, New York: Surveying Antibiotic Susceptibility and Strain Lineage by Whole-Genome Sequencing.</strong> 2020 Feb 24;58(3). pii: e01591-19. doi: <a href="https://doi.org/10.1128/jcm.01591-19">10.1128/JCM.01591-19</a>. Print 2020 Feb 24. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/31801839">31801839</a> PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7041580/">PMC7041580</a>.
+</p>
+
+<p>Varela MC,  Roch M, Taglialegna A, W Long SW, Saavedra MO,  Rose WE, Wattam AR, Davis JJ, Hoffman LR, Hernandez RE, Rosato RR and Rosato AE. <strong>Carbapenems as a key driver of collateral ceftaroline resistance in cystic fibrosis  patients with MRSA.</strong> Nature Communications Biology 2020. doi: 10.1038/s42003-020-01313-5. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33093601/">33093601</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7582194/">PMC7582194</a>. 
+</p>
+
+<p>Viana MVC, Profeta R, da Silva AL, Hurtado R, Cerqueira JC, Ribeiro BFS, Almeida MO, Morais-Rodrigues F, Soares SC, Oliveira M, Tavares L, Figueiredo H, Wattam AR, Barh D, Ghosh P, Silva A, Azevedo V.  <strong>Taxonomic classification of strain PO100/5 shows a broader geographic distribution and genetic markers of the recently described Corynebacterium silvaticum.</strong> PLoS One. 2020 Dec 21;15(12):e0244210. doi: 10.1371/journal.pone.0244210. eCollection 2020. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33347470/">33347470</a>. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7595632/">PMC7751848</a>.
 </p>
 
 ## 2019
