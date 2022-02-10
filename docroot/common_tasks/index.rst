@@ -2,9 +2,9 @@
 
 :github_url: https://github.com/PATRIC3/p3_docs/blob/master/docroot/common_tasks/index.rst
 
-Common Tasks in PATRIC
+Common Tasks in BV-BRC
 ======================
-This page provides an overview with links to User Guides and Tutorials, organized by common tasks in PATRIC.
+This page provides an overview with links to User Guides and Tutorials, organized by common tasks in BV-BRC.
 
 .. toctree::
    :maxdepth: 3

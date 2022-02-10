@@ -59,7 +59,7 @@ download and install a software package in order to use them.
 We currently have macOS and Debian/Ubuntu releases of the BV-BRC Command Line
 Interface. A Windows version is in the works.
 
-The releases are available at the `BV-BRC3 github
+The releases are available at the `BV-BRC github
 site <https://github.com/PATRIC3/PATRIC-distribution/releases>`_. Full installation
 installations are available in :ref:`cli-installation`.
 
