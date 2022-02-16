@@ -3,13 +3,7 @@
         "title": "BV-BRC Public Beta Release",
         "desc": "We are pleased to announce the Beta release of the new Bacterial and Viral Bioinformatics Resource Center (BV-BRC).",
         "img": "https://docs.patricbrc.org/_static/announcements/2022/bv-brc-homepage.png",
-        "link": "https://docs.patricbrc.org/docs/news/2022/20220215-bv-brc-public-beta.html"   
-    },
-    {
-        "title": "Bioinformatics Resource Centers (BRCs) Impact Survey",
-        "desc": "This survey will help the National Institute of Allergy and Infectious Diseases (NIAID) understand the usage and utility of the resource to improve the service provided by the BRCs to the community as part of program evaluations conducted by NIAID.",
-        "img": "https://docs.patricbrc.org/_static/announcements/brc-survey.png",
-        "link": "https://docs.patricbrc.org/news/2021/20210513-brc-impact-survey.html"
+        "link": "https://docs.patricbrc.org/news/2022/20220215-bv-brc-public-beta.html"   
     },
     {
         "title": "Bioinformatics Resource Center Webinar Series",
@@ -22,5 +16,11 @@
         "desc": "We have released a new online Bacterial Bioinformatics course, freely available through Coursera.",
         "img": "https://docs.patricbrc.org/_static/announcements/mooc.png",
         "link": "https://docs.patricbrc.org/news/2020/20201022-mooc-release.html"
+    },
+    {
+        "title": "New PATRIC Video Tutorial Series",
+        "desc": "We have released a series of new video tutorials for PATRIC services and associated functionality.",
+        "img": "https://docs.patricbrc.org/_static/announcements/video-tutorials.png",
+        "link": "https://docs.patricbrc.org/news/2020/20200701-new-video-tutorials.html"
     }
 ]
