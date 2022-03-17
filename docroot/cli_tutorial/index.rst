@@ -61,4 +61,3 @@ services provided by PATRIC.
 
     rasttk_getting_started
     rasttk_incremental_commands
-    rasttk_batch_mode
