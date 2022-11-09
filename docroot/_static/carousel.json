@@ -1,43 +1,32 @@
-[   {
-        "title": "Bioinformatics Resource Centers (BRCs) Impact Survey",
-        "desc": "This survey will help the National Institute of Allergy and Infectious Diseases (NIAID) understand the usage and utility of the resource to improve the service provided by the BRCs to the community as part of program evaluations conducted by NIAID.",
-        "img": "https://docs.patricbrc.org/_static/announcements/brc-survey.png",
-        "link": "https://docs.patricbrc.org/news/2021/20210513-brc-impact-survey.html"
+[   
+    {
+        "title": "PATRIC to BV-BRC Final Transition Schedule",
+        "desc": "We are now in the final phase of transitioning PATRIC to the Bacterial and Viral Bioinformatics Resource Center (BV-BRC). Website redirects will start in mid-September, and PATRIC will go offline by mid-December of this year. Here is what you need to know.",
+        "img": "https://www.bv-brc.org/docs/_static/announcements/2022/patric-to-bvbrc-transition.png",
+        "link": "https://www.bv-brc.org/docs/news/2022/20220816-bv-brc-patric-redirect.html"   
     },
     {
-        "title": "Bioinformatics Resource Center Webinar Series",
-        "desc": "The Bioinformatic Resource Centers (BRC) have partnered to present a joint webinar series on Respiratory Pathogens and the tools available for their study.",
-        "img": "https://docs.patricbrc.org/_static/announcements/brc-webinar.png",
-        "link": "https://docs.patricbrc.org/news/2021/20210201-new-webinar-series.html"
+        "title": "BV-BRC (PATRIC & IRD/ViPR) Workshop at the University of Virginia, August 30 - September 1, 2022",
+        "desc": "The BV-BRC (Bacterial and Viral Bioinformatics Resource Center) team will be offering a 3-day Bioinformatics Workshop on August 30 - September 1, 2022, at the University of Virgnia (UVA) in Charlottesville, VA.",
+        "img": "https://www.bv-brc.org/docs/_static/announcements/2022/bv-brc-workshop-uva-2022.gif",
+        "link": "https://www.bv-brc.org/docs/news/2022/20220713-bv-brc-workshop-uva.html"   
     },
     {
-        "title": "New PATRIC Online Bacterial Bioinformatics Course",
-        "desc": "We have released a new online Bacterial Bioinformatics course, freely available through Coursera.",
-        "img": "https://docs.patricbrc.org/_static/announcements/mooc.png",
-        "link": "https://docs.patricbrc.org/news/2020/20201022-mooc-release.html"
+        "title": "Ticks and Tick-Borne Pathogens Webinar Series",
+        "desc": "This webinar series is geared towards researchers working on ticks and the bacterial, viral or eukaryotic pathogens they transmit.",
+        "img": "https://www.bv-brc.org/docs/_static/announcements/2022/tick-webinar-series.png",
+        "link": "https://www.bv-brc.org/docs/news/2022/20220228-tick-borne-pathogens.html"   
     },
     {
-        "title": "New PATRIC Video Tutorial Series",
-        "desc": "We have released a series of new video tutorials for PATRIC services and associated functionality.",
-        "img": "https://docs.patricbrc.org/_static/announcements/video-tutorials.png",
-        "link": "https://docs.patricbrc.org/news/2020/20200701-new-video-tutorials.html"
+        "title": "Introduction to BV-BRC Webinar Series",
+        "desc": "As part of the launch of the new BV-BRC Beta website, we are offering a webinar series to help new users, as well as PATRIC and IRD/ViPR users, become acquainted with the new website.",
+        "img": "https://www.bv-brc.org/docs/_static/announcements/2022/bv-brc-intro-webinars.png",
+        "link": "https://www.bv-brc.org/docs/news/2022/20220223-bv-brc-intro-webinars.html"   
     },
     {
-        "title": "CANCELLED! - PATRIC/RAST Bacterial and IRD/ViPR Viral Workshops at Argonne National Laboratory",
-        "desc": "The new Bacterial-Viral BRC (BV-BRC), a collaboration between the PATRIC/RAST and IRD/ViPR teams",
-        "img": "https://docs.patricbrc.org/_static/announcements/workshop-1.png",
-        "link": "https://docs.patricbrc.org/news/2020/20200130-bv-brc-workshop-at-argonne-national-lab.html"
-    },
-    {
-        "title": "PATRIC Data and Website Releases, September – December 2019",
-        "desc": "This PATRIC release includes a new Genome Assembly Service, new Heatmap Viewer, new analysis Job Scheduler, and over 31,000 new microbial genomes.",
-        "img": "https://docs.patricbrc.org/_static/announcements/sep-dec-2019-release.png",
-        "link": "https://docs.patricbrc.org/news/2019/20191213-patric-sep-dec-2019-release.html"
-    },
-    {
-        "title": "New Bioinformatics Hub at UChicago Enables Next-Gen Infectious Disease Research",
-        "desc": "The new Bacterial and Viral Bioinformatics Resource Center (BV-BRC) combines two independent efforts at UChicago and the J. Craig Venter Institute (JCVI) into a common infrastructure that will support richer scientific data and more powerful analytic tools",
-        "img": "https://docs.patricbrc.org/_static/announcements/bv-brc.png",
-        "link": "https://www.cs.uchicago.edu/news/article/bioinformatics-hub/"
+        "title": "BV-BRC Public Beta Release",
+        "desc": "We are pleased to announce the Beta release of the new Bacterial and Viral Bioinformatics Resource Center (BV-BRC).",
+        "img": "https://docs.patricbrc.org/_static/announcements/2022/bv-brc-homepage.png",
+        "link": "https://docs.patricbrc.org/news/2022/20220215-bv-brc-public-beta.html"   
     }
 ]
